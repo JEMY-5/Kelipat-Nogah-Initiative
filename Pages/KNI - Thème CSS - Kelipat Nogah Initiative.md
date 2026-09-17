@@ -1,0 +1,263 @@
+[[include credit:start]]
+**Titre :** Thème CSS — Initiative Kelipat Nogah
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap');
+
+/* ====================================================================
+   CHARTE GRAPHIQUE K.N.I. — VERT ÉTHÉRIQUE PROFOND
+   ==================================================================== */
+
+:root {
+    --kni-bg-dark: #040907;
+    --kni-bg-surface: #08120d;
+    --kni-gold: #e9c46a;
+    --kni-teal: #1f8a7a;
+    --kni-copper: #e76f51;
+    --kni-text: #c8d6ce;
+    --kni-border: #142a20;
+}
+
+/* --- ANIMATIONS ÉTHÉRIQUES --- */
+@keyframes nogah-glow {
+    0%, 100% { text-shadow: 0 0 6px rgba(233, 196, 106, 0.6), 0 0 12px rgba(233, 196, 106, 0.3) !important; color: #e9c46a !important; }
+    50% { text-shadow: 0 0 18px rgba(233, 196, 106, 0.9), 0 0 28px rgba(233, 196, 106, 0.6) !important; color: #f4d58d !important; }
+}
+
+@keyframes etheric-breath {
+    0%, 100% { border-color: rgba(31, 138, 122, 0.7) !important; box-shadow: 0 0 8px rgba(31, 138, 122, 0.2) !important; }
+    50% { border-color: rgba(233, 196, 106, 0.9) !important; box-shadow: 0 0 20px rgba(233, 196, 106, 0.4) !important; }
+}
+
+@keyframes kelipah-flicker {
+    0%, 100% { border-left-color: #e76f51 !important; box-shadow: 0 0 6px rgba(231, 111, 81, 0.3) !important; }
+    50% { border-left-color: #f4a261 !important; box-shadow: -4px 0 15px rgba(231, 111, 81, 0.6) !important; }
+}
+
+/* --- OVERRIDE TITRES & POLICES --- */
+#main-content #page-content h1,
+#main-content #page-content h2,
+#main-content #page-content h3,
+#main-content #page-content h4,
+.kni-header-title h1 {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', 'Georgia', serif !important;
+    border-bottom: none !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+html, body, #container-wrap, #container-wrap-inner, #container, 
+#wrapper, #content-wrap, #main-content, #page-content, p, li, td {
+    background-color: var(--kni-bg-dark) !important;
+    color: var(--kni-text) !important;
+    font-family: 'Rajdhani', sans-serif !important;
+}
+
+body {
+    background-image: radial-gradient(circle at 50% 0%, #0a1c14 0%, #040907 80%) !important;
+    background-attachment: fixed !important;
+}
+
+#page-title { display: none !important; }
+
+/* --- HEADER BANNER --- */
+#header {
+    background: linear-gradient(180deg, #020504 0%, #08120d 100%) !important;
+    border-bottom: 3px solid var(--kni-gold) !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.9) !important;
+    position: relative !important;
+    height: 110px !important;
+}
+
+#header h1 a span { display: none !important; }
+#header h1 a::before {
+    content: "KELIPAT NOGAH INITIATIVE" !important;
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: 700 !important;
+    font-size: 1.3em !important;
+    letter-spacing: 2px !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+#header h2 span { display: none !important; }
+#header h2::before {
+    content: "SÉPARER LA SCORIE // LIBÉRER LA LUMIÈRE" !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    color: var(--kni-teal) !important;
+    font-size: 0.85em !important;
+    letter-spacing: 1.5px !important;
+}
+
+#search-top-box {
+    position: absolute !important;
+    top: 15px !important;
+    right: 15px !important;
+}
+
+#search-top-box-input {
+    background-color: #08120d !important;
+    color: var(--kni-gold) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#search-top-box-form input[type="submit"] {
+    background-color: var(--kni-teal) !important;
+    color: #040907 !important;
+    border: none !important;
+}
+
+/* --- TOP BAR & SIDEBAR --- */
+#top-bar {
+    background: var(--kni-bg-surface) !important;
+    border-bottom: 2px solid var(--kni-teal) !important;
+}
+
+#top-bar a, #top-bar ul li a {
+    color: var(--kni-text) !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    background: transparent !important;
+}
+
+#top-bar ul li:hover > a, #top-bar ul li.sfhover > a, #top-bar ul li a:hover {
+    color: var(--kni-gold) !important;
+    background-color: #0f241a !important;
+}
+
+#top-bar ul li ul {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#top-bar ul li ul li a {
+    background-color: var(--kni-bg-surface) !important;
+    color: var(--kni-text) !important;
+}
+
+#top-bar ul li ul li a:hover {
+    background-color: #0f241a !important;
+    color: var(--kni-gold) !important;
+}
+
+#side-bar { background: transparent !important; border: none !important; }
+#side-bar .side-block {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 12px !important;
+}
+
+#side-bar .heading {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', serif !important;
+    border-bottom: 1px solid var(--kni-teal) !important;
+}
+
+#side-bar a { color: var(--kni-text) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; background-color: #0f241a !important; }
+
+/* --- BLOCS CUSTOMISÉS --- */
+.kni-header-box {
+    background: linear-gradient(135deg, #020504 0%, #0b1a13 100%) !important;
+    border: 1px solid var(--kni-teal) !important;
+    border-left: 6px solid var(--kni-gold) !important;
+    padding: 20px !important;
+    border-radius: 6px !important;
+    margin-bottom: 20px !important;
+}
+
+.kni-sub {
+    font-family: 'Share Tech Mono', monospace !important;
+    color: #8dae98 !important;
+}
+
+.kni-block {
+    background: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 20px !important;
+    margin-bottom: 25px !important;
+}
+
+.kni-block-gold {
+    border-top: 4px solid var(--kni-gold) !important;
+    animation: etheric-breath 5s infinite ease-in-out !important;
+}
+
+.kni-block-copper {
+    border-top: 4px solid var(--kni-copper) !important;
+    animation: kelipah-flicker 3s infinite ease-in-out !important;
+}
+
+.kni-block-teal {
+    border-top: 4px solid var(--kni-teal) !important;
+}
+
+.term-nogah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: bold !important;
+    animation: nogah-glow 2.5s infinite ease-in-out !important;
+}
+
+.term-kelipah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-copper) !important;
+    font-weight: bold !important;
+}
+
+.kni-brand {
+    font-family: 'Cinzel', serif !important;
+    font-weight: 700 !important;
+    color: var(--kni-teal) !important;
+}
+
+.tech-code {
+    font-family: 'Share Tech Mono', monospace !important;
+    background: #08140f !important;
+    color: var(--kni-teal) !important;
+    padding: 2px 6px !important;
+    border-radius: 3px !important;
+    border: 1px solid #10261c !important;
+    display: inline-block !important;
+}
+
+#footer, #footer a { background: #020504 !important; color: #8dae98 !important; }
+[[/module]]
+
+[[div class="kni-header-box"]]
+[[div class="kni-header-title"]]
++ THÈME CSS KELIPAT NOGAH INITIATIVE
+[[div class="kni-sub"]]PRÉSENTATION & DIRECTIVES DU THÈME // COMPOSANTS APPLICATIFS[[/div]]
+[[/div]]
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
++ PHILOSOPHIE DU DESIGN
+
+Le thème **Kelipat Nogah** associe l'élégance de la philosophie alchimique à la rigueur d'un terminal de raffinage éthérique. Il repose sur trois teintes fondamentales :
+
+* **Le Vert Éthérique ([[span class="tech-code"]]#1f8a7a[[/span]]) :** Représente la science, l'ordre et le réseau de l'Initiative.
+* **L'Or de Nogah ([[span class="tech-code"]]#e9c46a[[/span]]) :** Symbole de la lumière purifiée, de l'essence divine et de l'évolution.
+* **Le Cuivre de Kelipah ([[span class="tech-code"]]#e76f51[[/span]]) :** Représente la scorie, le résidu brut et la menace sarkique sous contrôle.
+
+[[/div]]
+
+[[div class="kni-block kni-block-gold"]]
++ EXEMPLES DES COMPOSANTS & ANIMATIONS
+
+++ COMPOSANT : LA LUMIÈRE ([[span class="term-nogah"]]NOGAH[[/span]])
+Ce bloc utilise la classe [[span class="tech-code"]]kni-block-gold[[/span]]. Il applique l'animation //Respiration Éthérique// sur les bordures et met en valeur les titres dorés avec la pulsation éthérique.
+
+[[/div]]
+
+[[div class="kni-block kni-block-copper"]]
+++ COMPOSANT : LA SCORIE ([[span class="term-kelipah"]]KELIPAH[[/span]])
+Ce bloc utilise la classe [[span class="tech-code"]]kni-block-copper[[/span]]. Il intègre l'animation //Scintillement Kelipah// sur le bord gauche, rappelant l'instabilité des résidus toxiques issus du raffinage.
+
+[[/div]]
+
+[[footnoteblock]]
