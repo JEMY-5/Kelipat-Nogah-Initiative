@@ -1,0 +1,452 @@
+[[include credit:start]]
+**Titre :** Centre du GdI-1993 — Initiative Kelipat Nogah
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap');
+
+/* ====================================================================
+   CHARTE GRAPHIQUE K.N.I. — FIXES BUG & RESPONSIVE MOBILE
+   ==================================================================== */
+
+:root {
+    --kni-bg-dark: #040907;
+    --kni-bg-surface: #08120d;
+    --kni-gold: #e9c46a;
+    --kni-teal: #1f8a7a;
+    --kni-copper: #e76f51;
+    --kni-text: #c8d6ce;
+    --kni-border: #142a20;
+}
+
+/* --- ANIMATIONS ÉTHÉRIQUES --- */
+@keyframes nogah-glow {
+    0%, 100% { text-shadow: 0 0 6px rgba(233, 196, 106, 0.6), 0 0 12px rgba(233, 196, 106, 0.3) !important; color: #e9c46a !important; }
+    50% { text-shadow: 0 0 18px rgba(233, 196, 106, 0.9), 0 0 28px rgba(233, 196, 106, 0.6) !important; color: #f4d58d !important; }
+}
+
+@keyframes etheric-breath {
+    0%, 100% { border-color: rgba(31, 138, 122, 0.7) !important; box-shadow: 0 0 8px rgba(31, 138, 122, 0.2) !important; }
+    50% { border-color: rgba(233, 196, 106, 0.9) !important; box-shadow: 0 0 20px rgba(233, 196, 106, 0.4) !important; }
+}
+
+@keyframes kelipah-flicker {
+    0%, 100% { border-left-color: #e76f51 !important; box-shadow: 0 0 6px rgba(231, 111, 81, 0.3) !important; }
+    50% { border-left-color: #f4a261 !important; box-shadow: -4px 0 15px rgba(231, 111, 81, 0.6) !important; }
+}
+
+/* --- TITRES ET TYPOGRAPHIE --- */
+#main-content #page-content h1,
+#main-content #page-content h2,
+#main-content #page-content h3,
+#main-content #page-content h4,
+.kni-header-title h1 {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', 'Georgia', serif !important;
+    border-bottom: none !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+html, body, #container-wrap, #container-wrap-inner, #container, 
+#wrapper, #content-wrap, #main-content, #page-content, p, li, td {
+    background-color: var(--kni-bg-dark) !important;
+    color: var(--kni-text) !important;
+    font-family: 'Rajdhani', sans-serif !important;
+}
+
+body {
+    background-image: radial-gradient(circle at 50% 0%, #0a1c14 0%, #040907 80%) !important;
+    background-attachment: fixed !important;
+}
+
+#page-title { display: none !important; }
+
+/* --- BANNIÈRE HEADER --- */
+#header {
+    background: linear-gradient(180deg, #020504 0%, #08120d 100%) !important;
+    border-bottom: 3px solid var(--kni-gold) !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.9) !important;
+    position: relative !important;
+    height: 110px !important;
+}
+
+#header h1 a span { display: none !important; }
+#header h1 a::before {
+    content: "KELIPAT NOGAH INITIATIVE" !important;
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: 700 !important;
+    font-size: 1.3em !important;
+    letter-spacing: 2px !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+#header h2 span { display: none !important; }
+#header h2::before {
+    content: "SÉPARER LA SCORIE // LIBÉRER LA LUMIÈRE" !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    color: var(--kni-teal) !important;
+    font-size: 0.85em !important;
+    letter-spacing: 1.5px !important;
+}
+
+#search-top-box {
+    position: absolute !important;
+    top: 15px !important;
+    right: 15px !important;
+}
+
+#search-top-box-input {
+    background-color: #08120d !important;
+    color: var(--kni-gold) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#search-top-box-form input[type="submit"] {
+    background-color: var(--kni-teal) !important;
+    color: #040907 !important;
+    border: none !important;
+}
+
+/* --- NAVIGATION ET SIDEBAR --- */
+#top-bar {
+    background: var(--kni-bg-surface) !important;
+    border-bottom: 2px solid var(--kni-teal) !important;
+}
+
+#top-bar a, #top-bar ul li a {
+    color: var(--kni-text) !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    background: transparent !important;
+}
+
+#top-bar ul li:hover > a, #top-bar ul li.sfhover > a, #top-bar ul li a:hover {
+    color: var(--kni-gold) !important;
+    background-color: #0f241a !important;
+}
+
+#top-bar ul li ul {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#top-bar ul li ul li a {
+    background-color: var(--kni-bg-surface) !important;
+    color: var(--kni-text) !important;
+}
+
+#top-bar ul li ul li a:hover {
+    background-color: #0f241a !important;
+    color: var(--kni-gold) !important;
+}
+
+#side-bar { background: transparent !important; border: none !important; }
+#side-bar .side-block {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 12px !important;
+}
+
+#side-bar .heading {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', serif !important;
+    border-bottom: 1px solid var(--kni-teal) !important;
+}
+
+#side-bar a { color: var(--kni-text) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; background-color: #0f241a !important; }
+
+/* --- BLOCS CUSTOMISÉS & NETTOYAGE BUGS --- */
+.kni-header-box {
+    background: linear-gradient(135deg, #020504 0%, #0b1a13 100%) !important;
+    border: 1px solid var(--kni-teal) !important;
+    border-left: 6px solid var(--kni-gold) !important;
+    padding: 20px !important;
+    border-radius: 6px !important;
+    margin-bottom: 20px !important;
+}
+
+.kni-sub {
+    font-family: 'Share Tech Mono', monospace !important;
+    color: #8dae98 !important;
+}
+
+/* Correctif pour le petit carre noir du module ListUsers */
+.kni-user-badge, .kni-user-badge ul, .kni-user-badge li {
+    list-style: none !important;
+    list-style-type: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: inline-block !important;
+}
+
+.kni-user-badge {
+    font-family: 'Share Tech Mono', monospace !important;
+    background: #08140f !important;
+    color: var(--kni-teal) !important;
+    padding: 4px 10px !important;
+    border-radius: 3px !important;
+    border: 1px solid #10261c !important;
+    margin-top: 10px !important;
+}
+
+.kni-block {
+    background: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 20px !important;
+    margin-bottom: 25px !important;
+}
+
+.kni-block-gold {
+    border-top: 4px solid var(--kni-gold) !important;
+    animation: etheric-breath 5s infinite ease-in-out !important;
+}
+
+.kni-block-copper {
+    border-top: 4px solid var(--kni-copper) !important;
+    animation: kelipah-flicker 3s infinite ease-in-out !important;
+}
+
+.kni-block-teal {
+    border-top: 4px solid var(--kni-teal) !important;
+}
+
+.kni-grid-2 {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 20px !important;
+    margin-bottom: 25px !important;
+}
+
+.term-nogah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: bold !important;
+    animation: nogah-glow 2.5s infinite ease-in-out !important;
+}
+
+.term-kelipah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-copper) !important;
+    font-weight: bold !important;
+}
+
+.kni-brand {
+    font-family: 'Cinzel', serif !important;
+    font-weight: 700 !important;
+    color: var(--kni-teal) !important;
+}
+
+.tech-code {
+    font-family: 'Share Tech Mono', monospace !important;
+    background: #08140f !important;
+    color: var(--kni-teal) !important;
+    padding: 2px 6px !important;
+    border-radius: 3px !important;
+    border: 1px solid #10261c !important;
+    display: inline-block !important;
+}
+
+#page-content table.wiki-content-table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 15px 0 !important;
+}
+
+#page-content table.wiki-content-table th {
+    background-color: #0f241a !important;
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', serif !important;
+    padding: 12px !important;
+    border-bottom: 2px solid var(--kni-teal) !important;
+}
+
+#page-content table.wiki-content-table td {
+    background-color: transparent !important;
+    color: var(--kni-text) !important;
+    padding: 12px !important;
+    border-bottom: 1px solid var(--kni-border) !important;
+}
+
+#footer, #footer a { background: #020504 !important; color: #8dae98 !important; }
+
+/* ====================================================================
+   OPTIMISATION RESPONSIVE DESIGN (TÉLÉPHONES ET TABLETTES)
+   ==================================================================== */
+
+@media (max-width: 768px) {
+    /* Ajustement de la bannière du haut sur mobile */
+    #header {
+        height: auto !important;
+        min-height: 100px !important;
+        padding: 10px 5px !important;
+    }
+
+    #header h1 a::before {
+        font-size: 1em !important;
+        letter-spacing: 1px !important;
+    }
+
+    #header h2::before {
+        font-size: 0.7em !important;
+        letter-spacing: 0.5px !important;
+    }
+
+    /* Repositionnement du champ de recherche */
+    #search-top-box {
+        position: relative !important;
+        top: 0 !important;
+        right: 0 !important;
+        margin: 8px auto 0 auto !important;
+        text-align: center !important;
+    }
+
+    /* Marges de page réduites sur petit écran */
+    #main-content, #page-content {
+        padding: 8px 4px !important;
+    }
+
+    .kni-block, .kni-header-box {
+        padding: 12px !important;
+        margin-bottom: 15px !important;
+    }
+
+    .kni-header-title h1 {
+        font-size: 1.4em !important;
+    }
+
+    /* Conversion de la grille 2 colonnes en 1 seule colonne */
+    .kni-grid-2 {
+        grid-template-columns: 1fr !important;
+        gap: 15px !important;
+    }
+
+    /* Rendre les tableaux défilables horizontalement sans casser la page */
+    #page-content table.wiki-content-table {
+        display: block !important;
+        overflow-x: auto !important;
+        white-space: nowrap !important;
+        max-width: 100% !important;
+    }
+
+    #page-content table.wiki-content-table th,
+    #page-content table.wiki-content-table td {
+        padding: 8px !important;
+        font-size: 0.9em !important;
+    }
+}
+[[/module]]
+
+[[div class="kni-header-box"]]
+
+[[div class="kni-header-title"]]
++ INITIATIVE KELIPAT NOGAH
+[[/div]]
+
+[[div class="kni-sub"]]
+RÉSEAU CENTRAL DE TRANSMUTATION & DE RAFFINAGE ÉTHÉRIQUE // ACCÈS INTERNE
+[[/div]]
+
+[[div class="kni-user-badge"]]
+[[module ListUsers users="."]]
+SESSION_OPERATEUR :: %%title%% // NOEUD_LOCAL :: #884-KNI
+[[/module]]
+[[/div]]
+
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
+
++ DIRECTIVE D'ACCÈS AUX ARCHIVES
+
+Vous consultez le terminal de coordination de l'[[span class="kni-brand"]]Initiative Kelipat Nogah[[/span]][[footnote]]Indexée sous l'identifiant [[span class="tech-code"]]GdI-1993[[/span]] dans les registres extérieurs de la Fondation SCP.[[/footnote]].
+
+Ce portail centralise l'ensemble des protocoles de séparation éthérique, les journaux d'extraction des [[span class="tech-code"]]Réacteurs Éthériques[[/span]] et les directives tactiques du [[span class="tech-code"]]Département Général d'Armée[[/span]]. Tout personnel opérant sur un site de purification doit appliquer strictement les consignes de sécurité éthérique.
+
+**L'anomalie n'est pas un fléau à enfermer, ni une abomination à détruire. Elle est la matière brute de l'évolution humaine.**
+
+[[/div]]
+
+[[div class="kni-grid-2"]]
+
+[[div class="kni-block kni-block-gold"]]
+
+++ LA LUMIÈRE : [[span class="term-nogah"]]NOGAH[[/span]]
+
+La fraction pure, stabilisée et exploitable extraite du phénomène anormal. Une fois filtrée au cœur de nos structures de transmutation, la [[span class="term-nogah"]]Nogah[[/span]] sert de vecteur énergétique, médical et technologique pour l'émancipation de notre espèce.
+
+[[/div]]
+
+[[div class="kni-block kni-block-copper"]]
+
+++ LA SCORIE : [[span class="term-kelipah"]]KELIPAH[[/span]]
+
+L'enveloppe corrompue, toxique et déstructurante. La [[span class="term-kelipah"]]Kelipah[[/span]] concentre les effets dévastateurs de l'anomalie. Elle est isolée puis acheminée vers les [[span class="tech-code"]]Dépôts de Scories[[/span]] sous la responsabilité du Département de Sécurité Relatif.
+
+[[/div]]
+
+[[/div]]
+
+[[div class="kni-block kni-block-gold"]]
+
++ MANIFESTE DE LA TRANSMUTATION
+
+L'[[span class="kni-brand"]]Initiative Kelipat Nogah[[/span]] a été fondée pour dépasser l'immobilisme stérile des autres acteurs du monde anormal. Notre vision repose sur une vérité fondamentale inspirée du concept métaphysique de la //Kelipat Nogah//[[footnote]]L'écorce contenant une étincelle de lumière au milieu du chaos.[[/footnote]] : la réalité anomale est une substance pure emprisonnée dans une enveloppe dégradée.
+
++++ Critique des Doctrines Concurrentes
+* **La Fondation SCP (Les Geôliers) :** Ils érigent des murs de béton par crainte de l'inconnu. En enfermant l'anomalie sans la transformer, ils gèlent le progrès et accumulent une tension éthérique instable.
+* **La Coalition Mondiale Occulte (Les Inquisiteurs) :** Ils calcinent aveuglément. En brûlant l'écorce de la [[span class="term-kelipah"]]Kelipah[[/span]], ils anéantissent à jamais la lueur de la [[span class="term-nogah"]]Nogah[[/span]] qu'elle contenait.
+* **L'Insurrection du Chaos (Les Profanateurs) :** Ils manipulent la fange sans la purifier. En utilisant la scorie brute à des fins destructrices, ils se condamnent à la dégénérescence biologique et mentale.
+
++++ La Méthode du Raffinage
+Seule l'[[span class="kni-brand"]]Initiative[[/span]] possède la rigueur scientifique et la clarté nécessaires pour séparer le pur de l'impur par le biais de nos [[span class="tech-code"]]Réacteurs Éthériques[[/span]].
+
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
+
++ ORGANISATION & STRUCTURE INTERNE
+
+||~ DEPARTEMENT ||~ CODE INTERNE ||~ FONCTION SPÉCIFIQUE ||
+|| **Département Général d'Armée** || [[span class="tech-code"]]DGA[[/span]] || Sécurisation du terrain, déploiement des forces d'intervention et administration de la [[span class="tech-code"]]FIM Xi-8[[/span]]. ||
+|| **Transmutation & Raffinage** || [[span class="tech-code"]]R&D[[/span]] || Gestion des réacteurs éthériques, séparation des flux et développement des technologies dérivées. ||
+|| **Sécurité Relatif** || [[span class="tech-code"]]DSR[[/span]] || Stockage étanche des Scories, neutralisation des risques environnementaux et suivi du personnel. ||
+
+----
+
++++ Chaîne de Commandement
+* **La Direction Générale :** Supervise l'administration locale des réacteurs et la répartition des ressources.
+* **Organismes Supérieurs (Conseil K) :** Instance suprême tutélaire de l'Initiative, assurant la haute gouvernance stratégique au niveau international[[footnote]]Équivalent décisionnel du Conseil O5 pour la Fondation SCP, ne recevant aucun ordre des instances extérieures.[[/footnote]].
+
+[[/div]]
+
+[[div class="kni-block kni-block-copper"]]
+
++ ENGAGEMENT CONJOINT : FORCE D'INTERVENTION MILITAIRE XI-8
+
+Face à la prolifération des cultes et artefacts Sarkiques[[footnote]]Entités et doctrines basées sur l'altération biologique et la régénération de la chair.[[/footnote]], l'[[span class="kni-brand"]]Initiative Kelipat Nogah[[/span]] a conclu une alliance tactique avec la **Fondation SCP** pour le déploiement du bataillon [[span class="tech-code"]]Xi-8 ("Les Derniers à Tomber")[[/span]].
+
+* **Financement & Logistique Lourde :** Assurés intégralement par la Fondation SCP.
+* **Administration & Commandement de Terrain :** Assurés par le [[span class="tech-code"]]DGA[[/span]] de l'Initiative.
+* **Support Naval :** Flotte conjointe complétée par d'anciens actifs cédés par la Coalition Mondiale Occulte.
+* **Rôle Exclusif KNI :** Traitement éthérique des biomatériaux sarkiques afin de prévenir toute recontamination et extraire la matière exploitable.
+
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
+
++ ACCÈS AUX BASES DE DONNÉES
+
+++ Dossiers de Transmutation & Objets
+//(Aucun rapport de transmutation répertorié pour le moment)//
+
+++ Rapports de Terrain & Incidents
+//(Aucun rapport d'incident répertorié pour le moment)//
+
+[[/div]]
+
+[[footnoteblock]]

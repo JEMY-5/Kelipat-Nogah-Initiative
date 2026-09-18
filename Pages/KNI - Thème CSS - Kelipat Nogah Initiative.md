@@ -8,7 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap');
 
 /* ====================================================================
-   CHARTE GRAPHIQUE K.N.I. — VERT ÉTHÉRIQUE PROFOND
+   CHARTE GRAPHIQUE K.N.I. — FIXES BUG & RESPONSIVE MOBILE
    ==================================================================== */
 
 :root {
@@ -209,12 +209,6 @@ body {
     font-weight: bold !important;
 }
 
-.kni-brand {
-    font-family: 'Cinzel', serif !important;
-    font-weight: 700 !important;
-    color: var(--kni-teal) !important;
-}
-
 .tech-code {
     font-family: 'Share Tech Mono', monospace !important;
     background: #08140f !important;
@@ -226,16 +220,65 @@ body {
 }
 
 #footer, #footer a { background: #020504 !important; color: #8dae98 !important; }
+
+/* ====================================================================
+   OPTIMISATION RESPONSIVE DESIGN (MOBILE & TABLETTE)
+   ==================================================================== */
+
+@media (max-width: 768px) {
+    #header {
+        height: auto !important;
+        min-height: 100px !important;
+        padding: 10px 5px !important;
+    }
+
+    #header h1 a::before {
+        font-size: 1em !important;
+        letter-spacing: 1px !important;
+    }
+
+    #header h2::before {
+        font-size: 0.7em !important;
+        letter-spacing: 0.5px !important;
+    }
+
+    #search-top-box {
+        position: relative !important;
+        top: 0 !important;
+        right: 0 !important;
+        margin: 8px auto 0 auto !important;
+        text-align: center !important;
+    }
+
+    #main-content, #page-content {
+        padding: 8px 4px !important;
+    }
+
+    .kni-block, .kni-header-box {
+        padding: 12px !important;
+        margin-bottom: 15px !important;
+    }
+
+    .kni-header-title h1 {
+        font-size: 1.4em !important;
+    }
+}
 [[/module]]
 
 [[div class="kni-header-box"]]
+
 [[div class="kni-header-title"]]
 + THÈME CSS KELIPAT NOGAH INITIATIVE
-[[div class="kni-sub"]]PRÉSENTATION & DIRECTIVES DU THÈME // COMPOSANTS APPLICATIFS[[/div]]
 [[/div]]
+
+[[div class="kni-sub"]]
+PRÉSENTATION & DIRECTIVES DU THÈME // COMPOSANTS APPLICATIFS
+[[/div]]
+
 [[/div]]
 
 [[div class="kni-block kni-block-teal"]]
+
 + PHILOSOPHIE DU DESIGN
 
 Le thème **Kelipat Nogah** associe l'élégance de la philosophie alchimique à la rigueur d'un terminal de raffinage éthérique. Il repose sur trois teintes fondamentales :
@@ -247,6 +290,7 @@ Le thème **Kelipat Nogah** associe l'élégance de la philosophie alchimique à
 [[/div]]
 
 [[div class="kni-block kni-block-gold"]]
+
 + EXEMPLES DES COMPOSANTS & ANIMATIONS
 
 ++ COMPOSANT : LA LUMIÈRE ([[span class="term-nogah"]]NOGAH[[/span]])
@@ -255,6 +299,7 @@ Ce bloc utilise la classe [[span class="tech-code"]]kni-block-gold[[/span]]. Il 
 [[/div]]
 
 [[div class="kni-block kni-block-copper"]]
+
 ++ COMPOSANT : LA SCORIE ([[span class="term-kelipah"]]KELIPAH[[/span]])
 Ce bloc utilise la classe [[span class="tech-code"]]kni-block-copper[[/span]]. Il intègre l'animation //Scintillement Kelipah// sur le bord gauche, rappelant l'instabilité des résidus toxiques issus du raffinage.
 

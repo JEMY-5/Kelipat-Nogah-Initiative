@@ -1,0 +1,407 @@
+[[include credit:start]]
+**Titre :** FIM Xi-8 — "Les Derniers à Tomber"
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap');
+
+/* ====================================================================
+   CHARTE GRAPHIQUE K.N.I. — FIXES BUG & RESPONSIVE MOBILE (FIM XI-8)
+   ==================================================================== */
+
+:root {
+    --kni-bg-dark: #040907;
+    --kni-bg-surface: #08120d;
+    --kni-gold: #e9c46a;
+    --kni-teal: #1f8a7a;
+    --kni-copper: #e76f51;
+    --kni-text: #c8d6ce;
+    --kni-border: #142a20;
+}
+
+/* --- ANIMATIONS ÉTHÉRIQUES --- */
+@keyframes nogah-glow {
+    0%, 100% { text-shadow: 0 0 6px rgba(233, 196, 106, 0.6), 0 0 12px rgba(233, 196, 106, 0.3) !important; color: #e9c46a !important; }
+    50% { text-shadow: 0 0 18px rgba(233, 196, 106, 0.9), 0 0 28px rgba(233, 196, 106, 0.6) !important; color: #f4d58d !important; }
+}
+
+@keyframes etheric-breath {
+    0%, 100% { border-color: rgba(31, 138, 122, 0.7) !important; box-shadow: 0 0 8px rgba(31, 138, 122, 0.2) !important; }
+    50% { border-color: rgba(233, 196, 106, 0.9) !important; box-shadow: 0 0 20px rgba(233, 196, 106, 0.4) !important; }
+}
+
+@keyframes kelipah-flicker {
+    0%, 100% { border-left-color: #e76f51 !important; box-shadow: 0 0 6px rgba(231, 111, 81, 0.3) !important; }
+    50% { border-left-color: #f4a261 !important; box-shadow: -4px 0 15px rgba(231, 111, 81, 0.6) !important; }
+}
+
+/* --- OVERRIDE TITRES & POLICES --- */
+#main-content #page-content h1,
+#main-content #page-content h2,
+#main-content #page-content h3,
+#main-content #page-content h4,
+.kni-header-title h1 {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', 'Georgia', serif !important;
+    border-bottom: none !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+html, body, #container-wrap, #container-wrap-inner, #container, 
+#wrapper, #content-wrap, #main-content, #page-content, p, li, td {
+    background-color: var(--kni-bg-dark) !important;
+    color: var(--kni-text) !important;
+    font-family: 'Rajdhani', sans-serif !important;
+}
+
+body {
+    background-image: radial-gradient(circle at 50% 0%, #0a1c14 0%, #040907 80%) !important;
+    background-attachment: fixed !important;
+}
+
+#page-title { display: none !important; }
+
+/* --- HEADER BANNER --- */
+#header {
+    background: linear-gradient(180deg, #020504 0%, #08120d 100%) !important;
+    border-bottom: 3px solid var(--kni-gold) !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.9) !important;
+    position: relative !important;
+    height: 110px !important;
+}
+
+#header h1 a span { display: none !important; }
+#header h1 a::before {
+    content: "KELIPAT NOGAH INITIATIVE" !important;
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: 700 !important;
+    font-size: 1.3em !important;
+    letter-spacing: 2px !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+#header h2 span { display: none !important; }
+#header h2::before {
+    content: "SÉPARER LA SCORIE // LIBÉRER LA LUMIÈRE" !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    color: var(--kni-teal) !important;
+    font-size: 0.85em !important;
+    letter-spacing: 1.5px !important;
+}
+
+#search-top-box {
+    position: absolute !important;
+    top: 15px !important;
+    right: 15px !important;
+}
+
+#search-top-box-input {
+    background-color: #08120d !important;
+    color: var(--kni-gold) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#search-top-box-form input[type="submit"] {
+    background-color: var(--kni-teal) !important;
+    color: #040907 !important;
+    border: none !important;
+}
+
+/* --- TOP BAR & SIDEBAR --- */
+#top-bar {
+    background: var(--kni-bg-surface) !important;
+    border-bottom: 2px solid var(--kni-teal) !important;
+}
+
+#top-bar a, #top-bar ul li a {
+    color: var(--kni-text) !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    background: transparent !important;
+}
+
+#top-bar ul li:hover > a, #top-bar ul li.sfhover > a, #top-bar ul li a:hover {
+    color: var(--kni-gold) !important;
+    background-color: #0f241a !important;
+}
+
+#top-bar ul li ul {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#top-bar ul li ul li a {
+    background-color: var(--kni-bg-surface) !important;
+    color: var(--kni-text) !important;
+}
+
+#top-bar ul li ul li a:hover {
+    background-color: #0f241a !important;
+    color: var(--kni-gold) !important;
+}
+
+#side-bar { background: transparent !important; border: none !important; }
+#side-bar .side-block {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 12px !important;
+}
+
+#side-bar .heading {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', serif !important;
+    border-bottom: 1px solid var(--kni-teal) !important;
+}
+
+#side-bar a { color: var(--kni-text) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; background-color: #0f241a !important; }
+
+/* --- BLOCS CUSTOMISÉS --- */
+.kni-header-box {
+    background: linear-gradient(135deg, #020504 0%, #0b1a13 100%) !important;
+    border: 1px solid var(--kni-teal) !important;
+    border-left: 6px solid var(--kni-copper) !important;
+    padding: 20px !important;
+    border-radius: 6px !important;
+    margin-bottom: 20px !important;
+}
+
+.kni-sub {
+    font-family: 'Share Tech Mono', monospace !important;
+    color: #8dae98 !important;
+}
+
+.kni-block {
+    background: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 20px !important;
+    margin-bottom: 25px !important;
+}
+
+.kni-block-gold {
+    border-top: 4px solid var(--kni-gold) !important;
+    animation: etheric-breath 5s infinite ease-in-out !important;
+}
+
+.kni-block-copper {
+    border-top: 4px solid var(--kni-copper) !important;
+    animation: kelipah-flicker 3s infinite ease-in-out !important;
+}
+
+.kni-block-teal {
+    border-top: 4px solid var(--kni-teal) !important;
+}
+
+.term-nogah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: bold !important;
+    animation: nogah-glow 2.5s infinite ease-in-out !important;
+}
+
+.term-kelipah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-copper) !important;
+    font-weight: bold !important;
+}
+
+.kni-brand {
+    font-family: 'Cinzel', serif !important;
+    font-weight: 700 !important;
+    color: var(--kni-teal) !important;
+}
+
+.tech-code {
+    font-family: 'Share Tech Mono', monospace !important;
+    background: #08140f !important;
+    color: var(--kni-teal) !important;
+    padding: 2px 6px !important;
+    border-radius: 3px !important;
+    border: 1px solid #10261c !important;
+    display: inline-block !important;
+}
+
+#page-content table.wiki-content-table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 15px 0 !important;
+}
+
+#page-content table.wiki-content-table th {
+    background-color: #0f241a !important;
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', serif !important;
+    padding: 12px !important;
+    border-bottom: 2px solid var(--kni-teal) !important;
+}
+
+#page-content table.wiki-content-table td {
+    background-color: transparent !important;
+    color: var(--kni-text) !important;
+    padding: 12px !important;
+    border-bottom: 1px solid var(--kni-border) !important;
+}
+
+#footer, #footer a { background: #020504 !important; color: #8dae98 !important; }
+
+/* ====================================================================
+   OPTIMISATION RESPONSIVE DESIGN (MOBILE & TABLETTE)
+   ==================================================================== */
+
+@media (max-width: 768px) {
+    #header {
+        height: auto !important;
+        min-height: 100px !important;
+        padding: 10px 5px !important;
+    }
+
+    #header h1 a::before {
+        font-size: 1em !important;
+        letter-spacing: 1px !important;
+    }
+
+    #header h2::before {
+        font-size: 0.7em !important;
+        letter-spacing: 0.5px !important;
+    }
+
+    #search-top-box {
+        position: relative !important;
+        top: 0 !important;
+        right: 0 !important;
+        margin: 8px auto 0 auto !important;
+        text-align: center !important;
+    }
+
+    #main-content, #page-content {
+        padding: 8px 4px !important;
+    }
+
+    .kni-block, .kni-header-box {
+        padding: 12px !important;
+        margin-bottom: 15px !important;
+    }
+
+    .kni-header-title h1 {
+        font-size: 1.4em !important;
+    }
+
+    /* Rendre les tableaux défilables horizontalement */
+    #page-content table.wiki-content-table {
+        display: block !important;
+        overflow-x: auto !important;
+        white-space: nowrap !important;
+        max-width: 100% !important;
+    }
+
+    #page-content table.wiki-content-table th,
+    #page-content table.wiki-content-table td {
+        padding: 8px !important;
+        font-size: 0.9em !important;
+    }
+}
+[[/module]]
+
+[[div class="kni-header-box"]]
+
+[[div class="kni-header-title"]]
++ FORCE D'INTERVENTION MILITAIRE XI-8
+[[/div]]
+
+[[div class="kni-sub"]]
+BATAILLON ANTI-SARKIQUE CONJOINT // INDICATIF : "LES DERNIERS À TOMBER"
+[[/div]]
+
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
+
++ FICHE SYNTHÉTIQUE DE L'UNITÉ
+
+||~ PARAMÈTRE ||~ DÉSIGNATION TACTIQUE ||
+|| **Code Unité** || [[span class="tech-code"]]FIM Xi-8[[/span]] ||
+|| **Surnom Opérationnel** || "Les Derniers à Tomber" ||
+|| **Spécialité Principale** || Acquisition, confinement et neutralisation d'entités et d'artéfacts Sarkiques[[footnote]]Cultes dévoués aux manipulations de la chair et à la bio-ingénierie préhistorique.[[/footnote]] ||
+|| **Commandant Général** || Maréchale Raaina Tariq-Sattar ||
+|| **Administration & Commandement** || Direction du [[span class="tech-code"]]DGA[[/span]] de l'Initiative Kelipat Nogah ||
+|| **Financement & Logistique** || La Fondation SCP (Financement intégral, équipement lourd, désignation des cibles) ||
+|| **Appui Naval & Portée** || 6 continents principaux / Flotte conjointe (Fondation SCP & anciens actifs navals de la Coalition Mondiale Occulte) ||
+
+----
+
++++ Accord Bipartite de Coopération
+La **FIM Xi-8** est une unité unifiée de niveau bataillon. L'accord conjoint garantit à l'[[span class="kni-brand"]]Initiative Kelipat Nogah[[/span]] le commandement tactique direct sur le terrain et la gestion administrative globale. La Fondation SCP prend en charge le coût financier, l'armement lourd et le ciblage stratégique.
+
+[[/div]]
+
+[[div class="kni-block kni-block-copper"]]
+
++ PROTOCOLES D'ENGAGEMENT CONTRE LA MENACE SARKIQUE
+
+Conformément au manuel de formation contre l'occultisme[[footnote]]Saisi et mis à jour sous le registre [[span class="tech-code"]]MANUEL_XI8_OCB[[/span]].[[/footnote]], la FIM Xi-8 intervient selon des procédures de séparation strictes afin d'éviter les dégâts ontologiques :
+
+* **Karcistes (Praticiens & Leaders) :** Nœuds décisionnels du réseau rituel. La capture ou l'isolement est prioritaire avant l'élimination. Rompre l'ancrage rituel évite les réactions en chaîne ontologiques.
+* **Entités Biologiques & Masses Organiques :** Soumises à l'isolement biologique, à la privation de nutriments et à la fragmentation contrôlée par les équipes de biocontainment.
+* **Structures & Temples Vivants :** Démantèlement modulaire et scellage ontologique progressif sous contrôle d'experts thaumaturgiques.
+* **Rituels Actifs :** Interruption ciblée par désynchronisation du tempo et rétablissement des barrières anti-mnémiques.
+* **Artefacts & Reliquaires :** Saisie, neutralisation et acheminement vers les réacteurs de la K.N.I. pour extraction de la [[span class="term-nogah"]]Nogah[[/span]] et élimination de la [[span class="term-kelipah"]]Kelipah[[/span]].
+
+[[/div]]
+
+[[div class="kni-block kni-block-gold"]]
+
++ ORGANIGRAMME DU BATAILLON
+
+[[=]]
+[[image https://fondationscp.wdfiles.com/local--files/task-forces/Xi8.png width="230px"]]
+[[/=]]
+
+++++ Commandement Supérieur & État-Major
+* **Commandant Général :** Maréchale Raaina Tariq-Sattar
+* **Supervision Administrative :** Direction Générale de l'Initiative (DGA)
+* **Commandant de Terrain :** Commandant Malachai ben Liraz
+
+----
+
+++++ Compagnie Alpha — Combat Lourd & Infiltration
+**Commandant :** Commandant Malachai ben Liraz
+* **Quartier Général :** 23 membres
+* **1er Peloton (Exfiltration d'élite) :** 12 membres
+* **2e Peloton (Expéditionnaire) :** 16 membres
+* **3e Peloton (Armes lourdes) :** 22 membres
+* **4e Peloton (Paraspécialistes) :** 18 membres
+
+++++ Compagnie Bêta — Logistique & Soutien Aérien
+**Commandant :** Lieutenant Eleanore Montpelier
+* **Quartier Général :** Rattaché à la Compagnie Alpha
+* **1er Peloton (Transport terrestre) :** 14 membres
+* **2e Peloton (Transport aérien) :** 14 membres
+* **3e Peloton (Assaut mobile) :** 14 membres
+* **4e Peloton (Assaut aérien & Appui tactique) :** 18 membres
+
+++++ Compagnie Gamma — Infiltration de Ruche & Reconnaissance
+**Commandant :** Lieutenant Josie Perez
+* **Quartier Général :** 38 membres
+* **1er Peloton (Infiltration de Ruche) :** 12 membres
+* **2e Peloton (Frappe rapide) :** 16 membres
+* **3e Peloton (Observation & Force Recon) :** 22 membres
+* **4e Peloton (Paraspécialistes) :** 18 membres
+
+++++ Compagnie Delta — Suppression & Intervention Biochimique
+**Commandant :** Lieutenant Alefaio Kagiso
+* **Quartier Général :** 39 membres
+* **1er Peloton (Réponse Biochimique 1) :** 18 membres
+* **2e Peloton (Équipe d'intervention rapide) :** 16 membres
+* **3e Peloton (Réponse Biochimique 2) :** 18 membres
+* **4e Peloton (Paraspécialistes) :** 18 membres
+
+----
+//Note de la Direction : L'intégration de paraspécialistes au sein de chaque compagnie et l'application de nos procédés de purification font de la FIM Xi-8 un instrument de première importance pour l'Initiative.//
+
+[[/div]]
+
+[[footnoteblock]]
