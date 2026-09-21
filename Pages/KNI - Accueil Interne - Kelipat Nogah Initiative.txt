@@ -411,16 +411,20 @@ Seule l'[[span class="kni-brand"]]Initiative[[/span]] possède la rigueur scient
 
 + ORGANISATION & STRUCTURE INTERNE
 
-||~ DEPARTEMENT ||~ CODE INTERNE ||~ FONCTION SPÉCIFIQUE ||
-|| **Département Général d'Armée** || [[span class="tech-code"]]DGA[[/span]] || Sécurisation du terrain, déploiement des forces d'intervention et administration de la [[span class="tech-code"]]FIM Xi-8[[/span]]. ||
-|| **Transmutation & Raffinage** || [[span class="tech-code"]]R&D[[/span]] || Gestion des réacteurs éthériques, séparation des flux et développement des technologies dérivées. ||
-|| **Sécurité Relatif** || [[span class="tech-code"]]DSR[[/span]] || Stockage étanche des Scories, neutralisation des risques environnementaux et suivi du personnel. ||
+++ DÉPARTEMENT PRIMAIRE
 
-----
+||~ NOM DE CODE ||~ DÉPARTEMENT ||~ CODE INTERNE ||~ FONCTION SPÉCIFIQUE ||
+|| //Grand Prévôt// ||**Département Général d'Armée** || [[span class="tech-code"]]DGA[[/span]] || Sécurisation du terrain, déploiement des forces d'intervention et administration de la [[span class="tech-code"]]FIM Xi-8[[/span]]. ||
+|| //Magister de Raffinage// || **Transmutation & Raffinage** || [[span class="tech-code"]]R&D[[/span]] || Gestion des réacteurs éthériques, séparation des flux et développement des technologies dérivées. ||
+|| //Chancelier des Scories// || **Département de la Sécurité Relatif** || [[span class="tech-code"]]DSR[[/span]] || Stockage étanche des Scories, neutralisation des risques environnementaux et suivi du personnel. ||
 
-+++ Chaîne de Commandement
-* **La Direction Générale :** Supervise l'administration locale des réacteurs et la répartition des ressources.
-* **Organismes Supérieurs (Conseil K) :** Instance suprême tutélaire de l'Initiative, assurant la haute gouvernance stratégique au niveau international[[footnote]]Équivalent décisionnel du Conseil O5 pour la Fondation SCP, ne recevant aucun ordre des instances extérieures.[[/footnote]].
+++ BRANCHE D'ADMINISTRATION
+
+||~ NOM DE CODE ||~ BRANCHE ||~ CODE INTERNE ||~ FONCTION SPÉCIFIQUE ||
+|| //Maitre des Sceaux// || **Branche Judiciaire** || [[span class="tech-code"]]BJ[[/span]] || Application du code pénal interne, maintien de la discipline et arbitrage des litiges. ||
+|| //Veilleur des Manuscrits// || **Branche de Documentation et d'Archive** || [[span class="tech-code"]]BDA[[/span]] || Centralisation, classification et sécurisation absolue des savoirs et historiques opérationnels. ||
+|| //Émissaire de l'Aube// || **Branche des Relations Diplomatique** || [[span class="tech-code"]]BRD[[/span]] || Représentation extérieure, négociation stratégique et gestion des interactions avec les autres entités/organisation. ||
+|| //Haut-Intendant// || **Branche des Ressources Humaines** || [[span class="tech-code"]]BRH[[/span]] || Recrutement, évaluation psychologique et affectation stratégique des effectifs. ||
 
 [[/div]]
 
