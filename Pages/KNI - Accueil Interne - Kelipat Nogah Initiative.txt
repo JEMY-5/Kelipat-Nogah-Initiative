@@ -1,5 +1,5 @@
 [[include credit:start]]
-**Titre :** Centre du GdI-1993 — Initiative Kelipat Nogah
+**Titre :** Centre du GdI-884 — Kelipat Nogah Initiative
 **Auteur :** [[*user JemY5]]
 **Date :** 2026
 [[include credit:end]]
@@ -363,7 +363,7 @@ SESSION_OPERATEUR :: %%title%% // NOEUD_LOCAL :: #884-KNI
 
 + DIRECTIVE D'ACCÈS AUX ARCHIVES
 
-Vous consultez le terminal de coordination de l'[[span class="kni-brand"]]Initiative Kelipat Nogah[[/span]][[footnote]]Indexée sous l'identifiant [[span class="tech-code"]]GdI-1993[[/span]] dans les registres extérieurs de la Fondation SCP.[[/footnote]].
+Vous consultez le terminal de coordination de la [[span class="kni-brand"]]Kelipat Nogah Initiative[[/span]][[footnote]]Indexée sous l'identifiant [[span class="tech-code"]]GdI-884[[/span]] dans les registres extérieurs de la Fondation SCP.[[/footnote]].
 
 Ce portail centralise l'ensemble des protocoles de séparation éthérique, les journaux d'extraction des [[span class="tech-code"]]Réacteurs Éthériques[[/span]] et les directives tactiques du [[span class="tech-code"]]Département Général d'Armée[[/span]]. Tout personnel opérant sur un site de purification doit appliquer strictement les consignes de sécurité éthérique.
 
@@ -395,12 +395,12 @@ L'enveloppe corrompue, toxique et déstructurante. La [[span class="term-kelipah
 
 + MANIFESTE DE LA TRANSMUTATION
 
-L'[[span class="kni-brand"]]Initiative Kelipat Nogah[[/span]] a été fondée pour dépasser l'immobilisme stérile des autres acteurs du monde anormal. Notre vision repose sur une vérité fondamentale inspirée du concept métaphysique de la //Kelipat Nogah//[[footnote]]L'écorce contenant une étincelle de lumière au milieu du chaos.[[/footnote]] : la réalité anomale est une substance pure emprisonnée dans une enveloppe dégradée.
+La [[span class="kni-brand"]]Kelipat Nogah Initiative[[/span]] a été fondée pour dépasser l'immobilisme stérile des autres acteurs du monde anormal. Notre vision repose sur une vérité fondamentale inspirée du concept métaphysique de la //Kelipat Nogah//[[footnote]]L'écorce contenant une étincelle de lumière au milieu du chaos.[[/footnote]] : la réalité anomale est une substance pure emprisonnée dans une enveloppe dégradée.
 
 +++ Critique des Doctrines Concurrentes
-* **La Fondation SCP (Les Geôliers) :** Ils érigent des murs de béton par crainte de l'inconnu. En enfermant l'anomalie sans la transformer, ils gèlent le progrès et accumulent une tension éthérique instable.
-* **La Coalition Mondiale Occulte (Les Inquisiteurs) :** Ils calcinent aveuglément. En brûlant l'écorce de la [[span class="term-kelipah"]]Kelipah[[/span]], ils anéantissent à jamais la lueur de la [[span class="term-nogah"]]Nogah[[/span]] qu'elle contenait.
-* **L'Insurrection du Chaos (Les Profanateurs) :** Ils manipulent la fange sans la purifier. En utilisant la scorie brute à des fins destructrices, ils se condamnent à la dégénérescence biologique et mentale.
+* **La Fondation SCP (//Les Geôliers//) :** Ils érigent des murs de béton par crainte de l'inconnu. En enfermant l'anomalie sans la transformer, ils gèlent le progrès et accumulent une tension éthérique instable.
+* **La Coalition Mondiale Occulte (//Les Inquisiteurs//) :** Ils calcinent aveuglément. En brûlant l'écorce de la [[span class="term-kelipah"]]Kelipah[[/span]], ils anéantissent à jamais la lueur de la [[span class="term-nogah"]]Nogah[[/span]] qu'elle contenait.
+* **L'Insurrection du Chaos (//Les Profanateurs//) :** Ils manipulent la fange sans la purifier. En utilisant la scorie brute à des fins destructrices, ils se condamnent à la dégénérescence biologique et mentale.
 
 +++ La Méthode du Raffinage
 Seule l'[[span class="kni-brand"]]Initiative[[/span]] possède la rigueur scientifique et la clarté nécessaires pour séparer le pur de l'impur par le biais de nos [[span class="tech-code"]]Réacteurs Éthériques[[/span]].
@@ -432,10 +432,10 @@ Seule l'[[span class="kni-brand"]]Initiative[[/span]] possède la rigueur scient
 
 + ENGAGEMENT CONJOINT : FORCE D'INTERVENTION MILITAIRE XI-8
 
-Face à la prolifération des cultes et artefacts Sarkiques[[footnote]]Entités et doctrines basées sur l'altération biologique et la régénération de la chair.[[/footnote]], l'[[span class="kni-brand"]]Initiative Kelipat Nogah[[/span]] a conclu une alliance tactique avec la **Fondation SCP** pour le déploiement du bataillon [[span class="tech-code"]]Xi-8 ("Les Derniers à Tomber")[[/span]].
+Face à la prolifération des cultes et artefacts Sarkiques[[footnote]]Entités et doctrines basées sur l'altération biologique et la régénération de la chair.[[/footnote]], la [[span class="kni-brand"]]Kelipat Nogah Initiative[[/span]] a conclu une alliance tactique avec la **Fondation SCP** pour le déploiement du bataillon [[span class="tech-code"]]Xi-8 ("Les Derniers à Tomber")[[/span]].
 
 * **Financement & Logistique Lourde :** Assurés intégralement par la Fondation SCP.
-* **Administration & Commandement de Terrain :** Assurés par le [[span class="tech-code"]]DGA[[/span]] de l'Initiative.
+* **Administration & Commandement de Terrain :** Assurés par le [[span class="tech-code"]]DGA[[/span]] de l'[[span class="kni-brand"]]Initiative[[/span]].
 * **Support Naval :** Flotte conjointe complétée par d'anciens actifs cédés par la Coalition Mondiale Occulte.
 * **Rôle Exclusif KNI :** Traitement éthérique des biomatériaux sarkiques afin de prévenir toute recontamination et extraire la matière exploitable.
 

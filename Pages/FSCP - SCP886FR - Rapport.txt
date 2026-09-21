@@ -1,0 +1,51 @@
+[[include credit:start]]
+**Titre :** SCP-886-FR - Le Cœur Suturé
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+
+**Objet n° :** SCP-886-FR
+
+**Niveau de Menace :** Rouge ●
+
+**Classe :** Keter
+
+**Procédures de Confinement Spéciales :** SCP-886-FR est confiné //in situ// au sein du Complexe de Stabilisation Conjoint 886, construit sous le plateau de [DONNÉES CENSURÉES]. L'installation est placée sous la supervision mixte de la Fondation SCP et de la Kelipat Nogah Initiative[[footnote]] Identifiant Officiel : GdI-884 [[/footnote]], conformément à l'Avenant 3 du Protocole "Aube Dorée".
+
+L'enceinte interne du confinement est maintenue par un réseau d'Ancres de Réalité de Scranton géré par le Département d'Ingénierie de la Fondation. L'intégrité biologique et la résonance thaumaturgique du sujet sont régulées en permanence par les unités de la FIM Xi-8[[footnote]] Force d'Intervention Militaire Xi-8 ("Les Derniers À Tomber")[[/footnote]]. 
+
+Bien que la FIM Xi-8 soit réintégrée aux effectifs officiels de la Fondation pour la gestion du site, son allégeance stratégique et son commandement tactique demeurent la propriété exclusive de la Kelipat Nogah Initiative.
+
+Toute tentative de la Fondation d'altérer les modules d'extraction thaumaturgique sans l'aval du //Magister de Raffinage//[[footnote]] Directeur de la R&D du GdI-884[[/footnote]] entraînera la suspension immédiate du protocole de drainage.
+
+**Description :** SCP-886-FR désigne un organisme néo-sarkique de classe Mégathérion, mesurant approximativement 2,4 kilomètres de diamètre, ancré dans la croûte terrestre supérieure. L'anomalie se présente sous la forme d'un complexe cardio-vasculaire autonome en croissance continue, capable de générer des spores d'assimilation biologique à grande échelle.
+
+En raison de l'ancrage thaumaturgique profond de SCP-886-FR dans la plaque tectonique locale, une neutralisation thermique ou atomique conventionnelle provoquerait l'effondrement de la réalité régionale et l'activation en chaîne de plusieurs foyers secondaires (pouvant amener un Scénario de Classe SK).
+
+L'éradication totale étant impossible à court terme, la Fondation et le GdI-884 maintiennent un état de "suture artificielle" :
+*   **Composante Fondation :** Les générateurs de la Fondation maintiennent une cage de confinement ontologique fermée, empêchant l'expansion physique du tissu et dissimulant la signature de l'anomalie aux réseaux civils et aux cultes rivaux.
+*   **Composante GdI-884 :** Les opérateurs de la FIM Xi-8 gèrent un système de drains thaumaturgiques reliés directement au cœur de SCP-886-FR. L'énergie vitale de la biomasse est continuellement extraite et purifiée sous forme de //Nogah// pour alimenter les réserves logistiques de la Kelipat Nogah Initiative. 
+
+Les matières résiduelles inaptes au raffinage[[footnote]] Désigné sous le nom de "//Kelipah//"[[/footnote]] sont immédiatement prises en charge par les canaux internes du GdI-884 comme matière première pour leur propre complexe militaro-industriel. La Fondation n'intervient pas dans ce cycle interne et n'exerce aucun droit de regard sur la transformation de cette ressource par la Kelipat Nogah Initiative.
+
+**Addendum 886-FR.1 : Rapport d'Inauguration du Complexe Conjoint**
+
+> **Date :** ██/██/2026
+> **Intervenants :** Directeur de Site Aris Thorne (Fondation) / Maréchale Raaina Tariq-Sattar (FIM Xi-8 / K.N.I.)
+> **Lieu :** Passerelle de contrôle de la Zone - 886[[footnote]] Zone Reliquaire Biologique 886 [[/footnote]]
+> 
+> //[Les deux officiers observent le cœur de SCP-886-FR à travers le vitrage blindé. D'immenses aiguilles en titane et en quartz traversent la chair palpitante, éclairées par une lueur dorée pulsatile.]//
+> 
+> **Directeur Thorne :** Nos générateurs de champ maintiennent la biomasse à 0,3 % de sa capacité d'expansion. Le confinement physique est étanche, Maréchale.
+> 
+> **Maréchale Tariq-Sattar :** Et nos injecteurs drainent le surplus sans interrompre le cycle. La pression thaumaturgique baisse. À ce rythme, l'entité restera en état de coma artificiel aussi longtemps que nos réacteurs tourneront.
+> 
+> **Directeur Thorne :** C'est une méthode d'ingénierie remarquable. La Fondation aurait passé des décennies à essayer de couler ce monstre sous du béton en priant pour qu'il ne se réveille pas.
+> 
+> **Maréchale Tariq-Sattar :** Parce que vous voyez la chair comme une malédiction à enfermer, Thorne. Pour l'Initiative, elle n'est qu'un minerai brut. Nous prélevons la lumière, nous récupérons nos matériaux, et vous gardez la stabilité du secteur. 
+> 
+> **Directeur Thorne :** Vos hommes de la Xi-8 travaillent en parfaite coordination avec nos équipes techniques. On en oublierait presque la rupture de l'année dernière.
+> 
+> **Maréchale Tariq-Sattar :** Ne vous y trompez pas, Directeur. La Xi-8 porte l'écusson de la Fondation sur le bras pour la légitimité opérationnelle, mais le cœur de nos soldats appartient à l'Aube. Nous sommes ici parce que ce monstre exige votre technologie de scellement et notre science de la purge. C'est un partenariat de raison, pas une réconciliation.
+> 
+> **Directeur Thorne :** Tant que la Terre ne finit pas recouverte de chair, cela me convient parfaitement.
