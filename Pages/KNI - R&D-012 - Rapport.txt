@@ -257,7 +257,7 @@ body {
 + R&D - 012 : LE CHŒUR D'OS
 [[/div]]
 [[div class="kni-sub"]]
-DÉPARTEMENT GÉNÉRAL D'ARMÉE // DÉPARTEMENT R&D
+DÉPARTEMENT GÉNÉRAL D'ARMÉE // TRANSMUTATION & RAFFINAGE
 [[/div]]
 [[/div]]
 
