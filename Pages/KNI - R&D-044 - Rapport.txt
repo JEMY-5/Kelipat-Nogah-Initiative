@@ -275,8 +275,9 @@ BRANCHE DE DOCUMENTATION ET D'ARCHIVAGE // TRANSMUTATION & RAFFINAGE
 [[/div]]
 
 [[div class="kni-block kni-block-teal"]]
-**Identifiant du Gisement :** R&D-044[[footnote]] Désigné sous le nom de //Le Puits Sanglant// [[/footnote]]
-**Rédacteur :** Scribe-Archiviste Kaelen, sous l'autorité du Maître des Sceaux
+**Identifiant de l'Anomalie :** [[span class="tech-code"]]R&D-044[[/span]][[footnote]] Désigné sous le nom de " //Le Puits Sanglant// " [[/footnote]]
+**Rédacteur :** Scribe-Archiviste Kaelen, sous l'autorité du //Veilleur des Manuscrits//.
+**Chercheur Attitré :** Docteur Satak, sous l'autorité du //Magister de Raffinage//.
 **Rendement Estimé :** [[span class="term-nogah"]]Modéré-Élevé[[/span]]
 **Densité de la Scorie :** [[span class="term-kelipah"]]Critique[[/span]]
 **Statut :** Raffinage terminé. Scories acheminées vers la Raffinerie - Gamma.
@@ -297,9 +298,7 @@ Les **Tishmed** ont pour directive de sectionner les artères nourricières reli
 [[div class="kni-block kni-block-copper"]]
 + ANATOMIE DE L'ÉCORCE
 
-Le gisement R&D-044 consistait en une congrégation de cultistes néo-sarkiques ayant atteint un stade de fusion collective. Cent vingt individus ont fondu leurs biomasses au fond d'une doline pour former un bassin de chair vivante et d'acide gastrique de quinze mètres de diamètre, fonctionnant comme un estomac externe géant.
-
-Les renseignements interceptés indiquaient que la Fondation SCP préparait une mise en quarantaine passive par injection de béton stérile — une réaction aveugle qui aurait détruit la scorie sans en extraire l'essence.
+Le gisement [[span class="tech-code"]]R&D-044[[/span]] consistait en une congrégation de cultistes néo-sarkiques ayant atteint un stade de fusion collective. Cent vingt individus ont fondu leurs biomasses au fond d'une doline pour former un bassin de chair vivante et d'acide gastrique de quinze mètres de diamètre, fonctionnant comme un estomac externe géant.
 
 Pour l'[[span class="term-initiative"]]Initiative[[/span]], ce bassin représentait une opportunité majeure. L'étincelle divine (la [[span class="term-nogah"]]Nogah[[/span]]) des cent vingt âmes sacrifiées était emprisonnée sous la chair mutante (la [[span class="term-kelipah"]]Kelipah[[/span]]). La pression métaphysique de cette prison générait une énergie lumineuse d'une rare pureté, indispensable à nos complexes de raffinage.
 [[/div]]

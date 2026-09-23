@@ -262,8 +262,9 @@ DÉPARTEMENT GÉNÉRAL D'ARMÉE // TRANSMUTATION & RAFFINAGE
 [[/div]]
 
 [[div class="kni-block kni-block-teal"]]
-**Identifiant de la Relique :** R&D-012 ("Le Chœur d'Os")
-**Rédacteur :** Magister de Raffinage Silas
+**Identifiant de la Relique :** [[span class="tech-code"]]R&D-012[[/span]][[footnote]] Désigné sous le nom de " //Le Chœur d'Os// " [[/footnote]]
+**Rédacteur :** Scribeur-Maître Silas, sous l'autorité du //Veilleur des Manuscrits//.
+**Chercheur Attitré :** Scientifique Vayne, sous l'autorité du //Magister de Raffinage//.
 **Rendement Estimé :** [[span class="term-nogah"]]Source Autonome[[/span]]
 **Densité de la Scorie :** [[span class="term-kelipah"]]Faible[[/span]]
 **Statut :** Relique purifiée. Réintégrée à l'arsenal lourd du DGA.
@@ -272,7 +273,7 @@ DÉPARTEMENT GÉNÉRAL D'ARMÉE // TRANSMUTATION & RAFFINAGE
 [[div class="kni-block kni-block-gold"]]
 + PRÉCEPTES D'EXTRACTION
 
-L'acquisition de R&D-012 sur le terrain a été exécutée par le **Département Général d'Armée (DGA)** avant que des forces hostiles ne bouclent le secteur. L'objectif n'était pas la destruction, mais un écorçage méticuleux.
+L'acquisition de [[span class="tech-code"]]R&D-012[[/span]] sur le terrain a été exécutée par le **Département Général d'Armée (DGA)** avant que des forces hostiles ne bouclent le secteur. L'objectif n'était pas la destruction, mais un écorçage méticuleux.
 
 Une escouade de frappe **Tishmed** a déployé un dôme d'isolation stérile. Bénéficiant des modifications bio-thaumaturgiques tirées de la //Bible de Chair//, nos soldats ont résisté sans fléchir aux ondes destructrices du site. Huit Canalisateurs de l'Aube ont ensuite projeté un flux de [[span class="term-nogah"]]Nogah[[/span]] à très basse fréquence pendant soixante-douze heures ininterrompues pour calciner l'enveloppe charnelle sans altérer le cœur mécanique de la relique.
 [[/div]]
@@ -280,7 +281,7 @@ Une escouade de frappe **Tishmed** a déployé un dôme d'isolation stérile. B�
 [[div class="kni-block kni-block-copper"]]
 + ANATOMIE DE L'ÉCORCE
 
-Avant notre intervention, R&D-012 prenait la forme d'un orgue monumental dont les tuyaux originels avaient été remplacés par des trachées, des larynx et des cages thoraciques humaines hypertrophiées. Le tout fonctionnait via un réseau vasculaire s'alimentant dans le sol. Le Karciste local utilisait l'objet pour émettre des fréquences sonores capables de disloquer la structure osseuse de toute forme de vie non préparée dans un rayon de cinq kilomètres.
+Avant intervention, [[span class="tech-code"]]R&D-012[[/span]] prenait la forme d'un orgue monumental dont les tuyaux originels avaient été remplacés par des trachées, des larynx et des cages thoraciques humaines hypertrophiées. Le tout fonctionnait via un réseau vasculaire s'alimentant dans le sol. Le Karciste local utilisait l'objet pour émettre des fréquences sonores capables de disloquer la structure osseuse de toute forme de vie non préparée dans un rayon de cinq kilomètres.
 
 Les rapports de renseignements montraient que des groupes rivaux hésitaient sur la marche à suivre, effrayés par la résonance démonique et sarkique de l'instrument.
 
