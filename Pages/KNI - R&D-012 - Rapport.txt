@@ -67,7 +67,7 @@ body {
 
 #header h1 a span { display: none !important; }
 #header h1 a::before {
-    content: "KELIPAT NOGAH INITIATIVE" !important;
+    content: "L'AUBE D'OR" !important;
     font-family: 'Cinzel', serif !important;
     color: var(--kni-gold) !important;
     font-weight: 700 !important;
@@ -254,7 +254,7 @@ body {
 
 [[div class="kni-header-box"]]
 [[div class="kni-header-title"]]
-+ R&D - 012 : LE CHŒUR D'OS
++ R&D - 012 : //LE CHŒUR D'OS//
 [[/div]]
 [[div class="kni-sub"]]
 DÉPARTEMENT GÉNÉRAL D'ARMÉE // TRANSMUTATION & RAFFINAGE
@@ -267,15 +267,15 @@ DÉPARTEMENT GÉNÉRAL D'ARMÉE // TRANSMUTATION & RAFFINAGE
 **Chercheur Attitré :** Scientifique Vayne, sous l'autorité du //Magister de Raffinage//.
 **Rendement Estimé :** [[span class="term-nogah"]]Source Autonome[[/span]]
 **Densité de la Scorie :** [[span class="term-kelipah"]]Faible[[/span]]
-**Statut :** Relique purifiée. Réintégrée à l'arsenal lourd du DGA.
+**Statut :** Relique purifiée. Réintégrée à l'arsenal lourd du [[span class="tech-code"]]DGA[[/span]].
 [[/div]]
 
 [[div class="kni-block kni-block-gold"]]
 + PRÉCEPTES D'EXTRACTION
 
-L'acquisition de [[span class="tech-code"]]R&D-012[[/span]] sur le terrain a été exécutée par le **Département Général d'Armée (DGA)** avant que des forces hostiles ne bouclent le secteur. L'objectif n'était pas la destruction, mais un écorçage méticuleux.
+L'acquisition de [[span class="tech-code"]]R&D-012[[/span]] sur le terrain a été exécutée par le [[span class="tech-code"]]Département Générale d'Armée[[/span]] avant que des forces hostiles ne bouclent le secteur. L'objectif n'était pas la destruction, mais un écorçage méticuleux.
 
-Une escouade de frappe **Tishmed** a déployé un dôme d'isolation stérile. Bénéficiant des modifications bio-thaumaturgiques tirées de la //Bible de Chair//, nos soldats ont résisté sans fléchir aux ondes destructrices du site. Huit Canalisateurs de l'Aube ont ensuite projeté un flux de [[span class="term-nogah"]]Nogah[[/span]] à très basse fréquence pendant soixante-douze heures ininterrompues pour calciner l'enveloppe charnelle sans altérer le cœur mécanique de la relique.
+Une escouade de frappe **Tishmed** a déployé un dôme d'isolation stérile. Bénéficiant des modifications bio-thaumaturgiques tirées de la //__Bible de Chair__//, nos soldats ont résisté sans fléchir aux ondes destructrices du site. Huit Canalisateurs de l'Aube ont ensuite projeté un flux de [[span class="term-nogah"]]Nogah[[/span]] à très basse fréquence pendant soixante-douze heures ininterrompues pour calciner l'enveloppe charnelle sans altérer le cœur mécanique de la relique.
 [[/div]]
 
 [[div class="kni-block kni-block-copper"]]
@@ -285,15 +285,15 @@ Avant intervention, [[span class="tech-code"]]R&D-012[[/span]] prenait la forme 
 
 Les rapports de renseignements montraient que des groupes rivaux hésitaient sur la marche à suivre, effrayés par la résonance démonique et sarkique de l'instrument.
 
-Le Conseil Nogah a décelé leur erreur d'analyse : la fréquence sonore n'était pas intrinsèquement corrompue. C'est le filtre de chair (la [[span class="term-kelipah"]]Kelipah[[/span]]) qui déformait l'onde. La vérité résidait sous la Scorie.
+Le [ALT]+219 a décelé leur erreur d'analyse : la fréquence sonore n'était pas intrinsèquement corrompue. C'est le filtre de chair[[footnote]] la [[span class="term-kelipah"]]Kelipah[[/span]] [[/footnote]] qui déformait l'onde. La vérité résidait sous la Scorie.
 [[/div]]
 
 [[div class="kni-block kni-block-gold"]]
 + BILAN DE FORGE ET RÉINTÉGRATION
 
-La purification menée par le DGA[[footnote]] Département Générale d'Armée [[/footnote]] est un succès complet. Sous le rayonnement de nos Creusets de terrain, la chair mutante s'est réduite en poudres et scories sèches[[footnote]] Récupérées dans nos conteneurs hermétiques et expédiées vers nos centres de raffinerie interne [[/footnote]].
+La purification menée par le [[span class="tech-code"]]DGA[[/span]][[footnote]] [[span class="tech-code"]]Département Générale d'Armée[[/span]] [[/footnote]] est un succès complet. Sous le rayonnement de nos Creusets de terrain, la chair mutante s'est réduite en poudres et scories sèches[[footnote]] Récupérées dans nos conteneurs hermétiques et expédiées vers nos centres de raffinerie interne [[/footnote]].
 
 L'armature d'origine a été mise à nu : un complexe de cylindres en cristal et en os d'une pureté absolue, exempt de toute hostilité.
 
-Une fois recalibrée par nos ingénieurs militaires, la relique réitère sa puissance : alimentée par une cartouche de [[span class="term-nogah"]]Nogah[[/span]], elle produit désormais un chant harmonique qui cristallise et annihile la biomasse sarkique ennemi à portée. Renommée //La Voix de l'Archonte//, elle est désormais intégrée aux véhicules de combat lourds des unités **Tishmed** du DGA.
+Une fois recalibrée par nos ingénieurs militaires, la relique réitère sa puissance : alimentée par une cartouche de [[span class="term-nogah"]]Nogah[[/span]], elle produit désormais un chant harmonique qui cristallise et annihile la biomasse sarkique ennemi à portée. Renommée //La Voix de l'Archonte//, elle est désormais intégrée aux véhicules de combat lourds des unités **Tishmed** du [[span class="tech-code"]]DGA[[/span]].
 [[/div]]

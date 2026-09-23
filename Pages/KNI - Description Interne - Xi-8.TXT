@@ -74,7 +74,7 @@ body {
 
 #header h1 a span { display: none !important; }
 #header h1 a::before {
-    content: "KELIPAT NOGAH INITIATIVE" !important;
+    content: "L'AUBE D'OR" !important;
     font-family: 'Cinzel', serif !important;
     color: var(--kni-gold) !important;
     font-weight: 700 !important;
@@ -323,18 +323,18 @@ BATAILLON ANTI-SARKIQUE CONJOINT // INDICATIF : "LES DERNIERS À TOMBER"
 + FICHE SYNTHÉTIQUE DE L'UNITÉ
 
 ||~ PARAMÈTRE ||~ DÉSIGNATION TACTIQUE ||
-|| **Code Unité** || [[span class="tech-code"]]FIM Xi-8[[/span]] ||
+|| **Code Unité** || [[span class="tech-code"]]Xi-8[[/span]] ||
 || **Surnom Opérationnel** || "Les Derniers à Tomber" ||
 || **Spécialité Principale** || Acquisition, confinement et neutralisation d'entités et d'artéfacts Sarkiques[[footnote]]Cultes dévoués aux manipulations de la chair et à la bio-ingénierie préhistorique.[[/footnote]] ||
 || **Commandant Général** || Maréchale Raaina Tariq-Sattar ||
-|| **Administration & Commandement** || Direction du [[span class="tech-code"]]DGA[[/span]] de l'Initiative Kelipat Nogah ||
+|| **Administration & Commandement** || Direction du [[span class="tech-code"]]DGA[[/span]] de la [[span class="kni-brand"]]Kelipat Nogah Initiative[[/span]] ||
 || **Financement & Logistique** || La Fondation SCP (Financement intégral, équipement lourd, désignation des cibles) ||
 || **Appui Naval & Portée** || 6 continents principaux / Flotte conjointe (Fondation SCP & anciens actifs navals de la Coalition Mondiale Occulte) ||
 
 ----
 
 +++ Accord Bipartite de Coopération
-La **FIM Xi-8** est une unité unifiée de niveau bataillon. L'accord conjoint garantit à l'[[span class="kni-brand"]]Initiative Kelipat Nogah[[/span]] le commandement tactique direct sur le terrain et la gestion administrative globale. La Fondation SCP prend en charge le coût financier, l'armement lourd et le ciblage stratégique.
+La **Xi-8** est une unité unifiée de niveau bataillon. L'accord conjoint garantit à la [[span class="kni-brand"]]Kelipat Nogah Initiative[[/span]] le commandement tactique direct sur le terrain et la gestion administrative globale. La Fondation SCP prend en charge le coût financier, l'armement lourd et le ciblage stratégique.
 
 [[/div]]
 
@@ -342,7 +342,7 @@ La **FIM Xi-8** est une unité unifiée de niveau bataillon. L'accord conjoint g
 
 + PROTOCOLES D'ENGAGEMENT CONTRE LA MENACE SARKIQUE
 
-Conformément au manuel de formation contre l'occultisme[[footnote]]Saisi et mis à jour sous le registre [[span class="tech-code"]]MANUEL_XI8_OCB[[/span]].[[/footnote]], la FIM Xi-8 intervient selon des procédures de séparation strictes afin d'éviter les dégâts ontologiques :
+Conformément au manuel de formation contre l'occultisme[[footnote]]Saisi et mis à jour sous le registre [[span class="tech-code"]]MANUEL_XI8_OCB[[/span]].[[/footnote]], la Xi-8 intervient selon des procédures de séparation strictes afin d'éviter les dégâts ontologiques :
 
 * **Karcistes (Praticiens & Leaders) :** Nœuds décisionnels du réseau rituel. La capture ou l'isolement est prioritaire avant l'élimination. Rompre l'ancrage rituel évite les réactions en chaîne ontologiques.
 * **Entités Biologiques & Masses Organiques :** Soumises à l'isolement biologique, à la privation de nutriments et à la fragmentation contrôlée par les équipes de biocontainment.
@@ -363,12 +363,12 @@ Conformément au manuel de formation contre l'occultisme[[footnote]]Saisi et mis
 ++++ Commandement Supérieur & État-Major
 * **Commandant Général :** Maréchale Raaina Tariq-Sattar
 * **Supervision Administrative :** Direction Générale de l'Initiative (DGA)
-* **Commandant de Terrain :** Commandant Malachai ben Liraz
+* **Commandant de Terrain :** Commandant Malachai Yusef ben Liraz
 
 ----
 
 ++++ Compagnie Alpha — Combat Lourd & Infiltration
-**Commandant :** Commandant Malachai ben Liraz
+**Commandant :** Commandant Malachai Yusef ben Liraz
 * **Quartier Général :** 23 membres
 * **1er Peloton (Exfiltration d'élite) :** 12 membres
 * **2e Peloton (Expéditionnaire) :** 16 membres
@@ -400,7 +400,7 @@ Conformément au manuel de formation contre l'occultisme[[footnote]]Saisi et mis
 * **4e Peloton (Paraspécialistes) :** 18 membres
 
 ----
-//Note de la Direction : L'intégration de paraspécialistes au sein de chaque compagnie et l'application de nos procédés de purification font de la FIM Xi-8 un instrument de première importance pour l'Initiative.//
+//Note de la Direction : L'intégration de paraspécialistes au sein de chaque compagnie et l'application de nos procédés de purification font de la Xi-8 un instrument de première importance pour l'Initiative.//
 
 [[/div]]
 

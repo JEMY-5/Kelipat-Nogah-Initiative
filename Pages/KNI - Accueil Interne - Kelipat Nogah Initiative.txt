@@ -74,7 +74,7 @@ body {
 
 #header h1 a span { display: none !important; }
 #header h1 a::before {
-    content: "KELIPAT NOGAH INITIATIVE" !important;
+    content: "L'AUBE D'OR" !important;
     font-family: 'Cinzel', serif !important;
     color: var(--kni-gold) !important;
     font-weight: 700 !important;
@@ -344,7 +344,7 @@ body {
 [[div class="kni-header-box"]]
 
 [[div class="kni-header-title"]]
-+ INITIATIVE KELIPAT NOGAH
++ KELIPAT NOGAH INTIATIVE
 [[/div]]
 
 [[div class="kni-sub"]]
@@ -422,7 +422,7 @@ Seule l'[[span class="kni-brand"]]Initiative[[/span]] possède la rigueur scient
 
 ||~ NOM DE CODE ||~ BRANCHE ||~ CODE INTERNE ||~ FONCTION SPÉCIFIQUE ||
 || //Maitre des Sceaux// || **Branche Judiciaire** || [[span class="tech-code"]]BJ[[/span]] || Application du code pénal interne, maintien de la discipline et arbitrage des litiges. ||
-|| //Veilleur des Manuscrits// || **Branche de Documentation et d'Archive** || [[span class="tech-code"]]BDA[[/span]] || Centralisation, classification et sécurisation absolue des savoirs et historiques opérationnels. ||
+|| //Veilleur des Manuscrits// || **Branche de Documentation et d'Archivage** || [[span class="tech-code"]]BDA[[/span]] || Centralisation, classification et sécurisation absolue des savoirs et historiques opérationnels. ||
 || //Émissaire de l'Aube// || **Branche des Relations Diplomatique** || [[span class="tech-code"]]BRD[[/span]] || Représentation extérieure, négociation stratégique et gestion des interactions avec les autres entités/organisation. ||
 || //Haut-Intendant// || **Branche des Ressources Humaines** || [[span class="tech-code"]]BRH[[/span]] || Recrutement, évaluation psychologique et affectation stratégique des effectifs. ||
 

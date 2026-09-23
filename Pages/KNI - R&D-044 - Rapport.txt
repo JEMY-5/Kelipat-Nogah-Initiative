@@ -67,7 +67,7 @@ body {
 
 #header h1 a span { display: none !important; }
 #header h1 a::before {
-    content: "KELIPAT NOGAH INITIATIVE" !important;
+    content: "L'AUBE D'OR" !important;
     font-family: 'Cinzel', serif !important;
     color: var(--kni-gold) !important;
     font-weight: 700 !important;
@@ -286,13 +286,13 @@ BRANCHE DE DOCUMENTATION ET D'ARCHIVAGE // TRANSMUTATION & RAFFINAGE
 [[div class="kni-block kni-block-gold"]]
 + PRÉCEPTES DE PURGE
 
-L'objectif primordial est la saisie immédiate du gisement avant toute intervention de la Fondation SCP ou des GdI rivaux. Le DGA[[footnote]] Département Générale d'Armée [[/footnote]] a déployé trois escouades tactiques **Tishmed** sur le terrain.
+L'objectif primordial est la saisie immédiate du gisement avant toute intervention de la Fondation SCP ou des GdI rivaux. Le [[span class="tech-code"]]DGA[[/span]][[footnote]] [[span class="tech-code"]]Département Générale d'Armée[[/span]] [[/footnote]] a déployé trois escouades tactiques **Tishmed** sur le terrain.
 
 Conformément au protocole de l'[[span class="term-initiative"]]Initiative[[/span]], les opérateurs **Tishmed** engagés ont subi des altérations physiques, thaumaturgiques et sarkiques profondes rendues possibles grâce aux préceptes de la //Bible de Chair//. Leurs armures étanches et leur armement lourd, également gravés de Runes de Sceau et forgés par des voies occultes, leur procurent une immunité totale contre la biocorrosion, le démonisme et les distorsions thaumiques du milieu.
 
 Les **Tishmed** ont pour directive de sectionner les artères nourricières reliant la masse principale aux parois rocheuses. Une fois le noyau mis à nu, les Sondes du Creuset doivent y être directement insérées pour drainer la [[span class="term-nogah"]]Nogah[[/span]] jusqu'à l'effondrement ontologique de la biomasse.
 
-* **Avertissement du //Grand-Prévôt// :** Bien que l'imprégnation de la //Bible de Chair// prémunisse nos hommes contre la contamination métaphysique, la chute directe dans le liquide gastrique du puits provoquera une dissolution moléculaire. Aucun sauvetage n'est autorisé en cas d'immersion.
+* **Avertissement du //Grand-Prévôt// :** Bien que l'imprégnation de la //__Bible de Chair__// prémunisse nos hommes contre la contamination métaphysique, la chute directe dans le liquide gastrique du puits provoquera une dissolution moléculaire. Aucun sauvetage n'est autorisé en cas d'immersion.
 [[/div]]
 
 [[div class="kni-block kni-block-copper"]]
@@ -306,9 +306,9 @@ Pour l'[[span class="term-initiative"]]Initiative[[/span]], ce bassin représent
 [[div class="kni-block kni-block-teal"]]
 + BILAN DE FORGE ET RETRAITEMENT INTERNE
 
-L'assaut mené par les équipes **Tishmed** du DGA a duré quarante-deux minutes. Grâce à la supériorité occulto-militaire de notre équipement, l'entité sarkique n'a pu opposer aucune résistance cognitive. Une rupture d'artère acide a toutefois coûté la vie à deux opérateurs, dont les dépouilles ont été immédiatement consommées par l'écorce. Leurs noms ont été transmis à la BDA[[footnote]] Branche de Documentation et d'Archivage [[/footnote]] pour inscription au registre des martyrs de l'Aube.
+L'assaut mené par les équipes **Tishmed** du [[span class="tech-code"]]DGA[[/span]] a duré quarante-deux minutes. Grâce à la supériorité occulto-militaire de notre équipement, l'entité sarkique n'a pu opposer aucune résistance cognitive. Une rupture d'artère acide a toutefois coûté la vie à deux opérateurs, dont les dépouilles ont été immédiatement consommées par l'écorce. Leurs noms ont été transmis à la [[span class="tech-code"]]BDA[[/span]][[footnote]] [[span class="tech-code"]]Branche de Documentation et d'Archivage[[/span]] [[/footnote]] pour inscription au registre des martyrs de l'Aube.
 
 Le Creuset a extrait [[span class="tech-code"]]14 000 Unités-Nogah[[/span]].
 
-L'intégralité des résidus de [[span class="term-kelipah"]]Kelipah[[/span]] (environ 8 000 litres de fluide scoriacé) a été extraite par nos véhicules de pompage blindés du DGA et transférée vers la Raffinerie - Gamma pour être recyclée au sein de nos propres lignes d'armement.
+L'intégralité des résidus de [[span class="term-kelipah"]]Kelipah[[/span]] (environ 8 000 litres de fluide scoriacé) a été extraite par nos véhicules de pompage blindés du [[span class="tech-code"]]DGA[[/span]] et transférée vers la Raffinerie - Gamma pour être recyclée au sein de nos propres lignes d'armement.
 [[/div]]
