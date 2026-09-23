@@ -1,0 +1,298 @@
+[[include credit:start]]
+**Titre :** R&D - 012 — Le Chœur d'Os
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap');
+
+:root {
+    --kni-bg-dark: #040907;
+    --kni-bg-surface: #08120d;
+    --kni-gold: #e9c46a;
+    --kni-teal: #1f8a7a;
+    --kni-copper: #e76f51;
+    --kni-text: #c8d6ce;
+    --kni-border: #142a20;
+}
+
+@keyframes nogah-glow {
+    0%, 100% { text-shadow: 0 0 6px rgba(233, 196, 106, 0.6), 0 0 12px rgba(233, 196, 106, 0.3) !important; color: #e9c46a !important; }
+    50% { text-shadow: 0 0 18px rgba(233, 196, 106, 0.9), 0 0 28px rgba(233, 196, 106, 0.6) !important; color: #f4d58d !important; }
+}
+
+@keyframes etheric-breath {
+    0%, 100% { border-color: rgba(31, 138, 122, 0.7) !important; box-shadow: 0 0 8px rgba(31, 138, 122, 0.2) !important; }
+    50% { border-color: rgba(233, 196, 106, 0.9) !important; box-shadow: 0 0 20px rgba(233, 196, 106, 0.4) !important; }
+}
+
+@keyframes kelipah-flicker {
+    0%, 100% { border-left-color: #e76f51 !important; box-shadow: 0 0 6px rgba(231, 111, 81, 0.3) !important; }
+    50% { border-left-color: #f4a261 !important; box-shadow: -4px 0 15px rgba(231, 111, 81, 0.6) !important; }
+}
+
+#main-content #page-content h1,
+#main-content #page-content h2,
+#main-content #page-content h3,
+#main-content #page-content h4,
+.kni-header-title h1 {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', 'Georgia', serif !important;
+    border-bottom: none !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+html, body, #container-wrap, #container-wrap-inner, #container, 
+#wrapper, #content-wrap, #main-content, #page-content, p, li, td {
+    background-color: var(--kni-bg-dark) !important;
+    color: var(--kni-text) !important;
+    font-family: 'Rajdhani', sans-serif !important;
+}
+
+body {
+    background-image: radial-gradient(circle at 50% 0%, #0a1c14 0%, #040907 80%) !important;
+    background-attachment: fixed !important;
+}
+
+#page-title { display: none !important; }
+
+#header {
+    background: linear-gradient(180deg, #020504 0%, #08120d 100%) !important;
+    border-bottom: 3px solid var(--kni-gold) !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.9) !important;
+    position: relative !important;
+    height: 110px !important;
+}
+
+#header h1 a span { display: none !important; }
+#header h1 a::before {
+    content: "KELIPAT NOGAH INITIATIVE" !important;
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: 700 !important;
+    font-size: 1.3em !important;
+    letter-spacing: 2px !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+#header h2 span { display: none !important; }
+#header h2::before {
+    content: "SÉPARER LA SCORIE // LIBÉRER LA LUMIÈRE" !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    color: var(--kni-teal) !important;
+    font-size: 0.85em !important;
+    letter-spacing: 1.5px !important;
+}
+
+#search-top-box {
+    position: absolute !important;
+    top: 15px !important;
+    right: 15px !important;
+}
+
+#search-top-box-input {
+    background-color: #08120d !important;
+    color: var(--kni-gold) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#search-top-box-form input[type="submit"] {
+    background-color: var(--kni-teal) !important;
+    color: #040907 !important;
+    border: none !important;
+}
+
+#top-bar {
+    background: var(--kni-bg-surface) !important;
+    border-bottom: 2px solid var(--kni-teal) !important;
+}
+
+#top-bar a, #top-bar ul li a {
+    color: var(--kni-text) !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    background: transparent !important;
+}
+
+#top-bar ul li:hover > a, #top-bar ul li.sfhover > a, #top-bar ul li a:hover {
+    color: var(--kni-gold) !important;
+    background-color: #0f241a !important;
+}
+
+#top-bar ul li ul {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#top-bar ul li ul li a {
+    background-color: var(--kni-bg-surface) !important;
+    color: var(--kni-text) !important;
+}
+
+#top-bar ul li ul li a:hover {
+    background-color: #0f241a !important;
+    color: var(--kni-gold) !important;
+}
+
+#side-bar { background: transparent !important; border: none !important; }
+#side-bar .side-block {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 12px !important;
+}
+
+#side-bar .heading {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', serif !important;
+    border-bottom: 1px solid var(--kni-teal) !important;
+}
+
+#side-bar a { color: var(--kni-text) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; background-color: #0f241a !important; }
+
+.kni-header-box {
+    background: linear-gradient(135deg, #020504 0%, #0b1a13 100%) !important;
+    border: 1px solid var(--kni-teal) !important;
+    border-left: 6px solid var(--kni-gold) !important;
+    padding: 20px !important;
+    border-radius: 6px !important;
+    margin-bottom: 20px !important;
+}
+
+.kni-sub {
+    font-family: 'Share Tech Mono', monospace !important;
+    color: #8dae98 !important;
+}
+
+.kni-block {
+    background: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 20px !important;
+    margin-bottom: 25px !important;
+}
+
+.kni-block-gold {
+    border-top: 4px solid var(--kni-gold) !important;
+    animation: etheric-breath 5s infinite ease-in-out !important;
+}
+
+.kni-block-copper {
+    border-top: 4px solid var(--kni-copper) !important;
+    animation: kelipah-flicker 3s infinite ease-in-out !important;
+}
+
+.kni-block-teal {
+    border-top: 4px solid var(--kni-teal) !important;
+}
+
+.term-nogah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: bold !important;
+    animation: nogah-glow 2.5s infinite ease-in-out !important;
+}
+
+.term-kelipah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-copper) !important;
+    font-weight: bold !important;
+}
+
+.tech-code {
+    font-family: 'Share Tech Mono', monospace !important;
+    background: #08140f !important;
+    color: var(--kni-teal) !important;
+    padding: 2px 6px !important;
+    border-radius: 3px !important;
+    border: 1px solid #10261c !important;
+    display: inline-block !important;
+}
+
+#footer, #footer a { background: #020504 !important; color: #8dae98 !important; }
+
+@media (max-width: 768px) {
+    #header {
+        height: auto !important;
+        min-height: 100px !important;
+        padding: 10px 5px !important;
+    }
+
+    #header h1 a::before {
+        font-size: 1em !important;
+        letter-spacing: 1px !important;
+    }
+
+    #header h2::before {
+        font-size: 0.7em !important;
+        letter-spacing: 0.5px !important;
+    }
+
+    #search-top-box {
+        position: relative !important;
+        top: 0 !important;
+        right: 0 !important;
+        margin: 8px auto 0 auto !important;
+        text-align: center !important;
+    }
+
+    #main-content, #page-content {
+        padding: 8px 4px !important;
+    }
+
+    .kni-block, .kni-header-box {
+        padding: 12px !important;
+        margin-bottom: 15px !important;
+    }
+
+    .kni-header-title h1 {
+        font-size: 1.4em !important;
+    }
+}
+[[/module]]
+
+[[div class="kni-header-box"]]
+[[div class="kni-header-title"]]
++ R&D - 012 : LE CHŒUR D'OS
+[[/div]]
+[[div class="kni-sub"]]
+DÉPARTEMENT GÉNÉRAL D'ARMÉE // DÉPARTEMENT R&D
+[[/div]]
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
+**Identifiant de la Relique :** R&D-012 ("Le Chœur d'Os")
+**Rédacteur :** Magister de Raffinage Silas
+**Rendement Estimé :** [[span class="term-nogah"]]Source Autonome[[/span]]
+**Densité de la Scorie :** [[span class="term-kelipah"]]Faible[[/span]]
+**Statut :** Relique purifiée. Réintégrée à l'arsenal lourd du DGA.
+[[/div]]
+
+[[div class="kni-block kni-block-gold"]]
++ PRÉCEPTES D'EXTRACTION
+
+L'acquisition de R&D-012 sur le terrain a été exécutée par le **Département Général d'Armée (DGA)** avant que des forces hostiles ne bouclent le secteur. L'objectif n'était pas la destruction, mais un écorçage méticuleux.
+
+Une escouade de frappe **Tishmed** a déployé un dôme d'isolation stérile. Bénéficiant des modifications bio-thaumaturgiques tirées de la //Bible de Chair//, nos soldats ont résisté sans fléchir aux ondes destructrices du site. Huit Canalisateurs de l'Aube ont ensuite projeté un flux de [[span class="term-nogah"]]Nogah[[/span]] à très basse fréquence pendant soixante-douze heures ininterrompues pour calciner l'enveloppe charnelle sans altérer le cœur mécanique de la relique.
+[[/div]]
+
+[[div class="kni-block kni-block-copper"]]
++ ANATOMIE DE L'ÉCORCE
+
+Avant notre intervention, R&D-012 prenait la forme d'un orgue monumental dont les tuyaux originels avaient été remplacés par des trachées, des larynx et des cages thoraciques humaines hypertrophiées. Le tout fonctionnait via un réseau vasculaire s'alimentant dans le sol. Le Karciste local utilisait l'objet pour émettre des fréquences sonores capables de disloquer la structure osseuse de toute forme de vie non préparée dans un rayon de cinq kilomètres.
+
+Les rapports de renseignements montraient que des groupes rivaux hésitaient sur la marche à suivre, effrayés par la résonance démonique et sarkique de l'instrument.
+
+Le Conseil Nogah a décelé leur erreur d'analyse : la fréquence sonore n'était pas intrinsèquement corrompue. C'est le filtre de chair (la [[span class="term-kelipah"]]Kelipah[[/span]]) qui déformait l'onde. La vérité résidait sous la Scorie.
+[[/div]]
+
+[[div class="kni-block kni-block-gold"]]
++ BILAN DE FORGE ET RÉINTÉGRATION
+
+La purification menée par le DGA[[footnote]] Département Générale d'Armée [[/footnote]] est un succès complet. Sous le rayonnement de nos Creusets de terrain, la chair mutante s'est réduite en poudres et scories sèches[[footnote]] Récupérées dans nos conteneurs hermétiques et expédiées vers nos centres de raffinerie interne [[/footnote]].
+
+L'armature d'origine a été mise à nu : un complexe de cylindres en cristal et en os d'une pureté absolue, exempt de toute hostilité.
+
+Une fois recalibrée par nos ingénieurs militaires, la relique réitère sa puissance : alimentée par une cartouche de [[span class="term-nogah"]]Nogah[[/span]], elle produit désormais un chant harmonique qui cristallise et annihile la biomasse sarkique ennemi à portée. Renommée //La Voix de l'Archonte//, elle est désormais intégrée aux véhicules de combat lourds des unités **Tishmed** du DGA.
+[[/div]]

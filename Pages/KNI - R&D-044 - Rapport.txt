@@ -1,0 +1,315 @@
+[[include credit:start]]
+**Titre :** R&D - 044 — Le Puits Sanglant
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap');
+
+:root {
+    --kni-bg-dark: #040907;
+    --kni-bg-surface: #08120d;
+    --kni-gold: #e9c46a;
+    --kni-teal: #1f8a7a;
+    --kni-copper: #e76f51;
+    --kni-text: #c8d6ce;
+    --kni-border: #142a20;
+}
+
+@keyframes nogah-glow {
+    0%, 100% { text-shadow: 0 0 6px rgba(233, 196, 106, 0.6), 0 0 12px rgba(233, 196, 106, 0.3) !important; color: #e9c46a !important; }
+    50% { text-shadow: 0 0 18px rgba(233, 196, 106, 0.9), 0 0 28px rgba(233, 196, 106, 0.6) !important; color: #f4d58d !important; }
+}
+
+@keyframes etheric-breath {
+    0%, 100% { border-color: rgba(31, 138, 122, 0.7) !important; box-shadow: 0 0 8px rgba(31, 138, 122, 0.2) !important; }
+    50% { border-color: rgba(233, 196, 106, 0.9) !important; box-shadow: 0 0 20px rgba(233, 196, 106, 0.4) !important; }
+}
+
+@keyframes kelipah-flicker {
+    0%, 100% { border-left-color: #e76f51 !important; box-shadow: 0 0 6px rgba(231, 111, 81, 0.3) !important; }
+    50% { border-left-color: #f4a261 !important; box-shadow: -4px 0 15px rgba(231, 111, 81, 0.6) !important; }
+}
+
+#main-content #page-content h1,
+#main-content #page-content h2,
+#main-content #page-content h3,
+#main-content #page-content h4,
+.kni-header-title h1 {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', 'Georgia', serif !important;
+    border-bottom: none !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+html, body, #container-wrap, #container-wrap-inner, #container, 
+#wrapper, #content-wrap, #main-content, #page-content, p, li, td {
+    background-color: var(--kni-bg-dark) !important;
+    color: var(--kni-text) !important;
+    font-family: 'Rajdhani', sans-serif !important;
+}
+
+body {
+    background-image: radial-gradient(circle at 50% 0%, #0a1c14 0%, #040907 80%) !important;
+    background-attachment: fixed !important;
+}
+
+#page-title { display: none !important; }
+
+#header {
+    background: linear-gradient(180deg, #020504 0%, #08120d 100%) !important;
+    border-bottom: 3px solid var(--kni-gold) !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.9) !important;
+    position: relative !important;
+    height: 110px !important;
+}
+
+#header h1 a span { display: none !important; }
+#header h1 a::before {
+    content: "KELIPAT NOGAH INITIATIVE" !important;
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: 700 !important;
+    font-size: 1.3em !important;
+    letter-spacing: 2px !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
+
+#header h2 span { display: none !important; }
+#header h2::before {
+    content: "SÉPARER LA SCORIE // LIBÉRER LA LUMIÈRE" !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    color: var(--kni-teal) !important;
+    font-size: 0.85em !important;
+    letter-spacing: 1.5px !important;
+}
+
+#search-top-box {
+    position: absolute !important;
+    top: 15px !important;
+    right: 15px !important;
+}
+
+#search-top-box-input {
+    background-color: #08120d !important;
+    color: var(--kni-gold) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#search-top-box-form input[type="submit"] {
+    background-color: var(--kni-teal) !important;
+    color: #040907 !important;
+    border: none !important;
+}
+
+#top-bar {
+    background: var(--kni-bg-surface) !important;
+    border-bottom: 2px solid var(--kni-teal) !important;
+}
+
+#top-bar a, #top-bar ul li a {
+    color: var(--kni-text) !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    background: transparent !important;
+}
+
+#top-bar ul li:hover > a, #top-bar ul li.sfhover > a, #top-bar ul li a:hover {
+    color: var(--kni-gold) !important;
+    background-color: #0f241a !important;
+}
+
+#top-bar ul li ul {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
+
+#top-bar ul li ul li a {
+    background-color: var(--kni-bg-surface) !important;
+    color: var(--kni-text) !important;
+}
+
+#top-bar ul li ul li a:hover {
+    background-color: #0f241a !important;
+    color: var(--kni-gold) !important;
+}
+
+#side-bar { background: transparent !important; border: none !important; }
+#side-bar .side-block {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 12px !important;
+}
+
+#side-bar .heading {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', serif !important;
+    border-bottom: 1px solid var(--kni-teal) !important;
+}
+
+#side-bar a { color: var(--kni-text) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; background-color: #0f241a !important; }
+
+.kni-header-box {
+    background: linear-gradient(135deg, #020504 0%, #0b1a13 100%) !important;
+    border: 1px solid var(--kni-teal) !important;
+    border-left: 6px solid var(--kni-gold) !important;
+    padding: 20px !important;
+    border-radius: 6px !important;
+    margin-bottom: 20px !important;
+}
+
+.kni-sub {
+    font-family: 'Share Tech Mono', monospace !important;
+    color: #8dae98 !important;
+}
+
+.kni-brand {
+    font-family: 'Cinzel', serif !important;
+    font-weight: 700 !important;
+    color: var(--kni-teal) !important;
+}
+
+.kni-block {
+    background: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 20px !important;
+    margin-bottom: 25px !important;
+}
+
+.kni-block-gold {
+    border-top: 4px solid var(--kni-gold) !important;
+    animation: etheric-breath 5s infinite ease-in-out !important;
+}
+
+.kni-block-copper {
+    border-top: 4px solid var(--kni-copper) !important;
+    animation: kelipah-flicker 3s infinite ease-in-out !important;
+}
+
+.kni-block-teal {
+    border-top: 4px solid var(--kni-teal) !important;
+}
+
+.term-nogah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: bold !important;
+    animation: nogah-glow 2.5s infinite ease-in-out !important;
+}
+
+.term-kelipah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-copper) !important;
+    font-weight: bold !important;
+}
+
+.term-initiative {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-teal) !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+
+.tech-code {
+    font-family: 'Share Tech Mono', monospace !important;
+    background: #08140f !important;
+    color: var(--kni-teal) !important;
+    padding: 2px 6px !important;
+    border-radius: 3px !important;
+    border: 1px solid #10261c !important;
+    display: inline-block !important;
+}
+
+#footer, #footer a { background: #020504 !important; color: #8dae98 !important; }
+
+@media (max-width: 768px) {
+    #header {
+        height: auto !important;
+        min-height: 100px !important;
+        padding: 10px 5px !important;
+    }
+
+    #header h1 a::before {
+        font-size: 1em !important;
+        letter-spacing: 1px !important;
+    }
+
+    #header h2::before {
+        font-size: 0.7em !important;
+        letter-spacing: 0.5px !important;
+    }
+
+    #search-top-box {
+        position: relative !important;
+        top: 0 !important;
+        right: 0 !important;
+        margin: 8px auto 0 auto !important;
+        text-align: center !important;
+    }
+
+    #main-content, #page-content {
+        padding: 8px 4px !important;
+    }
+
+    .kni-block, .kni-header-box {
+        padding: 12px !important;
+        margin-bottom: 15px !important;
+    }
+
+    .kni-header-title h1 {
+        font-size: 1.4em !important;
+    }
+}
+[[/module]]
+
+[[div class="kni-header-box"]]
+[[div class="kni-header-title"]]
++ R&D - 044 : //LE PUITS SANGLANT//
+[[/div]]
+[[div class="kni-sub"]]
+BRANCHE DE DOCUMENTATION ET D'ARCHIVAGE // SECTION DU RAFFINAGE
+[[/div]]
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
+**Identifiant du Gisement :** R&D-044[[footnote]] Désigné sous le nom de //Le Puits Sanglant// [[/footnote]]
+**Rédacteur :** Scribe-Archiviste Kaelen, sous l'autorité du Maître des Sceaux
+**Rendement Estimé :** [[span class="term-nogah"]]Modéré-Élevé[[/span]]
+**Densité de la Scorie :** [[span class="term-kelipah"]]Critique[[/span]]
+**Statut :** Raffinage terminé. Scories acheminées vers la Raffinerie - Gamma.
+[[/div]]
+
+[[div class="kni-block kni-block-gold"]]
++ PRÉCEPTES DE PURGE
+
+L'objectif primordial est la saisie immédiate du gisement avant toute intervention de la Fondation SCP ou des GdI rivaux. Le DGA[[footnote]] Département Générale d'Armée [[/footnote]] a déployé trois escouades tactiques **Tishmed** sur le terrain.
+
+Conformément au protocole de l'[[span class="term-initiative"]]Initiative[[/span]], les opérateurs **Tishmed** engagés ont subi des altérations physiques, thaumaturgiques et sarkiques profondes rendues possibles grâce aux préceptes de la //Bible de Chair//. Leurs armures étanches et leur armement lourd, également gravés de Runes de Sceau et forgés par des voies occultes, leur procurent une immunité totale contre la biocorrosion, le démonisme et les distorsions thaumiques du milieu.
+
+Les **Tishmed** ont pour directive de sectionner les artères nourricières reliant la masse principale aux parois rocheuses. Une fois le noyau mis à nu, les Sondes du Creuset doivent y être directement insérées pour drainer la [[span class="term-nogah"]]Nogah[[/span]] jusqu'à l'effondrement ontologique de la biomasse.
+
+* **Avertissement du //Grand-Prévôt// :** Bien que l'imprégnation de la //Bible de Chair// prémunisse nos hommes contre la contamination métaphysique, la chute directe dans le liquide gastrique du puits provoquera une dissolution moléculaire. Aucun sauvetage n'est autorisé en cas d'immersion.
+[[/div]]
+
+[[div class="kni-block kni-block-copper"]]
++ ANATOMIE DE L'ÉCORCE
+
+Le gisement R&D-044 consistait en une congrégation de cultistes néo-sarkiques ayant atteint un stade de fusion collective. Cent vingt individus ont fondu leurs biomasses au fond d'une doline pour former un bassin de chair vivante et d'acide gastrique de quinze mètres de diamètre, fonctionnant comme un estomac externe géant.
+
+Les renseignements interceptés indiquaient que la Fondation SCP préparait une mise en quarantaine passive par injection de béton stérile — une réaction aveugle qui aurait détruit la scorie sans en extraire l'essence.
+
+Pour l'[[span class="term-initiative"]]Initiative[[/span]], ce bassin représentait une opportunité majeure. L'étincelle divine (la [[span class="term-nogah"]]Nogah[[/span]]) des cent vingt âmes sacrifiées était emprisonnée sous la chair mutante (la [[span class="term-kelipah"]]Kelipah[[/span]]). La pression métaphysique de cette prison générait une énergie lumineuse d'une rare pureté, indispensable à nos complexes de raffinage.
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
++ BILAN DE FORGE ET RETRAITEMENT INTERNE
+
+L'assaut mené par les équipes **Tishmed** du DGA a duré quarante-deux minutes. Grâce à la supériorité occulto-militaire de notre équipement, l'entité sarkique n'a pu opposer aucune résistance cognitive. Une rupture d'artère acide a toutefois coûté la vie à deux opérateurs, dont les dépouilles ont été immédiatement consommées par l'écorce. Leurs noms ont été transmis à la BDA[[footnote]] Branche de Documentation et d'Archivage [[/footnote]] pour inscription au registre des martyrs de l'Aube.
+
+Le Creuset a extrait [[span class="tech-code"]]14 000 Unités-Nogah[[/span]].
+
+L'intégralité des résidus de [[span class="term-kelipah"]]Kelipah[[/span]] (environ 8 000 litres de fluide scoriacé) a été extraite par nos véhicules de pompage blindés du DGA et transférée vers la Raffinerie - Gamma pour être recyclée au sein de nos propres lignes d'armement.
+[[/div]]
