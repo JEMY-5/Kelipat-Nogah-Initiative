@@ -1,0 +1,139 @@
+[[include credit:start]]
+**Titre :** Séparer l'Écorce
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+
+[[div style="background-color: #f4f4f4; border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; font-family: 'Trebuchet MS', Arial, sans-serif;"]]
+**MÉMO INTERNE — DÉPARTEMENT D'HISTOIRE & ANALYSE DE MENACE**
+**DE :** Dre Judith Low, Directrice du Projet Kelipat Nogah
+**À :** Conseil O5 (À l'attention de O5-08 ; cc: O5-12)
+**OBJET :** Révision budgétaire et menace Nälkä
+
+Superviseurs, je conteste la décision d'amputation budgétaire suite à la Directive 44-A.
+
+Classer les cellules de la Fleur Sanglante comme de simples reliques en dormance est une erreur. Les cultes Nälkä ne s'éteignent pas sous le verrou de nos chambres froides, ils s'infiltrent et pourrissent le terrain. Réduire les effectifs de la FIM Xi-8 et geler nos essais de neutralisation par résonance à la Zone-02 revient à nous condamner à une résurgence. 
+
+Mettre cette viande en boîte et attendre ne constitue pas un protocole de sécurité. C'est une stratégie de l'aveuglement.
+[[/div]]
+
+L’eau brûlante striait les mains du Commandant Malachai Liraz, emportant de minces filets de sang séché dans la bonde de l'évier. Il frottait depuis dix minutes, jusqu'à en avoir la peau à vif. La salle de décontamination puait le chlore et le savon médical, mais cette odeur de graisse rance et de chair ancienne lui collait toujours aux narines.
+
+La porte coulissa dans un déclic pneumatique. La Maréchale Raaina Tariq-Sattar s'arrêta au niveau du marquage jaune du SAS. Son uniforme était propre, mais ses yeux trahissaient la nuit blanche.
+
+« Kovac s'en tire, dit-elle. Les chirurgiens ont coupé au-dessus du coude. L'infection ne remontera pas. »
+
+Liraz coupa le robinet. Il posa ses deux mains à plat sur le rebord du lavabo, la tête basse, regardant l'eau s'égoutter de ses doigts.
+
+« On avait les charges thermiques installées, Raaina. En deux minutes, on vitrifiait la cavité sous les fondations et on rentrait. Mais le secteur a reçu l'ordre de figer la zone pour récupération.
+
+– Le Conseil veut conserver l'échantillon, Yusef.
+
+– Le Conseil a fait perdre un bras à mon sergent pour pouvoir glisser un morceau de tumeur vivante dans une cage de verre et prendre des notes. »
+
+Il s'essuya l'avant-bras avec une serviette en papier rugueuse qu'il jeta à la poubelle d'un geste sec. Tariq-Sattar ne bougea pas. En tant qu'officière supérieure, elle connaissait la règle sur le bout des doigts : **Sécuriser, Contenir, Protéger.** La Fondation ne détruisait pas par colère, elle verrouillait par précaution.
+
+« Écrivez votre rapport, Commandant. Notez que le périmètre a été sécurisé et que l'autel est sous scellés. Gardez vos états d'âme pour vous. »
+
+Liraz la fixa un instant dans le miroir tavelé par la buée, puis hocha la tête sans répondre.
+
+-------
+
+Trois étages plus haut, le bureau de la Dre Judith Low était plongé dans la pénombre, seulement éclairé par la lueur blafarde de son écran. Le voyant rouge de sa ligne directe clignota avant que le haut-parleur ne grésille.
+
+« Judith ? » La voix de Takeshi Nakada, O5-12, tirait sur la corde raide. « Le vote vient de tomber. O5-08 a remporté la majorité. »
+
+Low posa son stylo sur le bureau.
+« Le projet est gelé ?
+
+– Coupé de quarante pour cent dès ce mois-ci, et les labos de transmutation sont fermés. O5-08 estime que jouer avec la biologie sarkique pour tenter d'en tirer une énergie utilisable est une prise de risque irresponsable. La doctrine est claire : la Fondation scelle l'anomalie, elle ne cherche pas à la transformer.
+
+– On ne joue pas, Takeshi. On cherche un moyen de détruire définitivement cette crasse au lieu de la stocker jusqu'à la prochaine rupture de confinement.
+
+– La décision est prise, tranchas O5-12. Démantelez le réacteur expérimental avant la fin de la semaine et filtrez les échantillons vers les chambres froides du Site-42. »
+
+La ligne coupa. Low resta assise dans le silence du bureau. Elle aimait la Fondation, mais cette prudence bureaucratisée transformait leurs installations en réserves de poudre à canon. 
+
+Son téléphone interne vibra. C'était la Dre Samira Golzar, depuis les sous-sols de bioconfinement.
+
+« Judith… descendez au Niveau -4. Ne passez pas par le réseau principal et ne signalez pas votre déplacement. »
+
+-------
+
+Le Sous-Niveau -4 sentait l'huile chaude et l'ozone. Dans le secret des budgets détournés, Golzar y avait monté une structure massive : une cuve cylindrique blindée, cerclée de câbles de forte puissance et de générateurs de champ.
+
+Lorsque Low franchit le sas, elle y trouva Golzar et Tariq-Sattar. Les deux femmes regardaient fixement à travers l'épais hublot en verre trempé. Au centre du caisson sous vide, le fragment d'autel ramené par l'équipe de Liraz tressautait, suspendu dans les airs.
+
+« J'ai changé les fréquences de séparation, murmura Golzar en ajustant un potentiomètre à la main. Au lieu d'essayer de neutraliser la chair par la force, j'ai poussé la matière à se fendre. »
+
+Sous la contrainte du champ, la masse d'os et de muscles violets se fissura. Dans un craquement sec, l'enveloppe extérieure se dessécha d'un coup, s'effritant en une poussière noire et fétide qui tomba au fond de la cuve comme de la suie. La Scorie. La **Kelipah**.
+
+Au-dessus de cette crasse, libérée de sa coque, une sphère de lumière dorée s'immobilisa. Elle diffusait une chaleur douce, presque palpable, sans la moindre fluctuation d'instabilité. La **Nogah**.
+
+« Les relevés sont limpides, dit Golzar, le visage éclairé par le rayonnement doré. La corruption a été rejetée. Ce qui reste là-haut est une énergie pure, parfaitement stable. Ça peut alimenter nos installations, renforcer des blindages, soigner des tissus détruits. On n'a pas juste neutralisé l'objet, Judith. On l'a purifié.
+
+– C'est une altération délibérée d'objet anormal, intervint Tariq-Sattar, la voix basse. Le Comité d'Éthique appelle ça de la création d'anomalie. Si cela remonte au Conseil, c'est la cour martiale pour tout le monde. »
+
+Low s'approcha de la vitre et y posa la main. Le verre était tiède. Elle revit le bras coupé de Kovac, les rapports d'incidents qui s'entassaient sur son bureau, les sites dévastés par des entités que la Fondation s'obstinait à garder en vie sous prétexte de confinement.
+
+« La directive de Nakada exige la destruction du matériel, rappela Golzar d'une voix hésitante. Qu'est-ce qu'on fait ? »
+
+Judith Low se redressa, ajusta sa veste et reprit son ton le plus impersonnel.
+
+« Dre Golzar, je noterai dans mon rapport de ce soir qu'une surtension majeure est survenue pendant le démantèlement du prototype. Le cœur du réacteur a fondu et les spécimens sarkiques ont été réduits en cendres.
+
+Golzar marqua un temps d'arrêt, comprenant la manœuvre.
+– Un accident électrique…
+
+– Un sinistre total, confirma Low. La Maréchale contresignera le rapport d'incident pour valider la perte des échantillons. »
+
+Tariq-Sattar esquissa un court hochement de tête.
+« Le dossier d'avarie sera classé avant demain matin. Mes hommes boucleront le secteur pour éviter que des inspecteurs ne viennent fouiller dans les gravats.
+
+– Bien, conclut Low. Et puisque ce sous-sol n'existe plus sur les cartes de la Zone-02, préparez les plans pour une cuve de plus grande capacité, Samira. Nous allons recevoir du matériel. »
+
+-------
+
+**Trois mois plus tard.**
+
+La pluie frappait la tôle d'une usine désaffectée au milieu des marais de Pripyat. À l'intérieur, la FIM Xi-8 travaillait dans l'obscurité, éclairée par les seules lampes de leurs casques.
+
+Au centre du bâtiment, l'autel sarkique venait d'être découpé à la lance thermique. Le sergent Kovac, manœuvrant d'une main gauche fluide tandis que sa prothèse mécanique maintenait le caisson d'acier, scella le dernier verrou avec un bruit métallique lourd.
+
+« Le transporteur de la Fondation sera au point de rendez-vous dans dix minutes, dit Kovac dans sa radio. Les balises de transit pour le Site-42 sont prêtes. »
+
+Liraz s'approcha du conteneur. Il tirait un boîtier de sa veste et le plaqua contre le flanc du caisson. Un voyant vert s'alluma : le signal GPS officiel venait d'être dérivé vers un drone leurre volant vers l'ouest.
+
+« Ce n'est pas l'hélicoptère de la Fondation qui arrive, Sergent, répondit Liraz. C'est un cargo privé affrété par la Maréchale. Ces caissons n'iront jamais au Site-42. »
+
+Kovac fixa son commandant. Il jeta un coup d'œil à son bras de métal, puis au conteneur où l'anomalie étouffait sous l'acier. Il ne posa aucune question.
+
+« Reçu. On verrouille la zone pour l'atterrissage du cargo. »
+
+-------
+
+À deux mille kilomètres de là, sous la surface glacée de la mer Baltique, les voutes en béton d'une ancienne base sous-marine soviétique vibraient d'un bourdonnement continu.
+
+Dans la salle des machines, la lumière dorée du premier grand réacteur balayait les murs bruts. Judith Low, drapée dans une blouse sombre, contrôlait les compteurs de débit tandis que Golzar supervisait l'injection des fluides. Les cargaisons détournées par Liraz alimentaient la cuve centrale jour et nuit.
+
+Dans les niveaux inférieurs, d'épaisses conduites évacuaient la boue noire et toxique, la *Kelipah*, vers des cuves de décantation plombées deep sous l'eau. Le déchet, la saleté, gardée sous haute surveillance.
+
+Au niveau supérieur, des accumulateurs de quartz emmagasinaient la *Nogah*, cette lumière pure prête à être moulée pour fabriquer un nouvel armement.
+
+Le sas d'accès s'ouvrit. Liraz et Tariq-Sattar entrèrent, leurs manteaux encore trempés par la pluie du dehors.
+
+« La FIM Xi-8 a été portée disparue au combat dans les rapports de la Fondation, dit Tariq-Sattar en posant son dossier sur la console. Nous n'existons plus.
+
+– C'est très bien ainsi, répondit Low sans quitter le réacteur des yeux. Le Conseil continue de croire qu'on protège les hommes en construisant des cages. Ils préfèrent empiler les monstres plutôt que de les détruire. Mais les verrous finissent toujours par céder. »
+
+Elle posa sa main sur le châssis chaud de la cuve.
+
+« Nous allons prendre cette pourriture, nous allons la distiller, et nous en ferons ce qu'il faut pour défendre ce monde.
+
+– Sous quel nom rassemblons-nous les effectifs ? demanda Liraz.
+
+– Nous ne changerons pas, dit Tariq-Sattar. Nous acheverons simplement la mission qu'ils n'ont pas eu le courage de mener. »
+
+Judith Low fixa la sphère dorée qui pulsait derrière le verre.
+
+« **L'Initiative Kelipat Nogah**. Nous séparerons l'écorce pour libérer la lumière. »
