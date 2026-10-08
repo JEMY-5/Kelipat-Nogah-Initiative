@@ -1,5 +1,5 @@
 [[include credit:start]]
-**Titre :** R&D - 012 — Le Chœur d'Os
+**Titre :** R&T - 012 — Le Chœur d'Os
 **Auteur :** [[*user JemY5]]
 **Date :** 2026
 [[include credit:end]]
@@ -78,7 +78,7 @@ body {
 
 #header h2 span { display: none !important; }
 #header h2::before {
-    content: "SÉPARER LA SCORIE // LIBÉRER LA LUMIÈRE" !important;
+    content: "SÉPARER LA SCORIE [-] LIBÉRER LA LUMIÈRE" !important;
     font-family: 'Share Tech Mono', monospace !important;
     color: var(--kni-teal) !important;
     font-size: 0.85em !important;
@@ -254,15 +254,15 @@ body {
 
 [[div class="kni-header-box"]]
 [[div class="kni-header-title"]]
-+ R&D - 012 : //LE CHŒUR D'OS//
++ R&T - 012 : //LE CHŒUR D'OS//
 [[/div]]
 [[div class="kni-sub"]]
-DÉPARTEMENT GÉNÉRAL D'ARMÉE // TRANSMUTATION & RAFFINAGE
+DÉPARTEMENT GÉNÉRAL D'ARMÉE [-] RAFFINAGE & TRANSMUTATION
 [[/div]]
 [[/div]]
 
 [[div class="kni-block kni-block-teal"]]
-**Identifiant de la Relique :** [[span class="tech-code"]]R&D-012[[/span]][[footnote]] Désigné sous le nom de " //Le Chœur d'Os// " [[/footnote]]
+**Identifiant de la Relique :** [[span class="tech-code"]]R&T-012[[/span]][[footnote]] Désigné sous le nom de " //Le Chœur d'Os// " [[/footnote]]
 **Rédacteur :** Scribeur-Maître Silas, sous l'autorité du //Veilleur des Manuscrits//.
 **Chercheur Attitré :** Scientifique Vayne, sous l'autorité du //Magister de Raffinage//.
 **Rendement Estimé :** [[span class="term-nogah"]]Source Autonome[[/span]]
@@ -273,7 +273,7 @@ DÉPARTEMENT GÉNÉRAL D'ARMÉE // TRANSMUTATION & RAFFINAGE
 [[div class="kni-block kni-block-gold"]]
 + PRÉCEPTES D'EXTRACTION
 
-L'acquisition de [[span class="tech-code"]]R&D-012[[/span]] sur le terrain a été exécutée par le [[span class="tech-code"]]Département Générale d'Armée[[/span]] avant que des forces hostiles ne bouclent le secteur. L'objectif n'était pas la destruction, mais un écorçage méticuleux.
+L'acquisition de [[span class="tech-code"]]R&T-012[[/span]] sur le terrain a été exécutée par le [[span class="tech-code"]]Département Générale d'Armée[[/span]] avant que des forces hostiles ne bouclent le secteur. L'objectif n'était pas la destruction, mais un écorçage méticuleux.
 
 Une escouade de frappe **Tishmed** a déployé un dôme d'isolation stérile. Bénéficiant des modifications bio-thaumaturgiques tirées de la //__Bible de Chair__//, nos soldats ont résisté sans fléchir aux ondes destructrices du site. Huit Canalisateurs de l'Aube ont ensuite projeté un flux de [[span class="term-nogah"]]Nogah[[/span]] à très basse fréquence pendant soixante-douze heures ininterrompues pour calciner l'enveloppe charnelle sans altérer le cœur mécanique de la relique.
 [[/div]]
@@ -281,7 +281,7 @@ Une escouade de frappe **Tishmed** a déployé un dôme d'isolation stérile. B�
 [[div class="kni-block kni-block-copper"]]
 + ANATOMIE DE L'ÉCORCE
 
-Avant intervention, [[span class="tech-code"]]R&D-012[[/span]] prenait la forme d'un orgue monumental dont les tuyaux originels avaient été remplacés par des trachées, des larynx et des cages thoraciques humaines hypertrophiées. Le tout fonctionnait via un réseau vasculaire s'alimentant dans le sol. Le Karciste local utilisait l'objet pour émettre des fréquences sonores capables de disloquer la structure osseuse de toute forme de vie non préparée dans un rayon de cinq kilomètres.
+Avant intervention, [[span class="tech-code"]]R&T-012[[/span]] prenait la forme d'un orgue monumental dont les tuyaux originels avaient été remplacés par des trachées, des larynx et des cages thoraciques humaines hypertrophiées. Le tout fonctionnait via un réseau vasculaire s'alimentant dans le sol. Le Karciste local utilisait l'objet pour émettre des fréquences sonores capables de disloquer la structure osseuse de toute forme de vie non préparée dans un rayon de cinq kilomètres.
 
 Les rapports de renseignements montraient que des groupes rivaux hésitaient sur la marche à suivre, effrayés par la résonance démonique et sarkique de l'instrument.
 

@@ -85,7 +85,7 @@ body {
 
 #header h2 span { display: none !important; }
 #header h2::before {
-    content: "SÉPARER LA SCORIE // LIBÉRER LA LUMIÈRE" !important;
+    content: "SÉPARER LA SCORIE [-] LIBÉRER LA LUMIÈRE" !important;
     font-family: 'Share Tech Mono', monospace !important;
     color: var(--kni-teal) !important;
     font-size: 0.85em !important;
@@ -313,7 +313,7 @@ body {
 [[/div]]
 
 [[div class="kni-sub"]]
-BATAILLON ANTI-SARKIQUE CONJOINT // INDICATIF : "LES DERNIERS À TOMBER"
+FORCE INTERVENTION MILITAIRE : XI-8 [-] "LES DERNIERS À TOMBER"
 [[/div]]
 
 [[/div]]
@@ -323,13 +323,13 @@ BATAILLON ANTI-SARKIQUE CONJOINT // INDICATIF : "LES DERNIERS À TOMBER"
 + FICHE SYNTHÉTIQUE DE L'UNITÉ
 
 ||~ PARAMÈTRE ||~ DÉSIGNATION TACTIQUE ||
-|| **Code Unité** || [[span class="tech-code"]]Xi-8[[/span]] ||
-|| **Surnom Opérationnel** || "Les Derniers à Tomber" ||
-|| **Spécialité Principale** || Acquisition, confinement et neutralisation d'entités et d'artéfacts Sarkiques[[footnote]]Cultes dévoués aux manipulations de la chair et à la bio-ingénierie préhistorique.[[/footnote]] ||
+|| **Matricule** || [[span class="tech-code"]]Xi-8[[/span]] ||
+|| **Indicatif** || "Les Derniers à Tomber" ||
+|| **Spécialisation** || Acquisition, confinement et neutralisation d'entités et d'artéfacts Sarkiques[[footnote]]Cultes dévoués aux manipulations de la chair et à la bio-ingénierie préhistorique.[[/footnote]] ||
 || **Commandant Général** || Maréchale Raaina Tariq-Sattar ||
-|| **Administration & Commandement** || Direction du [[span class="tech-code"]]DGA[[/span]] de la [[span class="kni-brand"]]Kelipat Nogah Initiative[[/span]] ||
-|| **Financement & Logistique** || La Fondation SCP (Financement intégral, équipement lourd, désignation des cibles) ||
-|| **Appui Naval & Portée** || 6 continents principaux / Flotte conjointe (Fondation SCP & anciens actifs navals de la Coalition Mondiale Occulte) ||
+|| **Administration & Commandement** || Direction du [[span class="tech-code"]]DGA[[/span]][[footnote]] [[span class="tech-code"]]Département Générale d'Armée[[/span]] [[/footnote]] de la [[span class="kni-brand"]]Kelipat Nogah Initiative[[/span]] ||
+|| **Financement & Logistique** || La Fondation SCP[[footnote]] Financement intégral, équipement lourd, désignation des cibles [[/footnote]] ||
+|| **Appui Naval & Portée** || 6 continents principaux / Flotte conjointe[[footnote]] Fondation SCP & anciens actifs navals de la Coalition Mondiale Occulte [[/footnote]] ||
 
 ----
 
@@ -362,7 +362,7 @@ Conformément au manuel de formation contre l'occultisme[[footnote]]Saisi et mis
 
 ++++ Commandement Supérieur & État-Major
 * **Commandant Général :** Maréchale Raaina Tariq-Sattar
-* **Supervision Administrative :** Direction Générale de l'Initiative (DGA)
+* **Supervision Administrative :** [[span class="tech-code"]]DGA[[/span]]
 * **Commandant de Terrain :** Commandant Malachai Yusef ben Liraz
 
 ----
