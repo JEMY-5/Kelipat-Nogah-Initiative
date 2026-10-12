@@ -1,61 +1,360 @@
-ACES-0001 : Anomalie de Classification Entité Supérieure
-(Indexée sous un numéro SCP-████ dans les registres extérieurs de la Fondation.)
-Nom de code : « Prototype d'arme spécialisée »
-Nom : 肺炎 (Haien)
-Nom traduit : Pneumona
+[[include credit:start]]
+**Titre :** ACES-0001 — Prototype d'Arme Spécialisée ("Pneumona")
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
 
-Niveau d'autorisation : Niveau 5 « Top Secret » / ARC - 1 « Nogah »
-Classe de confinement : Ésotérique
-Classe secondaire : Janus
-Classe de perturbation : Ekhi 
-Classe de risque : Critique
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap');
 
-Rédacteur : [ NO DATA REGISTER ]
-Chercheur attitré : Conseil - [ NO DATA REGISTER ]
-Rendement estimé : [ NO DATA REGISTER ]
+:root {
+    --kni-bg-dark: #040907;
+    --kni-bg-surface: #08120d;
+    --kni-gold: #e9c46a;
+    --kni-teal: #1f8a7a;
+    --kni-copper: #e76f51;
+    --kni-text: #c8d6ce;
+    --kni-border: #142a20;
+}
 
-Description Physique :
-ACES-0001 est un humanoïde masculin de 2,20 mètres. Ses cheveux sont d’un rouge virant au noir. Son corps est entièrement couvert de marques semblables à des tatouages, qui proviendraient d’une thaumaturgie extrêmement avancée. Il est facilement reconnaissable à une grande brûlure qui a consumé la moitié de son visage. Il porte un ancien et grand manteau, prolongé d’une longue cape noire. Son âge est inconnu.
+@keyframes nogah-glow {
+    0%, 100% { text-shadow: 0 0 6px rgba(233, 196, 106, 0.6), 0 0 12px rgba(233, 196, 106, 0.3) !important; color: #e9c46a !important; }
+    50% { text-shadow: 0 0 18px rgba(233, 196, 106, 0.9), 0 0 28px rgba(233, 196, 106, 0.6) !important; color: #f4d58d !important; }
+}
 
-Historique de découverte
+@keyframes etheric-breath {
+    0%, 100% { border-color: rgba(31, 138, 122, 0.7) !important; box-shadow: 0 0 8px rgba(31, 138, 122, 0.2) !important; }
+    50% { border-color: rgba(233, 196, 106, 0.9) !important; box-shadow: 0 0 20px rgba(233, 196, 106, 0.4) !important; }
+}
 
-En 1986, la Shūshū-In (Agence de collecte) découvre l'anomalie dans un réseau de grottes inexploré au Japon. Des chercheurs archéologues y avaient repéré ce qu'ils pensaient être un très ancien tombeau.
+@keyframes kelipah-flicker {
+    0%, 100% { border-left-color: #e76f51 !important; box-shadow: 0 0 6px rgba(231, 111, 81, 0.3) !important; }
+    50% { border-left-color: #f4a261 !important; box-shadow: -4px 0 15px rgba(231, 111, 81, 0.6) !important; }
+}
 
-Le site est une cavité d'une régularité parfaite, de 45 mètres sur 45. Sa paroi extérieure est entièrement gravée. Plusieurs gravures ont été déchiffrées, mais on suppose qu'elles sont rédigées dans une langue aujourd'hui disparue. L'une d'elles se traduit par グランド・クラヴィガー (« Grand Klavigar »).
+#main-content #page-content h1,
+#main-content #page-content h2,
+#main-content #page-content h3,
+#main-content #page-content h4,
+.kni-header-title h1 {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', 'Georgia', serif !important;
+    border-bottom: none !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
 
-Au centre se dressent trois immenses piliers sculptés en forme de crânes et d'autres motifs. Entre eux repose l'entité : un humanoïde enchaîné par sept chaînes. À ses pieds, une plaque porte l'inscription 肺炎 (Haien), « Pneumona ».
-Incursion non autorisée
+html, body, #container-wrap, #container-wrap-inner, #container, 
+#wrapper, #content-wrap, #main-content, #page-content, p, li, td {
+    background-color: var(--kni-bg-dark) !important;
+    color: var(--kni-text) !important;
+    font-family: 'Rajdhani', sans-serif !important;
+}
 
-Quelques années plus tard (date inconnue), des habitants de la région signalent la présence de trois hommes entrant dans le système de cavités. Leurs motivations restent inconnues. Plusieurs témoins affirment que l'un d'eux manipulait la chair et le sang. Cela laisse penser qu'il s'agissait de membres du Karcisme.
+body {
+    background-image: radial-gradient(circle at 50% 0%, #0a1c14 0%, #040907 80%) !important;
+    background-attachment: fixed !important;
+}
 
-Transfert de contrôle
+#page-title { display: none !important; }
 
-Peu après, la Shūshū-In transmet l'ensemble de ses informations et le contrôle du site à la Kelipat Nogah Initiative (KNI), organisation spécialisée dans le Sarkicisme.
+#header {
+    background: linear-gradient(180deg, #020504 0%, #08120d 100%) !important;
+    border-bottom: 3px solid var(--kni-gold) !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.9) !important;
+    position: relative !important;
+    height: 110px !important;
+}
 
-Après de longues recherches, la KNI a établi l’origine de l’entité.
+#header h1 a span { display: none !important; }
+#header h1 a::before {
+    content: "L'AUBE D'OR" !important;
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: 700 !important;
+    font-size: 1.3em !important;
+    letter-spacing: 2px !important;
+    animation: nogah-glow 3s infinite ease-in-out !important;
+}
 
-Celle-ci est connue dans le domaine du Sarkicisme. Plusieurs textes anciens mentionnent un « Grand Klavigar ». On ignore encore ce qui le distingue d’un simple Klavigar, comme les quatre Klavigars connus. Il est en revanche confirmé qu’il a existé à l’époque du Grand Karciste Ion. Il serait possiblement l’une des entités ayant causé le plus de torts, et aurait été créé de la main d’Ion lui-même.
-PROGRAMME AMIDA
+#header h2 span { display: none !important; }
+#header h2::before {
+    content: "SÉPARER LA SCORIE [-] LIBÉRER LA LUMIÈRE" !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    color: var(--kni-teal) !important;
+    font-size: 0.85em !important;
+    letter-spacing: 1.5px !important;
+}
 
-Quelques années après le transfert à la KNI, une branche très spécifique de l’Initiative réclame l’anomalie : la [ NO DATA REGISTER ], avec le Conseil, représenté par M. Sàlvèra de Carnavèl Carlet (dirigeant officieux du Conseil).
+#search-top-box {
+    position: absolute !important;
+    top: 15px !important;
+    right: 15px !important;
+}
 
-ACES-0001 est alors affectée au Programme AMIDA (Advanced Military International Defense Attribution). Son but est de conférer une forme de Carnomantic Biochemistry* à des sujets, par contrat avec 肺炎 (Haien).
+#search-top-box-input {
+    background-color: #08120d !important;
+    color: var(--kni-gold) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
 
-Sujets 01 à 08 : dossiers retirés de la base de données de la BDA, sur ordre du Conseil. Seul le dossier 09 est consultable à ce niveau d’autorisation.
+#search-top-box-form input[type="submit"] {
+    background-color: var(--kni-teal) !important;
+    color: #040907 !important;
+    border: none !important;
+}
 
-Rapport du Sujet 09
+#top-bar {
+    background: var(--kni-bg-surface) !important;
+    border-bottom: 2px solid var(--kni-teal) !important;
+}
 
-Le sujet 09, Lieutenant « Envy » de la Force d’Intervention Militaire Xi-8 « The Last to Fall », paraspécialiste de formation, a accepté de participer au Programme AMIDA.
+#top-bar a, #top-bar ul li a {
+    color: var(--kni-text) !important;
+    font-family: 'Share Tech Mono', monospace !important;
+    background: transparent !important;
+}
 
-Il est d’abord transféré de la Zone-02 vers l’aéroport international de Kyoto, au Japon. Il est ensuite conduit en convoi vers une zone reculée de Kyoto, où se trouve l’Installation AMIDA, loin de toute civilisation. Elle est centrée sur le Point Z, qui est ACES-0001. Autour du Point Z, une zone de surveillance restreinte s’étend sur 1,5 km.
+#top-bar ul li:hover > a, #top-bar ul li.sfhover > a, #top-bar ul li a:hover {
+    color: var(--kni-gold) !important;
+    background-color: #0f241a !important;
+}
 
-Au point de contrôle ALPHA, le sujet 09 est accueilli par plusieurs membres de l’unité [ NO DATA REGISTER ], qui lui retirent tout son équipement (armes, couteaux, technologie, etc.). On lui ordonne ensuite de marcher jusqu’à l’objectif, où M. Sàlvèra de Carnavèl Carlet le guide et lui donne cet avertissement (résumé) :
+#top-bar ul li ul {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-teal) !important;
+}
 
-« C’est ici que je vous laisse. Je vais faire vite et clair : descendez dans ce réseau de grottes et prenez le premier chemin. Une fois arrivé, mon cher… hmm… (hésitation)
+#top-bar ul li ul li a {
+    background-color: var(--kni-bg-surface) !important;
+    color: var(--kni-text) !important;
+}
 
-Vous allez rencontrer quelque chose. Votre but sera de… (M. Sàlvèra de Carnavèl Carlet hésite quelques secondes.) Comment dire… « négocier ». Vous allez lui demander quelque chose de très précis, d’accord ?
-Vous lui demanderez un pouvoir thaumaturgique du nom de Carnomantic Biochemistry, puis votre but sera de négocier son prix. Bonne chance, Lieutenant. »
+#top-bar ul li ul li a:hover {
+    background-color: #0f241a !important;
+    color: var(--kni-gold) !important;
+}
 
-Trente minutes après son départ, plusieurs membres de la [ NO DATA REGISTER ]. se déploient dans les grottes pour extraire le Lieutenant. Il est transporté au service médical de la KNI. Il aurait subi de très fortes blessures, ainsi qu’une marque permanente.
+#side-bar { background: transparent !important; border: none !important; }
+#side-bar .side-block {
+    background-color: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 12px !important;
+}
 
-* Carnomantic Biochemistry : forme avancée de Paraspécialisation thaumaturgique, utilisée notamment par les Karcistes.
+#side-bar .heading {
+    color: var(--kni-gold) !important;
+    font-family: 'Cinzel', serif !important;
+    border-bottom: 1px solid var(--kni-teal) !important;
+}
+
+#side-bar a { color: var(--kni-text) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; background-color: #0f241a !important; }
+
+.kni-header-box {
+    background: linear-gradient(135deg, #020504 0%, #0b1a13 100%) !important;
+    border: 1px solid var(--kni-teal) !important;
+    border-left: 6px solid var(--kni-gold) !important;
+    padding: 20px !important;
+    border-radius: 6px !important;
+    margin-bottom: 20px !important;
+}
+
+.kni-sub {
+    font-family: 'Share Tech Mono', monospace !important;
+    color: #8dae98 !important;
+}
+
+.kni-block {
+    background: var(--kni-bg-surface) !important;
+    border: 1px solid var(--kni-border) !important;
+    border-radius: 6px !important;
+    padding: 20px !important;
+    margin-bottom: 25px !important;
+}
+
+.kni-block-gold {
+    border-top: 4px solid var(--kni-gold) !important;
+    animation: etheric-breath 5s infinite ease-in-out !important;
+}
+
+.kni-block-copper {
+    border-top: 4px solid var(--kni-copper) !important;
+    animation: kelipah-flicker 3s infinite ease-in-out !important;
+}
+
+.kni-block-teal {
+    border-top: 4px solid var(--kni-teal) !important;
+}
+
+.term-nogah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-gold) !important;
+    font-weight: bold !important;
+    animation: nogah-glow 2.5s infinite ease-in-out !important;
+}
+
+.term-kelipah {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-copper) !important;
+    font-weight: bold !important;
+}
+
+.term-initiative {
+    font-family: 'Cinzel', serif !important;
+    color: var(--kni-teal) !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+
+.tech-code {
+    font-family: 'Share Tech Mono', monospace !important;
+    background: #08140f !important;
+    color: var(--kni-teal) !important;
+    padding: 2px 6px !important;
+    border-radius: 3px !important;
+    border: 1px solid #10261c !important;
+    display: inline-block !important;
+}
+
+#footer, #footer a { background: #020504 !important; color: #8dae98 !important; }
+
+@media (max-width: 768px) {
+    #header {
+        height: auto !important;
+        min-height: 100px !important;
+        padding: 10px 5px !important;
+    }
+
+    #header h1 a::before {
+        font-size: 1em !important;
+        letter-spacing: 1px !important;
+    }
+
+    #header h2::before {
+        font-size: 0.7em !important;
+        letter-spacing: 0.5px !important;
+    }
+
+    #search-top-box {
+        position: relative !important;
+        top: 0 !important;
+        right: 0 !important;
+        margin: 8px auto 0 auto !important;
+        text-align: center !important;
+    }
+
+    #main-content, #page-content {
+        padding: 8px 4px !important;
+    }
+
+    .kni-block, .kni-header-box {
+        padding: 12px !important;
+        margin-bottom: 15px !important;
+    }
+
+    .kni-header-title h1 {
+        font-size: 1.4em !important;
+    }
+}
+[[/module]]
+
+[[div class="kni-header-box"]]
+[[div class="kni-header-title"]]
++ DOSSIER ACES-0001 : "PROTOTYPE D'ARME SPÉCIALISÉE"
+[[/div]]
+[[div class="kni-sub"]]
+CONSEIL ACCESS [-] ACCÈS STRATEGIQUE RESTREINT
+[[/div]]
+[[/div]]
+
+[[div class="kni-block kni-block-copper"]]
++ AVERTISSEMENT DE SÉCURITÉ
+
+[[span class="term-kelipah"]]ACCÈS ULTRA-RESTREINT : ARC-1 "NOGAH"[[/span]]
+
+Ce dossier traite d'une [[span class="term-kelipah"]]Anomalie de Classification Entité Supérieure (ACES)[[/span]]. Les informations contenues dans ce registre sont sous le sceau direct du Conseil Nogah et de l'Archonte. Toute consultation non autorisée par un membre en dessous de ce rang exécutif entraînera une purge mnésique de Classe V et une réaffectation irréversible.
+
+//Indexation externe de la Fondation SCP : SCP-████ (Falsifié sous couverture).//
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
+**Code de Registre :** ACES-0001
+**Nom de Code :** "Prototype d'Arme Spécialisée"
+**Nom Réel :** 肺炎 (Haien)[[footnote]] Traduction : //Pneumona// [[/footnote]]
+**Niveau d'Autorisation :** ARC - 1 « Nogah »
+**Classe de Confinement :** Ésotérique
+**Classe Secondaire :** Janus
+**Classe de Perturbation :** Ekhi
+**Classe de Risque :** Critique
+
+**Rédacteur :** [[span class="tech-code"]]NO DATA REGISTER[[/span]]
+**Chercheur Attitré :** Conseil - [[span class="tech-code"]]NO DATA REGISTER[[/span]]
+**Rendement Estimé :** [[span class="tech-code"]]NO DATA REGISTER[[/span]]
+[[/div]]
+
+[[div class="kni-block kni-block-gold"]]
++ DESCRIPTION PHYSIQUE
+
+ACES-0001 se présente sous la forme d'un humanoïde masculin mesurant 2,20 mètres. Ses cheveux arborent une teinte rouge sombre virant au noir. L'intégralité de sa peau est couverte de marques complexes assimilables à des tatouages, résultant d'une thaumaturgie ancienne et extrêmement avancée. 
+
+L'entité est immédiatement reconnaissable à une séquelle majeure : une brûlure grave ayant consumé la moitié droite de son visage. ACES-0001 vêt un ancien et grand manteau prolongé par une longue cape noire. Son âge exact demeure incalculable.
+[[/div]]
+
+[[div class="kni-block kni-block-teal"]]
++ HISTORIQUE DE DÉCOUVERTE ET TRANSFERT
+
+**Découverte (1986) :**
+La Shūshū-In[[footnote]] [[span class="tech-code"]]Agence de Collecte Japonaise[[/span]] [[/footnote]] identifie l'anomalie dans un réseau de cavernes inexploré au Japon. Une équipe d'archéologues avait initialement signalé la présence de ce qu'elle considérait comme un tombeau antique.
+
+Le site prend la forme d'une cavité d'une régularité géométrique parfaite de 45 mètres sur 45. La paroi extérieure est entièrement gravée d'inscriptions dans une langue aujourd'hui disparue. L'une des traductions partielles a révélé le titre : [[span class="term-nogah"]]グランド・クラヴィガー[[/span]] (//« Grand Klavigar »//).
+
+Au centre de la cavité se dressent trois immenses piliers sculptés de crânes et de motifs ostéologiques. Entre ces piliers repose ACES-0001, maintenu enchaîné par sept chaînes Thaumiques. À ses pieds, une stèle porte l'inscription gravée 肺炎 (//Haien//), traduite par //« Pneumona »//.
+
+**Incursion non autorisée :**
+Plusieurs années après la découverte, des riverains signalent l'incursion de trois individus dans la cavité. Les motivations exactes de cette intrusion demeurent inconnues, mais des témoignages confirment que l'un des intrus manipulait la chair et le fluide sanguin à mains nues, indiquant une affiliation directe avec le Sarkicisme.
+
+**Transfert d'Autorité :**
+Suite à cette incursion, la Shūshū-In a transféré l'intégralité du contrôle du site et des données d'archives à [[span class="term-initiative"]]l'Initiative Kelipat Nogah[[/span]], en raison de notre expertise exclusive sur le Sarkicisme.
+
+**Origines établies :**
+Les recherches menées par le Conseil confirmèrent la nature exceptionnelle d'ACES-0001. Les manuscrits anciens mentionnent ce //« Grand Klavigar »//, sans qu'il soit encore possible de déterminer avec certitude ce qui le distingue formellement des quatre Klavigars connus. Il est néanmoins avéré qu'ACES-0001 a exercé son activité à l'époque du Grand Karciste Ion, et qu'il aurait été forgé directement de la main d'Ion. Il est considéré comme l'une des entités ayant engendré les plus grandes dévastations lors de l'Ère Antique.
+[[/div]]
+
+[[div class="kni-block kni-block-gold"]]
++ PROGRAMME AMIDA
+
+Quelques années après la prise de contrôle du site, une division ultra-spécifique composée du Conseil et représentée par M. Sàlvèra de Carnavèl Carlet (dirigeant officieux du Conseil) a réclamé la juridiction exclusive d'ACES-0001 pour amorcer le **Programme AMIDA** (//Advanced Military International Defense Attribution//).
+
+Le Programme AMIDA vise à conférer une forme avancée de [[span class="term-nogah"]]Carnomantic Biochemistry[[/span]] (paraspécialisation thaumaturgique et biochimique sarkique) à des sujets sélectionnés, par l'établissement d'un contrat direct avec 肺炎 (//Haien//).
+
+* **Sujets 01 à 08 :** Dossiers expurgés de la base de données de la BDA sur ordre exprès du Conseil.
+* **Sujet 09 :** Seul dossier consultable au niveau d'autorisation actuel.
+[[/div]]
+
+[[div class="kni-block kni-block-copper"]]
++ COMPTE-RENDU D'INDUCTION : SUJET 09
+
+**Candidat :** Lieutenant « Envy » — Force d'Intervention Militaire Xi-8 ("Les Derniers À Tomber"), Paraspécialiste.
+
+**Déroulement du transfert :**
+Le Sujet 09 a accepté son intégration au Programme AMIDA. Il a été transféré de la Zone-02 vers l'aéroport international de Kyoto (Japon), puis acheminé sous convoi aveugle vers l'Installation AMIDA, érigée à l'écart de toute civilisation. L'installation entoure le Point Z (la cavité d'ACES-0001) et s'assure d'un périmètre de surveillance restreint de 1,5 km.
+
+**Procédure d'accès au Point Z :**
+Au point de contrôle ALPHA, le Sujet 09 a été pris en charge par des agents de la [[span class="tech-code"]]NO DATA REGISTER[[/span]]. Tout son équipement (armes, lames, technologie embarquée) lui a été retiré. Il a reçu l'ordre de progresser à pied jusqu'à l'entrée des grottes, où M. Sàlvèra de Carnavèl Carlet l'attendait.
+
+[[div class="kni-sub"]]
+//Transcription de la consigne verbale dispensée par M. Sàlvèra de Carnavèl Carlet ://
+[[/div]]
+
+> « C'est ici que je vous laisse. Je vais faire vite et clair : descendez dans ce réseau de grottes et prenez le premier chemin. Une fois arrivé, mon cher… hmm… //(hésitation)//
+> 
+> Vous allez rencontrer quelque chose. Votre but sera de… //(M. Sàlvèra de Carnavèl Carlet hésite quelques secondes)// Comment dire… « négocier ». Vous allez lui demander quelque chose de très précis, d'accord ?
+> 
+> Vous lui demanderez un pouvoir thaumaturgique du nom de **Carnomantic Biochemistry**, puis votre but sera de négocier son prix. Bonne chance, Lieutenant. »
+
+**Issue de la négociation :**
+Trente minutes après l'entrée du Sujet 09, les unités de la [[span class="tech-code"]]NO DATA REGISTER[[/span]] se sont déployées dans la cavité pour procéder à son extraction. Le Lieutenant a été transféré en urgence absolue au service médical de la K.N.I. Il présentait des mutilations corporelles sévères ainsi qu'une marque d'imprégnation permanente.
+
+//Note : La Carnomantic Biochemistry octroyée est désormais opérationnelle pour le Sujet 09.//
+[[/div]]
