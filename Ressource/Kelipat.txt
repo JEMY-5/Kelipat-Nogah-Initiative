@@ -1,0 +1,292 @@
+[[include credit:start]]
+**Titre original :** Kelipat Nogah
+**Auteur :** [[*user MalyceGraves]]
+**Traducteur :** [[*user Jemy5]] et [[*user TigerWS]]
+**Date de publication originale :** "6 octobre 2020"
+**Images :** Créées par [[*user MalyceGraves]]
+[[include credit:end]]
+
+
+[[include theme:magnus-web-format]]
+[[include theme:memoria]]
+
+[[=]]
+[[image kelipatnogah.png width="100%"]]
+[[/=]]
+
+-----
+
+[[div style="border:solid 1px #000000; color:#000000; border-radius: 10px; background: rgba(250, 250, 250, 0.7); padding:5px; margin-bottom: 10px; padding:10px"]]
+[[table style="width: 100%;"]]
+[[row]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**Site Primaire**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**Commandant du groupe opérationnel**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**Conseiller principal**[[/size]]
+[[/cell]]
+[[cell style="border-bottom: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 90%]]**Responsable**[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]]Zone-02 [[/size]]
+[[/cell]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]]Maréchale
+Raaina Tariq-Sattar[[/size]]
+[[/cell]]
+[[cell style="border-right: 1px solid #AAA; text-align: center; width: 25%;"]]
+[[size 80%]]Dr. Judith Low[[/size]]
+[[/cell]]
+[[cell style="text-align: center; width: 25%;"]]
+[[size 80%]] O5-12 [[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+
+-----
+
+[[div style="border:solid 1px #000000; color:#000000; border-radius: 10px; background:#d6cec5; padding:5px; margin-bottom: 10px; padding:10px"]]
+[[=]]
+[[size 125%]]**F.SCP : PROPOSITION DE PROJET**[[/size]]
+[[/=]]
+**DE :** Dr. Judith Low
+**À :** Haut Commandement
+**DATE :** 09 novembre 2019
+**OBJET :** L'Initiative Kelipat Nogah.
+----
+La menace que représente la puissance croissante des cultes Sarkiques ne doit pas être sous-estimée. Longtemps considérés comme ayant été rendus inoffensifs par leur longue persécution aux mains de l'Église du Dieu Brisé, il est désormais évident que les Cultes Sarkiques ne sont pas aussi inoffensifs que ce que l'on croyait.
+
+Bien que nous sachions depuis un certain temps que les cultes Sarkiques représentent les vestiges d'un État autrefois uni et puissant, nous avons eu tort de croire qu'ils avaient jamais été véritablement défaits. Le conflit que nous appelons aujourd'hui la Guerre de la Chair fut dévastateur dans son étendue comme dans son impact. Nous estimons désormais que ce conflit seul est responsable de la mort de près de 30 millions de personnes, et fut la cause probable de l'Effondrement de l'Âge du Bronze.
+
+Cette guerre représente l'un des événements les plus catastrophiques de l'histoire humaine, réduisant la population d'une façon que nous ne comprenons pas encore pleinement. Des lignées génétiques entières, qui auraient pu représenter des branches distinctes de l'homo sapiens, ont été effacées de la planète en quelques années.
+
+L'impact de ce conflit ne saurait être sous-estimé, car son équivalent moderne serait ni plus ni moins qu'une guerre nucléaire mondiale.
+
+Il convient de noter que si les Sarkiques venaient un jour à atteindre le niveau de sophistication et d'organisation qui a donné naissance à l'Empire Kalmaktama, le monde tel que nous le connaissons serait changé pour toujours. Soyons honnêtes : la Fondation et les autres organisations internationales ne sont pas prêtes à faire face à une menace de cette ampleur — et si cette menace existe réellement, ils ont eu des millénaires pour planifier et se préparer à toutes les réponses possibles.
+
+Ma proposition est simple. L'appareil de la Fondation est déjà en place dans le monde entier pour commencer à agir contre les cultes Sarkiques que nous connaissons. Jusqu'à présent, nous avons surtout choisi de laisser les chiens dormir, mais je crois que le moment est venu d'intensifier considérablement nos efforts pour contenir la contagion Sarkique.
+
+Le Projet Sitra Achra fut un bon banc d'essai pour évaluer la capacité de la Fondation à collaborer avec des éléments de [http://fondationscp.wikidot.com/church-of-the-broken-god-hub l'Église du Dieu Brisé] et la [http://fondationscp.wikidot.com/goc-hub-page Coalition Mondiale Occulte]. Les personnels survivants de ce projet pourraient aisément être réaffectés à l'Initiative.
+
+Nous connaissons la menace. Il est maintenant temps d'agir.
+
+[[>]]
+- Dr. Judith Low
+//Département d'Histoire — Analyse des Menaces des GdI Religieux.//
+[[/>]]
+
+[[/div]]
+
+-----
+[[collapsible show="■ RAPPORT DE RÉUNION — HAUT COMMANDEMENT ■" hide="□ RAPPORT DE RÉUNION — HAUT COMMANDEMENT  □"]]
+[[div style="border:solid 1px #000000; color:#000000; border-radius: 10px; background:#c9c9c9; padding:5px; margin-bottom: 10px; padding:10px"]]
+[[=]]
+[[size 140%]]**RAPPORT DE RÉUNION — HAUT COMMANDEMENT**[[/size]]
+L05 — Réservé
+[[/=]]
+-----
+**Date :**  2019/11/11 @ 11:02
+**Présents :** O5-01, O5-02, O5-03, O5-04, O5-06, O5-07, O5-08, O5-09, O5-11, O5-12
+**Virtuel :** O5-05, O5-10
+**Absent :** O5-13
+**Ordre du jour :** //L'Initiative Kelipat Nogah.//
+-----
+[DÉBUT DU RAPPORT]
+
+**O5-01 :** Je ne pense pas que cela prendra très longtemps, mais je vous remercie tous de votre présence. Je suppose que tout le monde a eu l'occasion de parcourir l'étude d'impact fournie par le Dr. Low ?
+
+**O5-12 :** Je le crois. Je trouve cependant préoccupant qu'aucun d'entre nous n'ait été conscient de l'étendue de la menace Sarkique jusqu'à présent.
+
+**O5-08 :** Je ne suis pas d'accord. Nous avions déjà entendu des rumeurs sur ces cultistes de la chair, ce n'est pas nouveau. Je pense que le Dr. Low travaille trop et voit des menaces là où il n'y en a pas — ou bien c'est une tentative flagrante de prise de pouvoir. Franchement, je suis plus enclin à croire la deuxième option. Elle est allée trop loin—
+
+**O5-12 :** //[l'interrompant]//  Ça suffit. Ce n'est ni le moment ni l'endroit pour ressortir vos vieux griefs à son égard. Votre animosité a sabordé le succès du Projet Sitra Achra, et nous le savons tous.
+
+**O5-08 :** Sitra Achra était une erreur. Donner un tel accès à la CMO était une erreur. Nous avons déjà des relations assez précaires avec l'ONU, et leur permettre de mieux comprendre l'étendue de nos opérations n'a fait qu'enhardir les éléments de l'ONU qui veulent nous faire fermer.
+
+**O5-03 :** Oh, allons, Huit. Vous croyez peut-être que votre position au sein du Haut Commandement vous confère un pouvoir illimité, mais ce n'est pas à ça que sert la Charte. Vos fanfaronnades et vos jérémiades ne—
+
+**O5-08 :** Je ne suis pas venu ici pour être insulté par quelqu'un qui prétend seulement être mon égal.
+
+**O5-01 :** //[Coup de maillet]// ASSEZ. Nous chamailler entre nous ne réglera rien. Le fait est que le Dr. Low n'est que le messager ici. Tous ses analystes sont d'accord — l'analyse indépendante fournie par le Comité de Supervision de Douze est également d'accord. La menace Sarkique est devenue trop grande pour être ignorée, et il faut agir.
+
+**O5-12 :** Mes analystes conviennent que—
+
+**O5-08 :** Évidemment qu'ils sont d'accord.
+
+**O5-12 :** Écoutez. Vous pouvez en vouloir au Dr. Low, vous pouvez en vouloir à ma position au sein de ce conseil, mais ça ne change pas le fait que je suis membre de ce conseil — et ça ne change certainement pas le fait que ces rapports existent. Les avez-vous seulement lus ?
+
+**O5-08 :** Pour être franc ? Je n'ai pas pris la peine de le faire. Le Dr. Low sème la peur depuis qu'elle a obtenu sa promotion au niveau L03. Cette soi-disant « Menace Sarkique » est une litanie qu'elle répète depuis des années, et franchement, j'en ai assez. Nous avons englouti des centaines de millions de dollars dans le gouffre Sitra Achra, et j'en ai fini avec tout ça.
+
+
+**O5-03 :** C'est gonflé, venant de vous. Combien d'argent a été injecté dans le SCP-████ avant que nous décidions que ça ne marcherait tout simplement pas, peu importe à quel point vous le vouliez ?
+
+**O5-08 :** Alors on va parler de ça maintenant ? Et le SCP-
+
+**O5-01 :** //[Coup de maillet]// Messieurs, s'il vous plaît. Si l'un ou l'autre de vous sort encore une fois du cadre de cette réunion, je vous ferai censurer. À main levée — qui a réellement lu le rapport du Dr. Low ?
+
+//[On entend un bruit de froissements et de mouvements.]//
+
+**O5-01  :** C'est plus que suffisant pour atteindre le quorum. Procédons au vote.
+
+||~ POUR ||~ CONTRE ||~ ABSTENTION ||
+||O5-01  ||O5-02  ||O5-13 ||
+||O5-03  ||O5-04  ||          ||
+||O5-06  ||O5-05  ||          ||
+||O5-09  ||O5-07  ||          ||
+||O5-10  ||O5-08  ||          ||
+||O5-12  ||O5-11  ||          ||
+
+**O5-01 :** Avec l'égalité des voix, la motion est ajournée jusqu'à ce que O5-13 soit disponible pour voter. S'il n'y a pas d'autre—
+
+**Administrateur :** La Charte stipule qu'en cas d'égalité, je puis exprimer le vote décisif.
+
+**O5-01 :** Oui, monsieur. Je ne pensais pas que vous—
+
+**Administrateur :** //[l'interrompant]// Ce n'est pas parce que je décline de voter plus souvent qu'à mon tour que je ne me tiens pas informé, Un. Douze, vous avez foi dans l'évaluation du Dr. Low. J'ai foi en vous. Cependant, Huit soulève un bon point. Je ne suis pas disposé à injecter des fonds illimités dans cette Initiative Kelipat Nogah sans garanties que ça aboutira.
+
+**O5-12 :** Oh, je comprends cela, monsieur. Je vous assure que—
+
+**Administrateur :** //[l'interrompant]// À cet effet, j'autoriserai une version allégée de ce que le Dr. Low a proposé, et je vous nomme Superviseur de l'ensemble du projet. Si cela s'avère être un rêve creux comme Huit en est convaincu, cela vous coûtera votre siège au sein de ce conseil. C'est clair ?
+
+**O5-12 :** Oui, Monsieur.
+
+||~ POUR ||~ CONTRE ||~ ABSTENTION ||
+|| Administrator Fiat || || ||
+|| || || ||
+|| || || Motion Adoptée ||
+
+[FIN DU RAPPORT]
+[[/div]]
+[[/collapsible]]
+-----
+@@ @@
+
+@@ @@
+
+@@ @@
+
+[[div class="title-style"]]
+++++++ __**Xi-8 ("Les Derniers à Tomber")**__
+[[/div]]
+
+@@ @@
+
+[[=]]
+[[image https://fondationscp.wdfiles.com/local--files/task-forces/Xi8.png width="300px"]]
+[[/=]]
+
+@@ @@
+
+
+[[div style="border:solid 1px #000000; color:#000000; border-radius: 10px; background:#c9c9c9; padding:5px; margin-bottom: 10px; padding:10px"]]
+**Désignation FIM :** Xi-8
+**Indicatif :** "Les Derniers à Tomber"
+**Spécialité :** Acquisition et/ou neutralisation d'entités et d'artefacts Sarkiques
+**Commandant :** Colonel Raaina Tariq-Sattar
+
+**Avant-propos :** //Alors que la Menace Sarkique grandit, notre réponse doit également s'amplifier en taille et en portée. Désormais à la force d'un bataillon, Xi-8 offre le cadre idéal pour étendre notre force spécialisée, chargée de faire face à la difficulté croissante de protéger la normalité et de maintenir le Voile.//
+
+-----
++++ **ORGANIGRAMME :**
+
+++++ Commandement
+**Commandement général :** Colonel Raaina Tariq-Sattar
+**Commandement de terrain :** Commander Malachai ben Liraz
+
++++++ Compagnie Alpha — Combat Lourd
+**Commandant :** Commandant Malachai ben Liraz
+**Organisation :**
+* Quartier Général, avec 23 membres assignés.
+* 1er Peloton : Exfiltration d'élite — 12 membres (6 actifs, 6 support/réserve)
+* 2e Peloton : Expéditionnaire — 16 membres (8 actifs, 8 support/réserve)
+* 3e Peloton : Armes lourdes — 22 membres (deux équipes de 5, 12 support/réserve)
+* 4e Peloton : Paraspécialistes — 18 membres (8 actifs, 10 support)
+
++++++ Compagnie Bêta — Soutien Aérien & Logistique
+**Commandant :** Lieutenant Eleanore Montpelier
+**Organisation :**
+* Même Quartier Général avec la Compagnie Alpha
+* 1er Peloton : Transport terrestre — 14 membres 
+* 2e Peloton : Transport aérien — 14 membres
+* 3e Peloton : Assaut mobile — 14 membres
+* 4e Peloton : Assaut aérien — 18 membres (6 pilotes d'hélicoptères d'attaque rapide, 12 support)
+
++++++ Compagnie Gamma — Insertion & Infiltration
+**Commandant :** Lieutenant Josie Perez
+**Organisation :**
+* Quartier Général, avec 38 membres assignés.
+* 1er Peloton : Infiltration de Ruche — 12 membres (6 Active, 6 support/réserve)
+* 2e Peloton : Frappe rapide — 16 membres (8 active, 8 support/réserve)
+* 3e Peloton : Observation/Recherche — 22 membres (deux équipes Force Recon de 5, 12 support/réserve)
+* 4e Peloton : Paraspécialistes — 18 membres (8 active, 10 support/réserve)
+
++++++ Compagnie Delta — Suppression de Percée
+**Commandant :** Lieutenant Alefaio Kagiso
+**Organisation :**
+*Quartier Général, avec 39 membres assignés.
+* 1er Peloton : Réponse Biochim — 18 membres (10 Active, 8 support/réserve)
+* 2e Peloton : Équipe d'intervention — 16 membres (8 active, 8 support/réserve)
+* 3e Peloton : Réponse Biochim — 18 membres (10 Active, 8 support/réserve)
+* 4e Peloton : Paraspécialistes — 18 membres (8 active, 10 support/réserve)
+
+----
+**Postface :** //Avec des Paraspécialistes désormais intégrés dans toute la structure de Xi-8 et la Force d'intervention élevée au rang de bataillon, Xi-8 représente aujourd'hui l'une des forces de combat les plus puissantes jamais déployées par la Fondation. La portée opérationnelle couvre désormais les six continents principaux, avec un soutien naval assuré en fonction des besoins par les actifs navals de la F.CSP et de la CMO.//
+
+[[/div]]
+
+[[collapsible show="■ Organigramme obsolète ■" hide="□ Organigramme obsolète □"]]
+[[div style="border:solid 1px #000000; color:#000000; border-radius: 10px; background:#c9c9c9; padding:5px; margin-bottom: 10px; padding:10px"]]
+
+**Note :** Compte tenu des déploiements de forces liés à la menace sarkique qui ne cesse de croître, le Xi-8 a été réorganisé. Cet organigramme a été abrogé et remplacé par celui figurant ci-dessus.
+
+----
+
+**Désignation FIM :** Xi-8
+**Désignation :** "Les Derniers À Tomber"
+**Spécialité :** Acquisition et/ou neutralisation d'entités et d'artefacts Sarkiques
+**Commandement :** Commandant Malachai ben Liraz
+
+**Présentation :** //Composée d'un noyau de membres du projet Sitra Achra, la Xi-8 est particulièrement bien adaptée pour faire face aux menaces extérieures que représentent les cultes sarkiques. Chaque membre de la FIM a suivi une formation approfondie dans le domaine de la lutte contre l'occultisme et possède une excellente connaissance de l'histoire sarkique.//
+-----
++++ **Liste des unités :**
+
++++++ Compagnie Alpha
+**Commandement :** Commandant Malachai ben Liraz
+**Organisation:**
+* Quartier Général, avec 23 membres assignés.
+* 1er Peloton : Infiltration — 12 membres (6 actifs, 6 support/réserve)
+* 2e Peloton : Expéditionnaire — 16 membres (8 actifs, 8 support/réserve)
+* 3e Peloton : Armes lourdes — 22 membres (deux équipes de 5, 12 support/réserve)
+* 4e Peloton : Paraspécialistes — 18 membres (8 actifs, 10 support)
+
+
++++++ Compagnie Bêta
+**Commandement :** Lieutenant Eleanore Montpelier
+**Organisation:**
+*  Même Quartier Générale avec la Compagnie Alpha
+* 1er peloton : Transport - 14 membres (deux équipes de 4 personnes avec véhicules, 6 support/réserve)
+* 2e peloton : Assaut de la ruche - 26 membres (12 membres opérationnels, 14 support/réserve)
+* 3e peloton : Suppression des évènements - 26 membres (14 membres opérationnels, 10 support/réserve)
+* 4e section : Appui aérien - 18 membres (6 pilotes avec des hélicoptères de combat, 12 support/réserve)
+
+----
+**Prévisions d'efficacité :** //Grâce à l'intégration des paraspécialistes fournis par la CMO et le EDB, le Xi-8 devrait désormais être en mesure de gérer la plupart, voire la totalité, des infestations sarkiques de niveau intermédiaire. Bien que cela ne corresponde pas encore à l'idéal décrit par le Dr Low, c'est un bon premier pas.//
+
+[[/div]]
+[[/collapsible]]
+
+
+
+
+[[=]]
+[[size 85%]]Act II: //Exierunt ut Vinceret// | [[[memoria-adytum|]]][[/size]]
+[[/=]]
+
+[[footnoteblock]]

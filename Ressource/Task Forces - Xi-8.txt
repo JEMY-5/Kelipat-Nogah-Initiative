@@ -1,0 +1,31 @@
+
+
+[[# xi-8]]
+[[div class="content-panel standalone series" style="background-color: #FFFFFF;"]]
+[[=]]
++ FIM Xi-8 ("Les Derniers À Tomber")
+[[=image Xi8.png width="180px"]]
+[[/=]]
+
+**Mission :** La Force d'Intervention Militaire Xi-8 est un bataillon dédié à l'acquisition et/ou la destruction d'entités et d'artéfacts [[[sarkicism-hub|sarkiques]]]. Créée en réponse à la [[[memoria-adytum|menace sarkique croissante]]], la portée opérationnelle de la FIM Xi-8 englobe les six principaux continents avec un soutien naval fourni par la Fondation, selon les besoins.
+
+**Objets confinés :**
+* [[[SCP-238]]]
+* [[[SCP-2834]]]
+* [[[SCP-3862]]]
+* [[[SCP-3911]]]
+* [[[SCP-4273]]]
+* [[[SCP-5038]]]
+* [[[SCP-5407]]]
+* [[[SCP-6013]]]
+* [[[SCP-9134]]]
+
+**Rapports de mission :**
+* [[[memoria-adytum|]]]
+ * [[[kelipat|]]]
+* [[[inevitable-the-cregg-situation|]]]
+
+[[div style="text-align:right"]]
+,,[#toc Retour en haut],,
+[[/div]]
+[[/div]]
