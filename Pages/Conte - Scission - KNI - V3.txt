@@ -1,0 +1,316 @@
+[[include credit:start]]
+**Titre :** La fracture de l'Écorce
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+
+[[div style="background-color: #f4f4f4; border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; font-family: 'Trebuchet MS', Arial, sans-serif;"]]
+**MÉMO INTERNE : DÉPARTEMENT D'HISTOIRE & ANALYSE DE MENACES**
+**DE :** Dre Judith Low, Conseillère Senior au Département d'Histoire - Analyse des menaces des GdI religieux / Directrice de l'Initiative Kelipat Nogah (Zone-02)
+**À :** Haut-Commandement
+**OBJET :** Contestation de la Directive 44-A, révision budgétaire et menace sarkique
+
+Superviseurs,
+
+Je conteste la décision budgétaire prise à la suite de la Directive 44-A.
+
+Classer les cellules autonomes de la Fleur Sanglante parmi les reliques dormantes est une erreur d'analyse. Les cultes Nälkä ne s'éteignent pas dans nos chambres froides : ils y incubent, puis ils s'infiltrent. Réduire les effectifs de l'Initiative et geler nos essais de neutralisation par résonance à la Zone-02 revient à abandonner la seule piste qui ne repose pas sur l'attente.
+
+Rappelons que l'Initiative n'a été approuvée qu'à la voix décisive de l'Administrateur, dans une version allégée et sous condition de résultats. Mettre la chair en boîte et patienter relève du pari : nous ne choisissons pas son échéance.
+[[/div]]
+
+Le robinet cracha de l'eau tiède sur les mains du Commandant Malachai Yusef ben Liraz. Il frotta avec le savon industriel, puis avec la brosse, jusqu'à ce que la peau rougisse. Sous ses ongles, il restait quelque chose. Peut-être rien. Peut-être seulement la mémoire de la texture : ce tissu gris, tiède, qui s'était refermé sur le bras de son sergent comme une main.
+
+Il avait sorti Korvac de là presque à la force des dents. Il ne se souvenait pas du trajet jusqu'à l'infirmerie.
+
+Le sas s'ouvrit. La Maréchale Raaina Mahya Tariq-Sattar, commandante de la Force d'Intervention Militaire Xi-8, s'arrêta à trois pas de lui. Uniforme impeccable, dos droit, elle remplissait une pièce sans élever la voix. Elle laissa passer quelques secondes en regardant l'eau couler.
+
+« Alors ? demanda Liraz sans se retourner.
+
+– Korvac survit. Ils ont dû l'amputer jusqu'au coude.
+
+– Les charges étaient amorcées. » Sa voix était plate, trop maîtrisée, comme un câble sous tension. « L'entité était coupée de ses apports. Dix minutes de plus et elle cessait d'exister, sans une perte de notre côté. Mais la Fondation a ordonné de figer la zone. Pour la conserver.
+
+– La Fondation confine, Steeljacket. C'est sa doctrine.
+
+– La Fondation vient de payer le bras de mon sergent pour mettre un échantillon en vitrine. »
+
+Il ferma le robinet, posa les deux mains à plat sur le rebord du lavabo et regarda l'eau s'égoutter de ses doigts.
+
+Il avait choisi la Xi-8 pour son nom. « Les Derniers à Tomber » : ceux qui restent debout quand tout le monde recule. Il y avait cru comme on croit à une règle de grammaire, sans y penser, parce que sans elle plus rien ne se tient. Et cette nuit, c'était la Fondation qui lui avait ordonné de rester au pied du mur, l'arme basse, devant une chose qui mangeait ses hommes.
+
+Alpha, c'était d'abord les rescapés de Sitra Achra. Ces hommes-là savaient déjà ce que valait une décision prise à huis clos, à l'autre bout du monde, par des gens qui ne verraient jamais le terrain. Ils avaient enterré des camarades pour des économies de bureau, et Liraz avait fini par se dire que c'était le prix de l'uniforme. Ce soir, le prix venait d'augmenter.
+
+« Commandant, dit Tariq-Sattar. Rédigez votre rapport selon les faits. Gardez le reste pour vous. »
+
+Il la fixa un instant dans le miroir tavelé de buée. Puis il hocha la tête, sans répondre, et sortit en s'essuyant l'avant-bras d'un geste sec.
+
+Tariq-Sattar resta seule. Elle connaissait la règle sur le bout des doigts : //Sécuriser. Contenir. Protéger.// Elle l'avait récitée devant chaque cercueil qu'elle avait salué. Ce soir, pour la première fois, elle remarqua que la Fondation n'en appliquait plus que deux.
+
+Elle avait refusé jadis un poste d'officier exécutif, une carrière toute tracée, pour rejoindre l'Initiative, parce qu'elle croyait que la Fondation pouvait faire davantage que contenir. Elle repensa à ce choix comme à une promesse dont personne ne lui avait rendu la monnaie.
+
+-----
+
+Dans la pénombre, le bureau de la Dre Judith Low ne tenait que par la lueur blafarde d'un écran. Elle y mettait en forme, ligne après ligne, les restrictions que la Directive 44-A infligeait déjà à son propre projet : des postes gelés, deux laboratoires mis sous scellés, des essais suspendus. Elle écrivait chaque ligne avec l'application qu'elle aurait mise à rédiger un rapport d'incident. C'était, au fond, ce que c'était.
+
+Elle avait vu trois confinements céder en dix ans. À chaque fois, la même autopsie : personne n'avait menti, personne n'avait été négligent. Le modèle lui-même ne tenait pas dans la durée. On empilait des boîtes dans des sous-sols en comptant sur la patience du béton, et le béton ne pouvait pas être patient éternellement. Elle aimait la Fondation comme on aime une maison dont on vient de découvrir la fissure dans la charpente : on continue d'y dormir, mais on écoute.
+
+Son téléphone vibra. Elle activa le haut-parleur pour pouvoir travailler en parallèle.
+
+« Judith ? » La voix d'O5-12, Takeshi Nakada, tirait sur la corde raide. « Le vote est clos. La proposition d'O5-08 est approuvée. J'ai voté contre. Ça n'a pas suffi. »
+
+Elle déposa ses lunettes sur le bureau et se massa l'arête du nez.
+
+« Quel est l'avenir du projet ?
+
+– Les laboratoires éthériques sont fermés. Coupes de quarante pour cent. Huit juge irresponsable tout programme qui joue avec la biologie sarkique pour une énergie hypothétique. La Fondation scelle l'anomalie, elle ne cherche pas à la transformer.
+
+– Takeshi, on ne joue pas avec le Sarkisme. On cherche à comprendre ce qu'il est avant qu'il ne nous le montre lui-même. Si nous nous contentons de le regarder dans une vitrine, nous ne saurons rien de lui jusqu'au jour où la vitrine cédera.
+
+– Huit n'a jamais lu votre rapport, Judith. Il me l'a dit en face, un jour. Pour lui, ce dossier est un règlement de comptes. Et vous savez ce que l'Administrateur m'a promis si l'Initiative s'avérait un rêve creux. Mon siège ne vaut plus grand-chose. »
+
+Elle ne répondit pas. Il n'y avait rien à répondre.
+
+« La décision est sans appel, reprit-il, plus doucement. Directive 44-Ω : démantèlement du Réacteur expérimental d'ici la fin de la semaine, échantillons expédiés au Site-95. Je suis désolé. »
+
+La ligne se coupa.
+
+Elle resta immobile. La colère aurait été presque un soulagement ; elle ne vint pas. Restait le calme étrange de quelqu'un à qui l'on vient de confirmer ce qu'il craignait depuis longtemps. C'était Takeshi qui l'avait recrutée, à Berkeley, quand elle n'était encore qu'une étudiante en colère contre les trous dans les archives. Il avait mis son siège sur la table pour elle. Elle avait donné à la Fondation la moitié de sa vie, et il lui sembla que, quelque part dans les registres, une ligne se fermait à son nom sans qu'elle s'en aperçoive.
+
+Le téléphone vibra de nouveau. La Dre Samira Reza Golzar, depuis les sous-sols.
+
+« Judith ? Venez au Niveau -4. Et, si possible, hors des radars. »
+
+-----
+
+Le sous-niveau -4 était froid et sentait la javel. Golzar y avait monté une structure massive : une cuve cylindrique blindée, cerclée de câbles de forte puissance et de générateurs de champ. Judith traversa le sas et trouva Golzar au hublot de verre trempé, en compagnie de la Maréchale Tariq-Sattar. Golzar avait fait venir le seul officier supérieur dont elle était certaine qu'il lirait les relevés avant de lire le règlement.
+
+Au centre du caisson sous vide, un fragment d'autel de chair et d'os, ramené d'une opération quelconque, tressautait faiblement.
+
+« J'ai modifié les paramètres du Réacteur, dit Golzar à voix basse. J'avais l'ordre de neutraliser. J'ai tenté de séparer. J'ai désobéi avant même le vote, et je voulais que vous le sachiez avant de regarder. Le Dr Forrester est mort pour avoir regardé cette chair de trop près. Je ne la regarderai pas de loin non plus. Prête ? »
+
+Elle activa le protocole.
+
+Le fragment se raidit, puis se fissura. Dans un bruit de craquements secs, l'enveloppe externe se rétracta, se dessécha et s'effrita en une poudre noire qui s'amassa au fond de la cuve comme de la suie. Les compteurs s'affolèrent : toxique à l'état brut, inerte, inutilisable. Les textes de la Fleur Sanglante appelaient ça la Kelipah, l'écorce. Golzar avait ri en lisant ces textes. Elle ne riait plus.
+
+De cette poussière s'éleva une sphère de la taille d'un poing, d'un or tranquille. Elle ne fluctuait pas. Elle ne grésillait pas. Elle diffusait une chaleur que l'on sentait à travers le verre et dessinait sur les parois une aube minuscule.
+
+« Les cultes l'appellent la Nogah, dit Golzar. Je ne crois pas aux textes. Je crois aux relevés, et les relevés sont limpides : une énergie stable, sans résidu, sans dérive. De quoi alimenter tout le complexe. Le rendement est… »
+
+Elle s'arrêta, la voix brisée. Elle avait le visage baigné d'or.
+
+« On pourrait renforcer les blindages, dit Judith. Régénérer des tissus lésés. Les services médicaux pourraient… » Elle ne termina pas. Elle posa la paume contre le hublot et sentit la chaleur sur sa peau.
+
+« C'est une altération délibérée d'un objet anormal, intervint Tariq-Sattar, la voix basse. Le Comité d'Éthique parlerait de création d'anomalie. Le Conseil ne laissera pas passer ça. Ce sera la cour martiale. Pour nous trois. »
+
+Personne ne la contredit. Judith resta ainsi cinq minutes, la main sur le verre, sans que personne ose l'interrompre.
+
+Elle pensait au rapport de Liraz posé sur son bureau, à la photographie du bras de Korvac. Elle pensait à la boîte dans laquelle la Fondation avait déjà mis dix mille choses qu'elle ne comprenait pas, et elle se demandait combien de ces boîtes contenaient, sous leur écorce, quelque chose de semblable à cela. Combien de lumières enfermées, jusqu'au jour où l'écorce céderait.
+
+« Que fait-on pour la directive 44-Ω ? demanda Golzar d'une voix faible. On détruit le Réacteur ou on tente encore de les convaincre ?
+
+– On ne les convaincra pas. » Judith retira sa main du hublot. « Ce que je vais proposer est une faute. Une faute grave, qui peut vous coûter votre carrière, votre liberté, peut-être plus. Quiconque quitte cette pièce avant que j'aie fini n'aura rien entendu et n'aura rien vu. Je ne lui en voudrai pas. »
+
+Personne ne bougea.
+
+« J'ai déjà franchi la ligne en lançant l'essai, murmura Golzar. Autant que ça serve à quelque chose. »
+
+Tariq-Sattar ne regardait plus la sphère, mais ses propres mains.
+
+« En toute ma carrière, je n'ai jamais contresigné un mensonge, dit-elle. » Elle leva les yeux. « Je n'ai jamais non plus vu l'un de mes hommes payer le prix d'une vitrine. Dictez, Docteur. »
+
+Judith parla lentement :
+
+« Le Réacteur a fondu à la suite d'une surtension pendant le démantèlement. Les échantillons ont été désintégrés. Le Niveau -4 et tout ce qui se trouve en dessous sont déclarés perdus, sous les retombées toxiques, et condamnés. Le reste de la Zone-02 continue de fonctionner normalement.
+
+– Un accident électrique… Quel dommage, souffla Golzar.
+
+– Un sinistre total, confirma Judith. Maréchale, votre contresignature donnera sa valeur au rapport.
+
+– Mes hommes boucleront le secteur, répondit Tariq-Sattar. Le rapport d'avarie sera sur votre bureau avant demain matin. »
+
+Il leur restait quelques heures pour faire exister un désastre. Une fusion laisse des traces, et il fallait les fabriquer. Golzar passa la nuit à réécrire la télémétrie du Réacteur seconde par seconde, pic de température après pic de température, jusqu'à ce que la courbe soit celle d'une catastrophe vraisemblable. Tariq-Sattar fit sceller le secteur et rédigea le rapport d'avarie, qu'elle relut trois fois avant d'y apposer sa signature : c'était la première fois que son nom servait à cela. Judith, elle, écrivit à Takeshi. Il avait mis son siège sur la table pour son projet, et elle lui écrivait que le projet était perdu. Elle effaça trois versions de la lettre avant d'en garder une, courte, qui ne contenait pas un mot vrai.
+
+L'aube se leva sur la Zone-02 sans qu'aucune des trois ait fermé l'œil.
+
+-----
+
+Dans l'infirmerie de la Zone-02, la lumière était réglée au plus bas. Korvac dormait, le bras gauche tronqué sous un bandage épais, le visage détendu pour la première fois depuis l'opération. Liraz était assis à son chevet depuis des heures, sans qu'on le lui ait demandé.
+
+Tariq-Sattar entra sans bruit. Elle resta un moment debout, puis s'assit de l'autre côté du lit.
+
+« Vous ne dormez pas.
+
+– Vous non plus, Maréchale. »
+
+Elle laissa le silence s'installer. Il connaissait cette façon de se taire. À son arrivée à la tête de la Xi-8, il l'avait mal prise : il avait cru pouvoir commander seul, et il avait mis des mois à reconnaître ce qu'il n'accordait qu'à peu de gens, la certitude qu'elle ne lui mentait jamais, même par omission. Voilà pourquoi il comprit, avant qu'elle n'ouvre la bouche, que ce qu'elle allait dire était dangereux.
+
+« J'ai menti à la Fondation cette nuit, dit-elle. Je tiens à ce que vous l'entendiez de moi avant de le lire dans un rapport. »
+
+Elle lui dit tout.
+
+« Sous le Niveau -4, la Dre Golzar a séparé un fragment d'autel sarkique en deux. D'un côté, ce que les cultes appellent la Kelipah : un résidu mort, noir, toxique, inutilisable. De l'autre… » Elle chercha le mot. « De la lumière. Une sphère de la taille d'un poing. Chaude. Stable.
+
+– De la lumière, répéta Liraz.
+
+– Les relevés ne montrent ni dérive ni résidu. Je ne suis pas physicienne. Mais je l'ai vue.
+
+– Stable, ça veut dire quoi, Maréchale ? » Il avait passé des années dans les laboratoires de Ben-Gurion à regarder des matériaux tenir, puis céder, et il retrouvait malgré lui ses réflexes de chercheur. « Sur quelle durée ? Avec quel rendement ? Quel déchet ? Une énergie qui ne cède pas, ça n'existe pas. Tout cède. C'est seulement une question de contrainte et de temps.
+
+– Aucune dérive sur douze heures. Je vous le dis telle que je l'ai lue. »
+
+Il secoua la tête, lentement.
+
+« Je suis revenu cette nuit avec le bras de mon sergent dans un sac. Les choses qui brillent, j'ai appris à m'en méfier. »
+
+Elle ne chercha pas à le convaincre. Elle attendit, et il détesta qu'elle attende.
+
+« Et ce mensonge, reprit-il enfin. Vous l'avez signé. Vous.
+
+– Oui.
+
+– Alors ce n'est pas un coup de tête. » Il se passa la main sur le visage. « Pourquoi moi ? Vous auriez pu me laisser croire à l'accident. Je serais retourné au terrain, vous auriez gardé votre secret, et je n'aurais jamais rien su.
+
+– Parce que si vous l'apprenez par un autre, ce sera une trahison. Si vous l'apprenez par moi, ce sera au moins un choix. »
+
+Il resta longtemps à regarder le bandage de Korvac. Il revit l'instant où l'ordre était tombé : figer la zone. Il avait pensé, en l'entendant, qu'on laissait un homme se faire dévorer pour sauver un spécimen. Il n'avait pas osé achever cette pensée. Il l'achevait maintenant.
+
+« Vous me demandez de déserter.
+
+– Je ne vous demande rien. Je vous dis ce qui existe. Ce que vous en ferez vous regarde.
+
+– J'ai prêté serment à la Fondation. »
+
+Elle ne dit rien. Elle l'avait fait aussi.
+
+« Protéger, dit-il enfin. On nous l'a mis en troisième, mais c'est le seul des trois mots pour lequel on n'a jamais écrit de procédure. Protéger qui, Maréchale ? Les gens qui dorment, ou le règlement ?
+
+– Je me pose la même question depuis hier soir. »
+
+Il resta immobile un moment, puis se leva.
+
+« Je ne crois pas aux miracles, dit-il. Montrez-moi.
+
+– Avant que l'équipe de démantèlement ne commence. À l'aube. »
+
+Il posa la main sur l'épaule valide de Korvac, juste un instant, et il quitta la pièce sans rien ajouter.
+
+-----
+
+Au Niveau -4, la sphère n'avait pas bougé. Liraz traversa le sas, s'approcha du hublot et resta debout, les bras le long du corps. Golzar, qui n'avait pas dormi, lui désigna les relevés d'un geste las et s'écarta. Il les lut lentement, ligne après ligne, comme on lit la lettre d'un mort.
+
+« Elle ne chauffe pas le verre, dit-il enfin.
+
+– Non.
+
+– Elle devrait.
+
+– Je sais. »
+
+Il pensa à tous les matériaux qu'il avait vus céder. À chaque fois, quelque chose les rongeait de l'intérieur. Ici, on n'avait pas enfermé la chose pour la faire tenir : on l'avait simplement séparée de ce qui la rongeait. L'idée était si simple qu'elle en devenait insolente.
+
+Un détail le convainquit : la sphère ne réclamait rien.
+
+« D'accord », dit-il, sans quitter le hublot.
+
+-----
+
+Le soir même, dans la salle de briefing de la Xi-8, la porte fut verrouillée de l'intérieur. Les quatre commandants de compagnie s'assirent autour de la table : Liraz pour Alpha, le Lieutenant Eleanore Montpelier pour Bêta, le Lieutenant Josie Perez pour Gamma, le Lieutenant Alefaio Kagiso pour Delta. Tariq-Sattar resta debout.
+
+« Ce que je vais vous dire ne sortira pas de cette pièce, commença-t-elle. Si vous préférez ne pas l'entendre, sortez maintenant. Vous ne serez pas sanctionnés. »
+
+Personne ne bougea.
+
+Elle leur expliqua la Directive 44-Ω, le Niveau -4, la sphère, et le mensonge qu'elle avait signé. Elle ne leur demanda pas de choisir. Elle leur dit seulement ce qu'elle comptait faire.
+
+Perez parla la première, d'une voix égale.
+
+« Mes équipes ont regardé des cultes grandir pendant que le Haut-Commandement les rangeait parmi les reliques en dormance. On a transmis les rapports. Ils ont fini dans un tiroir.
+
+– Les miens nettoient ce que les dossiers appellent des "incidents mineurs", dit Kagiso. Ils respirent ça tous les jours. Je ne suis pas sûr de pouvoir leur dire que quelqu'un, là-haut, a décidé que ça ne valait pas un budget. »
+
+Montpelier garda les yeux sur la table.
+
+« Quand il faut aller chercher les blessés, ce sont mes camions qui roulent, dit-elle. J'ai ramené assez de cercueils d'Alpha pour savoir à qui ça coûte, une vitrine. »
+
+Tous se tournèrent vers Liraz. Il resta un instant sans parler.
+
+« Alpha est la compagnie qui a le plus payé, dit-il. Je ne parlerai pas pour elle. Mais je sais ce qu'elle me répondrait. »
+
+Kagiso se frotta la nuque.
+
+« Et si on se trompe, Commandant ? On tombe quand ?
+
+– Les derniers », répondit Liraz.
+
+Personne ne sourit, mais personne non plus ne détourna les yeux.
+
+-----
+
+**Trois mois plus tard.**
+
+Aucun homme de la Xi-8 n'avait demandé sa mutation. Alpha, qui avait le plus perdu, avait été la première à se lever.
+
+Le torrent s'abattait sur la tôle de l'ancienne usine, au milieu des marais de Pripyat. L'opération mobilisait les quatre compagnies : celle de Perez avait ouvert la voie en silence, celle de Liraz tenait le périmètre, les équipes de Kagiso, en combinaisons étanches, découpaient l'autel sarkique en blocs et le scellaient dans des caissons d'acier. Le sergent Korvac, qui maniait de sa main valide ce que sa prothèse mécanique maintenait en place, verrouilla le dernier caisson dans un bruit lourd.
+
+« Le dernier bloc est scellé, Commandant. Le convoi officiel de la Fondation arrive dans vingt minutes. Direction Site-95. »
+
+Liraz s'approcha du conteneur. Il sortit de sa veste une boîte électronique, l'accrocha au flanc du caisson et l'activa. Le signal GPS était désormais dupliqué.
+
+« Ce n'est pas la Fondation qui récupérera cette anomalie, Sergent. Elle croira qu'elle roule vers le Site-95. »
+
+La radio grésilla : la voix de Montpelier, dans le fracas de la pluie.
+
+« Bêta en position. Camions banalisés, deux kilomètres à l'est. Le convoi officiel attendra longtemps. »
+
+Korvac regarda l'écusson de la Fondation cousu sur l'épaule de son Commandant, puis le sien. Il ne demanda rien. Il porta la main à son épaule pour arracher le sien.
+
+« Garde-le, dit Liraz.
+
+– Pourquoi ?
+
+– Parce que, pour l'instant, c'est lui qui nous ouvre les barrages. »
+
+Korvac laissa retomber sa main, hocha la tête, et cligna des yeux dans la lumière.
+
+« Et ensuite ?
+
+– Ensuite, on le gardera jusqu'à ce que nous n'ayons plus besoin de mentir. »
+
+-----
+
+**Deux semaines plus tard.**
+
+À près de mille kilomètres de là, sous la surface froide de la Baltique, les voûtes en béton d'une ancienne base sous-marine soviétique vibraient d'un bourdonnement continu.
+
+Dans la salle des machines, la lumière dorée du premier Réacteur balayait l'espace vide. Il n'avait pas fondu : il avait été démonté pièce par pièce, selon la directive 44-Ω, puis chargé dans des caisses étiquetées « rebuts » et sorti par la grande porte. Judith Low contrôlait les compteurs de débit pendant que Golzar supervisait l'injection des ressources. Les opérateurs de la Xi-8 terminaient d'acheminer la chair inerte sur le convoyeur. Golzar actionna le levier, et le convoyeur amena la masse jusqu'au centre du Réacteur.
+
+Aux étages inférieurs, de lourdes structures de plomberie évacuaient les résidus toxiques, la Kelipah, vers des cuves de décantation plombées et immergées. Aux étages supérieurs, des accumulateurs de quartz emmagasinaient la Nogah, cette lumière stable prête à être moulée en blindages, en armes, en énergie.
+
+Le sas s'ouvrit. Liraz et Tariq-Sattar entrèrent, trempés par l'orage qui s'abattait sur le bâtiment.
+
+« À la Fondation, la Xi-8 a cessé d'exister, dit Tariq-Sattar en posant son dossier sur la console. Nous ne sommes plus que des fantômes dans un registre qu'on a vidé. »
+
+Elle le dit sans amertume. Mais sa main, un instant, effleura l'endroit de l'uniforme où l'écusson avait été.
+
+« Très bien, répondit Judith. Qu'on nous oublie. Le Conseil verra son erreur de vouloir toujours enfermer et empiler. Les boîtes finiront par céder. »
+
+Elle s'assit sur la chaise la plus proche de la console, comme si ses jambes avaient besoin de l'accord de sa tête.
+
+« Nous allons prendre cette matière que tout le monde enterre ou brûle, et nous allons la défaire, et nous en servir pour défendre ce monde.
+
+– Très bien. Mais que sommes-nous, maintenant ? demanda Liraz. On a un Réacteur, quatre compagnies, une base. On n'a pas de nom.
+
+– Nous en avons déjà un, répondit Judith. À la Zone-02, ce que nous faisions s'appelait l'Initiative Kelipat Nogah. C'était un projet de recherche que la Fondation tolérait. Nous n'avons rien changé à ce que nous voulions. Nous avons seulement cessé de demander la permission.
+
+– Alors nous ne changeons pas, dit Tariq-Sattar. Nous achevons la mission pour laquelle nous avons signé. Nous affrontons le Sarkisme sous toutes ses formes.
+
+– Aussi diverses soient-elles, ajouta Golzar. Pour l'Humanité.
+
+– Je coordonnerai les opérations d'ici, dit Judith. Partout où la chair lèvera la tête. »
+
+Elle fixa la sphère dorée qui pulsait derrière le verre.
+
+« L'Initiative Kelipat Nogah. Nous séparerons l'écorce pour libérer la lumière. »
+
+Dans sa poche, Liraz referma le poing sur un morceau de tissu : l'écusson de la Fondation, qu'il n'avait jamais pu se résoudre à jeter.
