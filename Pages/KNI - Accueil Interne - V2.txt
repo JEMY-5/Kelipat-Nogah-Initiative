@@ -1,0 +1,489 @@
+[[include credit:start]]
+**Titre :** Terminal central du GdI-884 : Kelipat Nogah Initiative
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+/* ====================================================================
+   KNI : accueil interne (V2)
+   Règles : aucune animation sur une propriété déclarée !important,
+   aucun !important dans un @keyframes (il y serait ignoré),
+   couleurs et polices limitées à #page-content et .kni.
+   ==================================================================== */
+
+:root {
+    --kni-bg: #050a08;
+    --kni-surface: #0b1511;
+    --kni-line: #1d3027;
+    --kni-text: #cfdad3;
+    --kni-dim: #8fa59a;
+    --kni-gold: #e9c46a;
+    --kni-teal: #3bb5a1;
+    --kni-copper: #e76f51;
+}
+
+/* --- Page et conteneurs du site (fonds uniquement) --- */
+body, #container-wrap, #container-wrap-inner, #container,
+#content-wrap, #main-content, #page-content {
+    background: var(--kni-bg) !important;
+}
+#page-title { display: none !important; }
+
+#page-content, #page-content p, #page-content li,
+#page-content td, #page-content th {
+    color: var(--kni-text) !important;
+    font-family: 'Source Sans 3', 'Segoe UI', sans-serif !important;
+}
+
+/* --- Bandeau du site --- */
+#header {
+    background: #030705 !important;
+    border-bottom: 1px solid var(--kni-line) !important;
+}
+#header h1 a span, #header h2 span { display: none !important; }
+#header h1 a::before {
+    content: "KELIPAT NOGAH";
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    color: var(--kni-gold);
+}
+#header h2::before {
+    content: "Séparer l'écorce, libérer la lumière";
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8em;
+    color: var(--kni-dim);
+}
+#search-top-box-input {
+    background: var(--kni-surface) !important;
+    color: var(--kni-text) !important;
+    border: 1px solid var(--kni-line) !important;
+}
+#top-bar, #top-bar ul li ul {
+    background: var(--kni-surface) !important;
+    border-color: var(--kni-line) !important;
+}
+#top-bar a, #top-bar ul li a {
+    color: var(--kni-text) !important;
+    background: transparent !important;
+}
+#top-bar ul li a:hover { color: var(--kni-gold) !important; }
+#side-bar .side-block {
+    background: var(--kni-surface) !important;
+    border: 1px solid var(--kni-line) !important;
+}
+#side-bar a { color: var(--kni-text) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; }
+#footer, #footer a { background: #030705 !important; color: var(--kni-dim) !important; }
+
+/* --- Titres --- */
+.kni h1, .kni h2, .kni h3 {
+    font-family: 'Cormorant Garamond', Georgia, serif !important;
+    color: var(--kni-gold) !important;
+    border: none !important;
+    font-weight: 600;
+}
+.kni h1 { font-size: 2.7em; letter-spacing: 0.03em; margin: 0; }
+.kni h2 { font-size: 1.7em; margin: 2.4em 0 0.5em; }
+.kni h3 { font-size: 1.25em; margin: 0 0 0.3em; }
+.kni .sec {
+    font: 500 0.55em 'IBM Plex Mono', monospace;
+    color: var(--kni-copper);
+    margin-right: 0.8em;
+    vertical-align: middle;
+}
+
+/* --- Liens (une page inexistante apparaît en cuivre) --- */
+.kni a { color: var(--kni-teal); text-decoration: none; }
+.kni a:hover { color: var(--kni-gold); }
+.kni a.newpage {
+    color: var(--kni-copper) !important;
+    border-bottom: 1px dashed var(--kni-copper);
+    background: transparent !important;
+}
+
+/* --- En-tête de page --- */
+.kni .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+.kni .session, .kni .session ul, .kni .session li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.kni .session {
+    font: 500 0.82em 'IBM Plex Mono', monospace;
+    color: var(--kni-dim);
+    margin-top: 0.4em;
+}
+.kni .session::before {
+    content: "";
+    display: inline-block;
+    width: 0.55em;
+    height: 0.55em;
+    margin-right: 0.7em;
+    border-radius: 50%;
+    background: var(--kni-teal);
+}
+.kni .stamp {
+    display: inline-block;
+    border: 2px solid var(--kni-copper);
+    color: var(--kni-copper);
+    padding: 0.1em 0.7em;
+    font: 600 0.75em 'IBM Plex Mono', monospace;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    transform: rotate(-3deg);
+}
+
+/* --- Filet "fracture" : une ligne cuivre, un jour, une ligne or --- */
+.kni .fracture {
+    height: 3px;
+    margin: 1.3em 0 1.6em;
+    background: linear-gradient(90deg,
+        var(--kni-copper) 0 41%, transparent 41% 43%, var(--kni-gold) 43% 100%);
+}
+
+/* --- Deux colonnes : écorce / lumière, fournit / garde --- */
+.kni .split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 1.2em 0;
+    border: 1px solid var(--kni-line);
+}
+.kni .split > div { padding: 1.1em 1.4em; }
+.kni .split p { margin: 0.3em 0; }
+.kni .col-nogah { background: linear-gradient(180deg, rgba(233,196,106,0.08), transparent); }
+.kni .col-kelipah {
+    background: linear-gradient(180deg, rgba(231,111,81,0.08), transparent);
+    border-left: 1px dashed var(--kni-line);
+}
+.kni .col-a { background: linear-gradient(180deg, rgba(59,181,161,0.08), transparent); }
+.kni .col-b {
+    background: linear-gradient(180deg, rgba(233,196,106,0.06), transparent);
+    border-left: 1px dashed var(--kni-line);
+}
+.kni .col-nogah h3 { color: var(--kni-gold) !important; }
+.kni .col-kelipah h3 { color: var(--kni-copper) !important; }
+.kni .col-a h3 { color: var(--kni-teal) !important; }
+.kni .col-b h3 { color: var(--kni-gold) !important; }
+
+/* --- Parcours de lecture --- */
+.kni .parcours { counter-reset: etape; margin: 1em 0; }
+.kni .etape {
+    display: grid;
+    grid-template-columns: 3em 1fr;
+    gap: 0.8em;
+    padding: 0.9em 0;
+    border-top: 1px solid var(--kni-line);
+}
+.kni .etape::before {
+    counter-increment: etape;
+    content: counter(etape, decimal-leading-zero);
+    font: 500 1.5em 'IBM Plex Mono', monospace;
+    color: var(--kni-gold);
+}
+.kni .etape p { margin: 0.2em 0; }
+
+/* --- Organigramme dépliable --- */
+.kni .collapsible-block {
+    border-left: 2px solid var(--kni-line);
+    margin: 0.5em 0;
+    padding-left: 1em;
+}
+.kni .collapsible-block-link {
+    display: block;
+    font: 500 0.95em 'IBM Plex Mono', monospace;
+    color: var(--kni-text);
+    padding: 0.35em 0;
+}
+.kni .collapsible-block-link:hover { color: var(--kni-gold); }
+.kni .collapsible-block-content { padding: 0.2em 0 0.9em; }
+.kni .collapsible-block-content p { margin: 0.35em 0; }
+.kni .k {
+    font: 500 0.75em 'IBM Plex Mono', monospace;
+    color: var(--kni-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-right: 0.7em;
+}
+
+/* --- Registre --- */
+#page-content .kni table.wiki-content-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+#page-content .kni table.wiki-content-table th {
+    background: transparent !important;
+    color: var(--kni-dim) !important;
+    font: 500 0.75em 'IBM Plex Mono', monospace !important;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-align: left;
+    padding: 0.6em;
+    border-bottom: 1px solid var(--kni-gold);
+}
+#page-content .kni table.wiki-content-table td {
+    background: transparent !important;
+    padding: 0.7em 0.6em;
+    vertical-align: top;
+    border-bottom: 1px solid var(--kni-line);
+    transition: background-color 0.2s;
+}
+#page-content .kni table.wiki-content-table tr:hover td {
+    background-color: rgba(59,181,161,0.07) !important;
+}
+.kni .code {
+    font: 500 0.85em 'IBM Plex Mono', monospace;
+    color: var(--kni-teal);
+    white-space: nowrap;
+}
+
+/* --- Passages caviardés --- */
+.kni .redact {
+    position: relative;
+    background: #000;
+    color: #0a0f0d !important;
+    padding: 0 0.15em;
+    cursor: not-allowed;
+    user-select: none;
+}
+.kni .redact:hover::after {
+    content: "ACCRÉDITATION REQUISE";
+    position: absolute;
+    left: 0;
+    top: -1.7em;
+    background: var(--kni-copper);
+    color: #050a08;
+    font: 600 0.65em 'IBM Plex Mono', monospace;
+    padding: 0.2em 0.6em;
+    white-space: nowrap;
+    z-index: 5;
+}
+
+/* --- Citations des rivaux --- */
+.kni .rival { margin: 1.2em 0; padding-left: 1.1em; border-left: 3px solid var(--kni-line); }
+.kni .rival h3 { margin-bottom: 0.2em; }
+.kni .rival .nick {
+    font: 500 0.75em 'IBM Plex Mono', monospace;
+    color: var(--kni-dim);
+    margin-left: 0.7em;
+}
+.kni .rival p { margin: 0.3em 0; font-style: italic; }
+
+/* --- Animations : deux seulement, coupées si l'utilisateur le demande --- */
+@keyframes veille {
+    0%, 100% { opacity: 0.3; }
+    50% { opacity: 1; }
+}
+@keyframes trace {
+    from { clip-path: inset(0 100% 0 0); }
+    to { clip-path: inset(0 0 0 0); }
+}
+@media (prefers-reduced-motion: no-preference) {
+    .kni .session::before { animation: veille 3.2s ease-in-out infinite; }
+    .kni .fracture { animation: trace 1.4s ease-out both; }
+}
+
+/* --- Mobile --- */
+@media (max-width: 768px) {
+    #header { height: auto; min-height: 90px; }
+    #main-content, #page-content { padding: 8px 6px; }
+    .kni h1 { font-size: 2em; }
+    .kni .split { grid-template-columns: 1fr; }
+    .kni .col-kelipah, .kni .col-b {
+        border-left: none;
+        border-top: 1px dashed var(--kni-line);
+    }
+    #page-content .kni table.wiki-content-table th:nth-child(3),
+    #page-content .kni table.wiki-content-table td:nth-child(3) { display: none; }
+}
+[[/module]]
+[[include :scp-sandbox-3:component:login-module |id=<VOTRE ID>|pw=<VOTRE MOT DE PASSE>|disc=true|title=Kelipat Nogah Initiative]]
+[[collapsible show="Connexion" hide="Déconnexion"]]
+[[div class="kni"]]
+
+[[div class="masthead"]]
+[[div]]
++ Kelipat Nogah Initiative
+[[div class="session"]]
+[[module ListUsers users="."]]
+Opérateur %%title%% · nœud 884-KNI
+[[/module]]
+[[/div]]
+[[/div]]
+[[span class="stamp"]]Usage interne[[/span]]
+[[/div]]
+
+[[div class="fracture"]]
+[[/div]]
+
+Vous êtes sur le terminal de coordination de la KNI. Les dossiers de raffinage, les consignes de service et l'état de nos accords y sont classés par besoin d'en connaître. Ce que votre accréditation ne couvre pas apparaît caviardé : [[span class="redact"]]██████████[[/span]]. Insister n'a jamais ouvert aucun verrou.
+
+++ [[span class="sec"]]01[[/span]] Principe
+
+//Kelipat Nogah// : l'écorce qui contient une étincelle. Nous tenons que toute anomalie en renferme une, et notre travail consiste à la dégager. Dans les Réacteurs Éthériques, la matière sort en deux fractions.
+
+[[div class="split"]]
+[[div class="col-nogah"]]
++++ Nogah, la lumière
+Fraction stable et exploitable. Elle alimente nos Creusets, nos soins et nos blindages, et ne laisse aucun résidu.
+[[/div]]
+[[div class="col-kelipah"]]
++++ Kelipah, l'écorce
+Résidu inerte, toxique, inexploitable. On l'isole, puis on l'envoie aux Dépôts de Scories, sous la garde du Département de la Sécurité Relative.
+[[/div]]
+[[/div]]
+
+++ [[span class="sec"]]02[[/span]] Dossier d'intégration
+
+Quatre lectures, dans l'ordre. Elles disent pourquoi la KNI existe et pourquoi la Fondation paie une partie de la note.
+
+[[div class="parcours"]]
+[[div class="etape"]]
+[[div]]
+[[[kni-fracture-de-lecorce|La fracture de l'Écorce]]]
+
+La rupture avec la Fondation vue depuis la Zone-02 : le Réacteur, la sphère, le faux sinistre.
+[[/div]]
+[[/div]]
+[[div class="etape"]]
+[[div]]
+[[[kni-aube-de-la-nouvelle-ecorce|L'Aube de la Nouvelle Écorce]]]
+
+L'Europe de l'Est submergée, le vote du Haut-Commandement, les conditions posées par l'Émissaire.
+[[/div]]
+[[/div]]
+[[div class="etape"]]
+[[div]]
+[[[scp-886-fr|SCP-886-FR : Le Cœur Suturé]]]
+
+Ce que l'accord a produit côté Fondation : un Mégathérion confiné sous le Complexe 886.
+[[/div]]
+[[/div]]
+[[div class="etape"]]
+[[div]]
+[[[kni-rt-012|R&T-012 : Le Chœur d'Os]]] puis [[[kni-rt-044|R&T-044 : Le Puits Sanglant]]]
+
+Deux rapports de raffinage. Le premier est propre, le second beaucoup moins.
+[[/div]]
+[[/div]]
+[[/div]]
+
+++ [[span class="sec"]]03[[/span]] Organisation
+
+Organisme supérieur : [[span class="redact"]]██████████[[/span]] [[span class="redact"]]█████ ██████[[/span]]
+
+[[collapsible show="▸ Direction globale" hide="▾ Direction globale"]]
+[[span class="k"]]Rôle[[/span]] Supervision des ordres et des opérations à l'échelle mondiale.
+
+[[span class="k"]]Directrice[[/span]] Dre Judith Low
+
+[[span class="k"]]Directeur-Adjoint[[/span]] [[span class="redact"]]████████ ██████[[/span]], chargé de seconder la Directrice.
+[[/collapsible]]
+
+[[collapsible show="▸ DGA : Direction Générale des Armées" hide="▾ DGA : Direction Générale des Armées"]]
+[[span class="k"]]Dirigée par[[/span]] le Grand Prévôt, commandant des opérations sur le terrain.
+
+[[span class="k"]]Rôle[[/span]] Force armée principale de la KNI. Elle récupère les anomalies avant la Fondation ou les GdI rivaux.
+
+[[span class="k"]]Recrutement[[/span]] Les effectifs viennent de la BSR, parmi ceux qui réussissent les qualifications. Grade minimum : Adjudant.
+
+[[span class="k"]]Unités[[/span]] Les Tishmed, équipes tactiques de combat et d'acquisition d'artéfacts anormaux, dont l'escouade Tishmed-1. Leurs opérateurs sont modifiés par des procédés occultes, thaumaturgiques et sarkiques ([[span class="redact"]]██████ ██ █████[[/span]]).
+
+[[span class="k"]]Unité conjointe[[/span]] [[[kni-xi-8|FIM Xi-8]]], rattachée au DGA.
+
+[[span class="k"]]Grades[[/span]] Colonel, Lieutenant-Colonel, Aspirant, Major, Adjudant-Chef, Brigadier, Opérateur.
+[[/collapsible]]
+
+[[collapsible show="▸ R&T : Raffinage & Transmutation" hide="▾ R&T : Raffinage & Transmutation"]]
+[[span class="k"]]Dirigée par[[/span]] le Magister de Raffinage, superviseur des confinements.
+
+[[span class="k"]]Rôle[[/span]] Séparer la Kelipah de la Nogah dans les Réacteurs Éthériques, séparer les flux et développer les technologies dérivées.
+
+[[span class="k"]]Personnel[[/span]] Théophysiciens, bio-alchimistes, ingénieurs en mémétique.
+[[/collapsible]]
+
+[[collapsible show="▸ DSR : Département de la Sécurité Relative" hide="▾ DSR : Département de la Sécurité Relative"]]
+[[span class="k"]]Dirigé par[[/span]] le Chancelier des Scories.
+
+[[span class="k"]]Rôle[[/span]] Stocker les Scories en étanche, neutraliser les risques environnementaux, suivre le personnel, protéger les membres et les infrastructures.
+
+[[span class="k"]]Force[[/span]] La Brigade de Sécurité Relative (BSR) : équipes de sécurité et de protection, modifiées en surface et équipées d'artéfacts thaumaturgiques.
+
+[[span class="k"]]Grades[[/span]] Commandant, Capitaine, Lieutenant, Adjudant, Sergent-Chef, Sergent, Caporal, Caporal-Chef, Soldat d'Élite, Soldat de Classe Première, Soldat de Classe Secondaire.
+[[/collapsible]]
+
+[[collapsible show="▸ Administration : quatre branches" hide="▾ Administration : quatre branches"]]
+[[span class="k"]]BJ[[/span]] Branche Judiciaire, dirigée par le Maître des Sceaux. Code pénal interne, discipline, arbitrage des litiges. Grades : Président de Cour, Procureur, Juge, Juré.
+
+[[span class="k"]]BDA[[/span]] Branche de Documentation et d'Archivage, dirigée par le Veilleur des Manuscrits. Centralise, classe et protège les savoirs et les historiques opérationnels. Grades : Régent aux Archives, Archiviste avancé, Agent documentatoire, Adjoint à la Documentation.
+
+[[span class="k"]]BRD[[/span]] Branche des Relations Diplomatiques, dirigée par l'Émissaire de l'Aube. Représentation extérieure, négociations, relations avec les autres entités et organisations. Grades : Superviseur diplomatique, Diplomate professionnel, Envoyé diplomatique.
+
+[[span class="k"]]BRH[[/span]] Branche des Ressources Humaines, dirigée par le Haut-Intendant. Recrutement, évaluation psychologique, affectation des effectifs. Grades : Adjoint directionnel RH, Conseiller RH, Secrétaire.
+[[/collapsible]]
+
+[[collapsible show="▸ Conseil de Défense" hide="▾ Conseil de Défense"]]
+Instance transversale qui réunit des membres de postes différents pour protéger les intérêts de la KNI.
+[[/collapsible]]
+
+++ [[span class="sec"]]04[[/span]] L'accord Aube Dorée
+
+L'accord Aube Dorée lie la KNI à la Fondation pour une seule unité : la FIM Xi-8, « Les Derniers à Tomber ». Les Geôliers paient, nous commandons.
+
+[[div class="split"]]
+[[div class="col-a"]]
++++ La Fondation fournit
+Le financement intégral, l'équipement lourd, la désignation des cibles et, avec d'anciens actifs de la Coalition, l'appui naval.
+[[/div]]
+[[div class="col-b"]]
++++ La KNI garde
+Le commandement tactique et l'administration, par le DGA, ainsi que le traitement éthérique des biomatériaux sarkiques, pour en extraire la matière exploitable et empêcher toute recontamination.
+[[/div]]
+[[/div]]
+
+Fiche d'unité : [[[kni-xi-8|FIM Xi-8]]]. Vu de l'extérieur : [[[goi-884|dossier GdI-884]]], tenu par la Fondation.
+
+++ [[span class="sec"]]05[[/span]] Registre des dossiers
+
+||~ Code ||~ Dossier ||~ Nature ||~ État ||
+|| [[span class="code"]]R&T-012[[/span]] || [[[kni-rt-012|Le Chœur d'Os]]] || Relique || Purifiée, versée à l'arsenal lourd du DGA ||
+|| [[span class="code"]]R&T-044[[/span]] || [[[kni-rt-044|Le Puits Sanglant]]] || Gisement || Raffiné, scories envoyées à la Raffinerie-Gamma ||
+|| [[span class="code"]]Xi-8[[/span]] || [[[kni-xi-8|FIM Xi-8]]] || Unité || En service ||
+|| [[span class="code"]]ACES-0001[[/span]] || [[span class="redact"]]██████████[[/span]] || [[span class="redact"]]█████[[/span]] || [[span class="redact"]]█████████[[/span]] ||
+|| [[span class="code"]]GdI-884[[/span]] || [[[goi-884|Kelipat Nogah Initiative]]] || Dossier extérieur || Menace jaune, coopération sous conditions ||
+|| [[span class="code"]]SCP-886-FR[[/span]] || [[[scp-886-fr|Le Cœur Suturé]]] || Mégathérion, côté Fondation || Keter, confiné au Complexe 886 ||
+
+[[collapsible show="▸ Index automatique (pages taguées kni)" hide="▾ Index automatique"]]
+[[module ListPages tags="kni" order="name" separate="no" prependLine="||~ Page ||~ Tags ||"]]
+|| %%title_linked%% || %%tags%% ||
+[[/module]]
+[[/collapsible]]
+
+++ [[span class="sec"]]06[[/span]] Ce qu'on dit des autres, ici
+
+[[div class="rival"]]
++++ La Fondation SCP [[span class="nick"]]les Geôliers[[/span]]
+La Fondation s'épuise dans un travail d'enterrage stérile. Sa doctrine de confinement passif relève du vandalisme scientifique : en verrouillant des ressources inestimables sous des kilomètres de béton par peur de l'inconnu, elle asphyxie le progrès humain. Elle ne protège pas le monde, elle gèle son évolution et accumule de l'énergie pure sans jamais oser en extraire la valeur.
+[[/div]]
+
+[[div class="rival"]]
++++ La Coalition Mondiale Occulte [[span class="nick"]]les Inquisiteurs[[/span]]
+La Coalition brûle une bibliothèque séculaire sous prétexte qu'un livre est toxique. En détruisant la Kelipah sans la trier, elle calcine la Nogah qu'elle contenait. Cette croisade est un crime contre le potentiel de l'Espèce.
+[[/div]]
+
+[[div class="rival"]]
++++ L'Insurrection du Chaos [[span class="nick"]]les Profanateurs[[/span]]
+L'Insurrection a compris le potentiel de l'anomalie, mais elle n'a ni méthode ni finesse. Elle manipule la Kelipah brute, répand la contamination et fabrique des armes aveugles. Là où elle cherche le chaos, la KNI cherche la distillation et la maîtrise.
+[[/div]]
+
+[[/div]]
+[[/collapsible]]
