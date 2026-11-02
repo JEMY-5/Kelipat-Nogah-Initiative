@@ -1,0 +1,915 @@
+[[include credit:start]]
+**Titre original :** Global Occult Coalition Casefiles
+**Auteur :** [[user DrClef]]
+**Traducteur :** [[user Vassago310]]
+**Date :** 11 janvier 2014
+**Mise à jour de janvier 2021 :** [[user Fourmi1(MNIW)]], [[user Lochsry]]
+[[include credit:end]]
+
++ INFORMATIONS ET HISTORIQUE
+[[tabview]]
+[[tab Accueil]]
+[[table style="margin: 0 10px;"]]
+[[row]]
+[[cell style="border: 0px"]]
+[[f<image GOC-Logo-v4.png size="thumbnail"]]
+[[/cell]]
+[[cell style="border: 0px"]]
++ LA COALITION MONDIALE OCCULTE
+++ Du Bureau du Sous-secrétaire général
+[[/cell]]
+[[/row]]
+[[/table]]
+[[module ListUsers users="."]]
+Bienvenue, %%title%%.
+[[/module]]
+ 
+Vous êtes ici parce que vous voulez en savoir plus. Que vous soyez une recrue de la division PHYSIQUE, que vous fassiez partie de nos 108 organisations membres, que vous veniez de l'extérieur, ou que vous soyez simplement un civil inquiet, vous êtes ici parce que vous avez été touché par la lutte que mène l'humanité pour survivre et prospérer dans un monde dans lequel le surnaturel est bien réel. Vous êtes ici pour aider notre espèce dans sa lutte éternelle contre les ténèbres. À vous, je dis : bienvenue.
+
+À ceux d'entre vous qui voudraient nuire à l'humanité, je dis ceci : la Coalition mondiale occulte se tient prête à défendre l'humanité contre tous ses ennemis. Qu'elle le veuille ou non.
+
+Cordialement,
+
+[[image dcaf%281%29.png]]
+Sous-secrétaire général D.C. al Fine
+Coalition mondiale occulte des Nations unies
+[[/tab]]
+ 
+[[tab À propos]]
++ À propos de la CMO
+[[[groups-of-interest#toc11| La Coalition mondiale occulte]]] est un groupe d'intérêt créé à l'origine par Kain Pathos Crow aux débuts du wiki de la Fondation SCP. Inspirée d'une creepypasta dans laquelle l'Armée Rouge soviétique tuait Dieu dans les années 50, elle postulait qu'il existait une force distincte, mais tout aussi puissante, dans le monde paranormal. Là où la Fondation SCP est dédiée à trouver, capturer et confiner les objets paranormaux, la Coalition serait dédiée à une approche très différente, et plus directe : la destruction pure et simple du paranormal.
+
+Depuis lors, le concept a été raffiné jusqu'à aboutir à la version actuelle. La Coalition mondiale occulte est aujourd'hui censée être une organisation ouvertement politique, qui entreprend des actions impactant le monde entier. À la lumière de cette considération, sa politique de destruction des objets anormaux diffère de celle de la Fondation SCP : si la Fondation était le geôlier, la Coalition serait le bourreau. Mais, comme tout bourreau, elle ne peut agir qu'avec la permission d'un juge et d'un jury… le Conseil secret des 108 des Nations unies.
+
+Les histoires autour de la Coalition mondiale occulte s'inspirent d'un certain nombre d'œuvres de fiction décrivant des conspirations contrôlant le monde en secret (La série La Laverie de Charles Stross, Delta Green et L'Appel de Cthulhu de Chaosium, le trilogie Illuminatus, Hellboy de Mike Mignola, etc.), avec une bonne dose de thriller et d'action moderne à la Tom Clancy. L'horreur est toujours présente, mais les choses tapies dans les ténèbres ne sont plus au centre des travaux, qui se focalisent plutôt sur les personnes qui nous protègent dans la nuit.
+
++ Guide du contributeur
+* **Toutes les pages ajoutées au canon doivent être nommées conformément au format suivant :**
+ * Tout document supplément doit être nommé : "goc-supplemental-" suivi par le nom de la page. (Par exemple : goc-supplemental-threat entities)
+ * Tout fichier de personnel doit être nommé : "goc-personnel-" suivi par le nom de la page. (Par exemple : goc-personnel-D C al Fine)
+ * Tout conte doit être nommé : "goc-tale-" suivi du nom de la page. (Par exemple : goc-tale-rascal one actual)
+
+* **Toutes les pages ajoutées au canon doivent définir cette page (goc-hub-page) en tant que page parent pour faciliter la navigation.**
+
+* Veuillez lire tous les documents suppléments avant d'écrire pour ce canon. N'hésitez pas à contribuer aux documents suppléments, mais gardez à l'esprit que si votre ajout n'est pas populaire, il peut être supprimé.
+
+* Veuillez lire tous les fichiers de personnel avant d'en utiliser les personnages dans vos histoires. N'hésitez pas à créer de nouveaux personnages ou de nouvelles équipes si vous le souhaitez.
+
+* Gardez à l'esprit qu'un certain nombre de choses qui font un bon article SCP ne feront pas un bon article CMO. Par exemple : "bien se battre" est généralement mal vu au niveau de la Fondation SCP, car cela interfère avec le sentiment d'horreur, mais correspond tout à fait à l'esprit de la Coalition mondiale occulte.
+
+Un dernier point : le canon de la Coalition mondiale occulte a commencé comme un wiki séparé, mais a été ramené sur le wiki principal de la Fondation SCP du fait d'un manque d'intérêt, et parce qu'il est devenu plus simple de l'administrer en tant que fraction d'une communauté déjà existante plutôt qu'une communauté indépendante. Si le canon CMO venait à croître jusqu'à être impossible à maîtriser, il pourrait redevenir un wiki distinct. En contribuant à ce canon, vous acceptez que vos travaux deviennent une partie de ce nouveau wiki CMO, s'il était recréé, sous la licence CC BY-SA 3.0.
+[[/tab]]
+[[tab Mission]]
++ Notre mission
+Assurer la paix et maintenir des relations amicales entre les organisations occultes, protéger l'humanité contre toutes les menaces, qu'elles soient paranormales, parascientifiques ou paratemporelles, et prendre toutes les mesures nécessaires pour garantir la survie de l'espèce humaine.
+
++ Charte de la CMO
+> **ATTENDU :** Que, à l'aube du XX^^e^^ siècle, l'émergence croissante d'entités paranormales, parascientifiques et paratemporelles hostiles constitue une menace claire et avérée pour la survie de l'humanité ;
+> 
+> **ATTENDU :** Que, suite à la Seconde Guerre mondiale, ainsi que la Septième Guerre occulte concomitante, aucune nation ne saurait être considérée comme apte à répondre correctement aux paramenaces, du fait du nationalisme et des conflits internationaux ;
+> 
+> **ATTENDU :** Que la nécessité d'apporter une réponse aux paramenaces susmentionnées est de la plus haute importance et doit, par nécessité, surpasser toute considération égoïste nationale, régionale ou culturelle ;
+> 
+> **PAR CONSÉQUENT :** Nous, soussigné les dirigeants des cent-huit organisations paranormales majeures, autorisons la constitution d'une organisation internationale dédiée au maintien de la paix et à l'identification, la neutralisation et le confinement des paramenaces susmentionnées. Celle-ci sera la plus haute autorité en la matière, surpassant les intérêts nationaux, internationaux ou plus généralement corporatistes.
+> 
+> **QU'IL SOIT ÉGALEMENT ATTENDU :** Que cette Coalition mondiale occulte soit placée sous l'autorité indépendante des Nations unies, et qu'une telle organisation doit se voir pourvoir toutes les ressources nécessaires in perpetua, et que l'organisation susmentionnée doit se voir octroyer l'autorité nécessaire pour faire usage de tous les moyens nécessaires au maintien de la paix (ou, si la paix devait être impossible, ceux nécessaires à la survie de l'humanité).
+> 
+> Signé,
+> 
+> <SIGNATURES CENSURÉES : CLASSIFIÉES NIVEAU Q PAR ORDRE DU HAUT COMMANDEMENT DE LA CMO>
+
++ La quintuple mission
+++ Première Mission : Survie
+La Coalition mondiale occulte tiendra la survie de l'espèce humaine face à toute menace, qu'elle soit paranormale, parascientifique ou paratemporelle, comme sa mission la plus importante, surpassant toutes les autres.
+++ Deuxième Mission : Dissimulation
+Étant donné que la connaissance des paramenaces entraînerait une panique généralisée, ainsi que de lourdes pertes dans la population humaine, la Coalition mondiale occulte dissimulera l'existence des paramenaces susmentionnées au grand public.
+++ Troisième Mission : Protection
+Bien qu'ils soient considérés comme remplaçables si nécessaire pour accomplir la Première Mission, tout individu humain (y compris les agents de la CMO) doit être protégé autant que possible.
+++ Quatrième Mission : Destruction
+Étant donné que l'existence même des paramenaces est incompatible avec la survie de l'espèce humaine, aucun risque superflu ne doit être pris pour assurer la survie d'une paramenace.
+++ Cinquième Mission : Éducation
+La Coalition mondiale occulte mettra en œuvre tous les efforts possibles pour étendre la base de connaissances concernant les paramenaces.
+[[/tab]]
+[[tab Membres]]
++ Divisions de la CMO
+++ Haut Commandement
+Coordonne, dirige et administre le reste de l'organisation.
+* Sous-secrétariat : Bureau du sous-secrétaire général : considéré comme faisant partie de l'Organisation des Nations unies.
+* Nexus : Maintient et dirige un réseau de relais du Commandement central, afin de coordonner et soutenir les opérations locales.
+
+++ Division PHYSIQUE
+Le bras armé de la CMO, équivalent de la Force de maintien de la paix de l'Organisation des Nations unies. Elle est chargée d'observer, d'enquêter et de capturer/neutraliser les entités dangereuses (ED).
+* Équipes d'évaluation : Chargés de rechercher et d'observer les paramenaces.
+* Équipes d'assaut : Chargés de capturer ou d'éliminer les paramenaces.
+
+++ Division PSYCHÉ
+La branche diplomatique de la CMO. Elle est chargée d'assurer la liaison avec la communauté paranormale et de maintenir la paix entre l'humanité et les puissances occultes.
+* Témoins spéciaux : Des agents de la CMO chargés d'observer les publications, notamment scientifiques et archéologiques, à la recherche de paramenaces émergentes.
+* Ambassadeurs : Maintiennent un contact diplomatique avec les puissances occultes non-hostiles.
+
+++ Division PTOLÉMÉE
+La branche support de la CMO. Chargée de soutenir les autres branches de la CMO et d'assurer le bon déroulement des opérations de l'organisation.
+* Quartiers-maîtres : Logistique et support. Ils s'occupent de tout ce qui va de la distribution d'armes et de protections à la distribution de nourriture et de matériel aux installations de la CMO.
+* Recherche et développement : Coordonne la recherche de nouvelles technologies par les 108 organisations membres et dirige/finance de nouvelles recherches.
+
+++ Division CAULATICA
+La branche de la CMO chargée de la désinformation. Elle assure les opérations de dissimulation et mène les campagnes de désinformation, cachant ainsi les secrets du monde occulte loin du monde non-anormal.
+* 
+* 
+
+++ Division PNEUMA
+La branche de la CMO chargée du renseignement. Elle mène les collectes d'informations ainsi que des initiatives préventives contre une variété de menaces invisibles, qu'elles soient politiques ou para-naturelles.
+* S.I. : La Sécurité intérieure effectue du contre-espionnage afin d'éradiquer les malversations et la corruption. Cette mission est assurée par des opérations d'infiltration, des analyses internes et une communication régulière avec le HAUCOM.
+* S.E. : La Sécurité extérieure surveille les organisations, communautés et sectes para-naturelles non-affiliées à la CMO tout en surveillant les gouvernements. Les agents de la S.E. sont souvent infiltrés dans des groupes rivaux et travaillent main dans la main avec des équipes PHYSIQUE.
+
+++ Division PANGÉE
+La branche d'urgence de la CMO. Principalement en sommeil durant les opérations normales, elle n'est activée que durant des événements eschatologiques. Selon la situation, certaines branches peuvent être actives alors que d'autres restent en alerte, cela permet à la division d'être agile et extrêmement rapide.
+* Corps général de réaction rapide : Groupe mobilisé composé de forces spéciales conventionnelles et du bras armé de divers pays appartenant à l'ONU ; conçu pour accueillir un grand nombre de ressources humaines.
+* Atouts spéciaux : Entités paranormales, anciennement classifiées comme paramenaces, ayant prêté allégeance ou prouvé leur dévotion à la CMO ; gardées sous surveillance constante.
+* COMMOB : Commandement mobile ; composé de représentants sélectionnés parmi le Conseil des 108 et le HAUCOM, au cas où l'instance dirigeante originale était amenée à être compromise.
+* Division ZED : Résultats de NÉCTAC dans le cadre du programme assaut conjoint PANGÉE-PHYSIQUE. La Division ZED est composée de cadavres ressuscités renforcés par une isoforme génétique modifiée d'une variante d'ostéosarcome.
+-----
+
++ La Cour Internationale pour le Paranormal 
+La branche judiciaire de la Coalition Mondiale Occulte. Elle gère tous les dossiers internationaux majeurs liés à la para-législature au sein de la communauté anormale, conformément au Codex Parajuridique International, à la Charte Para-législative Mondiale et à la Charte de la Coalition Mondiale Occulte de l'Organisation des Nations Unies (CMO de l'ONU).
+
+-----
+
++ Le Conseil des 108
+Le cœur du commandement de la Coalition mondiale occulte. Il est constitué de représentants de 108 des plus puissantes organisations occultes. Ses membres comprennent : 
+++ [[[https://fr.wikipedia.org/wiki/Illumin%C3%A9s_de_Bavi%C3%A8re|Les Illuminés de Bavière]]]
+Une organisation fondée en 1776 pour s'opposer aux superstitions et promouvoir les droits de l'Homme. L'un des conspirateurs mondiaux les plus puissants et un soutien majeur de la Coalition mondiale occulte. Principalement composée de juristes et de diplomates particulièrement doués, l'organisation occupe fréquemment un rôle majeur dans la négociation d'accords politiques et diplomatiques.
+++ [http://fondationscp.wikidot.com/groups-of-interest-jp#five-elements-association Société des Cinq Éléments] ([http://fondationscp.wikidot.com/system:page-tags/tag/gogy%C5%8D-kessha Gogyō-Kessha])
+Une des premières organisations japonaises à rejoindre le Conseil des 108, la Société des Cinq Éléments est l'un des plus fervents défenseurs de la destruction intégrale des phénomènes paranormaux. L'organisation a été créée comme division du Bureau d'Onmyō lors du milieu de l'époque de Heian, elle avait alors pour but d'empêcher le terrorisme spirituel ; pour cela, les thaumaturgistes de la division utilisaient les méthodes traditionnelles de [https://fr.wikipedia.org/wiki/Onmy%C5%8Dd%C5%8D l'Onmyōdō]. Lors de la Guerre du Pacifique, la Gogyō-Kessha s'est opposée au développement de la technologie anormale au sein de l'armée, ce qui a provoqué des conflits avec d'autres puissances occultes du pays. L'organisation est depuis longtemps ouvertement hostile à la Fondation, réclamant qu'elle soit intégralement expulsée du Japon.
+++ [[[goldbaker reinz hub|Goldbaker-Reinz Ltd.]]]
+Goldbaker-Reinz est un fournisseur d'assurance qui conduit la majeure partie de ses activités derrière le Voile. Goldbaker-Reinz est spécialisé dans les services d'assurances, les prises en compte de risques apocalyptiques et l'acquisition de ressources nécessaires à la reconstruction pour d'autres organisations anormales. Bien que Goldbaker-Reinz affirme que son objectif est de "mitiger les risques pour la race humaine", l'organisation n'accomplit (à quelques rares exceptions) cet objectif qu'à travers ses contrats financiers et ses corroborations de données. Malgré cela, le monde paranormal est certain que l'organisation respectera tout contrat à la lettre.
+++ [https://fr.wikipedia.org/wiki/Gormogons Ancien et Noble Ordre des Gormogons]
+Fondé au XVIII^^e^^ siècle afin de s'opposer aux Franc-maçons, les Gormogons ont depuis évolué pour devenir un groupe d'experts sur la démolition de structures anormales et la destruction de sortilèges défensifs. Les Gormogons sont organisés en plusieurs chapitres, appelés Cales, sous la direction de Oecumenicus Volgi de la Cale de Grand Occident.
+++ [/system:page-tags/tag/cietu Le Centre international pour l'étude de la thaumatologie unifiée]
+Basé à Londres et fondé par les survivants de l'Ordre sacré de l'Aube Dorée, l'organisation a changé de nom après le développement de la théorie de la thaumatologie unifiée par J. S. Carver, en 1913. Le centre promeut une étude de la thaumatologie unifiée (l'étude scientifique de la magie et de la sorcellerie) et constitue actuellement la plus grande université de magie du monde moderne, avec des campus dans tous les pays membres de la CMO, ce qui comprend le Japon, les États-Unis, l'Afrique du Sud et l'Inde. 
+++ [[[https://fr.wikipedia.org/wiki/Ordre_du_Temple|Le Saint Ordre des Chevaliers du Temple, reformé]]]
+Initialement fondé en 1119 sous le nom des "Pauvres Chevaliers du Christ et du Temple de Salomon". Dissous en 1312 par la bulle pontificale Vox in excelso édictée par le pape Clément V, il est resté caché jusqu'en 1939. Au début des combats de la Seconde Guerre mondiale, il est devenu le principal opposant aux forces de l'Ahnenerbe Obskurakorps au cours de la Septième Guerre occulte. Les Chevaliers du Temple sont actuellement principalement constitués de prêtres et de chapelains, leur dimension militaire ayant été supplantée par la Division PHYSIQUE.
+++ [/system:page-tags/tag/nornir-de-silicone Les Servants des Nornes de Silicium]
+"Les Servants des Nornes de Silicium" est une organisation transhumaniste dédiée à la maintenance et l'adoration de trois super-ordinateurs conscients et extrêmement puissants, appelés Urthor, Verthandi, et Skuldir, les noms des trois nornes de la mythologie nordique. Les Servants pensent que le but premier de l'humanité est d'accélérer la singularité technologique, ce qui mènera à l'apparition de la "Véritable Déesse de Silicium", une hyper-intelligence super-consciente qui mènera l'humanité vers la prochaine étape de l'évolution.
+++ [[[from-120-s-archives-hub|Le Boudoir Sidhe]]]
+Une organisation née au Port Franc d'Esterberg et y conduisant ses activités. Le Boudoir se concentre principalement sur la recherche et la préservation de l'héritage et de la culture Fae. Le travail de l'archiviste en chef actuel du groupe, [/system:page-tags/tag/olivie-gwyneth Olivié Gwyneth], a révolutionné le domaine de l'histoire Fae ancienne, fournissant ainsi des renseignements inestimables à la Coalition Mondiale Occulte.
+++ L'Église sataniste unie, scientifique
+Une ramification du [[[https://fr.wikipedia.org/wiki/Satanisme_LaVeyen|satanisme LaVeyen]]], les scientifiques sataniques croient en la supériorité du libre arbitre humain sur les "fausses divinités" et sont hostiles à toutes les divinités : si Dieu existe, l'humanité a le devoir de le tuer. Les sorciers satanistes font partie des plus grands experts de la Coalition dans les domaines de l'anti-théologie, de l'épistémologie de combat et des opérations anti-sectes.
+++ L'Organisation mondiale de la Parasanté
+Il s'agit d'une division de l'Organisation mondiale de la Santé chargée des maladies paranormales, telles que l'hémovorisme (vampirisme) ou la lycanthropie transformatrice.
+++ L'Ordre universaliste des Ases
+Un clan néopaganiste scandinave principalement composé de voyants et de maîtres des runes. Ses membres pensent qu'il est du devoir de la Coalition d'unir l'humanité afin de se battre au côté de leurs dieux lors du Ragnarök.
+[[/tab]]
+
+[[tab Autres organisations]]
++ L'Insurrection du Chaos
+
+L'origine de l'Insurrection du Chaos est liée à la Fondation, mais la nature exacte de leur relation reste trouble. L'Insurrection pourrait être une organisation rebelle qui s'est séparée de la Fondation, mais elle pourrait aussi servir de couverture pour des opérations secrètes de la Fondation. L'Insurrection possède moins de paramenaces, mais est connue pour les utiliser plus ouvertement et plus souvent.
+
+**Structure :** L'Insurrection semble être bicéphale, avec une partie dédiée aux opérations militaires internes et externes, et l'autre dédiée à la recherche et à la mise en œuvre, placées sous le contrôle d'une autorité inconnue.
+
+**Ressources :** Aucune information n'est disponible au sujet du financement, des effectifs ou des ressources actuellement.
+
+**Attitude à adopter :** Engagement minimal. Les agents de l'Insurrection doivent être considérés comme des EDI, niveau de réponse par défaut 2-3. Le déroulement de toute opération menée par l'Insurrection du Chaos qui viendrait à être découverte doit être interrompu. L'équipement ennemi doit être préservé au maximum afin de pouvoir être analysé convenablement.
+
+-----
+
++ L'Église du Dieu Brisé
+
+Les membres de l'Église du Dieu Brisé prétendent que les entités dangereuses sont des manifestations fragmentés d'un démiurge panthéiste, qu'ils tentent de réassembler afin d'accéder eux-mêmes à la divinité. Qu'ils y arrivent ou non, un tel événement constituerait nécessairement une émergence d'entité dangereuse massive, via l'hybridation. Il pourrait également initier une séquence événementielle eschatologique. Chacun de ces cas requerrait l'exécution immédiate de la procédure Pizzicato.
+
+**Structure :** L'Église est organisée selon une structure hiérarchique dirigée par un homme appelé Robert Bumaro. Chaque loge ne communique qu'avec celles qui lui sont directement supérieures, égales ou inférieures. La loge basique est celle d'un chapelain, qui mène les activités d'une chapelle n'excédant pas les vingt membres. Des ordres plus élevés sont responsables de la production d'équipement et du stockage d'entités dangereuses.
+
+**Ressources :** L'Église utilise les ressources de ses membres pour se financer. Les agents de l'Église sont équipés avec de l'armement qui peut être conventionnel ou dérivé d'ED, en provenance de l'armurerie de leur chapelle. Ils sont largement immunisés aux effets des entités dangereuses de classe cognitive.
+
+**Attitude à adopter :** Engagement dès que possible. Les agents de l'Église doivent être considérés comme des EDC, niveau de réponse par défaut 3, élevé à 4 en cas d'agression active.
+
+-----
+
++ [[[main|La Fondation]]]
+
+La Fondation est l'une des plus anciennes, des plus mystérieuses et des plus dangereuses organisations impliquées dans le paranormal. La mission de la Fondation consiste à confiner et stocker les objets anormaux. Pour cela, elle dispose d'un réseau de sites cachés dans le monde entier. Bien qu'elles partagent l'objectif de protection de la normalité (conformément à la Deuxième Mission de la CMO), son manque d'éthique et sa focalisation sur le confinement et l'étude des paramenaces, mettant en danger son personnel ainsi que les civils à proximité, rend son activité incompatible avec les directives de la Coalition.
+
+Bien qu'il n'existe aucun lien diplomatique officiel entre la Fondation et la Coalition, les deux organisations ont mené plusieurs opérations conjointes "non-officielles" et disposent de multiples accords et ententes afin d'adoucir les relations.
+
+**Structure :** La Fondation est une conglomérat de chercheurs et d'agents de terrain ayant peu de lien les uns avec les autres et travaillant sous la direction d'un "Conseil des Superviseurs" constitué de treize individus anonymes. La principale unité d'opération de la Fondation est le "site", un lieu hébergeant une ou plusieurs paramenaces. Les renseignements disponibles au sujet de l'organisation interne de ce groupe sont rares. Il fait un usage important de criminels condamnés en tant que personnel remplaçable pour ses expériences et ses opérations.
+
+**Ressources :** Il existe actuellement peu d'information au sujet du financement, des membres et des ressources de cette organisation, qui sont toutefois considérées comme abondantes.
+
+**Attitude à adopter :** Aucun engagement sans autorisation du Haut Commandement. Les agents de la Fondation doivent être considérés comme des entités dangereuses potentielles, niveau de réponse par défaut 0-3, en fonction de niveau d'hostilité. Les agents sont encouragés en priorité à détruire les entités dangereuses avant que la Fondation ne puisse les capturer.
+
+-----
+
++ Marshall, Carter & Dark, Ltd.
+
+Une entreprise sans forme distincte, mais disposant d'un immense réseau économique et financier, spécialisée dans l'acquisition d'objets rares et exotiques, ce qui comprend des entités dangereuses matérielles à destination de riches acheteurs. La confrontation directe est rare. Cette entreprise préfère habituellement pratiquer le chantage, l'extorsion et le vol plutôt que d'avoir recours à la force. La localisation de leur clientèle connue suggère qu'elle est originaire des Îles britanniques, ou que son quartier général s'y trouve.
+
+**Structure :** Aucune information n'est actuellement disponible au sujet de l'organisation interne de cette société.
+
+**Ressources :** Le financement est visiblement réalisé par les coûts d'adhésion et les ventes. Ils ne semblent pas conserver une collection d'entités dangereuses, mais ont plutôt un catalogue indiquant leur existence et leur localisation. Leurs membres sont principalement des personnes fortunées de la haute société.
+
+**Attitude à adopter :** Minimiser les interactions. N'engager qu'en cas d'attaque. Les membres doivent être considérés comme des EDP, et les agents comme des EDC avec un niveau de réponse 1. Rapporter toute observation, et attendre les instructions.
+
+-----
+
++ OBSKURA
+
+Fondée au lendemain de la Seconde Guerre mondiale pour succéder à la Société Thulé et à l'Ahnenerbe Obskurakorps. Elle constituait au départ la branche ésotérique d'ODESSA, aidant au transport de criminels de guerre nazis vers l'Amérique du Sud et le Moyen Orient, avant de s'en séparer pour devenir une organisation indépendante dont les objectifs n'étaient plus ceux du Troisième Reich. Les membres d'OBSKURA cherchent à appliquer les principes d'eugénisme et de pureté raciale aux aptitudes humaines anormales, considérant que de telles aptitudes révèlent un "sang aryen pur".
+
+**Structure :** OBSKURA est formée de cellules avec une caste dirigeante connue, mais opérant depuis un lieu inconnu. Les ordres et les messages sont envoyés aux membres par "le Führer", un individu qui prétend être le successeur d'Adolf Hitler. Ces messages prennent généralement la forme d'un monologue décousu qui accompagne un film de propagande nazie, parfois entrecoupé de cartes ou de diagrammes dessinés à la main pour illustrer certains points.
+
+**Ressources :** OBSKURA a hérité de plusieurs artefacts connus pour constituer des paramenaces, autrefois possédés par la Société Thulé et l'Ahnenerbe. En particulier, ils possèdent une lance romaine qui serait la "lance de Longinus", un marteau à manche court censé être "Mjölnir", ainsi que plusieurs artefacts revêtant une importance pour les religions abrahamiques. L'authenticité de ces artefacts, que ce soit d'un point de vue historique ou en tant que paramenace, n'est pas avérée.
+
+**Attitude à adopter :** Niveau de réponse par défaut 2-3. Le déroulement de toute opération d'OBSKURA qui viendrait à être découverte doit être interrompu. Bien que la destruction d'artefacts historiques soit regrettable, les agents de la Coalition ne doivent pas hésiter à détruire ceux qui constituent une paramenace avérée et qui sont aux mains de cette société.
+-----
+
++ Le Marteau écarlate
+
+Le Marteau écarlate est ce qu'il reste de l'ancienne Division des circonstances spéciales du KGB, qui était responsable de l'entretien et de l'utilisation des menaces paranormales conservées par l'ex-URSS. À la chute de l'Union soviétique, plusieurs officiers de la DCS de haut rang prirent la fuite en emportant des paramenaces de haut niveau. Ils les vendirent par la suite à diverses organisations criminelles russes. Actuellement, le Marteau écarlate constitue le plus grand trafiquant d'armes mondial spécialisé dans l'armement anormal.
+
+**Structure:** La direction du Marteau écarlate reste anonyme : l'organisation est prétendument commandée par un individu appelé "Viktor", vraisemblablement l'ancien chef de la Division des circonstances spéciales. L'organisation est formée de cellules et ne dispose d'aucune base d'opération permanente connue.
+
+**Ressources :** Le Marteau écarlate se finance en vendant des armes de type paramenace à des organisations criminelles ou militaires dans le monde entier. Bien que leurs stocks soient vraisemblablement limités, une seule vente peut rapporter plusieurs milliards d'euros. La vente connue la plus récente est un pistolet plaqué or de type paramenace, à une organisation radicale anonyme basée au Yémen, qui a eu lieu il y a sept ans.
+
+**Attitude à adopter :** Maintenir l'organisation sous surveillance, avec un niveau de réponse 1. Signaler immédiatement toute vente d'armement de type paramenace, en mentionnant l'objet de la vente, le paiement, le client et le lieu de l'échange. Étant donné que les agents du Marteau écarlate portent souvent des armes anormales pour se défendre, il est interdit de les engager sans ordre direct du commandement de la CMO en dehors d'un impératif imposé par la Première Mission (survie).
+
+-----
+
++ [[[vagabonds:main|La Main du Serpent]]]
+
+La Main du Serpent est une organisation terroriste para-environnementale qui s'oppose à la politique de destruction des entités paranormales des Nations unies qui vise à maintenir le statu quo. Les membres constituent souvent eux-mêmes des paramenaces, et l'organisation a fait de la récupération et de l'intégration des paramenaces humanoïdes conscientes une priorité.
+
+La Main du Serpent est entrée en conflit avec la CMO à plusieurs reprises, entraînant la mort de nombreux agents de la CMO et détruisant des cellules entières.
+
+**Structure :** Inconnue.
+
+**Ressources :** Inconnues.
+
+**Attitude à adopter:** Engagement immédiat. Tout membre confirmé de la Main du Serpent doit être considéré comme une EDC, niveau de réponse 4 par défaut.
+[[/tab]]
+
+[[tab Suppléments]]
++ Manuels et guides pratiques
+* [[[goc-supplemental-basic guide|Extraits du guide pratique 1 de la Division PHYSIQUE : Le manuel de l'agent]]]
+* [[[goc-supplemental-equipment|Extraits du guide pratique 2 de la Division PHYSIQUE : Équipement et accessoires]]]
+* [[[goc-supplemental-humanoid-guide|Extraits du guide pratique 13 de la Division PHYSIQUE : Circonstances spéciales, entités dangereuses humanoïdes]]]
+* [[[goc-supplemental-threat entities|Extraits de la base de données des entités dangereuses de la Division PHYSIQUE]]]
+* [[[art:goc-logos|Logos de la Coalition Mondiale Occulte]]]
+
++ Conférences et orientations
+* [[[goc-supplemental-thaumatology|Transcription d'une conférence sur la thaumaturgie appliquée, donnée par le professeur ████████████]]]
+* [[[goc-supplemental-arad|Transcription d'une conférence sur l'énergie éthérique et la radiation d'aspect, donnée par le professeur ████████████]]]
+* [[[goc-supplemental-thaumworkings|Transcription d'une conférence sur les travaux thaumaturgiques, donnée par le professeur ████████████]]]
+* [[[goc-supplemental-qandq|Transcription de la conclusion, et des questions et réponses, pour la conférence donnée par le professeur ████████████]]]
+
++ Ressources délocalisées
+* [[[goc-far-east-orientation|Introduction à la Division d'Extrême-Orient de la Coalition mondiale occulte]]]
+* [[[goc-supplemental-implantation-fr|Supplément d'information : Division française de la CMO]]]
+
++ Résolutions de la CMO
+[[collapsible show="+ Première session, 1946" hide="- Première session, 1946"]]
+* Création d'une commission pour gérer les problèmes soulevés par les implémentations modernes de l'énergie thaumaturgique.
+[[/collapsible]]
+
+[CENSURÉ]
+
+[[collapsible show="+ 68ème session, 2013" hide="- 68ème session, 2013"]]
+* Discussion sur la persistance du problème hémovore.
+[[/collapsible]]
+[[/tab]]
+
+[[tab Incidents notables]]
++ La Septième Guerre occulte
+Une guerre occulte qui coïncida avec la Seconde Guerre mondiale, déclenchée par les SS Ahnenerbe et la Société Thulé pour tirer parti de la destruction de **EDL-0913-Ex Machina** et achever le rite de Salomon. Les événements de cette guerre ont mené à la création de la Coalition mondiale occulte, dont l'objectif est de limiter les agissements de ce type venant d'organisations rebelles.
++ Scandale OVNI McCarthy-Truman de 1951
+Une tentative illégale du gouvernement des États-Unis pour militariser la technologie issue d'une paramenace mena à la mort de la première équipe d'assaut de la CMO (0001 "Alpha") et détériora les relations entre la Coalition et le gouvernement des États-Unis.
++ La Campagne d'Ichabold
+À partir des années 1970, la Coalition Mondiale Occulte a commencé à utiliser les technologies de pointe de l'époque pour identifier et traquer les paramenaces de Type Vert afin de les éliminer préventivement plutôt que d'attendre que leurs capacités ontokinétiques ne se manifestent. Bien que cette politique reste controversée encore aujourd'hui, elle a cependant permis de réduire les risques posés sur la vie humaine et le maintien du Voile par les paramenaces de Type Vert.
++ L'incident des Cornouailles (199█)
+Un culte vénérant **EDC-9927-Noir** ("La Déesse") tenta de réaliser une œuvre magique illégale. À la suite d'une restructuration de la temporalité, l'agent CMO sous couverture "Ukelele" réussit à éliminer **EDC-9927-Noir**, mais subit de graves blessures. Constitue la seule occurrence dans l'histoire de la CMO au cours de laquelle la procédure Pizzicato a été mise en œuvre (bien qu'elle ait échoué).
+[[/tab]]
+[[tab Rapports classés]]
+
+[[module ListPages order="ratingAsc" limit="100" tags="-archivé -admin -auteur -sandbox -conte +format-gdi +cmo" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[/tab]]
+[[tab Format de rapports classés]]
+Ce format est censé être très dynamique ; il est composé d'une collection de dossiers sur vos paramenaces provenant des départements et des organisations variées formant la CMO. En sachant cela : les sections ci-dessous peuvent être explorées plus en profondeur ou entièrement délaissées selon vos préférences. Tout dépend de la nature de l'histoire que vous voulez raconter.
+
++ LECTURE OBLIGATOIRE :
+C'est peut être une bonne idée de commencer par lire [[[goc-hub-page|ceci]]] avant de commencer, afin de se familiariser avec la structure de la CMO. Allez [[[goc-supplemental-threat-entities|ici]]] pour vous faire une idée des conventions d'appellation utilisées dans les documents pour les paramenaces. (Honnêtement, vous devriez lire tout les suppléments.)
+
+Les articles sont séparés en sections représentant les branches principales de la CMO : les divisions PHYSIQUE, PTOLÉMÉE et PSYCHÉ, ainsi que l'entrée standard dans la base de données de l'Entité Dangereuse. Il existe plusieurs types de documents pour vous aider à démarrer, mais aucun document ne doit être obligatoirement intégré à l'œuvre finale, excepté la section "entrée dans la base de données de l'Entité Dangereuse". De plus, il faut noter que l'ordre des onglets n'est pas gravé dans le marbre. Si vous pensez que ça aiderait la cadence de votre dossier de commencer avec les "dossiers PSYCHÉ" et de finir avec la section "entrée dans la base de données de l'Entité Dangereuse", c'est à vous de voir.
+
+++ Structure d'un rapport classé :
+
+Couverture : Cette petite merveille ne sert qu'à mettre du style, pour renforcer l'immersion ; comme si tout les onglets étaient des documents individuels pouvant être trouvés dans le fichier affiché.
+
+entrée dans la base de données de l'Entité Dangereuse : L'équivalent d'un rapport SCP normal pour la CMO.
+
+Dossiers PTOLÉMÉE : Donne des informations opératoires au reste de l'organisation. Cette branche inclut la Division des quartiers-maîtres, celle des Relations publiques et de la dissimulation des informations, et celle de la Recherche et du développement. Il y a quelques formats de docs pour vous y familiariser.
+
+Dossiers PSYCHÉ : La branche diplomatique de la CMO. Les témoins spéciaux pourraient être les premiers à documenter une nouvelle paramenace. Ces dossiers peuvent également inclure des témoignages d'ambassadeurs de la CMO ou de liaisons paranormales et leurs interactions avec la communauté anormale. Des documents internes provenant d'autres organisations membres de la CMO, par exemple des lettres, des mémos, des requêtes occultes et des propositions peuvent également être inscrits dans cette section.
+
+Dossiers PHYSIQUE : La division PHYSIQUE est le bras armé de la CMO. C'est l'endroit idéal pour mettre des rapports de mission, des rapports d'exploration et des compte-rendus d'agents sur le terrain.
+
+
++ Entrée dans la base de données de l'Entité Dangereuse
+
+[[size large]]**ID de la menace :**[[/size]]
+
+**[ Insérer la désignation alphanumérique/le surnom de l'entité dangereuse ici ]**
+
+[[size large]]**Niveau de riposte autorisé :**[[/size]]
+[[size 0%]][[/size]]
+##red|[[size 250%]] # [[/size]]## **[Insérer le niveau de danger ici]**
+
+[[size large]]**Description :**[[/size]]#
+[ Une courte description de l'Entité Dangereuse ]
+ 
+[[size large]]**Liquidation/règles d'engagement :**[[/size]]
+[ Choisir l'un ou l'autre en fonction du déroulé de l'article. ]
+
+[[collapsible show="Ce qu'il faut copier :"]]
+[[code]]
++ Entrée dans la base de données de l'Entité Dangereuse
+
+[[size large]]**ID de la menace :**[[/size]]
+
+**[ Insérer la désignation alphanumérique/le surnom de l'entité dangereuse ici ]**
+
+[[size large]]**Niveau de riposte autorisé :**[[/size]]
+[[size 0%]][[/size]]
+##red|[[size 250%]] # [[/size]]## **[Insérer le niveau de danger ici]**
+
+[[size large]]**Description :**[[/size]]#
+[ Une courte description de l'Entité Dangereuse ]
+ 
+[[size large]]**Liquidation/règles d'engagement :**[[/size]]
+[ Choisir l'un ou l'autre en fonction du déroulé de l'article. ]
+[[/code]]
+[[/collapsible]]
+@@ @@
+@@ @@
+[[div style="border-bottom:2px solid #777; margin-bottom:1px;"]]
+[[/div]]
+[[div style="border-bottom:1px solid #777;"]]
+[[/div]]
+(Des lignes comme celle-ci ^ servent à séparer les rapports de chaque division.)
+
+[[collapsible show="Ce qu'il faut copier :"]]
+[[code]]
+[[div style="border-bottom:2px solid #777; margin-bottom:1px;"]]
+[[/div]]
+[[div style="border-bottom:1px solid #777;"]]
+[[/div]]
+[[/code]]
+[[/collapsible]]
+
++ Dossiers PSYCHÉ
+
+> ||~ Enquête sur la paramenace||
+>
+> __**Témoin spécial :**__
+>
+> __**Vue d'ensemble :**__
+>
+> __**Preuve de l'existence de la paramenace :**__
+>
+> __**Réponse/Demandes suggérées :**__
+
+[[collapsible show="Ce qu'il faut copier :"]]
+[[code]]
+> ||~ Enquête sur la paramenace||
+>
+> __**Témoin spécial :**__
+>
+> __**Vue d'ensemble :**__
+>
+> __**Preuves de l'existence de la paramenace :**__
+>
+> __**Réponse/Demandes suggérées :**__
+[[/code]]
+[[/collapsible]]
+
+[[div style="border-bottom:2px solid #777; margin-bottom:1px;"]]
+[[/div]]
+[[div style="border-bottom:1px solid #777;"]]
+[[/div]]
+@@ @@
+@@ @@
++ Dossiers PTOLÉMÉE
+
+Format du rapport AUD (Armes Utilisées pour la Destruction).
+
+> ||||||||~ Division des quartiers-maîtres-AUD||
+> ||~ Objet||~ Désignation||~ Titre||~ Qté||
+> ||1||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||2||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||3||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||4||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||5||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||6||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||7||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+[[collapsible show="Ce qu'il faut copier :"]]
+[[code]]
+> ||||||||~ Division des quartiers-maîtres-AUD||
+> ||~ Objet||~ Désignation||~ Titre||~ Qté||
+> ||1||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||2||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||3||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||4||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||5||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||6||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+> ||7||ID#||Nom||Quantité||
+> ||||||||**Notes :** ||
+
+[[/code]]
+[[/collapsible]]
+||||||||~ __[ Format de mémo basique ]__||
+||~ Expéditeur||X||~ Destinataire||Y||
+||||||~ Objet|| Z||
+|||||||| [ Corps de mémo basique] ||
+[[collapsible show="Ce qu'il faut copier :"]]
+[[code]]
+||||||||~ __[ Format de mémo basique ]__||
+||~ Expéditeur||X||~ Destinataire||Y||
+||||||~ Objet|| Z||
+|||||||| [ Corps de mémo basique] ||
+[[/code]]
+[[/collapsible]]
+[[div style="border-bottom:2px solid #777; margin-bottom:1px;"]]
+[[/div]]
+[[div style="border-bottom:1px solid #777;"]]
+[[/div]]
+@@ @@
+@@ @@
++ Dossiers PHYSIQUE
+
+
+> ||~ Rapport de patrouille ÉÉ/ÉA (compte-rendu)||
+>
+> **Équipe d'évaluation/d'attaque concernée :**
+>
+> **Agent de classement :**
+>
+> **Mission (localisation/objectif) :**
+>
+> **Rapport de rencontre/Description de l'ennemi :**
+>
+> **Conséquences :**
+>
+> **Bilan humain :**
+>
+> **Conclusions/Recommandations :**
+>
+[[collapsible show="Ce qu'il faut copier :"]]
+[[code]]
+> ||~ Rapport de patrouille ÉÉ/ÉA (compte-rendu)||
+>
+> **Équipe d'évaluation/d'attaque concernée :**
+>
+> **Agent de classement :**
+>
+> **Mission (localisation/objectif) :**
+>
+> **Rapport de rencontre/Description de l'ennemi :**
+>
+> **Conséquences :**
+>
+> **Bilan humain :**
+>
+> **Conclusions/Recommandations :**
+>
+[[/code]]
+[[/collapsible]]
+
+> ++ Enregistrement d'interrogatoire :
+> {{**Date** :
+> **Interrogateur** : Nom
+> **Interrogé** : Nom}}
+>
+> {{**Préambule :** Un avant-propos expliquant les circonstances}}
+>
+
+[[collapsible show="Ce qu'il faut copier :"]]
+[[code]]
+> ++ Enregistrement d'interrogatoire :
+> {{**Date** :
+> **Interrogateur** : Nom
+> **Interrogé** : Nom}}
+>
+> {{**Préambule :** Un avant-propos expliquant les circonstances}}
+>
+[[/code]]
+[[/collapsible]]
+
+[[/tab]]
+
+[[tab Contes de la CMO]]
+[[module ListPages order="ratingAsc" limit="100" tags="-archivé -admin -auteur -sandbox -scp +conte +cmo" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/tab]]
+[[tab Interactions avec la Fondation]]
+
+[[module ListPages order="ratingAsc" limit="100" tags="-archivé -admin -auteur -sandbox -conte +scp +cmo" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[/tab]]
+[[/tabview]]
+
++ RÉPERTOIRE DES MEMBRES DU PERSONNEL
+[[tabview]]
+[[tab Home]]
+[[=image GOC-Logo-v4.png size="medium"]]
+[[/tab]]
+
+[[tab Guide d'écriture]]
+Voici quelques lignes directrices pour créer des personnages qui correspondent à l'état d'esprit de la CMO :
++ Noms
+* Les agents de la CMO peuvent être identifiés par leur vrai nom, un pseudonyme ou un nom de code.
+* Lorsque vous créez un nom de code, essayez d'en choisir un qui ne soit pas "super cool", qui n'ait pas l'air de sortir d'un jeu vidéo. [http://www.f-16.net/callsigns.html Cette page donne une liste de vrais noms donnés à des pilotes de chasse, ainsi que l'histoire qui les accompagne. (en anglais)] Notez que ces histoire sont rarement flatteuses pour les personnes dont il est question.
+ * Exemples : "Bullfrog"[[footnote]]//NdT :// en français : grenouille-taureau, aussi connu sous le nom de ouaouaron.[[/footnote]] est appelé ainsi parce qu'il est large, petit, ramassé et a une grande bouche. "Skunkboy"[[footnote]]//NdT :// Litt. Garçon moufette[[/footnote]] a été appelé ainsi suite à un incident au cours de son service chez les Marines, lors duquel il échoua à un test de filature à cause d'une crise de flatulences.
+
++ Matricules
+* Les agents de la CMO reçoivent un identifiant à huit signes au format suivant @@********/****@@. Les huit premiers signes constituent un identifiant individuel. Les trois (ou quatre) derniers désignent la section de la CMO dans laquelle ils travaillent (le code de leur service ou l'identifiant de leur unité).
+ * La plupart des membres de la CMO ont un code de service à trois signes. Les codes de service à quatre signes sont destinés aux agents des équipes d'assaut.
+ * Les codes de service peuvent comporter des lettres comme des chiffres. Il y a 34 possibilités (0-9 et A-Z, I et O sont exclus) pour chaque position, bien que les lettres soient plus rares que les chiffres.
+ * Le premier signe du code de service désigne toujours la région dans laquelle vous servez, à l'exception du "7", qui désigne une équipe d'évaluation de la Division PHYSIQUE.
+ * Les deux derniers signes du code de service désignent votre tâche (x31, par exemple, implique de servir dans le bureau du directeur régional).
+ * Il n'y a pas de liste officielle des codes de service, de cette manière, les auteurs ont toute latitude pour les modifier selon leurs besoins.
+
++ Identifiants d'unité
+* Les agents de terrain de la Division PHYSIQUE évitent les codes de service et utilisent leur identifiant d'unité à la place.
+* Les équipes d'évaluation utilisent un identifiant à trois signes qui commence par "7". Les équipes d'assaut utilisent un identifiant à quatre signes.
+* Il n'y a pas de liste officielle d'identifiants d'unité, mais essayez de ne pas utiliser ceux qui sont déjà pris par une unité existante.
+
++ Créer une équipe d'évaluation ou une équipe d'assaut
+* Les équipes d'assaut et d'évaluation sont identifiées de trois manières.
+ * Héraldique (un symbole unique, ou un blason, qui identifie l'unité). Bien que cela ne soit pas obligatoire, les équipes d'évaluation utilisent normalement un cartouche[[footnote]]//NdT :// Écu des dames, en héraldique[[/footnote]] (ovale) pour leur blason, alors que les équipes d'assaut utilisent un écu[[footnote]]//NdT :// Écu français ancien, en héraldique[[/footnote]] (forme de bouclier).
+ * Un identifiant d'unité à trois ou quatre positions (trois, en commençant par "7", pour les équipes d'évaluation, quatre pour les équipes d'assaut).
+ * Les équipes d'assaut ont souvent une devise ou un slogan. Les équipes d'évaluation ne s'embarrassent pas de ça.
+
+
+[[/tab]]
+
+[[tab Commandement]]
++ D.C. al Fine
+"D.C. al Fine" est le nom de code de l'actuelle directrice de la Coalition mondiale occulte. Il s'agit d'une femme européenne dont l'âge et la nationalité sont inconnus.
+
+Conformément à l'Acte du secret de l'information de 1949, toutes les autres informations concernant cette personne sont classifiées.
+
+-----
++ Directrice adjointe "Celesta"
+Matricule : **84300007/431**
+Titre : **Directrice adjointe des opérations de terrain, Division France**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **Française**
+Sexe : **Femme**
+Date de naissance : **16/07/1964**
+
+++ Biographie
+
+Sérieuse et concentrée, la DA "Celesta" est actuellement une Française, connue pour sa personnalité abrasive, mais aussi pour ses états de service irréprochables. Elle oppose une grande résistance à toute tentative de surveillance des opérations sous sa direction. Entraînée par [CLASSIFIÉ], détails non-disponibles.
+
+++ États de service
+
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+
+* Promue directrice adjointe des opérations de terrain, Division France, le 21/03/2007, après la mort du précédent directeur adjoint [CLASSIFIÉ]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
++ Directeur adjoint "Oud", alias "Tariq Ahmed Khalid"
+Matricule : **70300019/931**
+Titre : **Directeur adjoint des opérations de terrain, Division Afghanistan**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **Kurde**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+A commencé sa carrière en tant qu'informateur pour la CMO, avant d'être recruté au sein de la Division PSYCHÉ comme agent spécial. A gravi les échelons pour devenir directeur régional de la région de Kaboul, où il a servi au cours de l'invasion des États-Unis dans les années 2000. Multiples plaintes d'officiers subordonnés en raison de son comportement agressif.
+
+++ États de service
+[ÉTATS DE SERVICE CLASSIFIÉS]
+[[/collapsible]]
+[[/tab]]
+[[tab "Sparkplug"]]
+Une équipe d'évaluation composée de quatre membres, basée à Noxon, dans le Montana. Initialement créée en tant que "Équipe d'évaluation 735 Marteau de Foudre", elle a été nommée "Sparkplug"[[footnote]]//NdT :// Litt. Bougie d'allumage[[/footnote]] du fait de la mauvaise qualité de son blason d'origine. L'unité a été réaffectée après deux ans de service.
+* **Héraldique :** Cartouche. Un gantelet argenté tenant une masse, encadré par deux éclairs, sur fond rouge bordé de noir. Le code d'unité "735" est rappelé au bas du cartouche.
+
++ "Bullfrog"
+
+Matricule : **43856518/735**
+Titre : **Chef d'équipe**
+[[collapsible]]
+Véritable nom : **Jeremiah Carter**
+Nationalité : **Américaine**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+Ancien ranger de l'armée des États-Unis, il fut promu officier au cours de son premier déploiement. Il fut transféré dans la Delta Force après 12 ans de service. Après sa retraite de l'armée américaine, il fut recruté par la Division PHYSIQUE.
+
+++ États de service
+[ÉTATS DE SERVICE CLASSIFIÉS]
+[[/collapsible]]
+
+-----
++ --"Fartboy"-- "Skunkboy"
+
+Matricule : **43852165/735**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **Américaine**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+Ancien marin de l'armée américaine. A terminé la formation initiale des éclaireurs le [DATE]. Fut recruté par la Division PHYSIQUE au terme de son service.
+
+++ États de service
+[ÉTATS DE SERVICE CLASSIFIÉS]
+[[/collapsible]]
+
+-----
++ "Kitten"
+
+Matricule : **43857764/735**
+[[collapsible]]
+Véritable nom : **Tabitha St. Matthews**
+Nationalité : **[CLASSIFIÉE]**
+Sexe : **Femme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE]
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
+-----
++ "Spider"
+
+Matricule : **43861212/735**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **[CLASSIFIÉE]**
+Sexe : **Femme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+Recrutée au CIETU en [DATE]. A terminé le premier cycle (adepte) d'études le [DATE]. Recrutée par la Division PHYSIQUE le [DATE], a rejoint l'Équipe d'évaluation 735 "Sparkplug" le [DATE].
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+[[/tab]]
+[[tab "Broken Dagger"]]
+Une équipe d'assaut basée à Kilkenny, en Irlande. Spécialisée dans la réponse rapide à l'échelle mondiale, via l'apportation.
+* **Héraldique :** Écu. Une //bande d'argent// sur une épée d'or, pointée vers le bas, sur fond azur bordé d'or. Code d'unité à la //couronne//, sur un parchemin blanc bordé de noir. La devise de l'unité est à la //devise//, sur un parchemin blanc bordé de noir.
+* **Devise :** "Brisez-les."
+
++ "Fox"
+
+Matricule : **42921102/1102**
+Titre : **Chef d'équipe**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **[CLASSIFIÉE]**
+Sexe : **Femme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE]
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
+-----
++ "Jackal"
+
+Matricule : **41021124/1102**
+Titre : **Officier de direction**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **[CLASSIFIÉE]**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE]
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
+-----
++ "Pockets"
+
+Matricule : **43855511/1102**
+Titre : **Radio et technicien spécialisé**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **[CLASSIFIÉE]**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE]
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
+-----
++ "Tosser"
+
+Matricule : **43851126/1102**
+Titre : **Infirmier**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **Anglaise**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE]
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
+-----
++ "Redshirt"
+
+Matricule : **44307084/1102**
+Titre : **Spécialiste en ésotérisme**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **Israélienne**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE] Il est également à noter que le spécialiste Redshirt a été blessé en mission à 14 reprises. Ces blessures ne nuisent pas à son efficacité sur le terrain.
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
+-----
++ "Arsegike"
+
+Matricule : **44297251/1102**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **[CLASSIFIÉE]**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE]
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
+-----
++ "Ferret"
+
+Matricule : **44307084/1102**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **[CLASSIFIÉE]**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE]
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
+-----
++ "Cartman"
+
+Matricule : **44752412/1102**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **Canadienne**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE]
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+
+-----
++ "Shatner"
+
+Matricule : **41212342/1102**
+[[collapsible]]
+Véritable nom : **[CLASSIFIÉ]**
+Nationalité : **[CLASSIFIÉE]**
+Sexe : **Homme**
+Date de naissance : **[CLASSIFIÉE]**
+
+++ Biographie
+[CLASSIFIÉE]
+
+++ États de service
+[ÉTATS DE SERVICE PLUS ANCIENS CLASSIFIÉS]
+* [CLASSIFIÉ]
+* [CLASSIFIÉ]
+[[/collapsible]]
+[[/tab]]
+[[tab Autres individus et unités]]
++ PHYSIQUE
+* **Équipe d'assaut 0001 "Alpha"** : La première équipe d'assaut de la Coalition, composée d'anciens SS et d'agents de l'Ahnenerbe ayant rejoint les rangs de la Coalition. Le nom de cette unité, ainsi que son blason, ne sont plus utilisés à la suite du décès de la totalité de l'équipe au cours du scandale OVNI McCarthy-Truman de 1951.
+* **Équipe d'assaut 1121 "Noble Phantom"**
+ * "Agent Madrigal" : A participé à l'édition et à l'écriture de la dernière version des manuels informels fournis aux agents de la CMO. Connu pour ajouter des commentaires lapidaires sur divers sujets.
+* **Équipe d'assaut 2209 "Steelheads"** : Impliquée dans l'attaque d'une cellule de la Main du Serpent de Las Vegas, il y a quelques années.
+* **Équipe d'assaut 9999 "Max Damage"** : Déploie et utilise les châssis de combat ultralourds (Combinaisons oranges) de la Coalition.
+[[/tab]]
+[[/tabview]]
+
++ CONTES CANONS
+[[tabview]]
+[[tab Séquence]]
+par Clef
+
+Une série de contes, chacun illustrant le déroulement d'une mission selon les différents acteurs de la Coalition mondiale occulte.
+* [[[goc-tale-Sequence-Assessment|Évaluation]]] - L'Équipe d'évaluation "Sparkplug" part pour sa première mission avec un nouveau membre, et les politiciens du Conseil montrent leurs sales têtes.
+* [[[goc-tale-Sequence-Strike|Assaut]]] - L'Équipe d'assaut "Broken Dagger" botte des culs sans prendre le temps de noter les noms.
+* [[[goc-tale-Sequence-Special-Observer|Témoin spécial]]] - Knight, Zhao et le Temple de la Damnation.
+* [[[goc-tale-Sequence-Farpoint|Farpoint]]] - Callahan arrive sur son nouveau poste, dans une base avancée de la CMO, et se fait des amis.
+* [[[goc-tale-sequence-awtok|AWTOK]]] - "JE VOUS EMMERDE, JE SUIS UN DRAGON"
+* [[[goc-tale-sequence-joint venture|Coentreprise]]] - Ajoutez juste des colombes blanches.
+* [[[goc-tale-sequence-trauma|Traumatisme]]] - Cicatrices et souvenirs.
+* [[[goc-tale-sequence-tempering|Tempérer]]] - Les flammes les plus chaudes ne font pas toujours le meilleur acier.
+* [[[goc-tale-sequence-Vigil|Vigile]]] - Pour ceux qui sont tombés.
+* [[[goc-tale-sequence-Diplomacy|Diplomatie]]] - Visiter les prisonniers de guerre fait partie des obligations de la Croix Rouge internationale.
+* [[[goc-tale-sequence-UHEC|CCUL]]] - Ce site a fonctionné 30 jours sans accident.
+* [[[goc-tale-sequence-scrambleorder|Ordre trouble]]] - "Nous avons besoin de vous dans l'heure."
+
+[[/tab]]
+[[tab Affaire COLD HARPER]]
+par [[[spikebrennan-s-personnel-file|spikebrennan]]]
+
+* [[[memorandum-dated-6-november-1944|Mémorandum daté du 6 novembre 1944]]]
+* [[[transcript-of-meeting-june-2-1972|Transcription d'une réunion, 2 juin 1972]]]
+* [[[transcript-of-telephone-conversation-august-9-1991|Transcription d'une conversation téléphonique, 9 août 1991]]]
+[[/tab]]
+[[tab Contes divers]]
+* [[[goc-tale-incident-bl-7-alpha|Transcription de l'incident BL-7 Alpha]]] - par Clef. L'Équipe d'évaluation "Sparkplug" découvre quelque chose d'horrible dans les bois.
+* [[[goc-tale-comeintomyparlor|"Viens dans mon parloir"]]] - par Clef. "... dit Spider à la mouche."
+[[/tab]]
+[[/tabview]]

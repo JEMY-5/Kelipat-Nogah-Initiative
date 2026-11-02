@@ -1,0 +1,227 @@
+[[include credit:start]]
+**Titre original :** Church of the Broken God Hub
+**Auteur :** [[user FortuneFavorsBold]]
+**Traducteur :** [[user DrGemini]]
+**Date :** 23 juin 2014
+**Images :** Logos créés par [[user SunnyClockwork]]
+[[include credit:end]]
+
+[[tabview]]
+
+[[tab Aperçu]]
+
+**Groupe n^^o^^ :** GdI-004, "L'Église du Dieu Brisé"
+
+**Adhérents :** ~300 000 à l'échelle mondiale, répartis en trois factions connues.
+
+**Ressources :** 1-5 milliards de dollars par an, capacités anormales.
+
+**Statut :** Actif
+
+[[include component:image-block name=SPChu.png|caption=**Le forgeron ne répond qu'à Dieu, car ses mains réparent Son corps.**
+- //Bâtisseur Robert Bumaro//|width=250px]]
+
+**Description :** L'Église du Dieu Brisé est une organisation religieuse anormale vénérant la mécanisation et pensant que la chair et la vie sont fondamentalement néfastes ou "brisées". Bien que ses origines soient inconnues, des artefacts liés au Dieu Brisé ont été récupérés lors de fouilles archéologiques sur des terrains datés de la période Grecque Classique, et les dogmes de l'église affirment que son existence est antérieure à l'apparition de la vie sur Terre. Le point central de leur théologie est que leur divinité a été éparpillée, dispersée ou autrement rendue inerte. À travers l'usage de la technologie, souvent anormale, les fidèles tentent de rassembler les fragments du corps de Dieu, lui permettant ainsi de posséder une forme physique et provoquant une sorte d'apothéose techno-organique. Plusieurs objets SCP ont été attribués à ce groupe depuis sa découverte. Le personnel peut référencer les objets indexés sous le tag "dieu-brisé" pour une liste restreinte.
+
+Le meneur actuel de la plus ancienne branche, "L'Église Brisée" (GdI-004A), est un individu connu sous le nom de "Sa Sainteté Robert Bumaro, Bâtisseur du Dieu Brisé", qui a apparemment gagné ce titre en 1946[[footnote]] Les archives des nationalistes espagnols mentionnent un mécanicien du nom de Umberto Bumaro, ayant reçu de nombreux éloges du gouvernement pour des "prouesses incroyables en ingénierie et en mécanique au service de l'État". On ignore s'il s'agit ou non du même individu, ainsi que sa localisation au cours de la Seconde Guerre Mondiale.[[/footnote]]. Alors que la secte poursuit ses efforts pour reconstruire sa déité, la religion dans son ensemble a subi un schisme majeur lors du siècle dernier. Deux mouvements dissidents de l'église originale s'opposent violemment sur le plan théologique.
+
+[[include component:image-block name=SPOrth.png|caption=Notre Piété donne corps à Dieu.
+- //Le Schéma des Patriarches//|width=250px]]
+
+"L'Église Orthodoxe de l'Engrenage" (GdI-004B) épouse une forme d'iconographie littérale connue sous le nom de "Standardisation", où les adhérents se soumettent à des améliorations mécaniques dans le but établi est de se reconstruire eux-même à l'image ou sur le même plan que leur déité. En raison de l'importance de leur augmentation mécanique, les membres de cette secte émettent souvent des sons audibles de tic-tacs, et sont désobligeamment appelés les "Tiqueurs" par les membres des deux autres sectes.
+
+L'Orthodoxie de l'Engrenage adhère délibérément aux normes technologiques de la fin de la Révolution Industrielle, et considère la production de masse de machines à vapeur et à engrenage comme une forme de prière. La doctrine de l'Orthodoxie est hautement centralisée et régulée par un groupe de composition inconnue, connu comme étant "les Patriarches". Ce groupe produit des ordres de production détaillés et conçoit des documents, qui forment le cœur des écrits saints extrêmement nombreux de l'Orthodoxie. La croyance orthodoxe décrie l'usage d'appareils électroniques ou digitaux, et voit le partage distribué de l'information et la décentralisation comme un synonyme de dissolution de la connaissance divine.
+
+[[include component:image-block name=SPMax.png|caption=L'Individualité est le fichier système par lequel notre Seigneur est compilé.
+- //Paroles du Prophète.txt//|width=250px]]
+
+"L'Église du Maxwellisme" (GdI-004C) est un culte modernisé tourné vers le calcul et les réseaux. Aucun lieu de culte physique n'a été identifié. Toutefois, les interrogatoires et surveillances sous couverture ont permis de déterminer que toutes les cellules connues sont en contact régulier les unes avec les autres, et capables de coordination. Les Maxwellistes préfèrent modifier leur corps à petite échelle par l'usage d'une cybernétique avancée et de l'amélioration d'organes. Même si des membres artificiels ou des squelettes renforcés ont été observés, les implants maxwellistes se concentrent sur la communication, le stockage de données, les capacités réseau et les améliorations sensorielles.
+
+La doctrine maxwelliste interprète le Dieu Brisé comme une déité "fragmentée", existant sous la forme de données disparates propre à l'âge digital. Les croyants approchent leur dieu en adoptants ses traits uniques et en partageant leur connaissance et leurs capacités pour l'ensemble de l'Église. En connectant tous leurs esprits en réseau, ils croient que leur déité peut être "recompilée" comme volonté globale de l'humanité. En raison du bruit de leurs ventilateurs comme aide à la méditation, les membres sont souvent surnommés "Fredonneurs" par les membres des deux autres factions.
+
+[[/tab]]
+
+[[tab Histoire]]
+
+Étant donnée la nature fragmentée du GdI-004, il est difficile de déterminer un historique net de l’évolution de l’Église. A chaque nouveau raid sur des cellules hostiles, de nouvelles informations contradictoires sont découvertes concernant ses origines, ses doctrines, ses figures importantes et son développement historique. La connexion rétroactive d'anciennes sectes, considérées jusque là comme sans rapports, avec l'Église représente un gros problème pour les historiens de la Fondation.
+
+Vous trouverez ci-dessous un bref résumé des informations existantes sur l'histoire de l'Église, d'après des sources considérées fiables par la Fondation. Cet historique doit être pris en compte lors d'une interaction avec des membres du GdI ou des artefacts suspects, bien que les agents et les chercheurs de la Fondation doivent toujours garder à l'esprit que cet historique est lacunaire, sujet à extension ou à des suppressions au fur et à mesure des découvertes.
+
+++ Groupe Culturel Anormal Xia
+
+Les découvertes archéologiques récentes d'anciens sites anormaux ont permis d'établir un lien entre l'ancienne Dynastie Xia (une dynastie légendaire ayant dirigé la Chine de 2100 à 1600 avant J.-C., de laquelle il ne reste aucune trace non-anormale) et le Culte du Dieu Brisé.
+
+Le groupe culturel Xia pratiquait une religion dualiste, vénérant le Père Serpent Fuxi (équivalent du Dieu Brisé) et la Mère Dragon Nüwa (équivalent de la [[[sarkicism-hub|déité Sarkique]]]) par-dessus tous les autres dieux. Il est dit que les érudits de cette culture pratiquaient “La Voie du Serpent”, tandis que les membres de la culture subissaient à douze ans des transformations en corps serpentins, dits ressembler au “Corps du Dragon”. Ces transformations anormales, accompagnées de la technologie anachronique retrouvée lors des fouilles archéologiques, confirment que la Dynastie Xia fait partie d'une des premières civilisations anormales de l'Histoire connue. Selon la cosmologie Xia, Fuxi et Nüwa s'affrontèrent après avoir créé l'Humanité, un combat qui culmina lorsque Fuxi se transforma en une "Grande Cage de Laiton" pour emprisonner Nüwa. Bien que le culte de Fuxi ait devancé celui de Nüwa, le groupe culturel Xia considérait la reconstruction de Fuxi comme un événement à éviter à tout prix, étant donné que cela libérerait Nüwa de sa cage, et mènerait à la fin du monde.
+
+La Dynastie est dite avoir été fondée par l'Empereur Jaune, un personnage légendaire considéré comme l'initiateur de la civilisation chinoise, qui aurait vaincu ses contemporains vénérant Fuxi et Nüwa. Au cours de son Histoire, la civilisation Xia entra en conflit avec d'autres civilisations, parmi lesquelles les cultes précédemment mentionnés, [[[scp-4017|la civilisation Ortothane]]], la future dynastie Shang et [[[[scp-1000|SUPPRIMÉ]]]].
+
+Le groupe culturel Xia était significativement plus avancé que les autres civilisations de son époque, disposant déjà de structures similaires à des systèmes informatiques d'une complexité approchant celle des intelligences artificielles, d'un système d'écriture plus élaboré que celui de la future dynastie Shang, ainsi que de dispositifs capables d'altérer la réalité. Il disposait de forgerons accomplis, particulièrement dans le travail du bronze et d'un alliage spécial de bronze-béryllium utilisé dans la création de plusieurs objets anormaux. Les propriétés de cet alliage font actuellement l'objet de recherches. Certains textes anciens suggèrent que la culture Xia aurait développé des méthodes de voyage interstellaire. Il n'est cependant pas déterminé si ces voyages ont réellement été effectués, seulement théorisés, ou si ces textes feraient en fait référence à toute autre chose.
+
+La Dynastie Xia vit sa fin venir lors de sa rencontre avec des créatures nommées “[[[/system:page-tags/tag/enfants-de-la-torche#pages|Les Corbeaux d'Or]]]” qui détruisirent toutes les preuves physiques de son existence en dehors de quelques rares sites, objets et organismes anormaux. Son souvenir ne fut conservé que dans les mythes des cultures voisines, et certains [[[about-the-serpent|témoignages]]] confirment la présence résiduelle de quelques survivants, faisant office de gardiens de leur passé oublié.
+
+Pour plus d'informations concernant le Groupe Culturel Anormal Xia, veuillez consulter le [[[Document 2481]]].
+
+++ L'Empire Mekhanite
+
+De nombreuses preuves confirment la présence de cultes autour du Dieu Brisé actif chez les Mycéniens, un peuple ayant vécu de 1600 à 1100 avant J.-C. Le Dieu Brisé prit le nom de Mekhane [[footnote]] (“μηχανή”, littéralement “machine”) [[/footnote]], et son culte devint progressivement de plus en plus puissant, au point d'aboutir à la création de l'Empire Mekhanite, qui exista entre 1200 et 1000 avant J.-C.
+
+L'Empire Mekhanite était un état théocratique hautement centralisé, sans distinction entre les titres de chef politique, religieux et militaire. L’État maintenait sous son contrôle la production des biens, en particulier l'industrie métallurgique, qu'il considérait comme une discipline sacrée. L'Empire entretenait des relations commerciales intenses avec l'Égypte, l'Assyrie et Canaan. Ses pratiques commerciales agressives, ses pratiques évangéliques et sa puissance navale firent de lui l'un des plus puissants états de l'époque, bien qu'impopulaire auprès des puissances voisines.
+
+L'Empire Mekhanite introduisit plusieurs concepts importants de la théologie de l'Église Brisée, particulièrement en érigeant la reconstruction du Dieu Brisé comme but ultime de l'Église. Les textes de l'époque témoignent de ce passage d'une simple religion déiste à la doctrine de l'Apothéose qui commence à se populariser vers 1154 avant J.-C. Il est important de noter que les [[[scp-3391-offset-1|plus anciens documents connus]]] proposant cette doctrine nomment le Dieu Brisé “Wan”[[footnote]]Aucune connexion avec le "WAN" vénéré par l'Église du Maxwellisme n'a pu être établie. [[/footnote]].
+
+Les relations entre l'Empire Mekhanite et les civilisations contemporaines, en particulier les Daevites et les Sarkites, étaient en grande partie tendues, bien que [[[scp-1564|des traces d'alliances entre les Mekhanites et les Daevites]]] contre l'Empire d'Adí-üm aient été découvertes. Les tensions entres les Mekhanites et l'Empire d'Adí-üm atteignirent leur paroxysme au XI^^e^^ siècle avant J.-C. Les restes de [[[scp-2406|colosses]]] construits à l'occasion de cette guerre furent retrouvés jusque dans le désert d'Aralkum. [[[sic-semper-tyrannis|Les témoignages concernant la fin]]] [[[so-the-beasts-shall-plague-the-land-no-more|de la guerre diffèrent]]], mais il est établi que, bien que les Mekhanites finirent par effectivement l'emporter, les dommages conséquents portés contre leur état menèrent à l'effondrement de l'Empire peu de temps après. Les artefacts de cette époque ont été spoliés par diverses organisations anormales au fil des ans, ne refaisant surface que récemment au cours de la [[[archival-document-hsa-008-advent|Septième Guerre Occulte]]].
+
+++ La Cité-État d'Amoni
+
+Les survivants de la nation Mekhanite subirent un schisme suite à la chute de l'empire. Une portion importante partit vers d'autres contrées, espérant trouver un nouveau territoire où s'installer. Le reste resta à Amoni, une petite colonie restée en grande partie épargnée par la guerre.
+
+Pour ces deux groupes, la période qui suivit l'effondrement de l'empire fut marquée par leur besoin de discrétion. Les états environnant déclarèrent immédiatement l'ancien territoire de l'Empire comme étant le leur, espérant y retrouver les secrets de la technologie mekhanite. Pour ces mêmes secrets, les anciens membres de l'Empire furent traqués, considérés comme d'importantes sources d'informations. Les survivants installés dans de nouveaux pays cachèrent leurs origines et pratiquèrent leur religion en secret ou en [[[automata-et-cetera|confondant leur dieu avec d'autre déités]]]. Il est supposé que la plupart des descendants de ces survivants finirent par abandonner leur foi afin de mieux s'intégrer dans la société.
+
+En parallèle, les survivants d'Amoni, désormais une véritable cité-état, dissimulaient son emplacement au reste du monde et vivaient en autarcie tout en tâchant de se remettre de la guerre. Ce n'est qu'au VI^^e^^ siècle avant J.-C. qu'ils retrouvèrent une certaine influence dans la politique régionale, grâce à leur technologie avancée. Bien que leur puissance militaire se soit en grande partie effondrée avec le reste de l'Empire, les ingénieurs de la Cité-État étaient adulés par les autres civilisations, une popularité qui lui assura des alliés importants et garantissait sa survie.
+
+Sans grande armée ni contrôle du commerce maritime, la Cité-État d'Amoni dut se concentrer sur l'agriculture et la production de biens uniques. La Cité-État demeura fermée aux étrangers, par volonté de ne montrer aucun signe de faiblesse aux peuples extérieurs : l'emplacement de la ville demeura secret et ses échanges avec les autres états se firent via d'autres ports désignés. Cet état d'isolation demeura jusqu'à sa conquête par les Romains au I^^er^^ siècle avant J.-C.
+
+La Cité-État d'Amoni était [[[scp-2510|profondément influencée par les cultes pythagoriciens]]], dont elle incorpora les croyances concernant l'importance de la numérologie et de l'harmonie. Il est supposé que les textes gnostiques dont nous disposons actuellement sur la théologie du Dieu Brisé datent de cette époque. Ces influences spirituelles menèrent à un importante production littéraire et artistique autour du V^^e^^ siècle avant J.-C., qui marqua l'Âge d'Or de la Littérature Mekhanite. Des avances similaires se produisirent au I^^er^^ siècle avant J.-C. dans la conception d'automates, culminant en la création de ce qui est supposé être le [[[excerpts-regarding-st-sophia|premier exemple d'intelligence artificielle]]] sur le continent européen.
+
+La Cité-État d'Amoni resta neutre durant la plupart des conflits militaires de l'époque, bien qu'elle ait aidé [[[scp-2309|l'Empire Achéménide]]] dans sa guerre contre les Sarkites, et au moins [[[scp-3813|fourni de l'équipement militaire au Royaume de Carthage]]] durant les Guerres Puniques. 
+
+La Cité-État d'Amoni fut finalement détruite durant le I^^er^^ siècle après J.-C., suite à un [[[scp-3777|conflit avec les Hébreux]]] dont la puissance militaire ne pouvait plus être sous-estimée. Bien que des croyants demeurèrent, la religion n'eut plus de corps centralisé avant le XIX^^e^^ siècle.
+
+++ La Révolution Industrielle
+
+L'Église du Dieu Brisé connut une résurgence durant la Révolution Industrielle, voyant la prolifération des machineries et de la production de masse comme un signal du retour imminent de Mekhane. Les diverses cellules survivantes s'unifièrent pour former ce qui est aujourd'hui connu comme l'Église Brisée, cherchant à répandre la bonne parole de leur Dieu en cette nouvelle ère.
+
+A la même époque, parmi les membres de l'Église, des débats éclatent concernant la viabilité d'une conversion en entités mécaniques, et certains membres se mettent à la recherchent d'un état d'existence [[[scp-1564|"post-nibbanique"]]][[footnote]]Un état hypothétique dans lequel le sujet converti entre en communion avec son Dieu. [[/footnote]]. La conversion n'avait pas été une pratique répandue depuis la chute de l'Empire Mekhanite, et plusieurs membres de hauts rangs de l'Église considéraient que toute conversion différente de celle décrite dans [[[scp-217|“L'Ichor Divin”]]] était une insulte envers le Dieu Brisé. Il est supposé que les tensions au sein de l'Église furent exacerbées par l'oligarchie de l'époque, tirant bénéfice de cette "nouvelle" religion mais ne souhaitant pas se soumettre à l'autorité de l'Église. Finalement, ces tensions menèrent au premier grand schisme de l'histoire moderne de l'Église, où plusieurs cellules séparatistes quittèrent l'Église pour chercher l'illumination dans les nouvelles technologies des années 1840.
+
+Grâce au support économique de plusieurs industriels importants et aux connaissances de ces cellules séparatistes, plusieurs expériences furent réalisées qui ouvrirent des pistes d'augmentations corporelles. Les cellules séparatistes cherchèrent à évangéliser l'oligarchie de l'époque, mettant en avant l'utilité de la technologie anormale mekhanite et les encourageant à se convertir pour pouvoir profiter de leurs augmentations. Bien que peu adoptèrent la foi, plusieurs oligarques de l'époque devinrent les sponsors de ces cellules, cherchant à bénéficier de leurs connaissances. Le développement de la technologie anormale menaçait de détruire le Voile, ce qui mena aux premiers conflits entre la Fondation naissante et l'Église.
+
+Finalement, la majorité de ces cellules furent unifiées par les Patriarches de l'Église Orthodoxe de l'Engrenage, qui devint le segment le plus important de l'Église du Dieu Brisé à la fin du XIX^^e^^ siècle.
+
+++ Le XX^^e^^ siècle.
+
+L'Église du Dieu Brisé débuta le XX^^e^^ siècle dans la situation la plus stable qu'elle ait eu depuis la destruction de la Cité-État d'Amoni. La découverte de plusieurs artefacts du Dieu Brisé par l'Orthodoxie de l'Engrenage mena de nombreux cultistes à croire que ce n'était qu'une question de temps avant que le Dieu Brisé ne soit réassemblé. L'Église Brisée, ne souhaitant pas voir les séparatistes reconstruire leur Dieu, commença à rechercher ses propres artefacts.
+
+La figure la plus importante de l'histoire moderne de l'Église est certainement Robert Bumaro, un mystérieux individu qui fut pour la première fois remarqué comme un collectionneur d'objets soupçonnés d'être liés à l'Église. Il recruta plusieurs hommes de main et, par des moyens anormaux, en augmenta la plupart jusqu'à ce qu'ils soient capables de “communiquer” avec leur Dieu. Pratique inhabituelle pour l'Église Brisée qui, contrairement à l'Orthodoxie de l'Engrenage, décourageait les améliorations artificielles.
+
+Bumaro et ses agents furent capables de collecter pas loin de mille artefacts d'importance présumée par l'Église, avant de disparaître en 1943. Il réapparu en 1946, prétendant au titre de chef de l'Église et “Constructeur de Dieu”. A ce jour, Bumaro reste une figure très respectée, non seulement dans l'Église Brisée, mais aussi dans les autres branches mekhanites connues.
+
+Un dernier schisme se produisit durant les années 1990, bien que des conflits au sein de l'Église aient éclatés dès les années 1970. Avec l'avancée de la technologie, de nombreux membres des églises existantes considéraient que leurs dogmes étaient dépassés, et que l'Église devait adapter son message à son époque. L'inclusion d'appareils électroniques aux augmentations corporelles fut hautement controversée par l'Orthodoxie de l'Engrenage, et finit par être interdite par les Patriarches en tant que développement hérétique. Cet ajout au Schéma résulta en de nombreux départs et excommunications.
+
+Comme au XIX^^e^^ siècle, divers groupes séparatistes apparurent, bien qu'ils eurent bien plus de mal à trouver des financements. La plupart d'entre eux finirent par s'unifier durant la seconde moitié des années 1990, autour des enseignements d'une femme nommée Sainte Hedwige[[footnote]] Des documents récupérés à l'Église connectent Ste Hedwige à l'actrice et inventrice Hedy Lamarr, bien que ce lien n'ait pas été vérifié. [[/footnote]] pour former l'Église du Maxwellisme. Grâce à ses relations avec des acteurs majeurs monde de l'anormal, les Laboratoires Prometheus, notamment, l'Église du Maxwellisme s'établit rapidement comme l'une des principales branches de l'Église.
+
+++ Statut actuel
+
+L’Église du Dieu Brisé est estimée compter aujourd'hui près de 300 000 membres. Leur nombre tend à augmenter dans les familles de fois mixtes, étant donné que les Maxwellistes cherchent à évangéliser les nouvelles générations à l'aide des médias populaires et d'Internet. Ce prosélytisme fait d'eux les membres de l'Église les plus dangereux envers la normalité, et ce malgré leur relative absence de force de frappe, comparée aux deux autres branches mekhanites.
+
+Les opérations actuelles de l'Église se concentrent sur la récupération d'une [[[scp-2217|île proche des côtes grecques]]]. Les raisons de leur intérêt pour cette île sont actuellement indéterminées.
+
+[[/tab]]
+
+
+[[tab Textes Sacrés]]
+
+**Écrits Saints :**
+
+[[module ListPages order="name" tags="+format-gdi +dieu-brisé" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+**Contes :**
+
+[[[Implanting God]]]
+[[[Variations on a Schema]]]
+[[[The Heresy of Disassembly]]]
+[[[20 GOTO 10]]]
+
+[[/tab]]
+
+[[tab Compléments Internes]]
+[[module ListPages order="ratingAsc" limit="100" tags="-archivé -admin -auteur -sandbox -conte -gdi2014 +scp +dieu-brisé" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+
+[[/tab]]
+
+[[tab Comptes Documentés]]
+[[module ListPages order="ratingAsc" limit="100" tags="-archivé -admin -auteur -sandbox -scp -gdi2014 +conte +dieu-brisé" separate="no" perPage="100"]]
+* %%title_linked%%
+[[/module]]
+[[/tab]]
+
+[[tab Informations]]
+
+Les articles de l'Église prennent la forme de Saintes Écritures, un mélange bizarre de manuel technique et de manuscrit biblique. Étant donné que c'est évidemment difficile d'incorporer des éléments comme une classification des objets sous une forme manuscrite, le formatage des Saintes Écritures de l'Église est quelque peu différent. Tout d'abord, le style dépend en grande partie de la section de l'Église sur laquelle vous voulez vous concentrer. Elles sont listées ci-dessous.
+
+**Les Écrits du Dieu Brisé**, qui est pour ainsi dire l'Église classique et *old-school* que tout le monde connaît, ne suivent aucun format spécifique, mais le style en est la clé. Ce sont des légendes, ou des transcriptions de légendes, qui sont sans doutes plus anciennes que la plupart des civilisations humaines. Ce qu'on recherche ici c'est un ton mythique, une tendance à couvrir de longues périodes de temps et le genre d'histoire que vous verriez bien dans d'anciennes légendes et des histoires de création. Ce sont des commémorations de la destruction d'un dieu, et ils doivent donc traiter leur sujet d'une manière très grave. Les Écrits classiques de l'Église ne sont jamais directs : leur véritable sujet est enrobé de métaphores profondes et d’offuscations délibérées.
+
+**Les Écrits de l'Orthodoxie de l'Engrenage** ressemblent beaucoup à ce que vous obtiendriez en mettant un carnet de note de De Vinci ou de Brunel dans un mixeur avec une Bible du roi Jacques. Tous les Écrits de l'Engrenage sont tirés de leur gigantesque //Schéma des Patriarches//, et doivent donc être préfacés par un code d'identification alphanumérique permettant de le situer au milieu du volume hallucinant des textes produits par les Orthodoxes. Ils sont écrits dans un style archaïque avec une grande dévotion au détail et un usage fréquent de références croisées. Souvenez-vous qu'il s'agit à la fois de rapports de production industrielle et de plans de lignes d'assemblage mais aussi de textes liturgiques. Les lignes sont numérotées individuellement, avec des mots clés en majuscules. Dieu y est appelé Le MEKHANE, et le "Diable" y est appelé La CHAIR.
+
+[[collapsible show="+Notes Utiles sur l'Orthodoxie de l'Engrenage" hide="-Notes Utiles sur l'Orthodoxie de l'Engrenage"]]
+
+Ce qui suit est une version étendue des simples notes d'organisation que j'ai conservé en organisant et en écrivant le contenu concernant l'Orthodoxie de l'Engrenage pour le concours. Évidemment, aucune de ces informations n'est globale ni complète, et il y a de nombreux trous que vous, auteur, êtes libre d'exploiter et d'approfondir.
+
+__//Le Schéma des Patriarches// Table des Matières (Partielle)__
+|| **Volume n^^o^^** || **Contenu** ||
+|| **1** || Le Dieu Brisé ||
+|| **2** || Histoire de l'Église du Dieu Brisé ||
+|| **3** || Les Erreurs de l'Église du Dieu Brisé ||
+|| **4** || Le Schisme ||
+|| **6** || Histoire de la Cathédrale Industrielle ||
+|| **7-8** || Indices de Standardisation ||
+|| **9** || Technologies de Fabrication Standardisée ||
+|| **11** || Technologies de Standardisation Personnelle ||
+|| **12** || Composants Standardisés ||
+|| **13** || Métallurgie Standardisée ||
+|| **16**|| Armement Standardisé ||
+|| **17** || Armement Expérimental ||
+|| **19** || Quêtes des Fervents Inventeurs ||
+|| **20** || Quêtes des Engins Analytiques ||
+|| **21** || Méditation sur les Plans ||
+|| **54** || Les Hérésies des Maxwellistes ||
+|| **55** || Les Abominations de La CHAIR ||
+
+__Ordres de l'Orthodoxie__
+
+* //Les Patriarches :// Un groupe insulaire de composition et de taille inconnue. Décident de tout et contrôlent tout ce qui concerne l'Église, tout en produisant les mémoranda et les textes qui deviennent le //Schéma//.
+
+* //Fervents-Schématistes :// Impriment, compilent et organisent le //Schéma// en se basant sur les instructions des Patriarches. En théorie de rang égal à tous les autres Ordres, mais exercent en pratique une influence politique légèrement supérieure en raison de leurs privilèges d'éditeurs des Écrits. 
+
+* //Fervents-Légats :// Affaires internes/Inquisition/Tribunal. Enquêtent sur l'hérésie, servent de médiateurs lors des disputes, chargés de mener les actions en cas de conflit au sein de la Cathédrale ou d'autres propriétés de l'Église. Un des deux Ordres Armés officiels, l'autre étant les Militants.
+
+* //Fervents-Militants :// Affaires externes/Auto-défense. S'occupent directement des menaces officielles ou officieuses envers l'Église, là où s'arrête l'autorité des Légats. Fonctionnent comme ambassadeurs ou représentants envers les autres groupes, sauf lorsqu'il s'agit d'autres doctrines (où les forces militantes peuvent être utilisées pour compléter un groupe formé de Légats). Le premier des deux Ordres Armés officiels, l'autre étant les Légats.
+
+* //Fervents-Fabricants :// Supervisent la production dans les propriétés de l'Église. Agissent comme contremaîtres et contrôleur de qualité des produits fabriqués par les Frères et les Sœurs Laïcs travaillant dans les installations de Fabrication. Déterminent quelles nouvelles Inventions doivent être envoyées aux Patriarches pour en approuver la Standardisation.  
+
+* //Fervents-Inventeurs :// Chargés du raffinage et de la création de nouveaux produits potentiellement Standardisés. Embarqués dans des Quêtes pour résoudre des questions clés de théologie et de conception. Par défaut, tout Système Analytique Conscient de l'Église agit comme membre des Inventeurs.
+
+__Saints Notables__
+
+* //Saint-Légat Trunnion// : Patron des Fervents-Légats, des Tenaces, du Compromis Pragmatique. Un des rares Saints Orthodoxes à ne pas avoir été canonisés post-mortem, pour avoir rallié la Fabrique à la cause Orthodoxe au début du Schisme. Parfois discutée par les membres les plus conservateurs de l'Orthodoxie en raison de son désir d'utiliser des méthodes dérobées pour vaincre la pensée hérétique.
+
+* //Saint-Schématiste Platen// : Patronne du Mot Écrit, des Éditeurs, des Programmes et de l'Organisation Diagrammatique. A mené des réformes massives parmi les Fervents-Schématismes fraîchement fondés au début du Schisme, menant à une forme très organisée et inter-connectée du //Schéma// "moderne". Également connue pour ses plaidoyers fréquents et souvent efficaces dans les domaines de la théologie et de la philosophie.
+
+* //Saint-Inventeur Diaphragme// : Patron des Fervents-Inventeurs, des Concepteurs, des Réparateurs et des Dispositifs Cognitifs. A fondé les Fervents-Inventeurs et a lancé les premières Quêtes de Connaissance qui ont mené aux premiers Dispositifs Analytiques et Cognitifs. S'est engagé dans plusieurs collaborations philosophiques bien connues avec Saint Platen qui furent fondamentales pour la philosophie spirituelle de l'Orthodoxie.
+
+* //Saint Scranton// : Patron de la Manipulation du Tissu Spatial, des Mathématiques Dimensionnelles Supérieures et de l'Extraction du Charbon Anthracite. Connu dans le monde civil au XIX^^ème^^ siècle comme l'industriel et homme politique américain George W. Scranton, il ne fut jamais membre de l'Église mais produisit plusieurs technologies mécaniques anormales clés qui permirent la manipulation analogue d'espaces multi-dimensionnels. Ses travaux furent vitaux tant pour l'Église que pour la Fondation SCP, qui s'est en grande partie servie de la technologie de stabilisation de la réalité des inventions de Scranton.
+
+* //Saint-Fabricateur Baffle// : Patron de l'Atelier et de la Ligne de Production. Un de premiers contremaîtres de la Cathédrale, Baffle fut responsable de la mise en place du plan d'organisation des zones de travail de la Cathédrale, lequel existe encore aujourd'hui.
+
+* //Saint-Inventeur Chock// : Patron des Choristes. A dédié sa vie à l'étude du son, de l'audiologie, et à la composition des hymnes classiques de l'Orthodoxie. La plupart des membres de l'Orthodoxie ont appris au moins en partie sa //Symphonie de l'Assemblage// lorsqu'ils étaient enfants.
+
+* //Saint-Inventrice Enrichner// : Patronne de l'Énétéléchiété. Très peu de choses sont connues concernant sa vie personnelle, si ce n'est qu'elle disparut spontanément un jour au cours d'une réunion avec les autres Inventeurs, ne laissant derrière elle aucun effet personnel en dehors de son oeuvre novatrice //La Quête de la Désincarnation//, considéré comme le texte phare des membres les plus spirituels recherchant une vie au-delà de leur forme corporelle.
+
+[[/collapsible]]
+
+**Les Écrits de l'Église du Maxwellisme** peuvent être tirés de n'importe quelle source. Les documents religieux maxwellistes sont distribués par voie électronique, et sont souvent partagés et modifiés par des membres individuels en guise de tentative collaborative de diviniser leur véritable sens. Leur dieu est censé être disponible en open-source et sans DRM, après tout (même si, les sysadmins étant ce qu'ils sont, cela pourrait très bien ne pas toujours être le cas). Les textes maxwellistes  partagent le schéma de numérotation de ligne utilisé par les travaux Orthodoxes, et appellent Dieu 'WAN'. Le style d'écriture doit ici être formel, mais généralement simple et direct à l'exception des termes techniques. Au lieu de faire des références ou de fournir des figures détaillées des travaux, les Écrits Maxwellistes laissent beaucoup de place à la construction faite maison et donnent une impression de manuel d'instruction. En dépit de leurs méthodes de compilation parfois ésotériques, ils ne sont pas destinés à des prêtres ou à des spécialistes, mais à des individus adhérents à la même foi. 
+
+Tous les Écrits Saints doivent suivre le format suivant :
+
+> ++ Titre du livre
+> **Détails du livre**
+> # Verset 1
+> # Verset 2
+> # Etc...
+
+[[/tab]]
+
+[[/tabview]]

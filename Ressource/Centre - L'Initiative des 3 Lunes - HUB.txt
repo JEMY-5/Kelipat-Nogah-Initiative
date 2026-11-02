@@ -1,0 +1,145 @@
+[[include credit:start]]
+**Titre original :** Three Moons Initiative Hub
+**Auteur :** [[user daveyoufool]]
+**Traducteur :**  [[user macro_au_micro]]
+**Date :** 28 août 2019
+**Image :** Drapeau par daveyoufool
+[[include credit:end]]
+
+[[=]]
+//...nous ne vous demandons pas de croire cette histoire. Vraiment, le scepticisme est symptomatique d'un esprit sain. Nous avons tous été comme vous un jour, avec tous nos préjugés, notre science et nos religions/manques de foi. Vous pouvez garder vos idées préconçues, pour l'instant.//
+
+//Tout ce que nous vous demandons, c'est de vous rappeler de ce que vous avez lu ici. Et quand votre heure sera venue, lorsque vous fermerez les yeux dans ce monde et que vous les ouvrirez devant trois lunes dans un ciel vert, vous vous souviendrez de qui sont vos anges gardiens -- et vous nous rejoindrez.//
+
+++ Vous êtes observé. Vous êtes protégé. Vous êtes aimé.
+
+++ ☽☽☽
+[[/=]]
+[[>]]
+//-- extrait d'un tract de recrutement de l'Initiative ☽☽☽ trouvé à Baltimore, dans le Maryland//
+[[/>]]
+[[tabview]]
+[[tab Vue d'Ensemble]]
+[[include component:image-block
+    name=3lunes.jpg|
+    caption=Drapeau de l'Initiative ☽☽☽ |
+    width=300px
+]]
+**Groupe d'Intérêt :** L'Initiative des Trois Lunes / L'Initiative ☽☽☽[[footnote]] Utilisables l'un comme l'autre. [[/footnote]]
+
+**Numéro du Groupe d'Intérêt :** 4019
+
+**Alias :** Les Trois Lunes, les Enfants de JALAKÅRA, Durakh-Naùu[[footnote]] Rare ; péjoratif. Le contexte dans lequel cet alias est utilisé est inconnu. [[/footnote]], l'Initiative ☽☽[[footnote]] Employé avant la Seconde Guerre des Récoltes. [[/footnote]], l'Initiative de l'Aube Lunaire[[footnote]] Nom d'origine ; changé après la Seconde Guerre des Récoltes. [[/footnote]]
+
+**Zone d'Opération :** Corbénic, Terre, récits fictifs[[footnote]] Via [[[SCP-3922]]] [[/footnote]]
+
+**Niveau de Menace :** Orange [[span style="color:orange"]]●[[/span]] 
+
+**Description :** L'Initiative des Trois Lunes est une organisation militaire humaine extradimensionnelle basée dans [[[scp-2922|SCP-2922-C]]], un plan d'existence post-mortem également connu sous le nom de Corbénic.
+
+L'Initiative a été fondée il y a environ 14 000 ans dans le but d'établir une colonisation humaine organisée dans un plan d'existence post-mortem. Par le biais de l'Initiative, les péchés des défunts sont soumis à un processus de jugement rigoureux, puis ils sont punis ou récompensés selon les résultats d'un vote à la majorité des deux-tiers organisé par le Comité de Perdition.
+
+Avec leur branche militaire, le Corps de Défense de l'Humanité, ils constituent une force de sécurité multidimensionnelle pour la protection de la race humaine. En tant que tels, ils observent la Terre[[footnote]] Notre planète étant connue sous le nom de "Itération Multiverselle 2N" de la Terre ; le nombre de mondes parallèles qui relèvent de l'Initiative est encore incertain. [[/footnote]] et mènent des interventions militaires secrètes pour la défendre, souvent sans se préoccuper de leurs éventuelles complications et de leurs conséquences sur le long terme.
+
+La matière organique est incapable de quitter Corbénic. De ce fait, la majorité des objets associés à l'Initiative des Trois Lunes est des drones et d'autres machines télécommandées depuis Corbénic. Ces objets pénètrent dans notre monde par une ouverture dimensionnelle située sur la face cachée de la Lune.
+
+Bien que le personnel de l'Initiative croie qu'il sert au mieux les intérêts de l'humanité, leur surpopulation militaire, leur mauvaise communication, leurs problèmes de bureaucratie interne et d'autres facteurs -- combinés à leur force militaire disproportionnée par rapport à la nôtre -- en ont fait un danger potentiel pour la sécurité publique dans notre dimension.
+
+Une paix précaire est entretenue entre l'Initiative des Trois Lunes et la Fondation SCP en vertu du Traité de Cagnazzo. La violation du traité doit être considérée comme un potentiel scénario de fin du monde de Classe XK.
+[[/tab]]
+[[tab Structure et Personnel]]
+++++ __JALAKÅRA, maître de l'Impénétrable__
+
+(Aussi connu sous les noms d'Archi-Esclave, de Grand Tisserand, de Septième Prince de Corbénic et de Saint Mécène. Précédemment désigné par SCP-PC-005 dans la documentation).
+
+JALAKÅRA est une puissante entité plieuse de réalité originaire de Corbénic basée dans "L'Impénétrable", une forteresse en toile qui se trouve à des milliers d'années lumière au-dessus du ciel de Corbénic.
+
+Dans les illustrations, JALAKÅRA est représenté comme une gigantesque araignée avec un visage humain et une barbe. Avant l'arrivée de l'Initiative à Corbénic, JALAKÅRA était vénéré par diverses tribus de Corbéniciens, qui le considéraient comme le dieu du silence, du travail, de la modestie, de l'obéissance, et de l'administration.
+
+L'Initiative considère JALAKÅRA comme sa divinité protectrice ; ce dernier lui fournit de l'énergie et des ressources en échange de son culte, des services qui lui sont rendus et de son droit à avoir le dernier mot dans toutes les affaires administratives.
+
+++++ __La Cabale Centrale__
+
+13 moines humains dévoués à JALAKÅRA, qui leur a concédé une partie de ses pouvoirs de pliage de la réalité. Ils agissent en tant que conseillers de JALAKÅRA dans toutes les interactions avec l'humanité. L'ancienne chercheuse de la Fondation, le Dr Janet Spiegel, en est la seule membre dont le nom a été identifié.
+
+++++ __Le Président Éternel[[footnote]] Le mot "éternel" est ici purement honorifique ; une élection est prévue pour septembre 3960. [[/footnote]] Girard Sebastien Niang__
+
+Fondateur de l'Initiative, commandant en chef de son armée et dictateur de ses colonies. Hormis les membres de la Cabale Centrale, le Président Niang est le seul membre de l'Initiative autorisé à s'adresser directement à JALAKÅRA.
+
+Girard Niang est né à Dakar, au Sénégal, dans une ligne temporelle alternative de la Terre. Diplômé de l'Université de Chicago avec un doctorat en physique des particules, il s'est joint à l'équivalent de la Fondation SCP de sa ligne temporelle -- devenant par la suite le Directeur de la Base-19[[footnote]] Équivalent du Site-19 de notre ligne temporelle. [[/footnote]] de la Fondation.
+
+Pour éviter un scénario de fin du monde de Classe XK, Niang [[[radical-acceptance|a enfreint les protocoles pour utiliser un dispositif expérimental de relocalisation planétaire]]], téléportant la Terre dans le territoire extradimensionnel de Corbénic. Au cours de l'invasion des entités SCP-PC-003 "Grandes-Pattes" qui s'est déroulée suite à l'arrivée de l'Initiative à Corbénic, Niang a mené les survivants de la Fondation, du gouvernement central et d'autres factions armées vers la victoire pendant 20 ans en luttant contre l'invasion -- cette période est appelée "Première Guerre des Récoltes".
+
+Ainsi, non seulement Niang devint un héros pour les humains restants, mais il gagna aussi les faveurs d'une divinité locale, JALAKÅRA -- un ennemi invétéré des Grandes-Pattes. La collaboration entre les humains et JALAKÅRA aboutit à la création de l'Initiative de l'Aube Lunaire.
+
+En tant que président, Niang reste une figure controversée parmi les colons, de nombreux médias locaux l'accusant d'abuser de son pouvoir à ses propres fins. Pour dissiper les craintes d'autoritarisme de la population, le Président Niang se soumet volontairement à des sessions annuelles d'"humiliation". Le déroulement du processus d'humiliation est top secret, néanmoins il est effectué par JALAKÅRA et impliquerait une torture physique et psychologique atroce destinée à briser l'ego et à imposer une humilité totale.
+
+Depuis la mise en pratique officielle des humiliations, de nombreux autres médias ont accusé le Président Niang d'incompétence et d'indécision.
+
+++++ __La Générale Janet Spiegel__
+
+Ancienne chercheuse de la Fondation. Par sa mort, le premier contact entre Corbénic et le monde des vivants a pu être établi. Elle a quitté la Fondation suite à des conflits relatifs à son mari, Herman Spiegel, puis a rejoint l'Initiative. Elle a servi dans la Cabale Centrale pendant cinq ans, jusqu'à ce que JALAKÅRA trouve ses aptitudes plus adaptées au Corps de Défense de l'Humanité, où elle a réussi à déjouer un complot visant à renverser le gouvernement de la préfecture de Saklovai à Corbénic.
+
+Bien que la [[[now-watch-and-learn-heres-the-deal|mort]]] et la [[[ill-be-home-for-christmas|capture]]] consécutive du Dr Isaiah Henderson aient apaisé quelque peu son amertume, elle demeure l'une des plus éminentes figures en faveur d'une action militaire contre la Fondation au sein du gouvernement de l'Initiative.
+
+++++ __Le Colonel James Henson__
+
+Directeur de la division psychotronique de l'Initiative. Il est né sur l'"Itération 2L" de la Terre et fait office de version alternative à son itération plus pacifique de 2N. Le Col Henson conçoit la plupart des drones de l'Initiative (y compris ceux de la "[[[scp-2578|Série Limulidé]]]"), et en assure souvent aussi le contrôle.
+
+Ayant subi de graves traumatismes psychologiques à la suite d'une attaque de Grandes-Pattes, le Col Henson adopte une attitude sadique envers les ennemis de l'Initiative. Il est connu pour enfreindre les protocoles afin d'infliger le plus de souffrance possible à ses victimes.
+[[/tab]]
+[[tab Documentation Liée]]
++++ 
+[[[SCP-2578]]] -- NOM DE CODE CDH ☽☽☽ : "Limulidé"
+
+[[[SCP-2922]]] -- Corbénic
+
+[[[SCP-3100]]] -- //"Nombreux sont ceux qui ont fortemment douté de l'existence de Corbénic. On appelle ces gens des "salopards". Un nom qui a beaucoup moins de syllabes que "Candidat au Purgatoire de Classe H". Ne soyez pas un salopard !"// -- brochure du Comité de Perdition
+
+[[[SCP-3319]]] -- NOM DE CODE CDH ☽☽☽ : "Le Lotus"
+
+[[[SCP-3768]]] -- Radio Publique ☽☽☽
+
+[[[SCP-3922]]] -- NOM DE CODE CDH ☽☽☽ : "Réconfort"
+
+[[[SCP-4337]]] -- NOM DE CODE CDH ☽☽☽ : "Couteau de Soutien"
+
+[[[SCP-4578]]] -- NOM DE CODE ☽☽☽ : "El Degüello"
+
+[[[SCP-4587]]] -- "TotleighSoft PARSKE ORDINATEURS ! sont en train de regertter cete distrachin insnsée. Vuillz prednre ce couupon pour un poissou ronge gratuiiit chz pets mart en compunsachin."
+
+[[[SCP-4839]]] — “{{Ils devaient venir.}}” — JALAKÅRA
+
+[[[SCP-4922]]] -- NOM DE CODE ☽☽☽ : "Maître des Marionnettes"
+
+[[[SCP-5298]]] -- NOM DE CODE ☽☽☽ : "Krampusjaeger"
+
+[[[SCP-5319]]] -- "Homo Sapiens Invictus"
+
+[[[SPC-993]]] -- //"Bon sang, ça va faire 14 000 ans, et je n'ai pas encore surmonté ma coulrophobie !"// -- Président Niang
+
+[[[SCP-2718-J]]] -- //"JE VOUS EMMERDE - À SUIVRE : UNE LETTRE VIOLENTE."// - Isaiah Henderson, décédé
+
+[[[SPC-2922]]] -- //"Toujours mieux que ces putains de Grandes-Pattes."// -- Col Henson
+
+[[[god-damn-it-every-one|Bordel de merde, tout le monde !]]]
+
+[[[ill-be-home-for-christmas|Je serai à la maison pour Noël...]]]
+
+[[[pravoslavia|Dossier de Renseignement : Region-9440AF9 "Pravoslavia"]]]
+
+[[[stella-secundus|Dossier de Renseignement : Region-5257GR4 "Stella Secundus"]]]
+
+[[[mother-who-demands-ones-toes|Karciste Halyna Ieva, ou La Mère qui réclame ses orteils]]]
+
+[[[nightmare-regent-blue|Cauchemar du régent bleu]]]
+
+[[[operation-galahad|]]]
+
+[[[radical-acceptance|Acceptation Totale]]]
+
+[[[i-am-going-to-make-it-through-this-year-if-it-kills-me|Cette année]]]
+
+[[[what-i-did-on-my-summer-vacation|Ce que j'ai fait pendant mes vacances d'été]]]
+[[/tab]]
+[[/tabview]]

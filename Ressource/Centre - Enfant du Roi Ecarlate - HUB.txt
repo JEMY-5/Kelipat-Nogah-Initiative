@@ -1,0 +1,489 @@
+[[include credit:start]]
+**Titre original :** The Children of the Scarlet King Hub
+**Auteur :** [[user UraniumEmpire]]
+**Traducteur :** [[user macro_au_micro]]
+**Date :** 17 août 2022
+**Images :** Logo par [[user SunnyClockwork]]
+[[include credit:end]]
+
+[[module css]]
+.yui-content blockquote,
+blockquote {
+    background-color: transparent;
+}
+[[/module]]
+
+[[=]]
+[[div style="background: url("https://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png") center no-repeat; float: center; border: solid 2px #000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);"]]
++ AVERTISSEMENT
+----
++++ En raison de l'Incident-001-RE, il est supposé que ce fichier peut contenir des discordances infondées avec la documentation officielle. Les lecteurs sont invités à faire preuve de prudence quant à son contenu.
+[[/div]]
+[[/=]]
+@@ @@
+[[tabview]]
+[[tab Vue d'Ensemble]]
+[[include component:image-block
+    name=cotsk.png|
+    caption=Un sceau utilisé par une déclinaison des Enfants du Roi Écarlate datant de 2014.
+]]
+
+**Numéro du Groupe d'Intérêt :** 586
+
+**Alias connus :** "Les Enfants", "L'Église Écarlate", "Le Culte de l'Archon Écarlate"[[footnote]] Appellation péjorative, principalement utilisée par les groupes Sarkites et les groupes liés à l'Orthodoxie de l'Engrenage. [[/footnote]], 
+"Rubella"[[footnote]] Identifiant de la Coalition Mondiale Occulte. [[/footnote]] ; voir "Organisation" pour plus de détails.
+
+**Nombre de membres estimé :** Entre 70 000 et 300 000
+
+**Niveau de Menace :** Noir ●
+
+**Vue d'Ensemble :** Les Enfants du Roi Écarlate constituent une succession d'églises, d'organisations et de mouvements indépendants associés à l'entité connue sous le nom de "Roi Écarlate". Bien que leur doctrine exacte varie d'un groupe à l'autre, celle-ci inclut généralement un ensemble de thèmes clés, décrits en détail dans la section "Croyances" de ce rapport.
+
+Les origines des Enfants sont difficiles à retracer. Si le culte du Roi écarlate remonte jusqu'à au moins 50 000 ans av. J.-C., les éléments constitutifs des sectes modernes sont apparus pour la première fois aux débuts de l'Empire Daevite, aux alentours de 12 000 av. J.-C., sous la forme d'une religion d'État. Par ailleurs, bien que certaines sectes puissent être rattachées à cette lignée, beaucoup se sont développées de façon indépendante, même dans des civilisations n'ayant pas eu de contact connu avec les Daevites. Beaucoup de leurs traditions semblent avoir été créées initialement sans qu'il n'existe de rapport avec le Roi.
+
+Selon l'hypothèse dominante de la Fondation, chaque secte isolée se forme lorsqu'un individu ou une minorité culturelle entre en contact avec le Roi Écarlate. Dans certaines conditions, le Roi Écarlate exerce une influence psychique sur son correspondant, lui inculquant un ensemble de principes philosophiques qui sont susceptibles de donner naissance à une secte des Enfants. Si cette hypothèse se confirme, elle implique que tant que le Roi Écarlate sera actif, les Enfants ne pourront être neutralisés.
+
+**Politique d'approche :** Selon les docteurs Lydia Homme et Robert Montauk, la diplomatie ne sert à rien. À quelques exceptions près, tous les individus associés aux Enfants doivent être tués à vue.
+[[/tab]]
+[[tab Histoire]]
+
+> **NOTE :** En raison de la nature rétro-causale des Daevites ainsi que du caractère ambigu des documents historiques qui ont subsisté à travers le temps, il s'est révélé difficile de documenter les Enfants du Roi Écarlate. Le rapport suivant constitue l'hypothèse des docteurs Lydia Homme et Robert Montauk sur les origines des Enfants et une compilation des informations que le Département estime __actuellement__ correctes. Ces dernières sont par conséquent sujettes à révision.
+
+Le Roi Écarlate est apparu pour la première fois dans les illustrations de l'[[[SCP-378|Espèce d'Intérêt-3783]]][[footnote]] Une espèce d'énormes mille-pattes psychiques, capables de posséder et contrôler certains primates. [[/footnote]], vers 51 000 av. J.-C. Ces illustrations représentent un grand céphalopode brandissant son hectocotyle comme un sceptre, généralement entouré d'une multitude de créatures aquatiques. Malgré des allusions évidentes aux thèmes de la hiérarchisation et de la virilité, rien ne prouve que l'EdI-378 vénérait effectivement le Roi. Celui-ci semble plutôt les avoir aidés dans leurs conquêtes, aux côtés de l'entité identifiée comme "[[[secure-facility-dossier-site-56|La Reine Unseelie]]]".
+
+Les communications avec les membres dissidents de l'[[[SCP-1000|Espèce d'Intérêt-001]]][[footnote]] Une espèce de primates intelligents, autrefois l'espèce dominante sur Terre. [[/footnote]] font état de tentatives par des factions des civilisations préhistoriques de l'EdI-001 de créer ce que nous appelons aujourd'hui les Enfants du Roi Écarlate. Selon eux, ces tentatives ont été rapidement étouffées et ont continué à être réprimées jusqu'à la chute de leur civilisation vers 34 000 av. J.-C.
+
+Du règne de l'EdI-001 à la fondation de Daevon, il existe peu de traces d'activités menées en groupe par les Enfants au-delà celles de tribus isolées. Jusqu'à présent, la première secte d'Enfants qui soit parvenue à se développer est considérée comme étant la Foi Écarlate des Daeva.
+
+[[size 150%]]
+= **Les Daeva et le Roi**
+[[/size]]
+
+Les exemplaires de [[[SCP-140]]] acquis par la Fondation portent des marques évidentes de falsification : par conséquent, il n'est pas clair si le culte impérial du Roi Écarlate était [[[empire-of-dirt-part-1|la principale religion Daevite]]], [[[the-trashfire|une foi hénothéiste]]], [[[SCP-6140|intégré de force dans l'histoire Daevite par l'auteur de SCP-140]]] ou [[[hecatoncheires-cycle-hub|une invention complète]]]. Pour les besoins de ce rapport, la Fondation suppose que le culte impérial tel qu'il est décrit dans le premier exemplaire de SCP-140 référentiel est factuel.
+
+La Foi Écarlate, telle qu'elle était connue des Daevites, a pris naissance sous la forme d'une alliance officielle entre le Royaume de Daevon et le Roi Écarlate, servant supposément de base pour que le Royaume puisse asseoir son autorité. Selon la documentation existante, les Daevites au pouvoir étaient tenus de respecter les règles suivantes :
+* Diviser leur population en une succession de castes basées sur le travail qu'elles effectuent.
+* Établir une caste subsidiaire indépendante des précédentes, basée sur la capacité de reproduction.
+* S'assurer que ces castes se voient attribuer des valeurs propres et inégales.
+* Établir une caste de prêtres dédiée au culte du Roi Écarlate, constituée exclusivement de femmes.
+* S'opposer violemment à toute tentative d'interférer avec ces règles.
+En retour, le Roi Écarlate offre aux Daeva les avantages suivants :
+* Une source constante de pouvoir thaumique.
+* Des faveurs divines accordées à la monarchie en place.
+* Une protection contre les "bêtes divines" du Roi.
+* Le "Pacte Écarlate", un moyen par lequel le Royaume fait respecter la Foi.
+
+La Foi Écarlate était étroitement liée à la création du Royaume en 12 148 av. J.-C. [[footnote]] Estimation. [[/footnote]]. La Foi était sans conteste à l'origine une religion des Daeva (l'ensemble des castes dirigeantes et religieuses étaient les seules à être soumises à ses règles), mais la restructuration brutale de ses fidèles a permis de créer l'État Daevite tel que nous le connaissons.
+
+C'est alors que les composantes thématiques des Enfants ont pris forme. Le pouvoir du Roi Écarlate était reconnu comme dépendant et découlant d'une succession d'inégalités fondamentales. Par ailleurs, en séparant le royaume en trois catégories : les femmes, les hommes et les neutres (définis par leur exclusion de la hiérarchie et traités en conséquence), les Daevites ont créé sans le vouloir l'un des premiers modèles de répartition binaire des sexes imposée par l'État (et donc une hiérarchie sexuelle imposée par Dieu).
+
+> Soit dit en passant : il est remarquable que la hiérarchie sexuée construite par les Daeva était matriarcale[[footnote]] Excepté les états et provinces "Violettes" des successeurs du Royaume, qui étaient patriarcaux. [[/footnote]]. Cela suggère que, malgré la mise en valeur de la virilité du Roi, celle-ci n'impose pas le patriarcat (seulement la domination d'un sexe sur l'autre).
+
+Au fur et à mesure que les Daevites se sont développés, leur compréhension du Roi Écarlate a également évolué. La violence inhérente à la construction et au maintien du royaume était de plus en plus considérée comme faisant partie intégrante de la Foi, et à mesure qu'elle s'étendait, il en allait de même pour les hiérarchies divines. La transition vers un ordre impérial expansionniste vers 9000 av. J.-C. a entraîné la création d'une classe d'esclaves permanente, qui a fini par supplanter la population non esclave. Par conséquent, les Daevites ont étendu la Foi Écarlate à l'ensemble de leurs citoyens, leur imposant la stricte obligation de contrôler ceux qui leur sont inférieurs.
+
+Le tournant le plus immédiat qu'a connu la Foi Écarlate est survenu pendant la guerre opposant l'Empire à l'[[[soi-004|EdI-004]]][[footnote]] Une espèce d'humanoïde à la physiologie malléable, exploitée en guise de punition par l'EdI-003 avant leur extinction. [[/footnote]], en 8318 av. J.-C., lorsqu'un avatar du Roi Écarlate a été émasculé lors d'une bataille contre le "Royaume d'Eden". Autrefois figure de force incontestée, le Roi Écarlate était désormais envisagé comme une sorte de martyr de l'impérialisme daevite, "injustement mutilé" par l'EdI-004. Une secte apocalyptique a vite émergé, appréciée des nobles de second rang, qui prêchait un retour du "sceptre" du Roi, annonçant la "conquête de la terre et des étoiles" par les Daevites.
+
+Selon les versions de SCP-140, le culte du Roi Écarlate s'est poursuivi pendant l’Ère commune, bien que son influence sur la population ait diminué avec l'introduction du Bouddhisme, du Christianisme et de l'Islam dans ses territoires. Lors de la destruction de Daevon et de son absorption par l'Empire Mongol, SCP-140 estime que seuls 15 % de ses dirigeants pratiquaient la Foi. Il est à noter que, bien que SCP-140 semble exceptionnellement admettre ce déclin, la plupart des versions ont constamment prolongé l'influence de la Foi Écarlate sur les Daevites.
+
+[[size 150%]]
+= **De l'Antiquité à l'ère moderne**
+[[/size]]
+
+Il existe cependant des raisons de croire que le lien entre les Daevites et les Enfants est surévalué. Au cours de l'histoire, les Enfants du Roi Écarlate ont émergé de nombreuses cultures, dont beaucoup n'ont eu que peu ou pas d'interaction avec les Daevites.
+
+Plutôt que d'énumérer toutes leurs manifestations présumées, cette section abordera les principales tendances relevées.
+
+De nombreux Enfants du Roi Écarlate pratiquent une forme spécifique de sacrifice humain, souvent qualifiée de "placement dans la hiérarchie". Une victime lambda est soumise à une série de lacérations profondes mais non mortelles, souvent par fractions de 7, avant d'être noyée dans de l'eau salée. Ce phénomène a été constaté chez des populations bien antérieures au Royaume de Daevon ; il semble toutefois que sa pratique ait augmenté de manière exponentielle avec sa création. Des cadavres conservés après le 8e millénaire av. J.-C. ont souvent été retrouvés avec des organes reproducteurs mutilés, ce qui laisse supposer qu'il existe un lien entre les Enfants daevites et non daevites.
+
+Outre ce lien, la plupart des manifestations étrangères à la Foi actuelle semblent avoir pris la forme de cultes classiques non anormaux, caractéristiques des échanges culturels de tout empire. Les véritables manifestations des Enfants semblent équitablement réparties en fonction des lieux d'habitation humaine.
+
+Il est tentant de considérer les Enfants comme une religion qui mène une conquête, néanmoins leurs tendances à se manifester universellement les ont, le plus souvent, marginalisés. Ce phénomène est particulièrement évident dans les civilisations zoroastrienne et islamique, où leur persécution est sévère en raison de leur idolâtrie pour les sacrifices humains. De même, lorsque les Enfants se manifestent au sein de la classe dirigeante d'une culture, la population prolétaire est peu encline à se convertir.
+
+Parmi les manifestations répertoriées des Enfants, la plus connue prend la forme d'un culte classique qui se revendique comme tel, souvent appelé "les Enfants du Roi Écarlate" ou par une déclinaison de ce nom. Bien que cette forme de culte représente environ 70 % des manifestations connues, le Département craint qu'il ne s'agisse que de la plus reconnaissable et que la majorité des Enfants n'aient pas été identifiés par la Fondation.
+[[/tab]]
+[[tab Croyances]]
+[[=]]
++ **Doctrine des Enfants**
+[[/=]]
+
+Il est à noter qu'en tant que "dieu", le Roi Écarlate n'est pas seulement adoré par les Enfants. Le Roi est apparu dans de nombreux panthéons (souvent, mais pas toujours, dans une position antagoniste) et de nombreux thaumaturges "adorent" le Roi uniquement pour sa puissance. Ainsi, déterminer quels individus peuvent être considérés comme "les Enfants" peut s'avérer difficile.
+
+Au fil des années, de nombreux essais ont été réalisés pour créer une méthode de diagnostic officielle permettant à la Fondation SCP de séparer les Enfants des autres groupes d'intérêt. Jusqu'à ce que l'Incident 3178-F-Summers survienne, les critères officiels de la Fondation pour définir les Enfants étaient les suivants :
+
+> Toute secte des Enfants du Roi Écarlate doit :
+> # Adorer, vénérer, ou centrer sa cosmologie autour du Roi Écarlate.
+> # Fidéliser ses adeptes par des mesures incitatives fondées sur l'idéologie du Roi et de ses enseignements.
+
+Le 4 juillet 2010, la Fondation SCP a récupéré des [[[irregularity-proposal-2001-489|documents de l'U2I]]] sur les "Ministères Chrétiens d'Amérique", un groupe d'intérêt hostile responsable de la mort d'au moins deux de leurs agents. Les MCA constituent une organisation manifestement chrétienne, dont la ligne doctrinale est basée sur la politique évangélique américaine. Cependant, ses relations étroites avec le Roi Écarlate suggèrent que, malgré la position secondaire du Roi dans sa cosmologie, il semblerait que les MCA soient une véritable manifestation des Enfants.
+
+Le rapport de Summers a contraint la Fondation à réévaluer sa perception des enfants. Dans l'attente de cette réévaluation, le comité d'un département interne dont le rôle est d'examiner les ressources, les actions et les croyances des groupes d'intérêt avant de leur porter un jugement a été mobilisé.
+
+Les thèmes suivants ne sont pas universels chez les Enfants. Cependant, presque toutes leurs manifestations identifiées en comportent au moins un.
+
+[[size 150%]]
+= **Hiérarchisation et autoritarisme**
+[[/size]]
+
+Les Enfants du Roi Écarlate sont tristement célèbres pour leur violence et leur "dépravation" apparente et comme ce rapport le montrera plus tard, ces comportements sont un élément clé qui revient dans plusieurs de leurs manifestations. Toutefois, cette particularité ne permet pas d'établir un lien avec l'un des éléments thématiques les plus répandus chez les Enfants : la hiérarchisation et l'autorité.
+
+Si de nombreux dieux ont été associés à des concepts de souveraineté, il s'agit bien souvent d'une facette secondaire, voire dispensable, de leur nature. Chez le Roi Écarlate, en revanche, cette notion de  souveraineté est considérée comme un signe évident de sa place dans l'univers. Presque tous les Enfants insistent sur cette notion dans leurs idéologies et replacent toutes choses dans cette perspective et les traitent en conséquence.
+
+Dans la plupart des manifestations, la puissance du Roi Écarlate lui est accordée par sa force. Le Roi Écarlate //peut// conquérir l'univers, il en est donc le souverain légitime. De par ce droit, le Roi décrète que l'univers est organisé selon une hiérarchie de force, où les forts sont tenus de régner et les faibles de se soumettre. La violence primitive devient la règle de droit et l'égalitarisme une hérésie. Le fort peut tout se permettre envers le faible, sauf de faire preuve de pitié.
+
+Certains Enfants, en particulier ceux associés à des groupes religieux existants, peuvent également subordonner le Roi à une autorité supérieure. Bien que la souveraineté du Roi soit toujours valorisée, elle ne l'est que dans un cadre restreint. En revanche, dans la plupart des cas, il est impossible de distinguer sa position, d'un point de vue sociétal, de celle qu'il occupe conventionnellement.
+
+Il est intéressant de noter que les enfants ne sont pas toujours directement subordonnés au Roi. Leur position peut être conditionnée par leurs propres capacités, ou être cantonnée à un niveau inférieur et constituer une classe servile. Cependant, ils sont pratiquement tous violents dans leur défense de cette hiérarchie.
+
+> "//Le Roi est bon//
+> //Puisque le Roi est bon, le Roi ne fait pas de mal//
+> //Puisque le Roi ne fait pas de mal, faire comme le Roi, c'est faire le bien//"
+> 
+> -- Découvert sous la forme d'une gravure en cunéiforme akkadien sur un fémur humain, en partie effacée par des marques de dents. Extrait d'une fosse commune dans le Hauran, vers 2000 av. J.-C.
+
+[[size 150%]]
+= **Violence et transgression**
+[[/size]]
+
+La violence et la transgression jouent un rôle important dans la plupart des cosmologies des Enfants, et sont souvent entremêlées avec les thèmes de la hiérarchisation.
+
+Les Enfants du Roi Écarlate croient que leur dieu est violent et cupide, et que cette malveillance est la source de son pouvoir. Étant plus puissant que quiconque relevant de son autorité, le roi peut infliger ce qu'il lui plaît à ses sujets et, de fait, il n'y a pas de démonstration plus claire de son pouvoir que la violence qu'il exerce sur les êtres qui lui sont inférieurs.
+
+À l'image du Roi Écarlate, les Enfants se livrent régulièrement à des actes violents et "immoraux" contre d'autres individus, au sein et en dehors de leur organisation. Cependant, étant donné leur position inférieure dans la hiérarchie du Roi Écarlate, les Enfants sont également sujets à la violence. Plusieurs membres des Enfants qui ont été capturés ont insisté pour être torturés physiquement et psychologiquement par la Fondation, et sont en état de détresse lorsque les interrogateurs refusent.
+
+La définition de la transgression diffère d'une manifestation des Enfants à l'autre, mais repose en grande partie sur les mentalités culturelles qui peuvent exister. Celles-ci comprennent, mais ne sont pas limitées à :
+* Contraindre les hommes à s'auto-castrer. (appliqué par une déclinaison des "Enfants du Roi Écarlate" datant de 1998)
+* Faire ingérer des quantités toxiques d'huile de ricin aux communistes et aux anarchistes. (appliqué par le "Partido de Integralismo Guatemalteco")
+* Utiliser des moyens anormaux pour créer de la fausse pornographie impliquant des opposants politiques. (appliqué par "Kingship Land Bridge, LLC.")
+* Gaver les minorités religieuses d'aliments interdits. (appliqué par l'"Ordre des Tigres de Fer")
+* [[[SCP-231|Inséminer artificiellement des adolescentes avec une "Progéniture Écarlate".]]] (appliqué par une déclinaison des "Enfants du Roi Écarlate" datant de 2018)
+
+Il est à noter que si les enfants se livrent fréquemment à des actes de transgression, il est rare qu'ils cherchent à les "normaliser". Les Enfants reconnaissent presque toujours la nature "repoussante" de leurs actions et dans de nombreux cas, ils se dégoûtent eux-mêmes de les avoir accomplies. C'est, effectivement, le fait que ces actes soient //transgressifs// qui leur donne de l'importance. 
+
+[[size 150%]]
+= **Sexe et émasculation**
+[[/size]]
+
+Le Roi Écarlate se distingue des Entités Pluripotentes par son sexe qui reste fixe. Ainsi, même parmi les espèces qui n'ont pas la notion de "virilité", le Roi Écarlate n'est jamais représenté autrement que par un homme.
+
+Le sexe est, après la hiérarchisation et la violence, le troisième élément thématique le plus courant chez les Enfants et le plus flexible d'entre eux. La virilité du Roi Écarlate revêt une signification pour les Enfants, mais celle-ci diffère selon les sectes. La seule constante est l'inégalité entre les sexes.
+
+De même, l'émasculation est un motif courant chez les Enfants depuis le 8e millénaire av J.-C. Les Enfants se considèrent parfois comme un contrepoids à une certaine "émasculation culturelle", s'efforçant de ramener la virilité au premier plan de la société. Ils s'adonnent également à des rituels d'émasculation sur des victimes humaines ou animales sacrifiées ou sur eux-mêmes. Le Département des Études Égrégoriennes estime que cette obsession peut être le résultat de l'émasculation d'un avatar du Roi, qui se manifeste sous la forme d'une blessure psychique chez ses adeptes.
+
+[[size 150%]]
+= **Addendum : Passage en revue**
+[[/size]]
+
+Compte tenu de leur intérêt pour la hiérarchisation, la violence et le sexe, il est possible de considérer les Enfants du Roi Écarlate comme un mouvement réactionnaire, voire fasciste. Ce constat a été un sujet de discussion fréquent parmi les chercheurs qui étudient le Roi Écarlate, le Département a donc été contraint de s'y intéresser.
+
+Les Enfants ont sans aucun doute eu un certain nombre de déclinaisons d'"extrême droite", comme le "Partido de Integralismo Guatemalteco" et l'"Ordre des Tigres de Fer". Néanmoins, tous les Enfants ne sont pas d'"extrême-droite" et ne sont pas nécessairement politisés. En effet, les Enfants existent depuis plusieurs milliers d'années avant la naissance du fascisme.
+
+Par ailleurs, les Enfants ont été confrontés à une forte hostilité de la part de plusieurs groupes d'intérêt fascistes. En particulier, les groupes d'intérêt basés sur le kahanisme[[footnote]] Une idéologie d'extrême droite qui prône la création d'un État halakhique en Israël-Palestine par des moyens potentiellement violents. [[/footnote]] et le djihadisme salafiste[[footnote]] Une déclinaison délibérément violente du salafisme, un mouvement islamiste sunnite qui considère les trois premières générations de l'islam comme le modèle de fonctionnement que devrait suivre la société islamique. [[/footnote]] se sont toujours opposés violemment aux Enfants. Il arrive même que les Enfants s'allient à des organisations antifascistes pour atteindre leurs objectifs.
+
+Enfin, il existe de nombreux groupes d'intérêt qui partagent avec les Enfants des éléments qui ne sont liés ni au fascisme ni au Roi Écarlate. La violence, par exemple, est une méthode courante de résolution des conflits parmi les groupes d'intérêt, qui n'est exclusive ni à la "droite" ni à la "gauche". Nombre de ces organisations sont organisées de façon hiérarchique, souvent en raison d'une confiance légitime dans l'efficacité d'une telle forme de structure. La Fondation SCP en particulier, avec sa structure militarisée et son attachement à la normalité, pourrait être accusée de maintenir une vision du monde "Écarlate", et elle n'est certainement ni "fasciste" ni soumise à un "dieu" quelconque.
+[[/tab]]
+[[tab Organisation]]
+
+Bien que les thèmes de la hiérarchisation et de l'autorité dominent dans leurs croyance, la majorité des Enfants fonctionnent comme des organisations autocéphales, indépendantes des autres et ne collaborant qu'occasionnellement entre elles. Naturellement, cette particularité se traduit par des degrés de variation importants entre les groupes.
+
+Vous trouverez ci-dessous cinq manifestations actives des Enfants du Roi Écarlate. Cette liste n'est pas exhaustive et il est possible que de nombreuses autres organisations n'aient pas été détectées par la Fondation SCP. Le personnel qualifié est libre de demander des documents supplémentaires à l'ASIA.
+
+[[size 150%]]
+= **Les "Enfants du Roi Écarlate" éponymes**
+[[/size]]
+
+"Les Enfants du Roi Écarlate" est la forme sous laquelle se manifeste le plus couramment le GdI-586, et constitue le groupe qui lui a donné son nom de code. Il est soupçonné d'être la manifestation du groupe préférée du Roi Écarlate en personne.
+
+Les Enfants du Roi Écarlate sont un culte traditionnel dédié exclusivement au Roi Écarlate. Il présente habituellement les trois éléments thématiques abordés dans les sections "croyances", ainsi que la présence symbolique du chiffre "7" et la volonté apocalyptique de faire entrer le Roi ou sa progéniture dans notre monde. À quelques exceptions près[[footnote]] Le personnel qualifié est libre de se procurer les documents relatifs à l'Opération Bouc Émissaire et SCP-2AAB. [[/footnote]], il n'existe qu'un seul groupe des "Enfants du Roi Écarlate " à un instant donné.
+
+La déclinaison la plus récente des Enfants du Roi Écarlate a été détruite lors d'une opération menée conjointement par la Fondation et la CMO en 2018. Son chef, Dipesh Spivak, professe qu'il a été amené à vénérer le Roi par la connaissance ésotérique de sa véritable nature. Le [[[tuftos-proposal|Dr Robert Montauk a ordonné l'ouverture d'une enquête sur ces revendications]]].
+
+[[size 150%]]
+= **L'Ordre des Tigres de Fer**
+[[/size]]
+
+De toute évidence, l'Ordre des Tigres de Fer était à l'origine un gang de rue malaisien associé au mouvement "Malay Power"[[footnote]] Une sous-culture du métal à tendance ethnonationaliste qui reprend des éléments propres aux néo-nazis occidentaux. [[/footnote]], établi initialement dans la région métropolitaine de Kuala Lumpur. Avant leur contamination, aucune indication ne laissait supposer qu'ils étaient impliqués dans l'anormal.
+
+La Fondation a été avertie de l'existence de l'Ordre des Tigres de Fer et de ses liens avec le Roi Écarlate avant l'Incident 3178-F-Summers. Pourtant, en raison du caractère islamique du mouvement Malay Power, l'Ordre n'a jamais été considéré comme relevant de sa juridiction. Suite à l'acquisition du rapport de Summers, la Fondation reconnaît désormais l'Ordre comme une véritable manifestation des Enfants.
+
+Les objectifs de l'Ordre ne sont pas d'ordre anormal (ils cherchent à révoquer la citoyenneté des malaysiens qui ne sont pas d'ethnicité malaise), cependant le Roi Écarlate occupe un rôle important dans leur iconographie et la justification de leurs actes. Par ailleurs, certains de leurs membres ont été observés en train d'utiliser la thaumaturgie traditionnelle des Enfants contre des minorités ethniques et des gangs rivaux.
+
+Des opérations d'infiltration sont en cours.
+
+[[size 150%]]
+= **L'Accélérationnisme Électronique**
+[[/size]]
+
+L'Accélérationnisme Électronique est une philosophie politique inventée par les membres de "Fonction/Rationalité", un forum "rationaliste" qui faisait anciennement partie de l'[[[church-of-the-broken-god-hub|Église Maxwelliste]]] de référence avant d'être excommunié pour "excès de sophisme"[[footnote]] Les découvertes faites pendant l'infiltration de l'Église Maxwelliste sont particulièrement troublantes à la lumière de l'[[[SCP-4558|Incident-4558-CS]]]. [[/footnote]]. Cette philosophie postule que la société devrait être dirigée par une IA surpuissante, construite par une "élite intellectuelle".
+
+L'Accélérationnisme Électronique est en quelque sorte une philosophie établie par des "Crypto-Enfants", dans la mesure où, bien qu'elle ne mentionne pas explicitement le Roi Écarlate, elle reprend des caractéristiques évidentes de groupes d'Enfants existants (et s'allie avec eux). Les schémas de conception de l'IA comportent des sigles et des motifs relatifs au Roi Écarlate, ainsi que des structures et des systèmes hiérarchiques basés sur le chiffre 7. Le complémentarisme[[footnote]] Une théologie principalement chrétienne, dont la position sur le genre est semblable à la vision traditionnelle des Enfants sur le sujet, justifiant l'inégalité sexuelle par la croyance que les hommes et les femmes ont des "rôles" différents. [[/footnote]] revient fréquemment dans les discours de Fonction/Rationalité, de même que les arguments "évolutionnistes" en faveur de la hiérarchisation des êtres humains. Des personnalités éminentes associées aux Enfants, telles que █████ █████ et ██████ ████████, ont de surcroît fait des dons importants à des causes liées à l'Accélérationnisme Électronique.
+
+L'organisation adepte de l'Accélérationnisme Électronique la plus importante est l'Institut de l'Intelligence Fondée sur l'Électronique (2IFE). La documentation récupérée par le biais du piratage a révélé leur intention d'incorporer la magie de percée dimensionnelle dans leur prototype de singularité le plus récent.
+
+[[size 150%]]
+= **Les écrits de "Alberto Weider-Hoffman"**
+[[/size]]
+
+Alberto Weider-Hoffman est le pseudonyme d'un auteur hispanophone, tiré du dernier texte de Roberto Bolaño, //Littérature nazie aux Amériques// et de son extension subséquente, //Étoile lointaine//. Peu de choses sont connues à son sujet, si ce n'est qu'il serait né le 11 septembre 1966 dans la banlieue de Santiago au Chili.
+
+Les écrits de M. Weider-Hoffman intègrent de nombreux éléments thématiques de la mythologie du Roi Écarlate. En temps normal, cette situation ne justifierait pas une attention particulière (le Roi écarlate étant un personnage courant dans la littérature) cependant M. Weider-Hoffman écrit pour un public affranchi du Voile. Par ailleurs, ce dernier a envoyé de nombreuses lettres aux sociétés écrans de la Fondation, qui consistent généralement en des poèmes et des micro-fictions.
+
+Il a été difficile de localiser M. Weider-Hoffman. Aucune photo de lui n'existe sur Internet et l'adresse de renvoi de ses lettres mène à une zone de pêche abandonnée dans la région de Magallanes.
+
+[[size 150%]]
+= **Les "Ministères Chrétiens d'Amérique"**
+[[/size]]
+
+Les "Ministères Chrétiens d'Amérique" (MCA) est un groupe œcuménique de défense des droits des chrétiens, ainsi qu'un signataire du [[[the-gulf|Traité de Coopération des Organisations Extranormales du Sud des États-Unis]]] (TCOESEU) et ce, par des moyens inconnus. Depuis août 2009, les MCA ont adopté une politique hostile envers la Fondation, fabriquant de fausses accusations d'enlèvement d'enfants à son encontre tout l'empêchant de mener ses investigations sur les liens que le groupe entretient avec l'Église Écarlate.
+
+Selon un rapport émanant de l'Unité des Incidents Inhabituels, les MCA entretiennent des relations étroites avec un certain nombre d'églises qui se sont révélées par la suite être des couvertures pour les Enfants. De plus, des symboles du Roi Écarlate (comme le chiffre 7, les animaux aquatiques et la couleur rouge) sont apparus dans un certain nombre de projets SCP liés aux MCA. Ces éléments, combinés à leurs documents mentionnant la "Main Droite Rouge de Dieu" ou un "ange" ressemblant fortement au Roi Écarlate, suggèrent que les MCA sont parvenus à associer le christianisme américain et la culture des Enfants.
+
+Le clergé des MCA est dirigé par un certain "Joseph Comstock Rockwell", un pasteur baptiste qui a précédemment servi dans l'armée américaine. Le rapport de Summers mentionne à plusieurs reprises son implication dans les relations qu'il a nouées avec les Enfants, cependant les détails de sa biographie se sont révélés difficiles à vérifier.
+[[/tab]]
+[[tab Le Roi Écarlate]]
+[[size 150%]]
+= **Le Roi Écarlate**
+[[/size]]
+
+Le Roi Écarlate est une Entité Pluripotente de nature incertaine. Selon diverses sources, le Roi Écarlate est, entre autres :
+* [[[dust-and-blood|Un être primordial pour qui l'existence est source de grande souffrance.]]]
+* [[[SCP-2317|SCP-2317-K.]]]
+* [[[beneath-the-council|Un roi mortel, infecté par une pourriture inconnue qu'il avait essayé d'étudier.]]]
+* [[[kte-2013-kapala-mendes|Un égrégore, introduit rétroactivement dans la réalité pendant la Panique Satanique.]]][[footnote]] Période de l'histoire américaine au cours de laquelle des individus ont été accusés à tort de pratiquer des rituels "sataniques" consistant en des violences sur des enfants, le plus souvent par le biais de fausses confessions obtenues sous la contrainte de parents et de psychologues. [[/footnote]]
+* [[[channeling-flows|Un habitant d'Alagadda, intimement lié aux principes fondamentaux de l'alchimie.]]]
+* [[[SCP-3838|Une divinité turque pré-islamique, combattue par les tribus turkmènes passées et futures.]]]
+* [[[tuftos-proposal|L'incarnation de la confrontation entre la cruauté prémoderne et l'indifférence de la modernité.]]]
+* [[[the-trashfire|Une entité extradimensionnelle étrangère à notre multivers, qui y est restée bloquée lors de sa recréation et qui a été contrainte de s'y adapter.]]]
+* [[[SCP-3178|Un archange du dieu chrétien.]]]
+* [[[omnigenesis-and-the-law-of-blades|L'incarnation simultanée de l'existence et la non-existence, maniant une lame conceptuelle.]]]
+* [[[tears-and-bone|Le bouffon de la court du Roi Pendu, abusé au point d'être capable d'une terrible cruauté vengeresse.]]]
+* [[[SCP-6140|Irréel.]]]
+
+Les chercheurs de la Fondation ont découvert des éléments permettant de prouver la validité de pratiquement toutes[[footnote]] La seule source alimentant l'hypothèse de l'archange provient des MCA et s'est révélé peu fiable. [[/footnote]] ces origines et bien d'autres encore, ainsi que des éléments les contredisant. Parmi les éléments thématiques les plus fréquents figurent les traits céphalopodiens, la présence de cornes, le chiffre "7" et les ornements de bronze[[footnote]] Les ornements sont particulièrement notables du fait que les représentations de ce type sont antérieures à l'invention des rois et des royaumes chez les êtres dotés d'intelligence. [[/footnote]].
+
+Distinguer le littéral du métaphorique s'est avéré exceptionnellement difficile. La mythologie du Roi Écarlate est imprégnée de formules poétiques et d'allégories, souvent spécifiques de certaines époques et de certains lieux. Autre complication, le personnel de la Fondation n'a jamais observé directement le Roi Écarlate dans un environnement contrôlé.
+
+> [[=]]
+> ++++++ __**//Chapitre III//**__
+> [[/=]]
+> [...] //ce qui ne signifie pas que l'esprit humain est par nature conçu pour accomplir des actes du Mal, mais plutôt qu'il s'agit du corps humain qui est prévu pour cette fonction.//
+> 
+> [...] //Prenons l'exemple de la baleine bleue. Du haut de ses 18 000 kilogrammes, la baleine bleue peut soulever 6000 kilogrammes, exercer une force de 60 kilonewtons et doit consommer quotidiennement 16 tonnes de créatures vivantes pour survivre. Mais la baleine bleue, malgré toute sa force et toute sa puissance, n'a aucun désir de destruction gratuite.//
+> 
+> //En fait, la baleine bleue est le géant le plus doux de la mer. Ne se nourrissant que de krill et de plancton, elle refuse de consacrer son gosier à des organismes plus évolués. Dans d'éblouissantes démonstrations athlétiques, elle régurgite l'eau qu'elle avale, afin que toute vie puisse continuer à l'utiliser. La baleine bleue entonne des chants pour sa femelle la nuit tombée, comme les chanteurs de charme d'antan.//
+> 
+> //De toute évidence, la baleine bleue aurait pu devenir la parfaite machine à tuer, mais sa volonté personnelle l'en a empêché. La baleine bleue est gentille parce qu'elle choisit de l'être.//
+> 
+> //Admettons donc, hypothétiquement, que la baleine bleue soit privée de son esprit. Appelons-la la baleine rouge. La baleine rouge a toutes les capacités de la baleine bleue, mais son intellect est consacré au massacre : elle s'attaque aux animaux de toutes les espèces, de l'oursin de petite taille au touriste plongeur. Elle avale des litres d'eau et continue à la filtrer pour ses proies, mais elle l'avale aussi pour elle-même. Elle se sert de son corps massif pour s'imposer auprès de ses semblables, détruire les abris des créatures plus faibles et suivre à la lettre ses désirs instinctifs les plus bas.//
+> 
+> //On pourrait appeler une telle créature un requin, mais ce serait purement injuste. Aucune créature de ce genre n'existe. Aucune créature n'est malveillante pour le plaisir d'être malveillante.//
+> 
+> //Telle est la différence entre l'esprit et le corps. Sans l'esprit, son amour et sa conscience, c'est le chaos et l'horreur. L'esprit, l'Homme qui le compose, est intrinsèquement bon et gentil. Il faut une pression et des contraintes pour pousser l'esprit à se rendre au corps , ou tout simplement le pousser à l'abandonner. C'est alors que ce prédateur ultime, qui consomme et produit uniquement pour lui-même, prend vie,// [...]
+> 
+> ------
+> 
+> -- //వ : Le déclin de l'ère des poissons// est un recueil d'essais post-schizoanalytiques écrits par un auteur inconnu. Bien que la majorité de l'ouvrage traite de préoccupations et d'activisme environnementaux, il contient de fréquentes allusions à l'occultisme daevite : en particulier, l'apparition récurrente de la "baleine rouge" comme archétype de la pollution rappelle les représentations historiques du Roi Écarlate.
+
+[[size 150%]]
+= **Les Épouses Écarlates**
+[[/size]]
+
+"Les Sept Épouses du Roi Écarlate" font partie des figures les plus emblématiques de la mythologie des Enfants, en deuxième position après le Roi Écarlate. Elles ont pris de nombreuses formes au fil des années, des sept matriarches Daeva aux propres filles du Roi Écarlate, en passant par un groupe de sept baleines femelles. En réalité, les Sept Épouses correspondent davantage à un certain phénomène.
+
+Le Roi Écarlate est capable de féconder des organismes relativement complexes par groupes de sept. Ce phénomène peut être accompli par différents moyens, notamment par :
+* La procréation directe par des membres des Enfants.
+* L'insertion des fluides corporels d'une Progéniture Écarlate[[footnote]] Voir ci-dessous. [[/footnote]] dans le col de l'utérus ou l'utérus.
+* La fécondation indirecte ou symbolique via un rituel magique.
+* L'apparition simultanée d'orgasmes du sommeil dans sept organismes féminins qui rêvent du Roi Ecarlate.
+
+Au-delà de la fécondation, ces processus ont un effet considérable sur l'état physique et émotionnel de l'organisme maternel. La nature de ces changements est très variable d'une personne à l'autre, mais elle comprend souvent la manifestation de réticences, une augmentation/diminution de la sensibilité à la douleur, des rougeurs de la peau et des crises de délire. Peu de femmes survivent au processus d'accouchement.
+
+La première trace des Sept Épouses dans la littérature mythologique remonte aux premières heures de l'Empire Daevite, vers 9000 av J.-C. Selon un poème qui a été conservé, les Daevites croyaient que les Sept "premières" Épouses étaient les propres filles du Roi Écarlate, qu'il a pris comme épouses après la mort de leurs conjoints. Toutefois, en raison de la nature ésotérique du Roi Écarlate, ces sept femmes n'ont pu compter que pour une seule "Épouse". Ces documents évoquent également une "Seconde Épouse", à savoir sept Matriarches Daeva qui se sont alliées au Roi lors de la fondation de leur Royaume.
+
+Certaines sectes néo-daeviques[[footnote]] Une idéologie centrée sur le retour d'un ordre étatique Daevite et potentiellement la résurrection de leurs lignées royales. [[/footnote]] croient que les Épouses restantes, ou toutes sauf une, ont été enlevées par le Roi Écarlate, attribuant une signification apocalyptique à l'"enfant" de la dernière Épouse. Ces croyances [[[the-white-horse|font l'objet d']]][[[new-job|une enquête]]].
+
+Sauf intervention extérieure, toutes les Épouses finissent par donner naissance à une Progéniture Écarlate.
+
+[[size 150%]]
+= **Les Progénitures Écarlates**
+[[/size]]
+
+Le Roi Écarlate, aux côtés de ses Enfants, exerce principalement ses activités dans notre univers à travers ses progénitures.
+
+"Progéniture Écarlate" est le terme technique utilisé pour désigner tout organisme engendré ou créé par le Roi, ses Épouses, les rituels des Enfants ou d'autres Progénitures Écarlates. Cette notion prend racine dans les premières conceptions du Roi Écarlate en tant que symbole de fertilité et apparaît même dans des mythologies étrangères, telles que celles de la [[[scp-2481|Dynastie Xia]]] et de l'EdI-004.
+
+Indépendamment de leurs origines, les Progénitures Écarlates varient grandement en termes d'apparence, de comportement et de rôle. Cette section ne couvre que quelques exemples.
+
+++ "Enfants Écarlates" (███-████)
+
+Lorsqu'une femme est fécondée par le biais d'un rituel de magie Écarlate[[footnote]] Souvent utilisé comme solution à une infertilité non-anormale. [[/footnote]], on dit qu'elle donne naissance à un "Enfant Écarlate", à ne pas confondre avec les Enfants du Roi Écarlate.
+
+Les Enfants Écarlate sont physiologiquement identiques aux enfants humains normaux : il est actuellement impossible de les distinguer. Bien que des études menées sur le long terme soient actuellement en cours, rien ne prouve que les Enfants Écarlates souffrent plus ou moins de maladies ou de blessures, leur espérance de vie semblant correspondre aux valeurs de référence. Les chercheurs //ont// observé une augmentation des troubles mentaux chez eux, mais ils semblent être le résultat de circonstances familiales plutôt qu'une tendance innée.
+
+[[collapsible show="[CENSURÉ]" hide="Accès autorisé"]]
+Depuis le 29/08/2010, les recherches menées dans le cadre du projet Architeuthis suggèrent que près de █,█% des employés de la Fondation (y compris le personnel de Classe-D) sont ou descendent des Enfants Écarlates. Une classification SCP est prévue pour les regrouper, dans l'attente d'une confirmation.
+[[/collapsible]]
+
+++ "Les Bêtes Sacrées" (SCP-53C)
+
+Une "Bête Sacrée" (classée SCP-53C dans la documentation officielle) désigne un genre spécifique d'organisme céphalopodien, créé par l'Empire Daevite dans le but de faire la guerre aux civilisations maritimes et fluviales.
+
+SCP-53C se distingue par son agressivité extrême, sa grande capacité de reproduction et son aptitude à survivre aussi bien en eau douce qu'en eau salée. L'introduction d'une population de SCP-53C dans un plan d'eau quelconque entraîne rapidement la déstabilisation de l'écosystème. De fait, si le but premier de SCP-53C semble avoir été de commettre des actes de violence, les Daevites l'ont ensuite utilisé comme arme de guerre écologique.
+
+Les interventions de la Coalition Mondiale Occulte ont permis d'éliminer presque toutes les instances de SCP-53C, à l'exception d'[https://fr.wikipedia.org/wiki/Dosidicus_gigas une population au large de la côte ouest des Amériques].
+
+++ "Le Pacte Écarlate" (SCP-████-Bêta)
+
+Le "Pacte Écarlate" est un concept évoqué à plusieurs reprises dans SCP-140, à la fois comme une marque de confiance accordée par le Roi Écarlate et comme le moyen par lequel les Daeva tiraient leur pouvoir. Certains éléments suggèrent que ce genre de pacte était une entité physique "mi-dieu et mi-Daeva". De fait, le Pacte Écarlate était peut-être [[[jacklyn-diamandis-accountable-to-nobody|l'un]]] [[[SCP-4886|d'entre eux]]], ce concept étant un élément mythologique répandu chez les Daevites.
+
+Si le Pacte Écarlate existait, il serait un excellent complément à la cause des Enfants. Le Pacte Écarlate pouvait apparemment se dissimuler sous les traits de certains animaux, ce qui lui permettait d'infiltrer les ennemis des Daevites, de découvrir leurs secrets et de les contaminer avec des parasites. De surcroît, le Pacte Écarlate était réputé pour être un guerrier naval légendaire, capable de couler des navires entiers à lui seul.
+
+Le Pacte Écarlate aurait délaissé les Daevites vers 1800 av. J.-C., soit juste quelques temps avant la montée en puissance de l'Empire [[[sarkicism-hub|Kalmaktama]]]. Une entité ou un groupe d'entités similaires à cette figure mythologique (désignée SCP-████) ont été occasionnellement documentés depuis. Plus récemment, des documents confisqués à la PdI-0000 ([[[nobody-hub|"Personne"]]]) laissent supposer leur intérêt pour un Pacte "Verdoyant" et "Violet".
+
+Au moins une entité aurait pu se réclamer être le Pacte Écarlate. Le 11 février 1963, des agents de la Fondation ont rencontré une entité anormale, désignée ci-après URA-9521, qui aurait été employée par un réseau criminel néo-sarkique. URA-9521 semblait être un être humain, cependant au cours de notre interrogatoire, il s'est débarrassa de sa "doublure en peau", se révélant être une entité céphalopode de 2,4 mètres de haut. Elle a d'abord supplié la Fondation de la confiner, mais trois jours plus tard, URA-9521 s'est échappée par le système de ventilation de sa cellule pour s'accoupler avec une instance de SCP-4D33 avant de finalement fuir complètement le complexe.
+
+Tout au long de son confinement, URA-9521 a été longuement interrogé. Vous trouverez ci-dessous une transcription de son interrogatoire concernant la nature du Roi Écarlate. Le document complet peut être fourni sur demande auprès de l'ASIA.
+
+> **Dr Glass :** Je vous remercie, Jack.[[footnote]] Le nom préféré de URA-9521. [[/footnote]] Bon, ça va peut-être vous paraître stéréotypant, mais j'aimerais en savoir plus sur votre "père".
+> 
+> **URA-9521 :** Euh, oui ? Je ne sais pas si je serai d'une grande aide. C'est... c'est un peu difficile de se souvenir de lui.
+> 
+> **Dr Glass :** Comment ça ?
+> 
+> **URA-9521 :** Je, euh, n'aime pas me souvenir de lui. Ce n'était pas un... bon père.
+> 
+> **Dr Glass :** Mince.
+> 
+> **URA-9521 :** Je ne sais pas, euh, comment, euh, vous auriez pu //mieux// amener ça. Le Roi [[footnote]] Nom donné par URA-9521 au Roi Écarlate. [[/footnote]] était le dieu du, vous savez, du viol, de la violence, de la cruauté envers les gens inférieurs à vous. C'est pas comme si, euh... c'est pas comme si il savait faire autre chose.
+> 
+> **Dr Glass :** Hé bien, c'est pas pour autant qu'on ne peut pas le critiquer pour ce qu'il a fait.
+> 
+> **URA-9521 :** Oui, mais il n'est pas //humain//. Je ne pense pas... qu'il soit assez intelligent pour être responsable de ses actes.
+> 
+> **Dr Glass :** Excusez-moi, mais qu'entendez-vous par là ?
+> 
+> **URA-9521 :** C'est un simple d'esprit. Il ne sait rien d'autre que ce qu'il connaît déjà. Je suis plus préoccupé par les gens qui agissent en son nom.
+[[/tab]]
+[[tab Autres documents]]
+[[size 150%]]
+= **Recherches du Dr Montauk**
+[[/size]]
+
+Le Directeur du Département, le Dr Robert Montauk, est le principal expert de la Fondation en ce qui concerne le Roi Écarlate. Le Dr Montauk a participé à une myriade de projets liés au Roi Écarlate et a ainsi mis au point un certain nombre de mesures de confinement efficaces dont la procédure 110-Montauk. Actuellement, le Dr Montauk est le responsable direct des projets de confinement suivants :
+----
+* [[[SCP-231]]]
+* [[[SCP-2317]]]
+* [[[tuftos-proposal|SCP-001]]]
+**[[[[SCP-4231|ERREUR CRITIQUE DE LA BASE DE DONNÉES]]]]**
+----
+[[size 150%]]
+= **Opération : Le Christ s'habille en Écarlate**
+[[/size]]
+
+En 2009, la Fondation a été contactée par le Premier Temple Uni du Dixieland dans le but qu'elle apporte son aide afin de confiner SCP-5952, une entité qui avait été aperçue autour de l'École de la Seconde Chance pour les Adolescents en Difficulté de Whitewater (ESCADW). Une fois sur place, les professeurs de l'ESCADW ont immédiatement cherché à perturber les investigations. Il s'est avéré par la suite que l'ESCADW était associée aux "Ministères Chrétiens d'Amérique", un GdI hostile entretenant des liens avec les Enfants.
+
+Les fichiers suivants documentent les investigations de la Fondation sur les MCA.
+----
+* [[[SCP-5952]]]
+* [[[A Dove In A Chicken Pen|Une colombe dans un poulailler]]]
+* [[[SCP-3178]]]
+* [[[irregularity-proposal-2001-489|Proposition d'Irrégularité : 2001-489]]]
+* [[[SCP-4370]]]
+* [[[christ-in-scarlet|Le Christ en Écarlate]]]
+----
+[[size 150%]]
+= **Tous les projets affiliés**
+[[/size]]
+
+[[collapsible show="Projets SCP affiliés" hide="Accès autorisé"]]
+[[module ListPages order="name" limit="100" tags="-archivé -admin -auteur -sandbox -conte +scp +roi-écarlate" separate="no" perPage="100"]]
+* %%title_linked%% | Par %%created_by%% ##F8F8F8|(+%%rating%%)##
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="Documents récupérés" hide="Accès autorisé"]]
+[[module ListPages order="name" limit="100" tags="-archivé -admin -auteur -sandbox -conte -scp +format-gdi +roi-écarlate" separate="no" perPage="100"]]
+* %%title_linked%% | Par %%created_by%% ##F8F8F8|(+%%rating%%)##
+[[/module]]
+[[/collapsible]]
+
+[[collapsible show="Autres témoignages" hide="Accès autorisé"]]
+[[module ListPages order="name" limit="100" tags="-archivé -admin -auteur -sandbox -scp +conte +roi-écarlate" separate="no" perPage="100"]]
+* %%title_linked%% | Par %%created_by%% ##F8F8F8|(+%%rating%%)##
+[[/module]]
+[[/collapsible]]
+[[/tab]]
+[[/tabview]]
+----
+[[size 150%]]
+= **FIN DU FICHIER**
+[[/size]]
+----
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+= [[size 50%]]hé[[/size]]
+= [[size 65%]]vous m'entendez ?[[/size]]
+= [[size 85%]]approchez[[/size]]
+[[=]]
+[[collapsible show="je dois vous dire quelque chose" hide="et ça va vous plaire"]]
+[[size 150%]]
+**GUIDE D'ÉCRITURE**
+[[/size]]
+[[<]]
+Vous l'avez déjà éprouvé, n'est-ce pas ? La lassitude de la mondanité. La frustration face à des contraintes littéraires inutiles et à ce que vous êtes "autorisé à faire". Le désir de sonder les profondeurs de la cruauté humaine. Une curiosité bien trop tenace qui vous amène à vous demander ce qu'il pourrait se passer quand vous décidez vraiment de "qui pourrait faire quoi". N'ayez pas honte : vous êtes là pour créer et ce genre d'exploration c'est //fait// pour vous.
+
+Je peux vous aider.
+
+[[size 120%]]
+= **QUI EST LE ROI ÉCARLATE ? QUI SONT SES ENFANTS ?**
+[[/size]]
+
+Est-ce que vous avez compris tout ce qu'il y a écrit au-dessus ? Peut-être qu'une partie ou bien même la totalité était vraie. Ou peut-être que ça sent le mensonge de la Fondation à plein nez. Mais en réalité, je crois que vous êtes la seule personne à connaître la vérité.
+
+Il y a, bien sûr, certains thèmes communs que vous souhaiterez peut-être garder à l'esprit. Le Roi Écarlate peut être vu comme... un "méchant", tout comme les Enfants. On peut dire qu'ils font un bon "méchant", bien sûr, mais ça semble un peu réducteur, non ? Les Enfants et leur Roi sont plus qu'un simple "méchant" générique : ils représentent la partie primitive de l'humanité qui cherche à définir le "fort" et le "faible", la pulsion primaire qui recouvre nos trônes de poussière et de sang, la tache écarlate au fond de nos esprits.
+
+Peut-être aussi que vous n'êtes pas de cet avis. Peut-être que vous estimez que l'état naturel de l'humanité est la "tabula rasa" ou "l'entraide mutuelle". Soit, ça marche aussi.
+
+[[size 120%]]
+= **JE VEUX ÉCRIRE UN TRUC PERTURBANT.**
+[[/size]]
+
+Parfait ! Le Roi Écarlate et les Enfants sont un excellent vecteur pour le choquant et le transgressif.
+
+Attention cependant, la communauté accorde une attention moindre à certaines histoires... //trop// dérangeantes. Je vous recommande d'écrire de votre mieux. Il me semble que l'auteur de ce centre a écrit un guide sur les [[[sensitive-topics-and-you|sujets sensibles]]], et que [[*user minmin]] et [[*user Decibelles]] ont apporté quelques commentaires utiles sur sa page de discussion ([https://scp-wiki.wikidot.com/forum/t-14376234/sensitive-topics-and-you version originale]). Vraiment, essayez d'avoir un peu de retenue.
+
+[[size 120%]]
+= **À QUI JE PEUX EN PARLER ?**
+[[/size]]
+
+Évitez de vous limiter à un groupe fixe de quelques personnes. Aucun humain ne peut prétendre pouvoir définir le Roi. Parlez à tous les membres de la communauté qui, selon vous, pourraient vous aider.
+
+Prêchez la bonne parole. :)
+[[/<]]
+[[/collapsible]]
+[[/=]]
