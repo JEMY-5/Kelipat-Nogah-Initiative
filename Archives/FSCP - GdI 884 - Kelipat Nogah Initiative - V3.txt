@@ -1,0 +1,157 @@
+[[include credit:start]]
+**Titre :** Kelipat Nogah Initiative Hub
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+**Images :** Sceau, bandeau et emblème de la Xi-8 par [[user PSEUDO]]
+[[include credit:end]]
+
+[[=]]
+//Mettre la chair en boîte et patienter relève du pari : nous ne choisissons pas son échéance.//
+[[/=]]
+[[>]]
+//-- extrait du mémo de contestation de la Directive 44-A, Dre Judith Low//
+[[/>]]
+[[tabview]]
+[[tab Vue d'Ensemble]]
+[[include component:image-block name=Kelipat_Nogah_Initiative.png|caption=**Nous séparerons l'écorce pour libérer la lumière.** //Devise de la KNI//|width=250px]]
+**Groupe d'Intérêt :** Kelipat Nogah Initiative (KNI)[[footnote]] Terme de la kabbale : la Kelipat Nogah, "l'écorce lumineuse", est la quatrième écorce, la seule à mêler le bien et le mal et dont le bien peut être libéré. [[/footnote]]
+
+**Numéro du Groupe d'Intérêt :** 884
+
+**Alias :** KNI, K.N.I., l'Aube d'Or[[footnote]] Nom que le groupe se donne lui-même. Il a inspiré l'intitulé de l'accord "Aube Dorée". [[/footnote]]
+
+**Zone d'Opération :** Internationale ; bases navales et réacteurs éthériques dissimulés ; Complexe de Stabilisation Conjoint 886 (site partagé avec la Fondation)
+
+**Niveau de Menace :** Jaune [[span style="color:gold"]]●[[/span]] (coopératif sous conditions)
+
+**Effectifs :** Inconnus pour l'ensemble du groupe. La FIM Xi-8 compte à elle seule environ 370 hommes.
+
+**Ressources :** Fonds non publics de la Fondation, énergie issue des Réacteurs Éthériques, complexe militaro-industriel alimenté par la Kelipah.
+
+**Statut :** Actif. L'accord "Aube Dorée" est en vigueur.
+
+**Description :** La Kelipat Nogah Initiative (KNI) est une organisation paramilitaire et scientifique qui traite les anomalies, et d'abord les entités sarkiques, comme des matières composites que l'on peut séparer. Dans ses Réacteurs Éthériques, elle isole la Nogah, une fraction stable qu'elle exploite pour produire de l'énergie, des blindages et de l'armement, de la Kelipah, un résidu inerte, toxique et inexploitable qu'elle range dans des dépôts étanches.
+
+À l'origine, l'Initiative Kelipat Nogah était un programme de la Fondation, dirigé depuis la Zone-02[[footnote]] Seuls les sous-sols du site ont été officiellement détruits. Le reste de la Zone-02 est demeuré en service. [[/footnote]] par la Dre Judith Low et approuvé en novembre 2019 à la voix décisive de [DONNÉES CENSURÉES]. Quand le Haut-Commandement a ordonné son démantèlement, la Dre Low, la Dre Samira Golzar et la FIM Xi-8[[footnote]] Force d'Intervention Militaire, à ne pas confondre avec les Forces d'Intervention Mobiles de la Fondation. [[/footnote]] ont quitté la Fondation en faisant disparaître leurs dossiers et leurs rapports de ses bases de données.
+
+L'éveil des Mégathérions en Europe de l'Est a ramené la Fondation à la table de négociation. Par l'accord Aube Dorée, elle finance et équipe désormais la Xi-8, et la KNI met à sa disposition une capacité de purge que les protocoles de confinement ne permettent plus. La KNI garde le commandement de ses unités, la maîtrise de ses réacteurs et la propriété de la Kelipah. En contrepartie, elle doit notifier ses opérations, déclarer l'emplacement de ses dépôts et ne pas recruter dans les effectifs de la Fondation.
+
+La KNI est classée menace jaune. Elle a détruit en quelques minutes des foyers de classe Keter sans subir de pertes, mais ses réacteurs et ses dépôts de Kelipah présentent des risques environnementaux, et sa loyauté envers la Fondation n'est pas acquise.
+[[/tab]]
+[[tab Doctrine]]
+[[include component:image-block name=kelipatnogah.png|caption=Bandeau de la Kelipat Nogah Initiative.|width=500px]]
+La KNI affirme que toute anomalie renferme une substance utilisable sous une enveloppe dégradée, et que la tâche consiste à les séparer. Cette position la distingue des deux grandes approches du paranormal.
+
+++++ __La Nogah, la lumière__
+
+Fraction stable et exploitable. La KNI s'en sert comme source d'énergie, pour ses blindages et pour son armement thaumaturgique. Elle ne laisse aucun résidu mesurable.
+
+++++ __La Kelipah, l'écorce__
+
+Résidu inerte, toxique et inexploitable. Il est isolé en dépôts étanches sous la garde de la Brigade de Sécurité Relative, puis, selon la KNI, recyclé comme matière première de son complexe militaro-industriel. La Fondation n'a aucun droit de regard sur cette transformation.
+
+++++ __Les autres groupes vus par la KNI__
+
+Les documents saisis qualifient la Fondation de "Geôlière" : elle enterre des ressources sous le béton par peur de l'inconnu. La [[[goc-hub-page|Coalition mondiale occulte]]] est traitée d'"Inquisitrice" : en détruisant la Kelipah sans la trier, elle détruit aussi la Nogah qu'elle contient. L'Insurrection du Chaos est qualifiée de "Profanatrice" : elle comprend le potentiel de l'anomalie mais manipule la Kelipah brute et répand la contamination.
+
+Son ennemi principal reste le [[[sarkicism-hub|Sarkisme]]], contre lequel elle déploie la Xi-8.
+[[/tab]]
+[[tab Histoire]]
+Les informations ci-dessous proviennent de dossiers de la Fondation, de rapports du Haut-Commandement et de l'accord Aube Dorée. Elles restent lacunaires, puisque la KNI ne communique ni son organisation interne ni ses installations.
+
+++ Une initiative de la Fondation
+
+Le programme Kelipat Nogah est présenté au Haut-Commandement par la Dre Judith Low, alors Conseillère Senior au Département d'Histoire - Analyse des menaces des GdI religieux. Il est approuvé en novembre 2019 dans une version allégée, à la voix décisive de [DONNÉES CENSURÉES], et installé à la Zone-02. La FIM Xi-8, dont le noyau vient du projet Sitra Achra, en constitue le bras armé.
+
+++ La rupture
+
+La Directive 44-A réduit les effectifs et gèle les essais du programme. La Directive 44-Ω, adoptée par le Haut-Commandement, en ordonne le démantèlement et l'envoi des échantillons au Site-95. Le rapport d'avarie officiel conclut à la fusion du Réacteur expérimental et à la perte du Niveau -4 et des sous-sols de la Zone-02, qui sont scellés. Le Haut-Commandement estime aujourd'hui que ce rapport était falsifié.
+
+Peu après, l'Administration de la Sécurité des Informations et Archives (A.S.I.A) constate que le dossier complet de la Xi-8, ses rapports de mission et les fichiers personnels de la Dre Low, de la Dre Golzar et de leurs équipes ont disparu des bases de données de la Fondation.
+
+++ L'accord Aube Dorée
+
+Le Haut-Commandement découvre l'existence de la KNI lorsque des frappes d'une lumière dorée détruisent des foyers sarkiques de classe Keter dans l'Oural, en Sibérie et dans le bassin de la Volga. Face à un scénario de classe SK, il décide à la majorité d'ouvrir des négociations. L'Émissaire de l'Aube, représentant diplomatique de la KNI, pose ses conditions : financement par des fonds non publics de la Fondation, coordonnées thermiques des cultes fournies par ses satellites, déploiement d'amnésiques et nettoyage des zones touchées.
+
+L'accord Aube Dorée a été complété depuis par plusieurs avenants. L'Avenant 3 a permis la construction du Complexe de Stabilisation Conjoint 886, qui confine [[[scp-886-fr|SCP-886-FR]]].
+[[/tab]]
+[[tab Organisation]]
+La Fondation ne connaît qu'une partie de l'organisation de la KNI. Aucune structure supérieure à la Direction n'a été identifiée à ce jour.
+
+++++ __La Dre Judith Low, Directrice__
+
+Ancienne Conseillère Senior de la Fondation. Elle dirige la KNI et supervise ses opérations à l'échelle mondiale. Son dossier personnel complet est archivé avec les rapports de mission [[[memoria-adytum|Memoria - Adytum]]].
+
+++++ __L'Émissaire de l'Aube__
+
+Représentant diplomatique de la KNI auprès de la Fondation. Il a conduit les négociations avec le Haut-Commandement. Son identité est inconnue.
+
+++++ __Le Magister de Raffinage__
+
+Responsable des Réacteurs Éthériques. Toute intervention de la Fondation sur les modules d'extraction du Complexe 886 exige son aval, faute de quoi le drainage est suspendu. Son identité est inconnue.
+
+++++ __La Direction Générale des Armées (DGA)__
+
+Branche armée de la KNI, chargée de récupérer les anomalies sur le terrain avant la Fondation et les groupes rivaux. Elle détient le commandement tactique de la Xi-8. La Brigade de Sécurité Relative, qui garde les dépôts de Kelipah, fournit une partie de ses effectifs.
+
+++++ __Dre Samira Golzar__
+
+Ingénieure passée de la Zone-02 à la KNI avec la Dre Low. La Fondation la considère comme la conceptrice du procédé de séparation.
+
+++++ __La FIM Xi-8, "Les Derniers à Tomber"__
+
+[[include component:image-block name=Xi8.png|caption=Emblème de la FIM Xi-8.|width=200px]]
+Unité de niveau bataillon, financée par la Fondation et commandée par la KNI. Ses opérateurs portent l'écusson de la Fondation pour la légitimité opérationnelle, mais leur allégeance revient à l'Initiative. Elle neutralise les cultes sarkiques et sécurise les matériaux biologiques dangereux.
+
+Le commandement général est assuré par la Maréchale Raaina Mahya Tariq-Sattar. Le Commandant Malachai Yusef ben Liraz, de la Compagnie Alpha, dirige les opérations sur le terrain.
+
+||~ Compagnie ||~ Spécialité ||~ Commandant ||
+|| Alpha || Combat lourd et infiltration || Commandant Malachai Yusef ben Liraz ||
+|| Bêta || Logistique et soutien aérien || Lieutenant Eleanore Montpelier ||
+|| Gamma || Infiltration de ruche et reconnaissance || Lieutenant Josie Perez ||
+|| Delta || Suppression et intervention biochimique || Lieutenant Alefaio Kagiso ||
+[[/tab]]
+[[tab Directives d'Interaction]]
+++++ __Sur le terrain__
+
+* Le personnel de la Fondation n'engage pas le combat contre les agents de la KNI sans provocation préalable ni violation d'un site de confinement de la Fondation.
+* Les opérateurs de la Xi-8 portent l'écusson de la Fondation. Ils ne répondent pas à sa chaîne de commandement et ne doivent pas être traités comme du personnel de la Fondation.
+* Après une frappe de la KNI, la Fondation déploie ses équipes d'amnésiques et de nettoyage et balise les zones de largage.
+* Les objets anormaux prélevés lors d'une opération conjointe suivent le protocole de partage de l'accord Aube Dorée : les artéfacts non sarkiques reviennent à la Fondation, la KNI ne conserve que la matière sarkique, après inventaire contradictoire.
+
+++++ __Sur les sites sensibles__
+
+* Le Département de Surveillance des Organisations Paranormales contrôle en permanence la radiation éthérique à proximité des réacteurs connus de la KNI.
+* Aucune modification des modules d'extraction du Complexe 886 n'est entreprise sans l'aval du Magister de Raffinage.
+* La Fondation n'a aucun droit de regard sur le traitement de la Kelipah. Elle peut en revanche exiger la déclaration de l'emplacement des dépôts et le signalement de toute fuite.
+
+++++ __Clauses opposables à la KNI__
+
+* Toute opération de la KNI à proximité d'un site de la Fondation ou d'une anomalie confinée doit être notifiée au préalable. Sans notification, la Fondation suspend son soutien de nettoyage.
+* La KNI s'interdit de recruter dans les effectifs actifs de la Fondation.
+* La KNI ne revendique aucune anomalie déjà confinée dans un site de la Fondation sans autorisation écrite.
+* Elle déclare l'emplacement de ses dépôts de Kelipah et signale toute fuite sous vingt-quatre heures.
+* Elle ne suspend le drainage du Complexe 886 qu'après préavis, et seulement en cas de violation caractérisée de l'accord.
+* Toute exposition du secret imputable à la KNI, ou toute violation constatée de l'accord, peut entraîner la suspension du financement sur décision du Haut-Commandement.
+[[/tab]]
+[[tab Documentation Liée]]
++++ 
+[[[scp-886-fr|SCP-886-FR]]] -- "Le Cœur Suturé" : Mégathérion confiné au Complexe 886
+
+[[[task-forces#xi-8|FIM Xi-8]]] -- Fiche de la force d'intervention conjointe
+
+[[[memoria-adytum|Memoria - Adytum]]] -- Rapports de mission et dossiers du personnel concerné
+
+[[[kelipat|]]] -- Proposition fondatrice de l'Initiative Kelipat Nogah
+
+[[[sarkicism-hub|Sarkicisme]]] -- Le Sarkisme, ennemi principal de la KNI
+
+[[[goc-hub-page|Coalition mondiale occulte]]] -- Groupe rival de la KNI
+
+**Contes :**
+
+[[[kni-fracture-de-lecorce|La fracture de l'Écorce]]] -- La rupture vue depuis la Zone-02
+
+[[[kni-aube-de-la-nouvelle-ecorce|L'Aube de la Nouvelle Écorce]]] -- La négociation entre le Haut-Commandement et l'Émissaire
+[[/tab]]
+[[/tabview]]
