@@ -13,14 +13,14 @@
 [[/>]]
 [[tabview]]
 [[tab Vue d'Ensemble]]
-[[include component:image-block name=Kelipat_Nogah_Initiative.png|caption=**Nous séparerons l'écorce pour libérer la lumière.** //Devise de la KNI//|width=250px]]
+[[include component:image-block name=KNIsceau.png|caption=**Nous séparerons l'écorce pour libérer la lumière.** //Devise de la KNI//|width=250px]]
 **Groupe d'Intérêt :** Kelipat Nogah Initiative (KNI)[[footnote]] Terme de la kabbale : la Kelipat Nogah, "l'écorce lumineuse", est la quatrième écorce, la seule à mêler le bien et le mal et dont le bien peut être libéré. [[/footnote]]
 
 **Numéro du Groupe d'Intérêt :** 884
 
 **Alias :** KNI, K.N.I., l'Aube d'Or[[footnote]] Nom que le groupe se donne lui-même. Il a inspiré l'intitulé de l'accord "Aube Dorée". [[/footnote]]
 
-**Zone d'Opération :** Internationale ; bases navales et réacteurs éthériques dissimulés ; Complexe de Stabilisation Conjoint 886 (site partagé avec la Fondation)
+**Zone d'Opération :** Internationale ; bases navales et réacteurs éthériques dissimulés. Sites connus : Zone-02 (Base Opérationnelle Centrale de la Xi-8) et Complexe de Stabilisation Conjoint 886 (site partagé avec la Fondation)
 
 **Niveau de Menace :** Jaune [[span style="color:gold"]]●[[/span]] (coopératif sous conditions)
 
@@ -34,7 +34,7 @@
 
 À l'origine, l'Initiative Kelipat Nogah était un programme de la Fondation, dirigé depuis la Zone-02[[footnote]] Seuls les sous-sols du site ont été officiellement détruits. Le reste de la Zone-02 est demeuré en service. [[/footnote]] par la Dre Judith Low et approuvé en novembre 2019 à la voix décisive de [DONNÉES CENSURÉES]. Quand le Haut-Commandement a ordonné son démantèlement, la Dre Low, la Dre Samira Golzar et la FIM Xi-8[[footnote]] Force d'Intervention Militaire, à ne pas confondre avec les Forces d'Intervention Mobiles de la Fondation. [[/footnote]] ont quitté la Fondation en faisant disparaître leurs dossiers et leurs rapports de ses bases de données.
 
-L'éveil des Mégathérions en Europe de l'Est a ramené la Fondation à la table de négociation. Par l'accord Aube Dorée, elle finance et équipe désormais la Xi-8, et la KNI met à sa disposition une capacité de purge que les protocoles de confinement ne permettent plus. La KNI garde le commandement de ses unités, la maîtrise de ses réacteurs et la propriété de la Kelipah. En contrepartie, elle doit notifier ses opérations, déclarer l'emplacement de ses dépôts et ne pas recruter dans les effectifs de la Fondation.
+L'éveil des Mégathérions en Europe de l'Est a ramené la Fondation à la table de négociation. Par l'accord Aube Dorée, elle finance et équipe désormais la Xi-8, et la KNI met à sa disposition une capacité de purge que les protocoles de confinement ne permettent plus. La KNI garde le commandement de ses unités, la maîtrise de ses réacteurs et la propriété de la Kelipah. En contrepartie, elle doit notifier ses opérations, rendre compte de la Kelipah entreposée au Complexe 886 et ne pas recruter dans les effectifs de la Fondation. L'accord lui a rendu l'administration des sites que l'Initiative dirigeait avant la rupture, dont la Zone-02, devenue la Base Opérationnelle Centrale de la Xi-8.
 
 La KNI est classée menace jaune. Elle a détruit en quelques minutes des foyers de classe Keter sans subir de pertes, mais ses réacteurs et ses dépôts de Kelipah présentent des risques environnementaux, et sa loyauté envers la Fondation n'est pas acquise.
 [[/tab]]
@@ -48,7 +48,7 @@ Fraction stable et exploitable. La KNI s'en sert comme source d'énergie, pour s
 
 ++++ __La Kelipah, l'écorce__
 
-Résidu inerte, toxique et inexploitable. Il est isolé en dépôts étanches sous la garde de la Brigade de Sécurité Relative, puis, selon la KNI, recyclé comme matière première de son complexe militaro-industriel. La Fondation n'a aucun droit de regard sur cette transformation.
+Résidu inerte, toxique et inexploitable. Il est isolé en dépôts étanches, puis, selon la KNI, recyclé comme matière première de son complexe militaro-industriel. La Fondation n'a aucun droit de regard sur cette transformation.
 
 ++++ __Les autres groupes vus par la KNI__
 
@@ -73,7 +73,7 @@ Peu après, l'Administration de la Sécurité des Informations et Archives (A.S.
 
 Le Haut-Commandement découvre l'existence de la KNI lorsque des frappes d'une lumière dorée détruisent des foyers sarkiques de classe Keter dans l'Oural, en Sibérie et dans le bassin de la Volga. Face à un scénario de classe SK, il décide à la majorité d'ouvrir des négociations. L'Émissaire de l'Aube, représentant diplomatique de la KNI, pose ses conditions : financement par des fonds non publics de la Fondation, coordonnées thermiques des cultes fournies par ses satellites, déploiement d'amnésiques et nettoyage des zones touchées.
 
-L'accord Aube Dorée a été complété depuis par plusieurs avenants. L'Avenant 3 a permis la construction du Complexe de Stabilisation Conjoint 886, qui confine [[[scp-886-fr|SCP-886-FR]]].
+L'accord Aube Dorée rend à la KNI l'administration des sites que l'Initiative dirigeait avant la rupture, dont la Zone-02. Il a été complété depuis par plusieurs avenants. L'Avenant 3 a permis la construction du Complexe de Stabilisation Conjoint 886, qui confine [[[scp-886-fr|SCP-886-FR]]].
 [[/tab]]
 [[tab Organisation]]
 La Fondation ne connaît qu'une partie de l'organisation de la KNI. Aucune structure supérieure à la Direction n'a été identifiée à ce jour.
@@ -92,7 +92,11 @@ Responsable des Réacteurs Éthériques. Toute intervention de la Fondation sur 
 
 ++++ __La Direction Générale des Armées (DGA)__
 
-Branche armée de la KNI, chargée de récupérer les anomalies sur le terrain avant la Fondation et les groupes rivaux. Elle détient le commandement tactique de la Xi-8. La Brigade de Sécurité Relative, qui garde les dépôts de Kelipah, fournit une partie de ses effectifs.
+Branche armée de la KNI, chargée de récupérer les anomalies sur le terrain avant la Fondation et les groupes rivaux. Elle détient le commandement tactique de la Xi-8.
+
+++++ __Sites sous administration de la KNI__
+
+La Zone-02, site principal de la KNI sur le sol de la Fondation, et tous les sites que l'Initiative administrait avant la rupture sont revenus sous sa tutelle. La KNI n'a déclaré aucune autre installation, à l'exception des entrepôts de Kelipah du Complexe 886.
 
 ++++ __Dre Samira Golzar__
 
@@ -101,7 +105,7 @@ Ingénieure passée de la Zone-02 à la KNI avec la Dre Low. La Fondation la con
 ++++ __La FIM Xi-8, "Les Derniers à Tomber"__
 
 [[include component:image-block name=Xi8.png|caption=Emblème de la FIM Xi-8.|width=200px]]
-Unité de niveau bataillon, financée par la Fondation et commandée par la KNI. Ses opérateurs portent l'écusson de la Fondation pour la légitimité opérationnelle, mais leur allégeance revient à l'Initiative. Elle neutralise les cultes sarkiques et sécurise les matériaux biologiques dangereux.
+Unité de niveau bataillon, financée par la Fondation et commandée par la KNI. Ses opérateurs portent l'écusson de la Fondation pour la légitimité opérationnelle, mais leur allégeance revient à l'Initiative. Elle neutralise les cultes sarkiques et sécurise les matériaux biologiques dangereux. Sa Base Opérationnelle Centrale est la Zone-02.
 
 Le commandement général est assuré par la Maréchale Raaina Mahya Tariq-Sattar. Le Commandant Malachai Yusef ben Liraz, de la Compagnie Alpha, dirige les opérations sur le terrain.
 
@@ -121,16 +125,49 @@ Le commandement général est assuré par la Maréchale Raaina Mahya Tariq-Satta
 
 ++++ __Sur les sites sensibles__
 
-* Le Département de Surveillance des Organisations Paranormales contrôle en permanence la radiation éthérique à proximité des réacteurs connus de la KNI.
+* Le Département de Surveillance des Organisations Paranormales tient à jour le dossier de la KNI. Le Département de l'Écologie et du Développement Durable surveille en permanence les rejets et la radiation éthérique autour du Complexe 886 et de tout réacteur de la KNI qu'il détecte.
 * Aucune modification des modules d'extraction du Complexe 886 n'est entreprise sans l'aval du Magister de Raffinage.
-* La Fondation n'a aucun droit de regard sur le traitement de la Kelipah. Elle peut en revanche exiger la déclaration de l'emplacement des dépôts et le signalement de toute fuite.
+* La Fondation n'a aucun droit de regard sur le traitement de la Kelipah, ni sur les installations de la KNI, hormis les entrepôts de Kelipah du Complexe 886, dont elle peut consulter l'inventaire.
+
+++++ __Sites administrés par la KNI__
+
+* La Zone-02 et tous les sites dirigés par l'Initiative avant la rupture relèvent de la tutelle de la KNI. Le personnel de la Fondation n'y pénètre qu'avec l'accord du commandement local.
+* Ces sites restent soumis aux protocoles de dissimulation de la Fondation, qui y maintient un officier de liaison.
+
+++++ __Protections de la FIM Xi-8__
+
+* Les opérateurs de la Xi-8 relèvent exclusivement de la justice interne de la KNI. Sauf incident hors de la juridiction de la Xi-8, le personnel de la Fondation ne peut ni les interroger, ni les détenir, ni leur administrer d'amnésiques sans l'accord du commandement de la Xi-8.
+* La juridiction de la Xi-8 couvre les interventions consécutives à une activité sarkique confirmée et les patrouilles de vérification.
+* Ni le Comité d'Éthique, ni le Département de Justice Interne, ni [DONNÉES CENSURÉES], ni [DONNÉES CENSURÉES] n'ont d'autorité sur la Xi-8. Seul le Département de Sécurité peut en exercer une, et uniquement pour un incident hors de la juridiction de la Xi-8.
+* Les dossiers de la Xi-8, rétablis dans les bases de la Fondation après l'accord, sont placés par l'A.S.I.A sous classification renforcée. Leur consultation exige l'aval du commandement de la Xi-8.
+* La Fondation garantit à la Xi-8 l'extraction, les soins et le rapatriement de ses blessés et de ses morts, au même titre que pour son propre personnel.
+* Les dommages causés lors d'une opération autorisée sont couverts par la Fondation, par le nettoyage et les amnésiques, et n'engagent pas la responsabilité des opérateurs.
+
+++++ __Pouvoirs de la FIM Xi-8 en cas d'activité sarkique confirmée__
+
+Ces pouvoirs ne s'exercent que lors d'une intervention consécutive à une activité sarkique confirmée.
+
+* Face à cette activité, la Xi-8 agit sans autorisation préalable. Elle notifie la Fondation dans les douze heures, ou au préalable lorsque l'opération se déroule à proximité d'un site de la Fondation.
+* Elle peut requérir le transport lourd, l'appui naval, les satellites, les amnésiques et le nettoyage de la Fondation.
+* Elle est autorisée à employer la force létale contre toute entité ou tout culte sarkique identifié. L'emploi de la force contre le personnel de la Fondation lui est interdit.
+* Lors d'une opération conjointe, le commandement revient à l'officier de la Xi-8 le plus gradé présent, sauf en cas de brèche de confinement d'un site de la Fondation.
+* Les opérateurs de la Xi-8 respectent les protocoles de sécurité et de confidentialité de la Fondation sur ses sites.
+
+++++ __Patrouilles de vérification de la FIM Xi-8__
+
+En l'absence d'activité sarkique confirmée, la Xi-8 peut patrouiller sur les sites de la Fondation pour vérifier l'application des protocoles de confinement que la KNI a émis pour des anomalies de la Fondation. Ses pouvoirs sont alors réduits.
+
+* Chaque patrouille est annoncée au responsable du site au plus tard vingt-quatre heures à l'avance.
+* Les patrouilleurs accèdent aux zones de confinement concernées et consultent les registres de confinement correspondants.
+* Ils ne peuvent ni modifier un protocole, ni déplacer ou saisir une anomalie, ni donner d'ordres au personnel de la Fondation. Ils n'emploient la force qu'en cas de légitime défense.
+* Tout manquement constaté est transmis au Département de Sécurité, seul habilité à intervenir.
 
 ++++ __Clauses opposables à la KNI__
 
 * Toute opération de la KNI à proximité d'un site de la Fondation ou d'une anomalie confinée doit être notifiée au préalable. Sans notification, la Fondation suspend son soutien de nettoyage.
 * La KNI s'interdit de recruter dans les effectifs actifs de la Fondation.
 * La KNI ne revendique aucune anomalie déjà confinée dans un site de la Fondation sans autorisation écrite.
-* Elle déclare l'emplacement de ses dépôts de Kelipah et signale toute fuite sous vingt-quatre heures.
+* Elle signale sous vingt-quatre heures toute fuite dans les entrepôts de Kelipah du Complexe 886 et en tient l'inventaire à la disposition de la Fondation.
 * Elle ne suspend le drainage du Complexe 886 qu'après préavis, et seulement en cas de violation caractérisée de l'accord.
 * Toute exposition du secret imputable à la KNI, ou toute violation constatée de l'accord, peut entraîner la suspension du financement sur décision du Haut-Commandement.
 [[/tab]]
