@@ -78,14 +78,14 @@ body, #container-wrap, #container-wrap-inner, #container,
 }
 #header h1 a span, #header h2 span { display: none !important; }
 #header h1 a::before {
-    content: "L'AUBE DORÉE";
+    content: "L'AUBE D'OR";
     font-family: var(--f-titre);
     font-weight: 700;
     letter-spacing: 0.18em;
     color: var(--kni-gold);
 }
 #header h2::before {
-    content: "Séparer l'écorce [-] libérer la lumière";
+    content: "Séparer l'écorce, libérer la lumière";
     font-family: var(--f-mono);
     font-size: 0.8em;
     color: var(--kni-moss);
@@ -134,7 +134,11 @@ body, #container-wrap, #container-wrap-inner, #container,
     color: #fff4d2 !important;
 }
 
-/* --- Titres : #page-content devant le thème --- */
+/* --- Titres : #page-content devant le thème ---
+   Le titre du module de connexion était coupé sur deux lignes qui se chevauchaient :
+   on impose un interligne normal à tous les h1 et h2 de la page. */
+#page-content h1, #page-content h2 { line-height: 1.2 !important; }
+
 #page-content .kni h1, #page-content .kni h2, #page-content .kni h3 {
     font-family: var(--f-titre) !important;
     color: var(--kni-gold) !important;
@@ -478,6 +482,86 @@ body, #container-wrap, #container-wrap-inner, #container,
 .kni .ico-flame::before     { content: "\e0d2"; }
 .kni .ico-tornado::before   { content: "\e218"; }
 
+/* --- Échelle des grades : pastilles du plus haut au plus bas (or vers vert) --- */
+.kni .echelle {
+    margin: 1em 0 0.6em;
+    padding: 0.8em 1em 0.5em;
+    background: rgba(8,20,14,0.6);
+    border: 1px solid var(--kni-green-line);
+    border-left: 3px solid var(--kni-gold);
+}
+.kni .echelle-titre {
+    font: 600 0.72em var(--f-mono);
+    color: var(--kni-gold);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin: 0 0 0.7em;
+}
+#page-content .kni .echelle p { margin: 0; max-width: none; line-height: 1.9; }
+.kni .g {
+    display: inline-block;
+    margin: 0 0.3em 0.3em 0;
+    padding: 0.05em 0.8em;
+    line-height: 1.6;
+    border: 1px solid var(--g, var(--kni-green-line));
+    border-radius: 2px;
+    background: rgba(255,255,255,0.03);
+    font: 500 0.8em var(--f-mono);
+    color: var(--g, var(--kni-text));
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+}
+.kni .echelle.e3 .g:nth-of-type(1) { --g: #e9c46a; }
+.kni .echelle.e3 .g:nth-of-type(2) { --g: #bccc89; }
+.kni .echelle.e3 .g:nth-of-type(3) { --g: #8fd3a8; }
+.kni .echelle.e4 .g:nth-of-type(1) { --g: #e9c46a; }
+.kni .echelle.e4 .g:nth-of-type(2) { --g: #cbc97f; }
+.kni .echelle.e4 .g:nth-of-type(3) { --g: #adce93; }
+.kni .echelle.e4 .g:nth-of-type(4) { --g: #8fd3a8; }
+.kni .echelle.e7 .g:nth-of-type(1) { --g: #e9c46a; }
+.kni .echelle.e7 .g:nth-of-type(2) { --g: #dac674; }
+.kni .echelle.e7 .g:nth-of-type(3) { --g: #cbc97f; }
+.kni .echelle.e7 .g:nth-of-type(4) { --g: #bccc89; }
+.kni .echelle.e7 .g:nth-of-type(5) { --g: #adce93; }
+.kni .echelle.e7 .g:nth-of-type(6) { --g: #9ed09e; }
+.kni .echelle.e7 .g:nth-of-type(7) { --g: #8fd3a8; }
+.kni .echelle.e11 .g:nth-of-type(1) { --g: #e9c46a; }
+.kni .echelle.e11 .g:nth-of-type(2) { --g: #e0c670; }
+.kni .echelle.e11 .g:nth-of-type(3) { --g: #d7c776; }
+.kni .echelle.e11 .g:nth-of-type(4) { --g: #cec87d; }
+.kni .echelle.e11 .g:nth-of-type(5) { --g: #c5ca83; }
+.kni .echelle.e11 .g:nth-of-type(6) { --g: #bccc89; }
+.kni .echelle.e11 .g:nth-of-type(7) { --g: #b3cd8f; }
+.kni .echelle.e11 .g:nth-of-type(8) { --g: #aace95; }
+.kni .echelle.e11 .g:nth-of-type(9) { --g: #a1d09c; }
+.kni .echelle.e11 .g:nth-of-type(10) { --g: #98d2a2; }
+.kni .echelle.e11 .g:nth-of-type(11) { --g: #8fd3a8; }
+/* --- Branches de l'administration : une carte par branche --- */
+.kni .branches {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+    margin: 1em 0 0.4em;
+}
+.kni .branche {
+    border: 1px solid var(--kni-green-line);
+    background: rgba(20,57,42,0.35);
+    padding: 0.9em 1.1em 0.3em;
+}
+.kni .branche .code {
+    display: inline-block;
+    margin-right: 0.5em;
+    padding: 0 0.5em;
+    border: 1px solid var(--kni-gold-dim);
+}
+.kni .branche .chef {
+    color: var(--kni-moss);
+    font-style: italic;
+    margin: 0 0 0.4em;
+}
+.kni .branche p { margin: 0 0 0.5em; }
+.kni .branche .echelle { margin: 0.6em 0 0.8em; padding: 0.6em 0.8em 0.3em; }
+
 /* --- Animations : deux seulement, coupées si l'utilisateur le demande --- */
 @keyframes veille {
     0%, 100% { opacity: 0.3; }
@@ -499,7 +583,7 @@ body, #container-wrap, #container-wrap-inner, #container,
     #page-content .kni h1 { font-size: var(--echelle-3) !important; }
     #page-content .kni h2 { font-size: var(--echelle-2) !important; }
     .kni .bloc { padding: 1em 1em 1.2em; }
-    .kni .split { grid-template-columns: 1fr; }
+    .kni .split, .kni .branches { grid-template-columns: 1fr; }
     .kni .col-kelipah, .kni .col-b {
         border-left: none;
         border-top: 1px dashed var(--kni-green-line);
@@ -509,7 +593,7 @@ body, #container-wrap, #container-wrap-inner, #container,
     #page-content .kni .registre table.wiki-content-table td:nth-child(3) { display: none; }
 }
 [[/module]]
-[[include :scp-sandbox-3:component:login-module |id=<VOTRE ID>|pw=<VOTRE MOT DE PASSE>|disc=true|title=Kelipat Nogah]]
+[[include :scp-sandbox-3:component:login-module |id=<VOTRE ID>|pw=<VOTRE MOT DE PASSE>|disc=true|title=L'Aube d'Or]]
 [[collapsible show="Connexion" hide="Déconnexion"]]
 [[div class="kni"]]
 
@@ -610,7 +694,10 @@ Organisme supérieur : [[span class="redact"]]██████████[[/s
 || Recrutement || Les effectifs viennent de la BSR, parmi ceux qui réussissent les qualifications. Grade minimum : Adjudant. ||
 || Unités || Les Tishmed, équipes tactiques de combat et d'acquisition d'artéfacts anormaux, dont l'escouade Tishmed-1. Leurs opérateurs sont modifiés par des procédés occultes, thaumaturgiques et sarkiques ([[span class="redact"]]██████ ██ █████[[/span]]). ||
 || Unité conjointe || [[[kni-xi-8|FIM Xi-8]]], rattachée au DGA. ||
-|| Grades || Colonel, Lieutenant-Colonel, Aspirant, Major, Adjudant-Chef, Brigadier, Opérateur. ||
+[[/div]]
+[[div class="echelle e7"]]
+[[div class="echelle-titre"]]Échelle des grades[[/div]]
+[[span class="g"]]Colonel[[/span]] [[span class="g"]]Lieutenant-Colonel[[/span]] [[span class="g"]]Aspirant[[/span]] [[span class="g"]]Major[[/span]] [[span class="g"]]Adjudant-Chef[[/span]] [[span class="g"]]Brigadier[[/span]] [[span class="g"]]Opérateur[[/span]]
 [[/div]]
 [[/tab]]
 [[tab R&T]]
@@ -627,15 +714,50 @@ Organisme supérieur : [[span class="redact"]]██████████[[/s
 || Dirigé par || Le Chancelier des Scories. ||
 || Rôle || Stocker les Scories en étanche, neutraliser les risques environnementaux, suivre le personnel, protéger les membres et les infrastructures. ||
 || Force || La Brigade de Sécurité Relative (BSR) : équipes de sécurité et de protection, modifiées en surface et équipées d'artéfacts thaumaturgiques. ||
-|| Grades || Commandant, Capitaine, Lieutenant, Adjudant, Sergent-Chef, Sergent, Caporal, Caporal-Chef, Soldat d'Élite, Soldat de Classe Première, Soldat de Classe Secondaire. ||
+[[/div]]
+[[div class="echelle e11"]]
+[[div class="echelle-titre"]]Échelle des grades[[/div]]
+[[span class="g"]]Commandant[[/span]] [[span class="g"]]Capitaine[[/span]] [[span class="g"]]Lieutenant[[/span]] [[span class="g"]]Adjudant[[/span]] [[span class="g"]]Sergent-Chef[[/span]] [[span class="g"]]Sergent[[/span]] [[span class="g"]]Caporal[[/span]] [[span class="g"]]Caporal-Chef[[/span]] [[span class="g"]]Soldat d'Élite[[/span]] [[span class="g"]]Soldat de Classe Première[[/span]] [[span class="g"]]Soldat de Classe Secondaire[[/span]]
 [[/div]]
 [[/tab]]
 [[tab Administration]]
-[[div class="fiche"]]
-|| BJ || **Branche Judiciaire**, dirigée par le Maître des Sceaux. Code pénal interne, discipline, arbitrage des litiges. Grades : Président de Cour, Procureur, Juge, Juré. ||
-|| BDA || **Branche de Documentation et d'Archivage**, dirigée par le Veilleur des Manuscrits. Centralise, classe et protège les savoirs et les historiques opérationnels. Grades : Régent aux Archives, Archiviste avancé, Agent documentatoire, Adjoint à la Documentation. ||
-|| BRD || **Branche des Relations Diplomatiques**, dirigée par l'Émissaire de l'Aube. Représentation extérieure, négociations, relations avec les autres entités et organisations. Grades : Superviseur diplomatique, Diplomate professionnel, Envoyé diplomatique. ||
-|| BRH || **Branche des Ressources Humaines**, dirigée par le Haut-Intendant. Recrutement, évaluation psychologique, affectation des effectifs. Grades : Adjoint directionnel RH, Conseiller RH, Secrétaire. ||
+[[div class="branches"]]
+[[div class="branche"]]
++++ [[span class="code"]]BJ[[/span]] Branche Judiciaire
+[[div class="chef"]]Dirigée par le Maître des Sceaux.[[/div]]
+Code pénal interne, discipline, arbitrage des litiges.
+[[div class="echelle e4"]]
+[[div class="echelle-titre"]]Échelle des grades[[/div]]
+[[span class="g"]]Président de Cour[[/span]] [[span class="g"]]Procureur[[/span]] [[span class="g"]]Juge[[/span]] [[span class="g"]]Juré[[/span]]
+[[/div]]
+[[/div]]
+[[div class="branche"]]
++++ [[span class="code"]]BDA[[/span]] Branche de Documentation et d'Archivage
+[[div class="chef"]]Dirigée par le Veilleur des Manuscrits.[[/div]]
+Centralise, classe et protège les savoirs et les historiques opérationnels.
+[[div class="echelle e4"]]
+[[div class="echelle-titre"]]Échelle des grades[[/div]]
+[[span class="g"]]Régent aux Archives[[/span]] [[span class="g"]]Archiviste avancé[[/span]] [[span class="g"]]Agent documentatoire[[/span]] [[span class="g"]]Adjoint à la Documentation[[/span]]
+[[/div]]
+[[/div]]
+[[div class="branche"]]
++++ [[span class="code"]]BRD[[/span]] Branche des Relations Diplomatiques
+[[div class="chef"]]Dirigée par l'Émissaire de l'Aube.[[/div]]
+Représentation extérieure, négociations, relations avec les autres entités et organisations.
+[[div class="echelle e3"]]
+[[div class="echelle-titre"]]Échelle des grades[[/div]]
+[[span class="g"]]Superviseur diplomatique[[/span]] [[span class="g"]]Diplomate professionnel[[/span]] [[span class="g"]]Envoyé diplomatique[[/span]]
+[[/div]]
+[[/div]]
+[[div class="branche"]]
++++ [[span class="code"]]BRH[[/span]] Branche des Ressources Humaines
+[[div class="chef"]]Dirigée par le Haut-Intendant.[[/div]]
+Recrutement, évaluation psychologique, affectation des effectifs.
+[[div class="echelle e3"]]
+[[div class="echelle-titre"]]Échelle des grades[[/div]]
+[[span class="g"]]Adjoint directionnel RH[[/span]] [[span class="g"]]Conseiller RH[[/span]] [[span class="g"]]Secrétaire[[/span]]
+[[/div]]
+[[/div]]
 [[/div]]
 [[/tab]]
 [[tab Conseil de Défense]]
