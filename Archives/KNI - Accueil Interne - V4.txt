@@ -694,10 +694,10 @@ Organisme supérieur : [[span class="redact"]]██████████[[/s
 || Recrutement || Les effectifs viennent de la BSR, parmi ceux qui réussissent les qualifications. Grade minimum : Adjudant. ||
 || Unités || Les Tishmed, équipes tactiques de combat et d'acquisition d'artéfacts anormaux, dont l'escouade Tishmed-1. Leurs opérateurs sont modifiés par des procédés occultes, thaumaturgiques et sarkiques ([[span class="redact"]]██████ ██ █████[[/span]]). ||
 || Unité conjointe || [[[kni-xi-8|FIM Xi-8]]], rattachée au DGA. ||
-[[/div]]
 [[div class="echelle e7"]]
 [[div class="echelle-titre"]]Échelle des grades[[/div]]
 [[span class="g"]]Colonel[[/span]] [[span class="g"]]Lieutenant-Colonel[[/span]] [[span class="g"]]Aspirant[[/span]] [[span class="g"]]Major[[/span]] [[span class="g"]]Adjudant-Chef[[/span]] [[span class="g"]]Brigadier[[/span]] [[span class="g"]]Opérateur[[/span]]
+[[/div]]
 [[/div]]
 [[/tab]]
 [[tab R&T]]
@@ -714,10 +714,10 @@ Organisme supérieur : [[span class="redact"]]██████████[[/s
 || Dirigé par || Le Chancelier des Scories. ||
 || Rôle || Stocker les Scories en étanche, neutraliser les risques environnementaux, suivre le personnel, protéger les membres et les infrastructures. ||
 || Force || La Brigade de Sécurité Relative (BSR) : équipes de sécurité et de protection, modifiées en surface et équipées d'artéfacts thaumaturgiques. ||
-[[/div]]
 [[div class="echelle e11"]]
 [[div class="echelle-titre"]]Échelle des grades[[/div]]
 [[span class="g"]]Commandant[[/span]] [[span class="g"]]Capitaine[[/span]] [[span class="g"]]Lieutenant[[/span]] [[span class="g"]]Adjudant[[/span]] [[span class="g"]]Sergent-Chef[[/span]] [[span class="g"]]Sergent[[/span]] [[span class="g"]]Caporal[[/span]] [[span class="g"]]Caporal-Chef[[/span]] [[span class="g"]]Soldat d'Élite[[/span]] [[span class="g"]]Soldat de Classe Première[[/span]] [[span class="g"]]Soldat de Classe Secondaire[[/span]]
+[[/div]]
 [[/div]]
 [[/tab]]
 [[tab Administration]]
@@ -766,7 +766,6 @@ Recrutement, évaluation psychologique, affectation des effectifs.
 [[/div]]
 [[/tab]]
 [[/tabview]]
-[[/div]]
 [[/div]]
 
 [[div class="bloc"]]
