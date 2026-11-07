@@ -1,0 +1,332 @@
+[[include credit:start]]
+**Titre :** R&T-012, Le Chœur d'Os
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Fraunces:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Newsreader:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@font-face {
+    font-family: 'lucide';
+    src: url('https://cdn.jsdelivr.net/npm/lucide-static@1.66.0/font/lucide.woff2') format('woff2');
+    font-display: swap;
+}
+:root {
+    --kni-bg: #050c08;
+    --kni-green: #0d2419;
+    --kni-green-2: #14392a;
+    --kni-green-line: #21523d;
+    --kni-text: #d6e2da;
+    --kni-dim: #93ab9d;
+    --kni-gold: #e9c46a;
+    --kni-gold-dim: #b8963f;
+    --kni-moss: #8fd3a8;
+    --kni-teal: #3bb5a1;
+    --kni-copper: #e76f51;
+    --f-noble: 'Cinzel', Georgia, 'Times New Roman', serif;
+    --f-titre: 'Fraunces', Georgia, 'Times New Roman', serif;
+    --f-texte: 'Newsreader', Georgia, 'Times New Roman', serif;
+    --f-mono: 'JetBrains Mono', ui-monospace, 'Courier New', monospace;
+    --echelle-1: 1.25em;
+    --echelle-2: 1.563em;
+    --echelle-3: 1.953em;
+    --rythme: 1.6;
+}
+body, #container-wrap, #container-wrap-inner, #container,
+#content-wrap, #main-content, #page-content {
+    background: var(--kni-bg) !important;
+}
+#page-title { display: none !important; }
+#page-content, #page-content p, #page-content li,
+#page-content td, #page-content th {
+    color: var(--kni-text) !important;
+    font-family: var(--f-texte) !important;
+}
+#page-content {
+    font-size: 1.06rem;
+    line-height: var(--rythme);
+    font-optical-sizing: auto;
+    text-rendering: optimizeLegibility;
+}
+#page-content .kni p { max-width: 70ch; margin: 0 0 1em; hyphens: manual; }
+#header {
+    background: #030705 !important;
+    border-bottom: 2px solid var(--kni-gold-dim) !important;
+}
+#header h1 a span, #header h2 span { display: none !important; }
+#header h1 a::before {
+    content: "L'AUBE D'OR";
+    font-family: var(--f-noble);
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    color: var(--kni-gold);
+}
+#header h2::before {
+    content: "Séparer l'écorce, libérer la lumière";
+    font-family: var(--f-mono);
+    font-size: 0.8em;
+    color: var(--kni-moss);
+}
+#search-top-box-input {
+    background: var(--kni-green) !important;
+    color: var(--kni-text) !important;
+    border: 1px solid var(--kni-green-line) !important;
+}
+#top-bar, #top-bar ul li ul {
+    background: var(--kni-green) !important;
+    border-color: var(--kni-green-line) !important;
+}
+#top-bar a, #top-bar ul li a { color: var(--kni-text) !important; background: transparent !important; }
+#top-bar ul li a:hover { color: var(--kni-gold) !important; }
+#side-bar .side-block {
+    background: var(--kni-green) !important;
+    border: 1px solid var(--kni-green-line) !important;
+}
+#side-bar a { color: var(--kni-moss) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; }
+#footer, #footer a { background: #030705 !important; color: var(--kni-dim) !important; }
+#page-content h1, #page-content h2 { line-height: 1.2 !important; }
+#page-content .kni h1, #page-content .kni h2, #page-content .kni h3 {
+    color: var(--kni-gold) !important;
+    border: none !important;
+    position: static !important;
+    transform: none !important;
+    text-shadow: none !important;
+    height: auto !important;
+    padding: 0 !important;
+}
+#page-content .kni h1 {
+    font-family: var(--f-noble) !important;
+    font-weight: 900 !important;
+    font-size: var(--echelle-3) !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+    line-height: 1.15 !important;
+    margin: 0 !important;
+    text-wrap: balance;
+}
+#page-content .kni h2 {
+    font-family: var(--f-titre) !important;
+    font-weight: 600 !important;
+    font-size: var(--echelle-3) !important;
+    text-transform: none !important;
+    margin: 0 0 0.7em !important;
+    padding-bottom: 0.35em !important;
+    border-bottom: 1px solid var(--kni-gold-dim) !important;
+    text-wrap: balance;
+}
+.kni .sec {
+    font: 500 0.55em var(--f-mono);
+    color: var(--kni-copper);
+    border: 1px solid var(--kni-copper);
+    padding: 0.1em 0.5em;
+    margin-right: 0.8em;
+    vertical-align: middle;
+}
+.kni .devise {
+    font-family: var(--f-texte);
+    font-style: italic;
+    font-size: 1.35em;
+    color: var(--kni-moss);
+    margin: 0.3em 0 0;
+}
+#page-content .kni a { color: var(--kni-moss); text-decoration: none; }
+#page-content .kni a:hover { color: var(--kni-gold); }
+#page-content .kni a.newpage {
+    color: var(--kni-copper) !important;
+    border-bottom: 1px dashed var(--kni-copper);
+    background: transparent !important;
+}
+.kni .t-nogah { color: var(--kni-gold); font-weight: 600; }
+.kni .t-kelipah { color: var(--kni-copper); font-weight: 600; }
+.kni .t-kni { color: var(--kni-moss); font-weight: 600; }
+.kni .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+.kni .stamp {
+    display: inline-block;
+    border: 2px solid var(--kni-copper);
+    color: var(--kni-copper);
+    padding: 0.1em 0.7em;
+    font: 600 0.75em var(--f-mono);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    transform: rotate(-3deg);
+}
+.kni .stamp::before {
+    content: "\e086";
+    font-family: 'lucide';
+    margin-right: 0.55em;
+    letter-spacing: 0;
+}
+.kni .fracture {
+    height: 3px;
+    margin: 1.3em 0 1.6em;
+    background: linear-gradient(90deg, var(--kni-copper) 0 41%, transparent 41% 43%, var(--kni-gold) 43% 100%);
+}
+.kni .lead {
+    border-left: 4px solid var(--kni-moss);
+    background: linear-gradient(90deg, rgba(20,57,42,0.7), transparent);
+    padding: 0.8em 1.2em;
+    margin: 0 0 1.8em;
+}
+.kni .lead p { margin: 0; }
+.kni .bloc {
+    background: linear-gradient(135deg, rgba(20,57,42,0.55), rgba(8,20,14,0.9));
+    border: 1px solid var(--kni-green-line);
+    border-left: 4px solid var(--kni-gold);
+    padding: 1.2em 1.6em 1.4em;
+    margin: 0 0 1.8em;
+}
+#page-content .kni table.wiki-content-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none !important;
+    margin: 0.6em 0;
+}
+#page-content .kni table.wiki-content-table td {
+    background: transparent !important;
+    padding: 0.7em 0.8em;
+    vertical-align: top;
+    border: none !important;
+    border-bottom: 1px solid var(--kni-green-line) !important;
+    transition: background-color 0.2s;
+}
+#page-content .kni table.wiki-content-table tr:nth-child(even) td { background: rgba(20,57,42,0.35) !important; }
+#page-content .kni table.wiki-content-table tr:hover td { background: rgba(143,211,168,0.12) !important; }
+#page-content .kni .fiche table.wiki-content-table tr:last-child td { border-bottom: none !important; }
+#page-content .kni .fiche table.wiki-content-table td:first-child {
+    width: 11em;
+    font: 600 0.75em var(--f-mono) !important;
+    color: var(--kni-gold) !important;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding-top: 1.1em;
+    border-right: 2px solid var(--kni-gold-dim) !important;
+}
+.kni .code {
+    font: 500 0.85em var(--f-mono);
+    color: var(--kni-gold);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+.kni .note {
+    border-left: 3px solid var(--kni-copper);
+    padding: 0.4em 1.2em;
+    margin: 1.2em 0 0;
+    background: rgba(231,111,81,0.07);
+}
+.kni .note p { margin: 0; font-style: italic; }
+.kni .ico::before {
+    font-family: 'lucide';
+    font-weight: normal;
+    font-style: normal;
+    margin-right: 0.5em;
+    font-size: 0.9em;
+    vertical-align: -0.06em;
+    color: var(--kni-moss);
+}
+.kni .ico-id::before     { content: "\e617"; }
+.kni .ico-pin::before    { content: "\e111"; }
+.kni .ico-target::before { content: "\e0ac"; }
+.kni .ico-clock::before  { content: "\e087"; }
+.kni .ico-flask::before  { content: "\e0d5"; }
+@keyframes trace {
+    from { clip-path: inset(0 100% 0 0); }
+    to { clip-path: inset(0 0 0 0); }
+}
+@media (prefers-reduced-motion: no-preference) {
+    .kni .fracture { animation: trace 1.4s ease-out both; }
+}
+@media (max-width: 768px) {
+    #header { height: auto; min-height: 90px; }
+    #main-content, #page-content { padding: 8px 6px; }
+    #page-content .kni h1 { font-size: var(--echelle-2) !important; }
+    #page-content .kni h2 { font-size: var(--echelle-2) !important; }
+    .kni .bloc { padding: 1em 1em 1.2em; }
+    #page-content .kni .fiche table.wiki-content-table td:first-child { width: 7em; }
+}
+[[/module]]
+[[div class="kni"]]
+
+[[div class="masthead"]]
+[[div]]
++ R&T-012 : Le Chœur d'Os
+[[div class="devise"]]
+Rapport de raffinage
+[[/div]]
+[[/div]]
+[[span class="stamp"]]Rapport interne[[/span]]
+[[/div]]
+
+[[div class="fracture"]]
+[[/div]]
+
+[[div class="lead"]]
+R&T-012 est un orgue sarkique de chair et d'os, saisi par l'escouade Tishmed-1 et purifié en soixante-douze heures. Sa structure de cristal et d'os produit désormais un chant qui défait la biomasse sarkique.
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]01[[/span]] [[span class="ico ico-id"]]Fiche de la relique[[/span]]
+
+[[div class="fiche"]]
+|| Identifiant || [[span class="code"]]R&T-012[[/span]] ||
+|| Désignation || Le Chœur d'Os ||
+|| Rédacteur || Archiviste avancé Silas, sous l'autorité du Veilleur des Manuscrits ||
+|| Chercheur attitré || Théophysicien Vayne, sous l'autorité du Magister de Raffinage ||
+|| Rendement estimé || [[span class="t-nogah"]]Source autonome[[/span]] ||
+|| Densité de la Scorie || [[span class="t-kelipah"]]Faible[[/span]] ||
+|| Statut || Relique purifiée, réintégrée à l'arsenal lourd du DGA sous le nom de Chant de l'Aube. ||
+[[/div]]
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]02[[/span]] [[span class="ico ico-pin"]]La relique avant l'intervention[[/span]]
+
+Avant l'intervention, R&T-012 était un orgue monumental dont les tuyaux d'origine avaient été remplacés par des trachées, des larynx et des cages thoraciques humaines hypertrophiées. Un réseau vasculaire l'alimentait directement dans le sol. Le Karciste local s'en servait pour émettre des fréquences capables de disloquer le squelette de tout être vivant non préparé dans un rayon de cinq kilomètres.
+
+Le village voisin avait perdu ses quarante-deux habitants. Leurs os servaient de tuyaux.
+
+Les rapports de renseignement montraient que des groupes rivaux hésitaient à approcher : l'instrument tuait avant qu'on puisse l'étudier. Le Théophysicien Vayne a relevé leur erreur d'analyse. La fréquence elle-même n'avait rien de nuisible, et c'est le filtre de chair, la [[span class="t-kelipah"]]Kelipah[[/span]], qui déformait l'onde. Sous elle, l'instrument était sain.
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]03[[/span]] [[span class="ico ico-target"]]Préceptes d'extraction[[/span]]
+
+L'objectif était de prendre l'instrument avant que des forces hostiles ne bouclent le secteur. La consigne était l'écorçage méticuleux de l'enveloppe, avec le cœur de l'instrument à préserver. La [[span class="t-kni"]]KNI[[/span]] a mené l'opération seule : le site était éloigné de tout établissement de la Fondation, et l'accord Aube Dorée n'imposait aucune notification.
+
+L'escouade Tishmed-1, force d'élite du DGA, a déployé un dôme d'isolation stérile. Ses opérateurs, dont les modifications viennent de la Bible de Chair, ont tenu sous les ondes du site sans reculer. Huit Canalisateurs de l'Aube ont ensuite projeté un flux de [[span class="t-nogah"]]Nogah[[/span]] à très basse fréquence, soixante-douze heures sans interruption, pour calciner l'enveloppe charnelle sans toucher au cœur mécanique.
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]04[[/span]] [[span class="ico ico-clock"]]Déroulement de l'extraction[[/span]]
+
+[[div class="fiche"]]
+|| H+00 || Le dôme d'isolation stérile est déployé. L'escouade Tishmed-1 tient le périmètre. ||
+|| H+06 || Les huit Canalisateurs de l'Aube prennent position. ||
+|| H+12 || Le flux de Nogah est lancé à très basse fréquence. ||
+|| H+36 || L'enveloppe charnelle est réduite de moitié. Privé de son alimentation vasculaire, le Karciste local cesse d'émettre. ||
+|| H+60 || Le réseau vasculaire s'effondre en poudre. ||
+|| H+72 || L'armature est à nu et les canalisateurs ferment le flux. Le Karciste est capturé vivant et remis à la Branche Judiciaire. ||
+[[/div]]
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]05[[/span]] [[span class="ico ico-flask"]]Bilan et réintégration[[/span]]
+
+[[div class="fiche"]]
+|| Durée || 72 heures ||
+|| Engagés || Escouade Tishmed-1 et 8 Canalisateurs de l'Aube ||
+|| Pertes || Aucune ||
+|| Kelipah extraite || Poudres et scories sèches, expédiées à la Raffinerie-Gamma ||
+[[/div]]
+
+Sous le rayonnement de nos Creusets de terrain, la chair mutante s'est réduite en poudres et en scories sèches, recueillies en conteneurs hermétiques. L'armature d'origine est apparue intacte : un ensemble de cylindres de cristal et d'os, sans trace de la contamination qui l'enveloppait.
+
+Après recalibrage par nos ingénieurs militaires, la relique fonctionne avec une cartouche de [[span class="t-nogah"]]Nogah[[/span]]. Elle produit un chant harmonique qui cristallise la biomasse sarkique à portée, puis la défait. Rebaptisée //Chant de l'Aube//, elle est intégrée aux véhicules de combat lourds des unités Tishmed du DGA.
+[[/div]]
+
+[[/div]]
