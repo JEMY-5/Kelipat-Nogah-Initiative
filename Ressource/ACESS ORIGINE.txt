@@ -1,0 +1,64 @@
+ACES-0001 : Anomalie de Classification Entité Supérieure
+(Indexée sous un numéro SCP-████ dans les registres extérieurs de la Fondation.)
+Nom de code : « Prototype d'arme spécialisée »
+Nom : 肺炎 (Haien)
+Nom traduit : Pneumona
+
+Niveau d'autorisation : Niveau 5 « Top Secret » / ARC - 1 « Nogah »
+Classe de confinement : Ésotérique
+Classe secondaire : Janus
+Classe de perturbation : Ekhi 
+Classe de risque : Critique
+
+Rédacteur : [ NO DATA REGISTER ]
+Chercheur attitré : Conseil - [ NO DATA REGISTER ]
+Rendement estimé : [ NO DATA REGISTER ]
+
+Description Physique :
+ACES-0001 est un humanoïde masculin de 2,20 mètres. Ses cheveux sont d’un rouge virant au noir. Son corps est entièrement couvert de marques semblables à des tatouages, qui proviendraient d’une thaumaturgie extrêmement avancée. Il est facilement reconnaissable à une grande brûlure qui a consumé la moitié de son visage. Il porte un ancien et grand manteau, prolongé d’une longue cape noire. Son âge est inconnu.
+
+Historique de découverte
+
+En 1986, la Shūshū-In (Agence de collecte) découvre l'anomalie dans un réseau de grottes inexploré au Japon. Des chercheurs archéologues y avaient repéré ce qu'ils pensaient être un très ancien tombeau.
+
+Le site est une cavité d'une régularité parfaite, de 45 mètres sur 45. Sa paroi extérieure est entièrement gravée. Plusieurs gravures ont été déchiffrées, mais on suppose qu'elles sont rédigées dans une langue aujourd'hui disparue. L'une d'elles se traduit par グランド・クラヴィガー (« Grand Klavigar »).
+
+Au centre se dressent trois immenses piliers sculptés en forme de crânes et d'autres motifs. Entre eux repose l'entité : un humanoïde enchaîné par sept chaînes. À ses pieds, une plaque porte l'inscription 肺炎 (Haien), « Pneumona ».
+
+Incursion non autorisée
+
+Quelques années plus tard (date inconnue), des habitants de la région signalent la présence de trois hommes entrant dans le système de cavités. Leurs motivations restent inconnues. Plusieurs témoins affirment que l'un d'eux manipulait la chair et le sang. Cela laisse penser qu'il s'agissait de membres du Karcisme.
+
+Transfert de contrôle
+
+Peu après, la Shūshū-In transmet l'ensemble de ses informations et le contrôle du site à la Kelipat Nogah Initiative (KNI), organisation spécialisée dans le Sarkicisme.
+
+Après de longues recherches, la KNI a établi l’origine de l’entité.
+
+Celle-ci est connue dans le domaine du Sarkicisme. Plusieurs textes anciens mentionnent un « Grand Klavigar ». On ignore encore ce qui le distingue d’un simple Klavigar, comme les quatre Klavigars connus. Il est en revanche confirmé qu’il a existé à l’époque du Grand Karciste Ion. Il serait possiblement l’une des entités ayant causé le plus de torts, et aurait été créé de la main d’Ion lui-même.
+
+PROGRAMME AMIDA
+
+Quelques années après le transfert à la KNI, une branche très spécifique de l’Initiative réclame l’anomalie : la [ NO DATA REGISTER ], avec le Conseil, représenté par M. Sàlvèra de Carnavèl Carlet (dirigeant officieux du Conseil).
+
+ACES-0001 est alors affectée au Programme AMIDA (Advanced Military International Defense Attribution). Son but est de conférer une forme de Carnomantic Biochemistry* à des sujets, par contrat avec 肺炎 (Haien).
+
+Sujets 01 à 08 : dossiers retirés de la base de données de la BDA, sur ordre du Conseil. Seul le dossier 09 est consultable à ce niveau d’autorisation.
+
+Rapport du Sujet 09
+
+Le sujet 09, Lieutenant « Envy » de la Force d’Intervention Militaire Xi-8 « The Last to Fall », paraspécialiste de formation, a accepté de participer au Programme AMIDA.
+
+Il est d’abord transféré de la Zone-02 vers l’aéroport international de Kyoto, au Japon. Il est ensuite conduit en convoi vers une zone reculée de Kyoto, où se trouve l’Installation AMIDA, loin de toute civilisation. Elle est centrée sur le Point Z, qui est ACES-0001. Autour du Point Z, une zone de surveillance restreinte s’étend sur 1,5 km.
+
+Au point de contrôle ALPHA, le sujet 09 est accueilli par plusieurs membres de l’unité [ NO DATA REGISTER ], qui lui retirent tout son équipement (armes, couteaux, technologie, etc.). On lui ordonne ensuite de marcher jusqu’à l’objectif, où M. Sàlvèra de Carnavèl Carlet le guide et lui donne cet avertissement (résumé) :
+
+« C’est ici que je vous laisse. Je vais faire vite et clair : descendez dans ce réseau de grottes et prenez le premier chemin. Une fois arrivé, mon cher… hmm… (hésitation)
+
+Vous allez rencontrer quelque chose. Votre but sera de… (M. Sàlvèra de Carnavèl Carlet hésite quelques secondes.) Comment dire… « négocier ». Vous allez lui demander quelque chose de très précis, d’accord ?
+
+Vous lui demanderez un pouvoir thaumaturgique du nom de Carnomantic Biochemistry, puis votre but sera de négocier son prix. Bonne chance, Lieutenant. »
+
+Trente minutes après son départ, plusieurs membres de la [ NO DATA REGISTER ]. se déploient dans les grottes pour extraire le Lieutenant. Il est transporté au service médical de la KNI. Il aurait subi de très fortes blessures, ainsi qu’une marque permanente.
+
+* Carnomantic Biochemistry : forme avancée de Paraspécialisation thaumaturgique, utilisée notamment par les Karcistes.

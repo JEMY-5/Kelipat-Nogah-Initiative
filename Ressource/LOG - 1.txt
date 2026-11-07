@@ -1,0 +1,75 @@
+======================================
+ JOURNAL SYSTÈME - ATO. // NIVEAU D'ACCÈS : ARC - 1
+======================================
+
+[01:20]  ÉTAT D'URGENCE 
+Le système automatique a décrété l'état d'urgence.
+
+| System/Ato./ » : État d'urgence activé.
+| System/Ato./ » : Détection du problème...
+| System/Ato./ » : Analyse des documents en cours...
+| System/Ato./ » : Problème détecté.
+| System/Ato./ » : Analyse en cours...
+| System/Ato./ » : Investigation en cours. Choix entre deux types...
+| System/Ato./ » : Changement d'état en cours... Détection : ÉCHEC.
+
+
+[01:30] INCURSIONS 
+La machine détecte plusieurs incursions dans les trois complexes,
+désignés sous le nom d'« Obélisques ».
+
+| System/Ato./ » : Analyse...
+| System/Ato./ » : Détection de plusieurs anomalies dans le système.
+| System/Ato./ » : Détection de plusieurs incursions...
+| System/Ato./ » : Lancement de l'alerte en cours...
+| System/Ato./ » : ⚠ Le système de lancement n'est plus disponible.
+
+
+[01:47]  ANALYSE GLOBALE 
+| System/Ato./ » : Lancement de l'analyse globale...
+| System/Ato./ » : Plusieurs erreurs détectées.
+- Traqueur du sujet 001  [ Le Lunatique ] : HORS LIGNE
+ - Traqueur du sujet 5679 [ Colonel ]      : HORS LIGNE
+ - Traqueur du sujet ???  [ ??? ]          : HORS LIGNE
+
+| System/Ato./ » : Fermeture de toutes les incursions en cours.
+| System/Ato./ » : Durée : 4 min 45 s.
+
+
+[01:52]  CONNEXION DU CONSEIL
+| System/Ato./ » : Connexion en cours...
+| System/Ato./ » : Identification requise.
+
+| User./ » : //. Connex. User 002
+| Password  : ********************
+| Secondary : ***************
+| Card      : ARC-1 « NOGAH »
+
+| System/Ato./ » : Accès accordé. Bienvenue, Utilisateur 002.
+
+
+[02:00]  PROTOCOLE « INITIATIVE DE LA LUNE CROISSANTE »
+| SystemAdmin/User./ » : //. Activ. Prot. [ ILC | -5 ] -- -f -sadm -c
+| Système : Confirmer [ Y/N ] ?
+| SystemAdmin/User./ » : Y
+| Système : Protocole ILC-5 activé.
+
+
+[02:03] PROTOCOLE « CODE BLANC "LAST NIGHT" » 
+| SystemAdmin/User./ » : //. Activ. Prot. [ CBL | -1 ] -- -f -sadm -c
+| Système : Confirmer [ Y/N ] ?
+| SystemAdmin/User./ » : Y
+| Système : Protocole CBL-1 activé.
+
+
+[02:06] PROTOCOLE « P.A.R.A.D.O.X. <—> SECTION OMEGA »
+| SystemAdmin/User./ » : //. Activ. Prot. [ PARA » SEOM ] -- -f -sadm -c
+| Système : Confirmer [ Y/N ] ?
+| SystemAdmin/User./ » : Y
+| Système : Protocole PARA-SEOM activé.
+[03:48] FIN DE SESSION
+| Système : Déconnexion de l'Utilisateur 002.
+| Système : Session close. Aucune réponse du réseau.
+
+
+À la suite d’un rapport du système signalant plusieurs anomalies infiltrées dans le réseau, puis des incursions extérieures sur les trois Complexes désignés sous le nom d’« Obélisques », toute la Direction apprend, quelques heures plus tard, la disparition de l’Archonte, puis celle du Colonel. Peu après, on retrouve ce dernier mort dans son bureau. Pour l’Archonte, en revanche, aucun détail n’a filtré. Le système précise simplement que le Membre 002 du Conseil aurait très probablement vu, et même clairement distingué, ce qui s’est réellement passé cette nuit-là.

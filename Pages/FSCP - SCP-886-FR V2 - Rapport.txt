@@ -1,0 +1,69 @@
+[[include credit:start]]
+**Titre :** SCP-886-FR, Le Cœur Suturé
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+
+**Objet n° :** SCP-886-FR
+
+**Classe d'objet :** Keter
+
+**Procédures de confinement spéciales :** SCP-886-FR est confiné //in situ// au sein du Complexe de Stabilisation Conjoint 886, construit sous le plateau de [DONNÉES CENSURÉES]. Le complexe est administré conjointement par la Fondation et par l'Initiative Kelipat Nogah (GdI-884), conformément à l'Avenant 3 de l'accord Aube Dorée. Le Directeur de Site de la Fondation et le Commandant de terrain de la FIM Xi-8 doivent tous deux signer toute décision touchant à l'enceinte ou au drainage.
+
+L'enceinte interne est maintenue par un réseau d'Ancres de Réalité de Scranton, géré par le Département d'Ingénierie et des Services Techniques. Deux ingénieurs au minimum inspectent les Ancres chaque semaine, et aucune intervention n'est menée par une seule personne. Un détachement du Commandement O4 reste en alerte permanente à l'extérieur de l'enceinte.
+
+Les drains thaumaturgiques sont conduits par le personnel du Raffinage de la KNI, sous l'autorité du Magister de Raffinage du GdI-884. Toute modification d'un module d'extraction sans son aval entraîne la suspension immédiate du drainage. La KNI ne suspend elle-même le drainage qu'après préavis, et seulement en cas de violation caractérisée de l'accord.
+
+La sécurité du périmètre relève du Département de Sécurité. La sécurité interne de l'enceinte est confiée à un détachement de la FIM Xi-8, dont les membres sont considérés comme du personnel de la Fondation et portent son écusson. Ils sont commandés par la KNI et répondent au DGA de l'Initiative sans en faire partie.
+
+Les résidus inaptes au raffinage (Kelipah) sont stockés dans les entrepôts du complexe avant leur reprise par la KNI. La Fondation peut consulter l'inventaire de ces entrepôts, et la KNI lui signale toute fuite sous vingt-quatre heures. La Fondation n'a aucun droit de regard sur le traitement de la Kelipah ni sur les installations de la KNI en dehors de ces entrepôts. Le Département de l'Écologie et du Développement Durable surveille en permanence les rejets et la radiation éthérique autour du complexe.
+
+En cas de suspension du drainage, la pression remonte d'environ 0,1 % de la capacité d'expansion par heure, et l'alerte est déclenchée à 1 %. En cas de brèche de l'enceinte, le Commandement O4 et la Xi-8 interviennent sous les protocoles Exode et Verrou. Le complexe étant un site partagé, le protocole Régence n'y est pas applicable : une cellule de crise conjointe, dirigée par le Directeur de Site et le Commandant de terrain de la Xi-8, conduit les opérations.
+
+**Description :** SCP-886-FR est un organisme néo-sarkique de classe Mégathérion, d'environ 2,4 kilomètres de diamètre, ancré dans la croûte terrestre supérieure. Il prend la forme d'un complexe cardio-vasculaire autonome, en croissance continue, capable de produire des spores d'assimilation biologique sur de grandes distances.
+
+Son ancrage descend jusque dans la plaque tectonique locale. Une neutralisation thermique ou atomique conventionnelle romprait cet ancrage et réveillerait plusieurs foyers secondaires, ce qui pourrait conduire à un scénario de classe SK.
+
+Faute de pouvoir l'éradiquer, la Fondation et la KNI maintiennent une « suture artificielle ». Les générateurs de la Fondation entretiennent une cage de confinement fermée, qui bloque l'expansion du tissu et masque la signature de l'anomalie aux réseaux civils et aux cultes rivaux. La KNI a planté dans le tissu dix-huit aiguilles de titane et de quartz reliées à des drains, qui prélèvent l'énergie vitale de la biomasse et la purifient en Nogah. Ces aiguilles referment le tissu comme des points de suture, d'où le nom de l'anomalie.
+
+L'organisme est tenu à 0,3 % de sa capacité d'expansion et reste dans un état de coma artificiel. Si l'un des deux systèmes s'arrête, l'autre ne suffit plus.
+
+**Addendum 886-FR.1 : origine de l'anomalie**
+
+SCP-886-FR a été localisé sous l'un des foyers de classe Keter détruits en surface par les frappes dorées de la KNI. La lumière a défait toute la biomasse de surface, mais pas le noyau, ancré dans la plaque. La KNI a établi qu'une frappe sur ce noyau réveillerait des foyers secondaires, et le Haut-Commandement a autorisé son confinement plutôt que sa destruction.
+
+**Addendum 886-FR.2 : rapport d'inauguration du complexe conjoint**
+
+> **Date :** ██/██/2026
+> **Intervenants :** Directeur de Site Aris Thorne (Fondation) / Maréchale Raaina Tariq-Sattar (FIM Xi-8)
+> **Lieu :** Passerelle de contrôle du Complexe 886
+>
+> //[Les deux officiers se tiennent derrière le vitrage blindé. Dix-huit aiguilles de titane et de quartz traversent le tissu. Un voyant doré clignote sur le pupitre.]//
+>
+> **Directeur Thorne :** Les générateurs tiennent la biomasse à 0,3 % de sa capacité d'expansion. L'enceinte est étanche.
+>
+> **Maréchale Tariq-Sattar :** Les drains suivent. La pression a baissé de deux points depuis hier.
+>
+> **Directeur Thorne :** Votre Magister n'est pas venu.
+>
+> **Maréchale Tariq-Sattar :** Il ne quitte pas ses réacteurs. Il a laissé ses chiffres.
+>
+> **Directeur Thorne :** Vous portez toujours notre écusson.
+>
+> **Maréchale Tariq-Sattar :** Il m'a ouvert la porte de votre complexe, Directeur.
+>
+> **Directeur Thorne :** Il y a deux ans, je vous aurais fait arrêter.
+>
+> **Maréchale Tariq-Sattar :** Il y a deux ans, vous auriez essayé.
+>
+> **Directeur Thorne :** Tant que ça reste dans sa boîte, je ne poserai pas de questions sur celles des autres.
+>
+> **Maréchale Tariq-Sattar :** Les entrepôts de Kelipah sont au sous-niveau 3. L'inventaire est à votre disposition.
+>
+> **Directeur Thorne :** Je le lirai.
+
+**Addendum 886-FR.3 : incident 886-FR-1**
+
+> **Date :** ██/██/2026
+>
+> Un ingénieur du Département d'Ingénierie et des Services Techniques modifie un module d'extraction pour compenser une fluctuation de pression, sans l'aval du Magister de Raffinage. Le drainage est suspendu automatiquement. La pression passe de 0,3 % à 0,9 % de la capacité d'expansion en six heures. Le Commandement O4 est mis en alerte et la cellule de crise conjointe se réunit. Le Magister relance le drainage après la remise en état du module. Le seuil d'alerte de 1 % n'a pas été atteint. L'ingénieur est entendu par le Département de Sécurité.
