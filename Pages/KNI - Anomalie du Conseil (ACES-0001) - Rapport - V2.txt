@@ -1,0 +1,391 @@
+[[include credit:start]]
+**Titre :** ACES-0001, Prototype d'Arme Spécialisée ("Pneumona")
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+[[include credit:end]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Fraunces:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Newsreader:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@font-face {
+    font-family: 'lucide';
+    src: url('https://cdn.jsdelivr.net/npm/lucide-static@1.66.0/font/lucide.woff2') format('woff2');
+    font-display: swap;
+}
+:root {
+    --kni-bg: #050c08;
+    --kni-green: #0d2419;
+    --kni-green-2: #14392a;
+    --kni-green-line: #21523d;
+    --kni-text: #d6e2da;
+    --kni-dim: #93ab9d;
+    --kni-gold: #e9c46a;
+    --kni-gold-dim: #b8963f;
+    --kni-moss: #8fd3a8;
+    --kni-teal: #3bb5a1;
+    --kni-copper: #e76f51;
+    --f-noble: 'Cinzel', Georgia, 'Times New Roman', serif;
+    --f-titre: 'Fraunces', Georgia, 'Times New Roman', serif;
+    --f-texte: 'Newsreader', Georgia, 'Times New Roman', serif;
+    --f-mono: 'JetBrains Mono', ui-monospace, 'Courier New', monospace;
+    --echelle-1: 1.25em;
+    --echelle-2: 1.563em;
+    --echelle-3: 1.953em;
+    --rythme: 1.6;
+}
+body, #container-wrap, #container-wrap-inner, #container,
+#content-wrap, #main-content, #page-content {
+    background: var(--kni-bg) !important;
+}
+#page-title { display: none !important; }
+#page-content, #page-content p, #page-content li,
+#page-content td, #page-content th {
+    color: var(--kni-text) !important;
+    font-family: var(--f-texte) !important;
+}
+#page-content {
+    font-size: 1.06rem;
+    line-height: var(--rythme);
+    font-optical-sizing: auto;
+    text-rendering: optimizeLegibility;
+}
+#page-content .kni p { max-width: 70ch; margin: 0 0 1em; hyphens: manual; }
+#header {
+    background: #030705 !important;
+    border-bottom: 2px solid var(--kni-gold-dim) !important;
+}
+#header h1 a span, #header h2 span { display: none !important; }
+#header h1 a::before {
+    content: "L'AUBE D'OR";
+    font-family: var(--f-noble);
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    color: var(--kni-gold);
+}
+#header h2::before {
+    content: "Séparer l'écorce, libérer la lumière";
+    font-family: var(--f-mono);
+    font-size: 0.8em;
+    color: var(--kni-moss);
+}
+#search-top-box-input {
+    background: var(--kni-green) !important;
+    color: var(--kni-text) !important;
+    border: 1px solid var(--kni-green-line) !important;
+}
+#top-bar, #top-bar ul li ul {
+    background: var(--kni-green) !important;
+    border-color: var(--kni-green-line) !important;
+}
+#top-bar a, #top-bar ul li a { color: var(--kni-text) !important; background: transparent !important; }
+#top-bar ul li a:hover { color: var(--kni-gold) !important; }
+#side-bar .side-block {
+    background: var(--kni-green) !important;
+    border: 1px solid var(--kni-green-line) !important;
+}
+#side-bar a { color: var(--kni-moss) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; }
+#footer, #footer a { background: #030705 !important; color: var(--kni-dim) !important; }
+#page-content h1, #page-content h2 { line-height: 1.2 !important; }
+#page-content .kni h1, #page-content .kni h2, #page-content .kni h3 {
+    color: var(--kni-gold) !important;
+    border: none !important;
+    position: static !important;
+    transform: none !important;
+    text-shadow: none !important;
+    height: auto !important;
+    padding: 0 !important;
+}
+#page-content .kni h1 {
+    font-family: var(--f-noble) !important;
+    font-weight: 900 !important;
+    font-size: var(--echelle-3) !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+    line-height: 1.15 !important;
+    margin: 0 !important;
+    text-wrap: balance;
+}
+#page-content .kni h2 {
+    font-family: var(--f-titre) !important;
+    font-weight: 600 !important;
+    font-size: var(--echelle-3) !important;
+    text-transform: none !important;
+    margin: 0 0 0.7em !important;
+    padding-bottom: 0.35em !important;
+    border-bottom: 1px solid var(--kni-gold-dim) !important;
+    text-wrap: balance;
+}
+.kni .sec {
+    font: 500 0.55em var(--f-mono);
+    color: var(--kni-copper);
+    border: 1px solid var(--kni-copper);
+    padding: 0.1em 0.5em;
+    margin-right: 0.8em;
+    vertical-align: middle;
+}
+.kni .devise {
+    font-family: var(--f-texte);
+    font-style: italic;
+    font-size: 1.35em;
+    color: var(--kni-moss);
+    margin: 0.3em 0 0;
+}
+#page-content .kni a { color: var(--kni-moss); text-decoration: none; }
+#page-content .kni a:hover { color: var(--kni-gold); }
+#page-content .kni a.newpage {
+    color: var(--kni-copper) !important;
+    border-bottom: 1px dashed var(--kni-copper);
+    background: transparent !important;
+}
+.kni .t-nogah { color: var(--kni-gold); font-weight: 600; }
+.kni .t-kelipah { color: var(--kni-copper); font-weight: 600; }
+.kni .t-kni { color: var(--kni-moss); font-weight: 600; }
+.kni .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+.kni .stamp {
+    display: inline-block;
+    border: 2px solid var(--kni-copper);
+    color: var(--kni-copper);
+    padding: 0.1em 0.7em;
+    font: 600 0.75em var(--f-mono);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    transform: rotate(-3deg);
+}
+.kni .stamp::before {
+    content: "\e10b";
+    font-family: 'lucide';
+    margin-right: 0.55em;
+    letter-spacing: 0;
+}
+.kni .fracture {
+    height: 3px;
+    margin: 1.3em 0 1.6em;
+    background: linear-gradient(90deg, var(--kni-copper) 0 41%, transparent 41% 43%, var(--kni-gold) 43% 100%);
+}
+.kni .lead {
+    border-left: 4px solid var(--kni-moss);
+    background: linear-gradient(90deg, rgba(20,57,42,0.7), transparent);
+    padding: 0.8em 1.2em;
+    margin: 0 0 1.8em;
+}
+.kni .lead p { margin: 0; }
+.kni .bloc {
+    background: linear-gradient(135deg, rgba(20,57,42,0.55), rgba(8,20,14,0.9));
+    border: 1px solid var(--kni-green-line);
+    border-left: 4px solid var(--kni-gold);
+    padding: 1.2em 1.6em 1.4em;
+    margin: 0 0 1.8em;
+}
+#page-content .kni table.wiki-content-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none !important;
+    margin: 0.6em 0;
+}
+#page-content .kni table.wiki-content-table td {
+    background: transparent !important;
+    padding: 0.7em 0.8em;
+    vertical-align: top;
+    border: none !important;
+    border-bottom: 1px solid var(--kni-green-line) !important;
+    transition: background-color 0.2s;
+}
+#page-content .kni table.wiki-content-table tr:nth-child(even) td { background: rgba(20,57,42,0.35) !important; }
+#page-content .kni table.wiki-content-table tr:hover td { background: rgba(143,211,168,0.12) !important; }
+#page-content .kni .fiche table.wiki-content-table tr:last-child td { border-bottom: none !important; }
+#page-content .kni .fiche table.wiki-content-table td:first-child {
+    width: 11em;
+    font: 600 0.75em var(--f-mono) !important;
+    color: var(--kni-gold) !important;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding-top: 1.1em;
+    border-right: 2px solid var(--kni-gold-dim) !important;
+}
+.kni .code {
+    font: 500 0.85em var(--f-mono);
+    color: var(--kni-gold);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+.kni .note {
+    border-left: 3px solid var(--kni-copper);
+    padding: 0.4em 1.2em;
+    margin: 1.2em 0 0;
+    background: rgba(231,111,81,0.07);
+}
+.kni .note p { margin: 0; font-style: italic; }
+.kni .ico::before {
+    font-family: 'lucide';
+    font-weight: normal;
+    font-style: normal;
+    margin-right: 0.5em;
+    font-size: 0.9em;
+    vertical-align: -0.06em;
+    color: var(--kni-moss);
+}
+.kni .ico-id::before     { content: "\e617"; }
+.kni .ico-pin::before    { content: "\e111"; }
+.kni .ico-target::before { content: "\e0ac"; }
+.kni .ico-clock::before  { content: "\e087"; }
+.kni .ico-flask::before  { content: "\e0d5"; }
+@keyframes trace {
+    from { clip-path: inset(0 100% 0 0); }
+    to { clip-path: inset(0 0 0 0); }
+}
+@media (prefers-reduced-motion: no-preference) {
+    .kni .fracture { animation: trace 1.4s ease-out both; }
+}
+@media (max-width: 768px) {
+    #header { height: auto; min-height: 90px; }
+    #main-content, #page-content { padding: 8px 6px; }
+    #page-content .kni h1 { font-size: var(--echelle-2) !important; }
+    #page-content .kni h2 { font-size: var(--echelle-2) !important; }
+    .kni .bloc { padding: 1em 1em 1.2em; }
+    #page-content .kni .fiche table.wiki-content-table td:first-child { width: 7em; }
+}
+
+.kni .ico-eye::before     { content: "\e0ba"; }
+.kni .ico-history::before { content: "\e1f5"; }
+.kni .ico-route::before   { content: "\e53e"; }
+.kni .alerte {
+    border: 1px solid var(--kni-copper);
+    border-left: 4px solid var(--kni-copper);
+    background: rgba(231,111,81,0.09);
+    padding: 0.9em 1.4em 0.6em;
+    margin: 0 0 1.8em;
+}
+.kni .alerte-titre {
+    font: 600 0.8em var(--f-mono);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--kni-copper);
+    margin: 0 0 0.6em;
+}
+.kni .alerte-titre::before {
+    content: "\e10b";
+    font-family: 'lucide';
+    margin-right: 0.6em;
+}
+.kni .alerte p { margin: 0 0 0.7em; }
+.kni .nodata {
+    font: 500 0.78em var(--f-mono);
+    color: var(--kni-copper);
+    border: 1px solid var(--kni-copper);
+    padding: 0 0.45em;
+    white-space: nowrap;
+    letter-spacing: 0.05em;
+}
+.kni .note p + p { margin-top: 0.6em; }
+.kni .kanji { font-family: 'Noto Serif JP', 'Yu Mincho', 'MS Mincho', serif; font-style: normal; }
+[[/module]]
+[[div class="kni"]]
+
+[[div class="masthead"]]
+[[div]]
++ ACES-0001 : Prototype d'Arme Spécialisée
+[[div class="devise"]]
+Anomalie de Classification Entité Supérieure
+[[/div]]
+[[/div]]
+[[span class="stamp"]]ARC-1 Nogah[[/span]]
+[[/div]]
+
+[[div class="fracture"]]
+[[/div]]
+
+[[div class="alerte"]]
+[[div class="alerte-titre"]]
+Accès ultra-restreint : ARC-1 "Nogah"
+[[/div]]
+
+Ce dossier traite d'une Anomalie de Classification Entité Supérieure (ACES). Les informations de ce registre sont sous le sceau direct du Conseil Nogah et de l'Archonte. Toute consultation par un membre de rang inférieur entraîne une purge mnésique de Classe V et une réaffectation irréversible.
+
+//Indexation externe de la Fondation SCP : SCP-████ (numéro falsifié, sous couverture).//
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]01[[/span]] [[span class="ico ico-id"]]Registre[[/span]]
+
+[[div class="fiche"]]
+|| Code de Registre || [[span class="code"]]ACES-0001[[/span]] ||
+|| Nom de code || "Prototype d'Arme Spécialisée" ||
+|| Nom réel || [[span class="kanji"]]肺炎[[/span]] (Haien), "Pneumona" ||
+|| Autorisation || ARC-1 "Nogah" ||
+|| Classe de Confinement || Ésotérique ||
+|| Classe Secondaire || Janus ||
+|| Classe de Perturbation || Ekhi ||
+|| Classe de Risque || [[span class="t-kelipah"]]Critique[[/span]] ||
+|| Rédacteur || [[span class="nodata"]]NO DATA REGISTER[[/span]] ||
+|| Chercheur attitré || Conseil Nogah, [[span class="nodata"]]NO DATA REGISTER[[/span]] ||
+|| Rendement estimé || [[span class="nodata"]]NO DATA REGISTER[[/span]] ||
+[[/div]]
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]02[[/span]] [[span class="ico ico-eye"]]Description physique[[/span]]
+
+ACES-0001 se présente comme un humanoïde masculin de 2,20 mètres. Ses cheveux, d'un rouge sombre qui vire au noir, encadrent un corps entièrement couvert de marques complexes proches de tatouages, issues d'une thaumaturgie ancienne et très avancée. Une brûlure grave a consumé la moitié droite de son visage, et c'est ce qui le fait reconnaître d'abord.
+
+Il porte un grand manteau ancien, prolongé d'une longue cape noire. Son âge est incalculable.
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]03[[/span]] [[span class="ico ico-history"]]Historique de la découverte[[/span]]
+
+[[div class="fiche"]]
+|| 1986 || La Shūshū-In, l'Agence de Collecte Japonaise, identifie l'anomalie dans un réseau de cavernes inexploré au Japon. Des archéologues avaient signalé ce qu'ils prenaient pour un tombeau antique. ||
+|| Le site || Une cavité carrée de 45 mètres de côté, dont la paroi extérieure est entièrement gravée dans une langue disparue. Une traduction partielle en a donné le titre [[span class="kanji t-nogah"]]グランド・クラヴィガー[[/span]] ("Grand Klavigar"). Au centre se dressent trois immenses piliers sculptés de crânes et de motifs ostéologiques. ACES-0001 repose entre eux, retenu par sept chaînes thaumiques, et une stèle à ses pieds porte l'inscription [[span class="kanji"]]肺炎[[/span]] (Haien), traduite par "Pneumona". ||
+|| Plusieurs décennies plus tard || Des riverains signalent l'incursion de trois individus dans la cavité. On ignore leurs motivations, mais des témoins confirment que l'un d'eux manipulait la chair et le sang à mains nues, ce qui indique une affiliation directe avec le Sarkicisme. ||
+|| Transfert d'autorité || Après cette incursion, la Shūshū-In transfère à l'Initiative Kelipat Nogah le contrôle du site et l'ensemble des archives, en raison de notre expertise sur le Sarkicisme. ||
+|| Origines || Les recherches du Conseil confirment la nature exceptionnelle d'ACES-0001. Les manuscrits anciens mentionnent un "Grand Klavigar" sans qu'on puisse dire ce qui le distingue des quatre Klavigars connus. Il est établi qu'ACES-0001 a agi à l'époque du Grand Karciste Ion, de la main duquel il aurait été forgé, et les manuscrits l'associent à plusieurs des dévastations les plus lourdes de l'Ère Antique. ||
+[[/div]]
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]04[[/span]] [[span class="ico ico-flask"]]Programme AMIDA[[/span]]
+
+Quelques années après la prise de contrôle du site, une division ultra-spécifique du Conseil Nogah, représentée par M. Sàlvèra de Carnavèl Carlet, dirigeant officieux du Conseil, a réclamé la juridiction exclusive d'ACES-0001 pour lancer le Programme AMIDA (//Advanced Military International Defense Attribution//).
+
+Le programme vise à conférer une forme avancée de [[span class="t-nogah"]]Carnomantic Biochemistry[[/span]], paraspécialisation thaumaturgique et biochimique sarkique, à des sujets sélectionnés, par un contrat direct avec [[span class="kanji"]]肺炎[[/span]] (Haien).
+
+[[div class="fiche"]]
+|| Sujets 01 à 08 || Dossiers expurgés de la base de données de la BDA sur ordre exprès du Conseil. ||
+|| Sujet 09 || Seul dossier consultable à ce niveau d'autorisation. ||
+[[/div]]
+
+Le Sujet 09 appartient à la Xi-8 et relève donc aussi du personnel de la Fondation. Le programme ne lui a jamais été déclaré.
+[[/div]]
+
+[[div class="bloc"]]
+++ [[span class="sec"]]05[[/span]] [[span class="ico ico-route"]]Compte rendu d'induction : Sujet 09[[/span]]
+
+[[div class="fiche"]]
+|| Candidat || Lieutenant "Envy", Force d'Intervention Militaire Xi-8 ("Les Derniers à Tomber"), paraspécialiste ||
+|| Transfert || Départ de la Zone-02 vers l'aéroport international de Kyoto, puis convoi aveugle jusqu'à l'Installation AMIDA, érigée à l'écart de toute civilisation. L'installation entoure le Point Z, la cavité d'ACES-0001, avec un périmètre de surveillance de 1,5 km. ||
+|| Point de contrôle ALPHA || Des agents de la [[span class="nodata"]]NO DATA REGISTER[[/span]] prennent le Sujet 09 en charge et lui retirent tout son équipement : armes, lames, technologie embarquée. Il reçoit l'ordre de gagner à pied l'entrée des grottes, où M. Sàlvèra de Carnavèl Carlet l'attend. ||
+[[/div]]
+
+[[div class="note"]]
+Consigne verbale de M. Sàlvèra de Carnavèl Carlet :
+
+"C'est ici que je vous laisse. Je vais faire vite et clair : descendez dans ce réseau de grottes et prenez le premier chemin. Une fois arrivé, mon cher… hmm… //(hésitation)//
+
+Vous allez rencontrer quelque chose. Votre but sera de… //(il hésite quelques secondes)// Comment dire… "négocier". Vous allez lui demander quelque chose de très précis, d'accord ?
+
+Vous lui demanderez un pouvoir thaumaturgique du nom de Carnomantic Biochemistry, puis votre but sera de négocier son prix. Bonne chance, Lieutenant."
+[[/div]]
+
+[[div class="fiche"]]
+|| Issue || Trente minutes après l'entrée du Sujet 09, les unités de la [[span class="nodata"]]NO DATA REGISTER[[/span]] se déploient dans la cavité pour l'extraire. Le Lieutenant est transféré en urgence absolue au service médical de la KNI. Il présente des mutilations corporelles sévères et une marque d'imprégnation permanente. ||
+|| Résultat || La Carnomantic Biochemistry octroyée est désormais opérationnelle pour le Sujet 09. ||
+|| Registre séparé || Le motif de son acceptation et le détail de la négociation sont consignés dans un autre registre. ||
+[[/div]]
+[[/div]]
+
+[[/div]]
