@@ -1,0 +1,382 @@
+[[include :scp-wiki:theme:foxtrot dark=a]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module CSS]]
+:root {
+    --header-title: "E.T.T.R.A.";
+    --header-subtitle: "Autorité de Réponse Tactique aux Menaces Émergentes";
+}
+[[/module]]
+
+
+[[include component:image-block
+|name= http://scp-sandbox-3.wikidot.com/local--files/highway-karma-images/Corpus_Christi_College_New_Court%2C_Cambridge%2C_UK_-_Diliff.jpg
+|caption=La pelouse de devant de l'Université Cregg.
+|width=1000px
+|align=center]]
+
+L'Université Cregg est la nouvelle étoile éclatante de l'enseignement dans le Massachusetts. Elle se vante d'avoir le plus grand campus, le plus gros budget et l'enseignement de la plus haute qualité. Meilleure qu'Harvard, disent-ils. Tout cela est vrai. Cependant, comme dans n'importe quelle autre école, si vous êtes le parent d'un enfant plutôt ordinaire, sans rien d'exceptionnel, vous pouvez quand même l'y faire entrer en lui promettant simplement un laboratoire de recherche.
+
+L'Université Cregg a beaucoup de laboratoires de recherche.
+
+"Et moi je dis que le test, c'était de la connerie ! J'ai révisé !" rétorque Josh.
+
+"Tu n'as pas révisé. La veille, tu es allé en boîte au Grand, alors que je t'avais dit de ne pas y aller." déclare Miles.
+
+"J'ai révisé en boîte !"
+
+"Tu es rentré complètement bourré. Tu es toujours sur le canapé depuis que tu t'es évanoui."
+
+Josh baisse les yeux vers le canapé. Son existence le trahit.
+
+"Je dis juste que. J'aurais dû avoir un A." Josh se redresse.
+
+Miles retourne la vieille feuille d'interrogation sur laquelle il révise.
+
+"Un chercheur étudie une protéine synthétisée dans le réticulum endoplasmique rugueux et destinée à être sécrétée hors de la cellule. Décrivez le parcours intracellulaire complet que suit la protéine de la synthèse à la sécrétion, en incluant tous les organites et toutes les étapes de transport vésiculaire impliqués." répète Miles en lisant la feuille.
+
+"Putain, c'est pas un QCM ?" Josh se frotte la tempe.
+
+"Non."
+
+"Euh... ça a un rapport avec l'ATP ?"
+
+"Absolument pas. Essayons une autre question. Quel est le rôle de l'oxygène dans la production d'ATP ?"
+
+"Je sais pas. Il est genre... 7 heures du matin, mec."
+
+"Quelle est la centrale énergétique de la cellule ?"
+
+"Le noyau ?"
+
+"Pourquoi as-tu choisi la biologie comme filière ?" dit Miles en retournant la feuille.
+
+"Je pensais que c'était la filière où on jouait avec des animaux." Josh se lève et se dirige vers la cuisine.
+
+"Tu veux dire la zoologie ?"
+
+"Ouais... Elle est où, toute la bouffe ?" Josh ouvre le frigo.
+
+Miles regarde de ce côté. Pas de nourriture dans le frigo.
+
+"Elle s'est périmée." Miles se retourne vers sa feuille.
+
+"Pourquoi t'es pas allé en racheter ?" Josh referme le frigo.
+
+"C'était à toi de le faire, parce que c'est toi qui as l'argent. Je suis entré dans cette école grâce à des bourses, tu te rappelles ?"
+
+"Depuis quand ?"
+
+"Depuis hier, mais au lieu de ça, tu es allé en boîte, et nous voilà."
+
+"Putain. Désolé, mec. J'irai aujourd'hui pendant le déjeuner. Tu veux quelque chose ?"
+
+"Non. Prends juste l'essentiel."
+
+Le téléphone de Miles sonne. Il le saisit rapidement et regarde l'écran.
+
+"Je dois y aller." dit Miles en glissant sa feuille de révision dans son sac.
+
+"Où ça ?"
+
+"En salle d'étude. J'ai un truc de tutorat pour une fille de mon cours de maths."
+
+"Oooh ! Qui ?" Josh passe de nouveau la tête dans le salon.
+
+Miles a disparu.
+
+------
+[[div class="modal"]]
+= [[size x-large]]**INCIDENT : 32-2023** [[/size]]
+**NOM DE CODE :** INÉVITABLE.
+**CLASSE D'INCIDENT :** TERRORISME DE MASSE ; BIOLOGIQUE ANORMAL
+**SUSPECTS :** INCONNUS.
+**HEURE DU RAPPORT INITIAL :** 11 h 30.
+**LIEU :** Université Cregg, Cambridge, Massachusetts.
+
+**DESCRIPTION :** INCONNUE.
+[[/div]]
+
+"Et nous n'avons aucune idée de ce que c'est exactement ?" demande le Dr Dan, penché sur le sous-bureau P.A.T.D.S. des États-Unis.
+
+"Il est en train de rassembler les preuves pour la déclaration d'incident. Nous verrons ce qu'il en pense dans une seconde." répond le Secrétaire du bureau.
+
+Des centaines de petits documents commencent à remplir l'écran principal. Le P.A.T.D.S. trie les informations non pertinentes des pertinentes. Contrats de location de voitures, billets d'avion, locations de box de stockage, chambres d'hôtel, passeports, numéros de sécurité sociale et pièces d'identité.
+
+"Ces contrats concernent quoi ?" demande le Dr Dan.
+
+"3 Ford Transit Custom blancs. Ils ont été signés il y a deux jours. Il n'a rien trouvé d'anormal à leur sujet à ce moment-là."
+
+"Quand l'a-t-il fait ?"
+
+Le P.A.T.D.S. affiche une vidéo sur l'écran principal.
+
+Les trois mêmes camionnettes entrent sur un parking au milieu de la nuit. 2 hommes sortent de la 2e camionnette et enjambent une clôture voisine pour entrer dans un complexe de box de stockage. 20 minutes plus tard, ils reviennent et rejettent 3 caisses en bois par-dessus la clôture. Le P.A.T.D.S. a remarqué que les caisses portaient des marquages, mais n'a pas pu préciser de quel type de marquages il s'agissait.
+
+"Pourquoi ne nous a-t-il pas prévenus à ce moment-là ?" insiste le Dr Dan.
+
+"Il a pensé que c'était simplement du terrorisme normal, pas anormal. Ce n'est qu'en reconnaissant les symboles sur la caisse qu'il nous a notifiés." déclare le Secrétaire.
+
+"Comment a-t-il fait ça ?"
+
+"XBOX Kinect. Il affiche la vidéo maintenant. La qualité audio est médiocre."
+
+[[div class="notation"]]
+**DATE :** 5/2/23. 11 h 25
+**LIEU :** 40 Berkeley St, Boston, MA 02116
+**NOTE :** Le texte en rouge a été signalé ou fait référence à du matériel qui l'a été.
+**INDIVIDUS IMPLIQUÉS :** Inconnu-1, Inconnu-2, Inconnu-3.
+----
+**INC-1 :** Les caisses sont intactes ?
+
+**INC-3 :** Ouais. Le stockage n'y a pas touché du tout.
+
+**INC-2 :** Ça marche toujours ?
+
+**[00:15] :** INC-3 ramasse une caisse par terre et la pose sur la table[[footnote]] ##red|3 SYMBOLES RECONNUS COMME DE NATURE SARKIQUE##  [[/footnote]]. INC-3 renifle ensuite et se frotte le nez.
+
+**INC-3 :** Parfaitement.
+
+**INC-1 :** Tu l'as utilisé ?! Quand ?
+
+**INC-3 :** J'ai fait partir l'une des camionnettes dans les bois avant qu'on revienne. Je me suis assuré que personne ne nous voie.
+
+**INC-2 :** Alors ?
+
+**INC-3 :** J'aurais jamais cru que ##red|Viv## [inaudible] pourrait fabriquer un truc comme ça, mais, ouais, ça marche. J'ai même réussi à faire ça.
+
+**[00:35] :** Une grande créature ressemblant à un oiseau entre dans le champ. En raison des limites du Kinect, le P.A.T.D.S. est incapable de déterminer de quoi la créature est faite.
+
+**INC-1 :** Impressionnant. Ça permet à n'importe qui de faire ça ?
+
+**INC-3 :** Ouais. Mais il y a un prix à payer.
+
+**[00:40] :** INC-3 retire sa chemise et montre son dos. Le Kinect détecte qu'un trou important est présent dans son dos.
+
+**INC-2 :** Ça fait mal ?
+
+**INC-3 :** ##red|La douleur n'est pas une limite pour nous[[footnote]] ##red|CETTE PHRASE A ÉTÉ ASSOCIÉE À L'ACTIVITÉ SARKIQUE. VOIR "Recueil de phrases des GOI de la Fondation" POUR PLUS D'INFORMATIONS.## [[/footnote]]##.
+
+**INC-2 :** Compris.
+
+**INC-1 :** Tout sera prêt pour ##red|Cregg##, alors ?
+
+**INC-3 :** Oui. Je n'ai plus qu'à en donner quelques grammes à chacun. Ça devrait durer environ 4 heures.
+
+**INC-1 :** Bien.
+
+**[00:55] :** Silence.
+
+**INC-1 :** Allons manger un morceau avant de ##red|passer à l'exécution##.
+
+**INC-3 :** Ça marche.
+
+**INC-2 :** Pour moi, ça ira. J'ai mangé en rentrant en voiture.
+
+**INC-1 :** D'accord. [Inaudible], on y va."
+
+**[01:15] :** INC-1 et INC-3 sortent de la pièce.
+
+**[01:35] :** INC-2 regarde autour de lui, puis ouvre l'une des caisses, ##red|en sortant une fiole contenant un unique asticot rouge.## Il ouvre ensuite la fiole et dépose l'asticot dans sa main.
+
+**INC-2 :** Alors je n'ai plus qu'à...
+
+**[01:40] :** ##red|INC-2 écrase l'asticot dans sa main.## Il rouvre la main. Une fine traînée de poussière rouge subsiste. INC-2 renifle la poussière.
+
+**INC-2 :** Qu'est-ce que je vais faire ?
+
+**[01:45-02:00] :** INC-2 se renverse dans son siège et regarde le plafond.
+
+**INC-2 :** Faisons ça.
+
+**[02:10] :** INC-2 grogne. ##red|Un gros amas de chair se détache de son épaule et forme une boule, désignée INC-4##.
+
+**[02:12] :** INC-4 cancane.
+
+**[2:20] :** Le P.A.T.D.S. se déconnecte du Kinect.
+----
+**RÉSULTATS :** 86 % D'UNE ATTAQUE TERRORISTE ANORMALE. CALCUL SUPPLÉMENTAIRE REQUIS.
+[[/div]]
+
+"Seulement 86 % ? Qu'a-t-il fait alors ?" demande le Dr Dan.
+
+"Il a ensuite lancé des simulations pendant 3 minutes jusqu'à atteindre sa conclusion, et nous a notifiés." explique le Secrétaire.
+
+Routine habituelle. Dan voulait simplement s'assurer qu'il fonctionnait toujours correctement. Il avait entraîné le système lui-même, sur les protocoles que l'ETTRA avait utilisés pendant des années avant la création du P.A.T.D.S.
+
+"Bien !" Le Dr Dan claque des mains, "Je veux que chaque MTF de Boston arrive à l'Université Cregg dans les 10 minutes. Mettez toute la côte Est en alerte maximale jusqu'à ce que nous puissions nous assurer que rien d'autre ne suit, et je veux une ligne directe avec le Site-55."
+
+En quelques secondes, les hommes, les femmes et les machines du Quartier Général se mettent à exécuter les ordres. Il n'y avait que 5 unités MTF dans la ville de Boston même qui pouvaient réagir aussi vite. 2 d'entre elles étaient les Maz Hatters, qui attendaient d'être transportés à Hy-Brasil pour nettoyer le site d'un accident industriel. 2 autres étaient les Hammer Down, basés à la Zone-22, mais ils ne se déploieraient pas avec quoi que ce soit de plus gros qu'une petite force d'infanterie, puisque le Bostonien moyen remarquerait un Abrams roulant dans sa rue. Puis, il y avait Xi-8.
+
+Xi-8 déteste les Sarkiques.
+
+Ils vont adorer ça.
+----
+Miles descend les escaliers qui mènent des dortoirs à la bibliothèque principale de Cregg. Il se trouve que certains de ces parents riches aiment les bibliothèques autant que lui. Au fil des ans, Cregg a agrandi sa bibliothèque, passant de seulement 100 000 pieds carrés à 450 000 pieds carrés. 300 000 de ces pieds carrés appartenaient à la bibliothèque principale, tandis que le reste était réparti entre les bibliothèques des autres bâtiments.
+
+Elle était aussi magnifiquement construite. Comme la plus grande partie de l'école. Ils avaient voulu évoquer l'Antiquité avec l'architecture, tout en conservant des normes de sécurité modernes, ce qu'ils avaient merveilleusement réussi. Des piliers bord-.
+
+Les pensées de Miles furent interrompues par le doux mouvement d'une main agitée dans l'air par une dame en tailleur-cravate assise à la table. Ses pensées s'évaporent tandis qu'il marche jusqu'à la table et s'assoit.
+
+"Merci d'être venu m'apprendre-." La dame tente de parler, mais elle est interrompue.
+
+"Pas de blabla." Miles regarde sa montre.
+
+"Vous n'avez jamais été du genre à vous amuser, n'est-ce pas, M. Durant ?"
+
+"Je ne veux pas-- Ne m'appelez pas Durant ici." Miles se crispe.
+
+La dame regarde autour d'elle.
+
+"Il n'y a personne dans la bibliothèque. Nous pouvons échanger nos noms aussi librement que nous le souhaitons. Je doute que quiconque soit au courant des agissements de votre famille ici."
+
+"C'est une université !" crie Miles à voix basse, "La Fondation, l'UIU, qui sait qui rôde par ici."
+
+La dame soupire.
+
+"Je suppose que vous avez raison."
+
+"Qu'est-ce que vous voulez, au fait ?"
+
+Elle sort une petite lettre de la poche de poitrine de son tailleur et la tend à Miles.
+
+"Comme vous le savez, l'été approche, et votre famille vient d'acquérir une île côtière très luxueuse, juste au large de la nuque de la Barbade. Elle serait ravie que vous preniez le temps de venir." explique la dame.
+
+"Non."
+
+"Vraiment ? C'est une île tropicale. Je pensais que les garçons comme vous adoraient les îles tropicales."
+
+"Je suis occupé cet été."
+
+"Avec quoi ?"
+
+"À préparer l'année prochaine, et celle d'après."
+
+"Quel affairé. Bon, bon. Je vous laisse garder la lettre, au cas où vous changeriez d'avis."
+
+"Je ne changerai pas d'avis."
+
+"C'est ce que tout le monde dit."
+
+La dame regarde une horloge proche.
+
+"Ah, il semble qu'on ait besoin de moi ailleurs maintenant, avec mon emploi du temps chargé et tout. Bonne journée, M. Durant."
+
+Une autre excellente caractéristique de l'Université Cregg est son acoustique. L'école avait été construite de telle sorte que certains bâtiments pouvaient entendre l'intégralité des bâtiments qui leur étaient reliés depuis certains points. La sécurité s'en servait habituellement pour surprendre les gens qui faisaient la fête là où ils n'auraient pas dû, ceux qui avaient des rapports sexuels là où ils n'auraient pas dû, et, eh bien, les gens en général.
+
+Elle avait aussi été conçue pour le scénario inévitable.  
+
+Des coups de feu retentissent depuis le hall central. On ne peut pas voir le tireur d'ici, mais on l'entend. La dame s'arrête net et se retourne.
+
+"C'est ce que je crois ?" se demande-t-elle.
+
+Le système de sonorisation confirme aussitôt ses pensées.
+
+"URGENCE : FUSILLADE DE MASSE DÉTECTÉE. ÉVACUEZ SI POSSIBLE. METTEZ-VOUS À L'ABRI SUR PLACE SI NÉCESSAIRE."
+
+"Eh bien, il semble que nous allons rester ensemble un tout petit peu plus longtemps." dit la Dame.
+
+"Quoi ?" dit Miles en se retournant sur sa chaise, juste à temps pour la voir sortir un Glock 43 de l'intérieur de son tailleur, "Putain, c'est quoi ça ?!"
+
+"J'ai été engagée à la fois pour la communication et pour la protection. Bougeons. Où est votre sortie de secours la plus proche ?"
+
+Miles pointe juste derrière elle, vers le coin de la bibliothèque.
+
+"Tss. Je pensais que ce serait plus un... truc. Peu importe, tant que ça vous garde en sécurité, je suppose." dit la Dame en marchant vers la sortie.
+
+Miles la suit rapidement.
+
+La Dame tente de pousser la porte de secours, pour la trouver enchaînée de l'extérieur.
+
+"Oh, c'est charmant. Il faut adorer quand ils planifient tout. Cet endroit a-t-il un héliport ?"
+
+Un tourbillon de pas commence à se diriger vers la bibliothèque.
+
+"Quelqu'un arrive !" dit Miles en se baissant à côté d'une table.
+
+La Dame se retourne vivement, regarde vers l'entrée de la bibliothèque et braque son arme.
+
+"Je me boucherais les oreilles." dit la Dame.
+
+Soudain, le bruit de pas supplémentaires apparaît. Entièrement nouveau. Pas humain. À six pattes.
+
+"Merde !" chuchote la Dame pour elle-même, en saisissant à l'intérieur de son tailleur un petit objet sphérique et palpitant et en le lançant vers l'entrée.
+
+Il atterrit rapidement devant l'entrée et se met à palpiter encore plus vite tandis qu'une excroissance charnue commence à émerger à travers les parois de la sphère, recouvrant rapidement l'entrée et formant un blocage apparemment impénétrable.
+
+"Un héliport, y en a-t-il un ici ?" demande-t-elle.
+
+"Ouais, il est réservé à l'usage des Cregg. Il est au sommet du bâtiment central." explique Miles.
+
+"Allons-y."
+----
+Xi-8, Unité 19, n'a pas vu de Sarkique de quoi que ce soit au cours de l'année passée. Ils sont stationnés à Boston pour s'assurer que rien ne passe par le port. Heureusement pour eux, ce n'est pas une bavure de leur côté. Quoi que ce soit, ça mijote depuis bien plus longtemps qu'ils ne sont là.
+
+L'Unité 19 se compose de 7 soldats extrêmement compétents. La plupart d'entre eux ont vu leurs noms classifiés il y a des années pour protéger leur famille des Sarkiques. Cependant, comme dans n'importe quelle autre unité militaire, à la place des noms, ils se sont fait des surnoms.
+
+Ichor est le chef de l'unité et son principal lien avec l'ETTRA comme avec le reste de la Fondation. À côté de lui se trouvent Sanguine, la principale experte en Sarkiques de l'unité, et Yums, son bras droit. À partir de là, la chaîne de commandement de l'unité devient étrange.
+
+Sanguine commande les deux anciens Sarkiques de l'unité, sans être elle-même une Sarkique. Archon, qui a quitté les Sarkiques de façon plus catastrophique avant de réussir à tomber aux mains de la Fondation, et Sweet Honey, une agente infiltrée qui faisait partie de la Loge Noire jusqu'à ce qu'elle réussisse à stopper une attaque majeure à Caracas, ce qui l'a ramenée dans le giron de la Fondation.
+
+Yums, en revanche, s'occupe du côté Fondation des choses en raison du temps qu'il a passé avec eux. Enforcement est l'armurier de l'unité, qui faisait partie de Nu-7 avant de décider de se spécialiser, et Neighbor, qui fait office de diplomate de l'unité auprès des autres GOI et d'espion officiel.  
+
+Tous ont le droit de s'asseoir à l'arrière du camion Hammer Down. L'ETTRA l'a ordonné en envoyant la dépêche.
+
+"C'est quoi, tout ça, Ichor ?" demande Neighbor, "Je n'ai rien reçu sur mes canaux avant ça."
+
+"Aucune idée. L'ETTRA a dit que tous les détails seraient communiqués par Hammer." répond Ichor.
+
+"Attaque terroriste." commente un soldat à côté d'Ichor.
+
+"Quoi ?" demande Ichor.
+
+"Attaque terroriste. Dans une fac, de tous les endroits."
+
+"Par qui ?"
+
+"L'ETTRA ne sait pas. Ils l'ont classée comme biologique."
+
+Ichor sent les yeux de Sanguine sur sa nuque. Il n'y a aucune chance que ce soit sarkique, raisonne-t-il. S'il y avait quelque chose de sarkique en train de se passer à Boston, ils l'auraient déjà appris. L'ETTRA ne les avait probablement fait venir que parce qu'il lui fallait de la puissance de feu.
+
+"Arrivée sur site en cours." annonce un interphone à l'arrière du camion, "Nous avons un Voile juste au-dessus de nous, mais il n'est pas encore déployé, alors gardez tout le matériel dans les camions jusqu'à ce qu'il descende. Le public sait déjà que c'est du lourd, donc une fois que nous nous arrêterons, vous pourrez sortir-."
+
+Un rugissement interrompt le message.
+
+"Bon, c'est quoi ce truc ?" dit le conducteur pour lui-même.
+
+Une seconde de silence s'écoule.
+
+"Sortez du camion ! Sortez tout de suite !" hurle le conducteur dans l'interphone, suivi des bruits de la portière du camion qui s'ouvre et se referme.
+
+La porte arrière du camion s'ouvre, et Xi-8 ainsi que la moitié des Nu-7 parviennent à descendre avant que le camion soit projeté en l'air par un gros organisme fait de chair.
+
+"SK-BIO 02 !" crie l'un des soldats, "Ouvrez le feu !"
+
+Des milliers de cartouches sont rapidement pulvérisées par les fusils réglementaires de la Fondation, qui sont un mélange de HK416 et de SIG MCX. Xi-8 est équipé d'un SCAR-H de dotation spéciale. Même si les "béhémoths" ne sont pas des créatures sarkiques typiques, la chair reste de la chair, et la chair mourra. Il bascule, atterrissant sur une série de voitures garées, ce qui déclenche un déluge d'alarmes.
+
+L'escouade s'oriente vers le reste du campus. Des étudiants se précipitent devant eux, pensant simplement qu'ils sont du SWAT ou des policiers. Au loin, d'autres créations sarkiques commencent à peupler le site tandis que les responsables reviennent enquêter sur le bruit.
+
+L'ETTRA avait raison.
+
+Xi-8 va se régaler.
+----
+[[include :scp-wiki:component:advanced-navigation-toolbar-source dual= false
+|styleNum= one
+|prev= https://scp-wiki.wikidot.com/inevitable-dr-dan-gets-to-work |prevtext= INÉVITABLE : Le Dr Dan se met au travail
+|prevImage= https://scp-wiki.wdfiles.com/local--files/fragment%3Apickman-blank-proposal-offset-1/aegis-icon.svg
+|hub= https://scp-wiki.wikidot.com |hubtext= INÉVITABLE
+|next= https://scp-wiki.wikidot.com |nexttext= INÉVITABLE : L'Attaque de Cregg
+|nextImage= https://scp-wiki.wdfiles.com/local--files/art%3Aart-page-of-an-ost-it-has-acs-icons/Aizsaule.png
+]]
+
+[[footnoteblock]]
+
+[[include :scp-wiki:component:license-box]]
+> **Nom du fichier :** Corpus_Christi_College_New_Court,_Cambridge,_UK_-_Diliff.jpg
+> **Auteur :** Diliff
+> **Licence :**  Creative Commons Attribution-Share Alike 3.0 Unported
+> **Lien source :** [https://commons.wikimedia.org/wiki/File:Corpus_Christi_College_New_Court,_Cambridge,_UK_-_Diliff.jpg Wikimedia Commons]
+[[include :scp-wiki:component:license-box-end]] 

@@ -1,0 +1,299 @@
+[[include :scp-wiki:theme:foxtrot dark=a]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module CSS]]
+:root {
+    --header-title: "E.T.T.R.A.";
+    --header-subtitle: "Autorité de Réponse Tactique aux Menaces Émergentes";
+}
+[[/module]]
+
+[[include component:image-block
+|name= http://scp-sandbox-3.wikidot.com/local--files/highway-karma-images/National_Security_Agency%2C_2013.jpg
+|caption=Le quartier général de l'ETTRA, récemment rénové, situé dans la Dimension de Poche A-12.
+|width=1000px
+|align=center]]
+
+Le Dr. Dan est absent de son bureau depuis 104 jours. Pendant ces 104 jours, il a travaillé dans un bureau satellite, à seulement 12 miles et toute une dimension de poche de l'endroit où il travaille d'habitude.
+
+Pourquoi ?
+
+Parce que le Département d'Architecture et de Construction avait eu, il y a quelques années, des idées de rénovation très convaincantes et très sophistiquées, et que ces idées avaient fini par atterrir sur le bureau de l'O5-9, qui avait été architecte à une époque. Il avait, bien sûr, adoré ces nouvelles rénovations et était même allé jusqu'à qualifier le concepteur de nouveau Frank Lloyd Wright. Le projet avait été approuvé et le financement alloué. Pourtant, à aucun moment on n'en avait informé Dan, et ce fut une surprise totale lorsque, un lundi matin, une équipe d'ouvriers du bâtiment entra dans le QG de l'ETTRA et ordonna à tout le monde de partir pour une durée indéterminée.
+
+Alors, pendant 104 jours, le Dr. Dan est resté assis dans un vieux bureau satellite, hors d'usage depuis longtemps, à coordonner les actions de l'ETTRA. Jusqu'à aujourd'hui.
+
+Aujourd'hui, le directeur du Département d'Architecture et de Construction a annoncé à tous les membres de l'ETTRA que les rénovations étaient terminées, à l'exception du Dr. Dan, et ils sont retournés au QG. Aujourd'hui, le Dr. Dan est entré dans le vieux bureau satellite, hors d'usage depuis longtemps, et a remarqué que personne n'y était. Aujourd'hui, le Dr. Dan a remarqué que quelqu'un était assis dans son fauteuil.
+
+"Qui diable êtes-vous ?" dit le Dr. Dan en laissant tomber sa mallette par terre.
+
+L'homme assis dans son fauteuil se leva d'un bond, jeta un regard rapide autour de lui avant que ses yeux se posent sur Dan. Il tripota maladroitement son badge, puis tendit la main pour une poignée de main.
+
+"Ah, Dan, vous voilà. Je suis le Directeur d'Architecture et de Construction. M. Lessig." Sa main tremblait tandis qu'il parlait.
+
+Le Dr. Dan le détailla de haut en bas.
+
+"Quel âge avez-vous ?"
+
+"23 ans, monsieur."
+
+Le Dr. Dan le détailla de nouveau. La cravate du gamin était de travers, ballottant de gauche à droite comme si elle avait été nouée ce matin même, et ses cheveux n'étaient qu'un fouillis de mèches effilochées et de pellicules.
+
+"C'est vous, le directeur ?" Dan commença à se baisser pour ramasser sa mallette.
+
+"Oui, et je suis venu vous faire visiter le nouveau quartier général, monsieur." Lessig commença à retirer sa main.
+
+"Oh, votre département a enfin fini de mettre le bazar ?"
+
+Lessig commença à sortir de derrière le bureau. "Aucun bazar, monsieur. Nous avons une formation pour éviter ça."
+
+"Chouette. J'imagine que la durée du vol est la même ?" plaisanta Dan.
+
+"Nous l'avons raccourcie !"
+
+Le Dr. Dan s'immobilisa une seconde, le temps de digérer la phrase. Ont-ils déplacé le bâtiment ? Dites-moi qu'ils n'ont pas déplacé le bâtiment.
+
+"Comment ça ?" hésita Dan.
+
+Lessig plongea la main dans sa poche, ce qui provoqua un remue-ménage dans l'esprit de Dan, qui se mit à calculer les possibilités. L'idée qu'il s'agisse d'un agent de l'Insurrection qui jouait avec lui avant de lui mettre une balle dans la tête n'était pas vraiment une constante de ses pensées, mais elle était là malgré tout. D'autres groupes le voudraient mort avant l'Insurrection. Beaucoup, en fait. La plupart, maintenant qu'il y pensait. Presque toutes les églises, y compris les normales. Anderson l'aurait fait avec une frappe de drone. Ambrose l'aurait empoisonné, et les Sarkiques l'auraient transformé en chien de chair ou un truc du genre. Pas ça.
+
+Lessig cessa de fouiller dans sa poche et regarda Dan. "Oh, euh, désolé. Je sais à quoi ça ressemble ; ce n'est qu'un petit cube. Donnez-moi juste une seconde."
+
+Ça n'arrange certainement pas son cas. L'UIU ? Non.
+
+Le fil des pensées du Dr. Dan fut enfin interrompu lorsque Lessig sortit de sa poche un petit cube irisé, qu'il serra fermement.
+
+"Qu'est-ce que c'est ?" Les yeux de Dan se mirent à scruter le cube.
+
+"Un... transporteur de dimension de poche ? J'ai oublié les termes exacts que m'ont donnés les scientifiques de Dimensionnel. Ça facilite l'accès au nouveau QG."
+
+"Comment ça ?"
+
+Lessig se retourne et lance le cube contre le mur, produisant un grand bruit sec et faisant rapidement changer le mur de couleur pendant une seconde avant qu'il ne se fixe sur une unique teinte de bleu, peut-être de violet.
+
+"Il suffit d'entrer, tout simplement."
+----
+
+Le Dr. Dan se retrouva sur une colline, une situation qui ne lui était pas arrivée depuis 10 ans. Devant lui, de l'autre côté d'un vaste parking, se dressait le nouveau Quartier Général de l'ETTRA, dans toute sa fierté et sa gloire, n'étant plus condamné au triste sort d'être souterrain. Et il était massif et anguleux. Toutes les fenêtres étaient soit noires, soit blanches, et aucune des deux options ne permettait aux étrangers de regarder à l'intérieur. Un bâtiment beaucoup plus haut se dressait au centre du quartier général, entièrement fait de béton et s'élançant vers le ciel.
+
+Lessig entra dans le coin de son champ de vision. "Ah, je vois que la tour réseau a attiré votre attention."
+
+"C'est donc ça ?" Le Dr. Dan se retourna.
+
+"Oui. Elle gère tout le Wi-Fi du bâtiment, la connexion au SCiP-Net, et la connexion à... un réseau sophistiqué de dimension de poche."
+
+"J'imagine qu'elle le fait bien ?"
+
+"Le Wi-Fi le plus rapide de l'Ouest, monsieur."
+
+Le Dr. Dan se retourna pour faire face à Lessig, pour constater que quelque chose d'autre le regardait aussi. Une cabane en rondins. Construite avec minutie.
+
+"C'est quoi, cette maison ?"
+
+"Oh, elle est à vous."
+
+"Quoi ?"
+
+Lessig fait un geste vers la maison. "L'O5-9 l'a demandée en personne. Il a dit qu'il était grand temps que vous soyez récompensé d'une manière plus personnelle."
+
+"Donc je dois déménager mes affaires de mon dortoir jusqu'ici ?"
+
+"C'est déjà fait."
+
+Le Dr. Dan jette un autre coup d'œil à la maison. Elle dégage une impression de confort, de chaleur, et toutes ces autres sensations douillettes et adorables qu'il n'avait pas ressenties depuis un moment.
+
+Le Dr. Dan soupire. "Des sculptures mémétiques dans le bois ?"
+
+"Oui, conçues pour qu'on s'y sente chez soi."
+
+"Vous pouvez les désactiver ?"
+
+"L'interrupteur est à l'intérieur."
+
+"Merci pour ça. On va au bâtiment, alors ?" Le Dr. Dan se retourna de nouveau.
+
+Lessig sortit de nouveau le cube de sa poche. "Tout de suite, monsieur."
+
+Il le jeta contre le sol.
+----
+
+Il était maintenant en terrain familier. Son bureau donne sur la salle de traitement où les meilleurs agents de renseignement que la Fondation puisse offrir passent au crible des tonnes de données chaque jour, à la recherche de menaces et de pistes. Le sous-produit de cela est le doux son de la frappe au clavier. Des claviers qui cliquettent et claquent. Clac. Clic. Avant, il devait s'asseoir près de la fenêtre pour l'entendre, mais maintenant, c'est tellement plus fort.
+
+Lessig sort un petit PDA de son autre poche. "Nous avons ajouté un câble Ethernet direct pour répondre à vos précédentes plaintes de connexion lente, ainsi que, évidemment," il fit un geste autour de la pièce, "les rénovations."
+
+"C'est quoi, ce bruit ?" dit le Dr. Dan à demi-voix, en recommençant à écouter les clics et les clacs.
+
+"Ce sont les régulateurs audio que nous avons intégrés à la fenêtre." Lessig s'avança vers une vitre, tendant la main pour la toucher.
+
+Un petit cercle affichant le chiffre 150 % devint visible. Lessig tourna sa main vers la gauche, ce qui l'abaissa à 50 %.
+
+"Très chic." Le Dr. Dan applaudit. "Autre chose de nouveau ?"
+
+Lessig baissa de nouveau les yeux vers son PDA. Il fit défiler vers le haut puis vers le bas, cherchant quelque chose. "En fait, lorsque nous avons commencé à rénover ce côté du bâtiment, la plupart de l'infrastructure n'était pas aux normes. Nous avons donc dû en refaire la majeure partie. J'essaie juste de retrouver la liste, monsieur."
+
+"Aux normes de la Fondation ?"
+
+"Oui, mais aussi de l'OSHA... et de la plupart des lois fédérales."
+
+Cela n'avait rien de surprenant. L'année dernière, il avait failli mourir en essayant de descendre au parking parce que la rampe de la cage d'escalier avait cédé. Dan avait déposé une demande de maintenance, mais elle n'avait jamais été traitée. Il avait pris l'ascenseur après cela. Puis, interrompant le fil de ses pensées sur d'autres violations de l'OSHA, un grand claquement retentit sur sa gauche, le poussant à regarder par réflexe. Fixée au mur et sortant du plafond, se trouvait une série de tubes en plastique transparent. L'air semblait y circuler comme de l'eau.
+
+"C'est quoi, ça ?" demanda le Dr. Dan.
+
+"C'est le nouveau système de tubes pneumatiques, destiné aux communications en cas d'urgence ou si le Wi-Fi tombe en panne." mentionna Lessig en continuant à faire défiler.
+
+"Qui vous a forcé à l'ajouter ?"
+
+"La réglementation. Elle l'a ajouté l'année dernière, pour que la communication ne soit jamais interrompue. Il est équipé d'une détection d'agents mémétiques de pointe, ainsi que des modules biologiques et virologiques traditionnels." Lessig se mit à faire défiler frénétiquement, "Ah-ha, la voilà !"
+
+Lessig se mit à énumérer chaque ajout fait à ce côté du bâtiment, ce qui représentait apparemment beaucoup plus que ce à quoi le Dr. Dan s'attendait. Tout, de la ventilation à la plomberie, et, bon sang, apparemment même le câblage dans les murs, n'était pas aux normes. Ils avaient tout arraché, l'avaient remplacé par le meilleur de ce qu'ils pouvaient offrir, et avaient fait encore plus d'améliorations. Tous les ordinateurs avaient désormais des connexions Ethernet, ainsi que des connexions directes à sens unique avec le Deepwell de la Zone-12, qu'ils avaient installé il y a quelques semaines. Chaque ordinateur avait été mis à jour avec la dernière technologie, ce qui est en fait un terrier de lapin très intéressant si jamais vous voulez--
+
+"Ça suffira." Le Dr. Dan se leva, "Je n'ai pas vraiment besoin des détails, tant que tout le monde peut toujours faire son travail. Autre chose de nouveau dans cette pièce en particulier ?"
+
+Lessig rangea son PDA dans sa poche. "Désolé pour ça, monsieur. Je m'emballe quand il s'agit d'ordinateurs. La seule autre chose notable dans le bureau, c'est le..."
+
+Lessig regarda autour de la pièce, puis fixa les yeux sur le bureau.
+
+"C'est dans l'un des tiroirs."
+
+"Quoi donc ?" Le Dr. Dan commença à ouvrir un par un les tiroirs de son bureau.
+
+"Ça ressemble à un levier de vitesse, mais le... manche ? La tige ? Peu importe comment ça s'appelle, c'est une boule." Lessig se trémoussa dans le fauteuil confortable.
+
+"Et ça fait quoi ?" Le Dr. Dan avait trouvé le tiroir au milieu de l'explication de Lessig, mais ne s'en servirait pas avant qu'il ait expliqué ce que c'était.
+
+"Ça déplace le bureau."
+
+"Pourquoi ?"
+
+"Quand nous avons commencé les travaux, nous avons pris des gens à part pour leur demander ce qu'ils aimeraient changer dans votre bureau."
+
+"Pourquoi ?" commença à interroger le Dr. Dan.
+
+"L'O5-9 l'a demandé, et qui suis-je pour refuser ? Enfin bref, monsieur, ils ont tous dit que le temps que vous mettiez à répondre aux demandes en personne était trop long, alors nous avons monté le bureau sur un système de rails qui lui permet de se déplacer dans tout le bâtiment."
+
+Le Dr. Dan baissa les yeux vers le plateau, qui occupait l'un de ses tiroirs. Au milieu se trouvait une petite bille métallique, représentant vraisemblablement le bureau, et plusieurs itinéraires que la bille pouvait emprunter. Cafétéria, Archives, Déploiement des Menaces, Conseil, et tout un tas d'autres. Cependant, ce qui l'intriguait le plus, c'était le Centre de Surveillance de l'ETTRA. Son nouveau bureau était bien joli, mais le centre de surveillance était sa deuxième pièce préférée.
+
+"J'imagine qu'il est prêt ?" La tête de Dan commença à se pencher vers la bille.
+
+"Oui. C'est un peu... rapide, par contre." Lessig agrippa les bords du fauteuil.
+
+"Oh, ce n'est pas grave." Dan saisit la bille, "L'ETTRA, c'est la rapidité avant tout."
+----
+
+Vers le haut.
+
+Vers le bas.
+
+À gauche.
+
+Encore plus à gauche.
+
+Un peu plus vers le bas.
+
+Presque arrivé.
+
+À droite.
+
+Le bureau s'immobilisa en arrivant au centre de surveillance. Les fenêtres, qui avaient auparavant donné sur des centaines de mètres de béton tandis qu'il traversait les tunnels de la taille d'une pièce à travers le bâtiment, donnaient maintenant sur les nombreux terminaux et consoles du centre de surveillance. Le cœur de l'ETTRA. La fierté et la joie du Dr. Dan, refaites à neuf. Exactement comme il l'avait spécifié lorsqu'il avait lancé l'administration.
+
+[[div class="blockquote"]]
+Le Dr. Dan se tenait dans le couloir. Les O5 avaient fait retirer toutes les chaises. Il savait pourquoi. Quiconque s'était déjà tenu dans ce couloir savait pourquoi. C'était pour vous mettre sur les nerfs. Vous ne pouviez pas vous asseoir. Ils ne vous laisseraient jamais prendre vos aises sans permission.
+
+C'était la 10e réunion budgétaire de l'ETTRA. Sa 10e année d'existence. Cette année avait été ternie. De sang. Pas son sang à lui, ni celui de la Fondation, pas du tout. C'était en 2009. Le terrorisme était en hausse. Ce n'était pas le travail de la Fondation, mais le terrorisme anormal, lui, l'était assurément. 10 morts à Mogadiscio dans une attaque d'une secte sarkique dissidente. Le triple à Bagdad, dans la Zone Verte, après que des terroristes normaux, traditionnels, ont mis la main sur de la technologie de MC&D et foncé dans une épicerie. Des centaines d'autres.
+
+La plupart étaient excusables en raison de leur échelle relativement modeste. Cela n'était tout simplement pas apparu sur nos radars. Tragique. Il avait le sentiment que la plupart des O5 le comprenaient. Il espérait que oui, car lui, non. C'était inexcusable. On lui avait donné une seconde chance dans la vie avec cette administration, et il n'arrivait même pas à faire quelque chose d'aussi simple que d'empêcher de grands maniaques homicides de commettre des actes terroristes avec de la technologie dissimulée.
+
+Il devait faire mieux. Dan commença à faire les cent pas dans le couloir.
+
+Une dame sortit de la salle du conseil et entra dans le couloir.
+
+"Ils sont prêts à vous refaire entrer, monsieur." dit-elle doucement.
+
+"Merci... Savez-vous pourquoi... ?"
+
+"C'est pour mettre les gens sur les nerfs, monsieur."
+
+"L'absence de... ?"
+
+"Oui."
+
+"Merci."
+
+Le Dr. Dan passa devant elle et entra dans la salle du conseil.
+----
+2 milliards de dollars, 5 ans. Faire reculer le terrorisme anormal. Chaque Département était désormais à sa disposition en matière d'innovation. S'il avait besoin d'une nouvelle technologie, il l'obtenait.
+
+Ouais.
+
+Il pouvait faire ça.
+[[/div]]
+
+Le P.A.T.D.S., ou Système Proactif de Détection des Menaces Anormales, prononcé Patts. L'un des premiers grands systèmes .AIC développés pour un département axé sur la sécurité. Il passe au crible toutes les sources d'information connues, toutes les agences de renseignement, tous les forums en ligne et tous les gouffres du web profond et sombre à la recherche d'indices relatifs à une activité anormale inconnue, et la signale soit à l'ETTRA, soit au Département de la Découverte pour suite à donner. La plupart du temps, c'est l'ETTRA qui reçoit l'appel.
+
+Le P.A.T.D.S. ne suffisait pas, cependant. L'ETTRA emploie aussi des milliers d'agents infiltrés. Ils font la même chose, mais principalement pour le terrorisme.
+
+C'était sa fierté et sa joie. Un écran de 70 pieds de large sur 70 pieds de haut, affichant le monde entier. Chaque point rouge était un acte connu d'activité anormale ou de terrorisme. Le jaune signalait une activité suspectée. Le bleu indiquait une affaire conclue, et ne restait affiché qu'une journée.
+
+Le monde était vide.
+
+"Nous avons gardé l'écran. Il est plutôt moderne et, eh bien, il a de la gueule." Lessig se leva, se frottant le côté du front.
+
+"Qu'avez-vous ajouté ici ?" Le Dr. Dan se leva lui aussi et s'approcha de la fenêtre.
+
+"Si vous regardez en bas, nous avons ajouté des terminaux pour gérer des continents spécifiques, puisque c'était auparavant dans la pièce voisine, ainsi que quelques terminaux vides pour toute situation émergente. Nous avons dû refaire le refroidissement de l'écran, nous sommes passés à un refroidissement liquide sophistiqué, qui réduit au minimum le bruit." Lessig tendit la main vers la fenêtre et la régla à 100 %.
+
+Plus de ronronnement. Il le regrettera dans quelques mois.
+
+"Les nouvelles consoles sont équipées de petites alarmes rouges sur le dessus pour indiquer, faute de meilleurs termes, des menaces émergentes. Nous les avons testées il y a quelques jours, et elles sont assez bruyantes pour attirer l'attention." Lessig recula de la fenêtre, "Une autre chose sympa avec ces fenêtres, c'est qu'elles peuvent faire ça."
+
+Lessig tendit la main vers la fenêtre et fit glisser son doigt vers le haut. Un grand rectangle noir apparut sur les fenêtres avant de se remplir d'un dessin de l'Amérique du Nord.
+
+"Elles servent aussi d'écrans. Celui-ci reproduit l'interface du P.A.T.D.S., donc il devrait rester utilisable."
+
+"C'est magnifique."
+
+Lessig se retourna.
+
+Le Dr. Dan se tenait là, émerveillé.
+
+"Ça va, monsieur ?" Lessig se tenait là, mal à l'aise.
+
+"Oui. C'est juste que... Cette administration a toujours beaucoup compté pour moi, et c'est presque euphorique de la voir--."
+
+Une sirène retentit. Le bureau Amérique du Nord. Puis elle passa au sous-bureau des États-Unis. Le P.A.T.D.S. l'avait trouvé en quelques secondes, en quelques nanosecondes même, et l'avait placé sur la carte.
+
+"C'est un... ?" tenta de dire Lessig, mais le Dr. Dan cliqua d'instinct sur le point, faisant apparaître une boîte d'informations supplémentaires.
+
+[[div class="modal"]]
+= [[size x-large]]**INCIDENT : 32-2023** [[/size]]
+**NOM DE CODE :** INÉVITABLE.
+**CLASSE D'INCIDENT :** TERRORISME DE MASSE ; BIOLOGIQUE ANORMAL
+**SUSPECTS :** INCONNUS.
+**HEURE DU RAPPORT INITIAL :** 11 h 30.
+**LIEU :** Université Cregg, Cambridge, Massachusetts.
+
+**DESCRIPTION :** INCONNUE.
+[[/div]]
+
+"Oh mon dieu. Vous devez-." Lessig se retourna pour faire face au Dr. Dan.
+
+Le Dr. Dan n'était plus là. Il faisait son travail.
+
+[[include :scp-wiki:component:advanced-navigation-toolbar-source dual= false
+|styleNum= three
+|rightmode= a
+|hub=https://scp-wiki.wikidot.com/  |hubtext= INÉVITABLE
+|next=https://scp-wiki.wikidot.com/inevitable-the-cregg-situation
+|nexttext= INÉVITABLE : La Situation Cregg
+|nextImage= http://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/tiamat-icon.svg
+]]
+
+
+[[include :scp-wiki:component:license-box]]
+> **Nom du fichier :** http://scp-sandbox-3.wikidot.com/local--files/highway-karma-images/National_Security_Agency%2C_2013.jpg
+> **Auteur :** Trevor Paglen
+> **Licence :**  Creative Commons CC0 1.0 Universal Public Domain Dedication.
+> **Lien source :** https://commons.wikimedia.org/wiki/File:National_Security_Agency,_2013.jpg
+[[include :scp-wiki:component:license-box-end]] 
