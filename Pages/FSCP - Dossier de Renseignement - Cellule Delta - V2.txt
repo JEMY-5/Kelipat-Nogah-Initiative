@@ -1,0 +1,364 @@
+[[include credit:start]]
+**Titre :** Dossier de Renseignement : Cellule Δ ("Éclipse Croissante")
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+**Images :** Emblème de la Cellule Δ par [[user PSEUDO]]
+[[include credit:end]]
+[[module CSS]]
+@import url('https://scp-wiki.wikidot.com/local--code/theme:sigma-9/1');
+/* Palette reprise du thème Sigma-9 (fond #f0f0f0, texte #111, bordures #666, alerte #900) */
+:root {
+    --d-ink: #111;
+    --d-dim: #666;
+    --d-paper: #e5e5e5;
+    --d-white: #fff;
+    --d-line: #b8b8b8;
+    --d-border: #666;
+    --d-red: #990000;
+    --d-red-bg: #ffcccc;
+    --d-red-ink: #400;
+    --d-black: #333;
+    --d-amber: #a86a12;
+    --d-sans: verdana, arial, helvetica, sans-serif;
+    --d-mono: 'Courier New', Courier, monospace;
+}
+#page-content .dossier {
+    background: var(--d-paper);
+    border: 1px solid var(--d-border);
+    border-top: 6px solid var(--d-black);
+    padding: 1.2em 1.6em 1.4em;
+    margin: 15px 0 1.5em;
+    color: var(--d-ink);
+    font-family: var(--d-sans);
+    line-height: 1.6;
+}
+#page-content .dossier::before {
+    content: "";
+    display: block;
+    height: 3px;
+    background: var(--d-red);
+    margin: -1.2em -1.6em 1.2em;
+}
+#page-content .dossier p { margin: 0 0 0.9em; }
+#page-content .dossier a { color: var(--d-red); }
+#page-content .dossier .d-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+#page-content .dossier .d-kicker {
+    display: block;
+    font: 600 0.78rem var(--d-mono);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--d-red);
+}
+#page-content .dossier .d-nom {
+    display: block;
+    font: 700 2rem/1.1 var(--d-sans);
+    color: var(--d-black);
+}
+#page-content .dossier .d-sous {
+    display: block;
+    font: italic 1.05rem var(--d-sans);
+    color: var(--d-dim);
+}
+#page-content .dossier .d-stamp {
+    display: inline-block;
+    border: 2px solid var(--d-red);
+    color: var(--d-red);
+    padding: 0.15em 0.8em;
+    font: 600 0.78rem var(--d-mono);
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    transform: rotate(-3deg);
+}
+#page-content .dossier .d-head {
+    display: flex;
+    gap: 1.6em;
+    align-items: flex-start;
+    margin: 1.2em 0 1.4em;
+    padding: 1em 0 0;
+    border-top: 1px solid var(--d-border);
+}
+/* Bloc image : reprend le style .scp-image-block du thème */
+#page-content .dossier .d-emblem {
+    flex: 0 0 160px;
+    text-align: center;
+    border: 1px solid var(--d-border);
+    background: var(--d-paper);
+    padding: 10px;
+    margin: 0;
+}
+#page-content .dossier .d-emblem img {
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid var(--d-black);
+}
+#page-content .dossier .d-devise {
+    display: block;
+    margin-top: 0.5em;
+    font: italic 0.8rem var(--d-sans);
+    color: var(--d-dim);
+}
+#page-content .dossier .d-fiche { flex: 1 1 auto; min-width: 0; }
+#page-content .dossier table.wiki-content-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+    margin: 0.4em 0 1em;
+}
+#page-content .dossier table.wiki-content-table td,
+#page-content .dossier table.wiki-content-table th {
+    border: none;
+    border-bottom: 1px solid var(--d-line);
+    padding: 0.55em 0.7em;
+    vertical-align: top;
+    background: transparent;
+}
+#page-content .dossier table.wiki-content-table th {
+    font: 600 0.74rem var(--d-mono);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-align: left;
+    color: #fff;
+    background: var(--d-black);
+    border-bottom: 2px solid var(--d-red);
+}
+#page-content .dossier table.wiki-content-table tr:nth-child(even) td { background: rgba(0,0,0,0.04); }
+#page-content .dossier .d-fiche table.wiki-content-table td:first-child,
+#page-content .dossier .d-lecture td:first-child {
+    width: 9.5em;
+    font: 600 0.76rem var(--d-mono);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--d-red);
+}
+#page-content .dossier .badge {
+    display: inline-block;
+    padding: 0.02em 0.6em;
+    margin-right: 0.4em;
+    border: 1px solid;
+    font: 600 0.72rem var(--d-mono);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+#page-content .dossier .b-red { color: var(--d-red); border-color: var(--d-red); background: rgba(153,0,0,0.07); }
+#page-content .dossier .b-amber { color: var(--d-amber); border-color: var(--d-amber); background: rgba(168,106,18,0.08); }
+#page-content .dossier .yui-navset { margin: 0.4em 0 0; background: none; border: none; }
+#page-content .dossier .yui-navset .yui-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25em;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: none;
+    border: none;
+    border-bottom: 3px solid var(--d-black);
+}
+#page-content .dossier .yui-navset .yui-nav li { float: none; margin: 0; background: none; border: none; }
+#page-content .dossier .yui-navset .yui-nav li a {
+    display: block;
+    padding: 0.5em 1em;
+    background: #d4d4d4;
+    color: var(--d-ink);
+    border: 1px solid var(--d-border);
+    border-bottom: none;
+    font: 500 0.8rem var(--d-mono);
+    text-decoration: none;
+}
+#page-content .dossier .yui-navset .yui-nav li a em { font-style: normal; }
+#page-content .dossier .yui-navset .yui-nav li.selected a,
+#page-content .dossier .yui-navset .yui-nav li.selected a:hover {
+    background: var(--d-black);
+    color: #fff;
+    border-color: var(--d-black);
+}
+#page-content .dossier .yui-navset .yui-content {
+    background: var(--d-white);
+    border: 1px solid var(--d-border);
+    border-top: none;
+    padding: 0.6em 1.3em 0.8em;
+}
+#page-content .dossier h2, #page-content .dossier h3 {
+    font-family: var(--d-sans);
+    color: var(--d-black);
+    border: none;
+    margin: 1.1em 0 0.4em;
+    padding: 0;
+}
+#page-content .dossier h2 { font-size: 1.2rem; border-bottom: 2px solid var(--d-red); padding-bottom: 0.2em; }
+#page-content .dossier h3 { font-size: 1rem; font-style: italic; }
+/* Citations : bloc discret à filet rouge */
+#page-content .dossier .d-note {
+    border-left: 4px solid var(--d-red);
+    background: rgba(153,0,0,0.05);
+    padding: 0.6em 1.2em 0.1em;
+    margin: 1em 0;
+}
+#page-content .dossier .d-note p { font-style: italic; }
+/* Alerte : reprend le style .warning-block du thème */
+#page-content .dossier .warning-block {
+    border: 1px dashed var(--d-red);
+    background-color: var(--d-red-bg);
+    padding: 10px 1.2em 0.1em;
+    margin: 1em 0;
+    color: var(--d-red-ink);
+}
+#page-content .dossier .warning-block p { font-style: italic; }
+#page-content .dossier .glitch {
+    font: 600 0.9rem var(--d-mono);
+    color: var(--d-red);
+    letter-spacing: 0.1em;
+}
+#page-content .dossier .d-voir { margin-top: 1.2em; font-size: 0.85rem; color: var(--d-dim); }
+@media (max-width: 768px) {
+    #page-content .dossier .d-head { flex-direction: column; align-items: center; }
+    #page-content .dossier .d-nom { font-size: 1.6rem; }
+}
+[[/module]]
+[[div class="dossier"]]
+
+[[div class="d-top"]]
+[[div]]
+[[span class="d-kicker"]]Dossier de renseignement[[/span]]
+[[span class="d-nom"]]Cellule Δ[[/span]]
+[[span class="d-sous"]]"Éclipse Croissante"[[/span]]
+[[/div]]
+[[span class="d-stamp"]]Sous observation[[/span]]
+[[/div]]
+
+[[div class="d-head"]]
+[[div class="d-emblem scp-image-block"]]
+[[image Cellule-Delta.png]]
+[[span class="d-devise"]]Sub Eclipsi, Ferimus[[/span]]
+[[/div]]
+[[div class="d-fiche"]]
+|| Désignation || Force d'Intervention Militaire Xi-8, Cellule Δ[[footnote]] Traduction de travail de la devise : "Sous l'éclipse, nous frappons". Le verbe latin admet aussi le sens "nous portons". [[/footnote]] ||
+|| Statut || [[span class="badge b-red"]]Dissidente[[/span]] [[span class="badge b-amber"]]Tolérée[[/span]] Non autorisée, sous observation ||
+|| Dirigée par || Alex Vencord, depuis 2025. Succède à l'ex-Commandant Arthur Snow. ||
+|| Origine || Scission interne de la FIM Xi-8 "Les Derniers à Tomber" ||
+|| Rattachement || Sous-division de la FIM Xi-8 par décision de la KNI ([[[goi-884|GdI-884]]]) ||
+|| Rôle || Renseignement et neutralisation ||
+|| Effectifs || Une cinquantaine à la création, dont dix-sept anciens de la Xi-8. Effectif actuel inconnu. ||
+[[/div]]
+[[/div]]
+
+[[tabview]]
+[[tab Présentation]]
+La Cellule Δ est née d'une scission idéologique au sein de la Force d'Intervention Militaire Xi-8, chargée de combattre les entités sarkiques et eschatologiques, c'est-à-dire celles d'une fin du monde. Là où la Xi-8 cherche à les contenir ou à les détruire, la Cellule croit qu'une transcendance orchestrée est possible : certaines anomalies seraient les vecteurs d'un "passage" vers un nouvel état de l'humanité.
+
+Elle agit de façon indépendante, mais répond aux demandes de la Xi-8 contre une contrepartie réduite. Ses relations étaient excellentes avec la Maréchale Raaina Mahya Tariq-Sattar, décédée en février 2026. Elles sont extrêmement tendues avec son successeur, le Colonel Hans Korven.
+
+++ Doctrine
+
+[[div class="d-note"]]
+Les analystes résument ainsi la doctrine de la Cellule : "Ils ne veulent pas provoquer la fin du monde. Ils veulent choisir laquelle."
+[[/div]]
+
+++ Commandement actuel : Alex Vencord
+
+Alex Vencord est ancien des Marines françaises et ancien commandant AIT. Second de l'ex-Commandant Arthur Snow, il est réputé logique, rationnel et poétique dans ses rapports. Il a été exposé à la même anomalie cognitohazard de type eschatologique (SCP-███-Ω) que Snow, qui l'a récupéré : cet épisode est considéré comme la succession du commandement. Il en reprend officiellement la tête en 2025 avec [[span class="glitch"]][̷"̷Σ̷Я̷Я̷Ө̷Я̷"̷]̷[[/span]] agents, plusieurs objets de Classe Thaumiel et certains de Classe Safe. Il est considéré comme le chef actif d'une église paramilitaire occulte.
+
+[[div class="d-note"]]
+Citation attribuée à Alex Vencord : "La Lune est le phare de toutes choses dans les Ténèbres."
+[[/div]]
+
+++ Fondateur : Arthur Snow
+
+L'ex-Commandant Arthur Snow est ancien SAS et recrue de haut niveau de la Fondation. Il a formé la Cellule à ses débuts. Ses rapports étaient réputés froids, méthodiques et poétiques. Son sort depuis la passation de 2025 n'est pas établi.
+
+[[div class="d-note"]]
+Citation attribuée à Arthur Snow : "Il y a plus de clarté dans une lune noire que dans mille soleils en guerre."
+[[/div]]
+[[/tab]]
+[[tab Historique]]
+++ La désertion de 2020
+
+L'ex-Commandant Arthur Snow quitte la Fondation en 2020 avec dix-sept agents de la Xi-8 et plusieurs objets de Classe Thaumiel dont le sort n'est pas établi. La même année, une rupture du Voile est évitée de justesse grâce à l'intervention de la KNI. La possibilité d'une rupture n'est pas écartée, et les rares sources n'établissent aucun lien direct entre les deux événements.
+
+++ La passation de 2025
+
+Alex Vencord, second de Snow, reprend officiellement le commandement de la Cellule en 2025. Le passage suit son exposition à SCP-███-Ω et sa récupération par Snow, mais les circonstances exactes de la passation sont inconnues. Le nombre d'agents qui l'accompagnent est illisible dans nos sources : [[span class="glitch"]][̷"̷Σ̷Я̷Я̷Ө̷Я̷"̷]̷[[/span]].
+
+++ La scission et l'accord
+
+La scission prend la Fondation et la KNI au dépourvu. Aucune des deux parties ne peut en être tenue responsable, et l'accord Aube Dorée ne prévoit rien pour ce cas. Le Haut-Commandement décide de ne pas intervenir pour le moment. La KNI fait de la Cellule une sous-division de la Xi-8 afin d'améliorer le renseignement de celle-ci.
+
+++ La position de la Fondation
+
+La Fondation tolère la Cellule faute de pouvoir agir. Celle-ci est déjà implantée dans ses rangs comme dans ses réseaux, ses membres sont devenus des thaumaturges mnésiquement dangereux, les informations fiables sont rares et la crise laisse très peu de ressources pour la recherche. Grâce aux liens noués avec la Maréchale, l'éradication n'était plus jugée nécessaire : la Cellule est trop efficace pour qu'on la neutralise. Depuis la mort de la Maréchale, la tension entre la Cellule et le Colonel Korven fait l'objet d'un suivi approfondi.
+[[/tab]]
+[[tab Structure]]
+++ Tactiques
+
+La Cellule opère en petites cellules modulaires de trois à cinq membres. Elle privilégie l'infiltration et l'observation passive. Toute cible est soumise à une neutralisation symbolique, non létale mais définitive : le mécanisme est inconnu, et à notre connaissance aucune cible neutralisée n'a repris son activité.
+
+Ses membres disposent d'armes customisées portant des marquages personnels, de rituels occultes issus de fragments Kuiyang et de contre-symboles mémétiques inversés.
+
+Chaque mission est facturée au client. La KNI et la Xi-8 bénéficient d'un "prix d'ami", et l'identité des autres clients est inconnue.
+
+++ Hiérarchie
+
+||~ Niveau ||~ Grades ||
+|| Commandement || Ð Commandant, Ø Chef de Section, Ø Lieutenant ||
+|| Encadrement || Ψ Chef d'Équipe, Ψ Sergent, Ψ Caporal ||
+|| Application || Ħ Spécialiste, Ħ Opérateur, Ħ Recrue ||
+
+++ Réseaux connus ou supposés
+
+* La Secte Kuiyang, en Chine : échanges de rites d'ouverture mentale et d'artefacts d'alignement lunaire.
+* Le Culte du Deuxième Hytoth : contacts mineurs supposés, avec une possible convergence idéologique.
+* Des fragments du Culte du Dieu Brisé, soupçonnés de lui avoir fourni des technologies de résonance symbolique.
+
+++ Localisations probables
+
+* Les ruines d'un temple Kuiyang, en Mongolie intérieure.
+* Un réseau de bunkers soviétiques désaffectés près du cratère Kyzyl.
+* Une installation non cartographiée, "Cadran Delta", signalée par un drone de la Fondation modifié.
+* Des refuges de fortune dans des zones où la lune est visible plus de 90 % du temps.
+[[/tab]]
+[[tab Emblème]]
+L'emblème est un cercle à double anneau noir qui enferme un croissant de lune noir, transpercé d'une lance verticale et encadré de deux étoiles à quatre branches. Trois flèches rouges montent en diagonale et dépassent l'anneau. Les analystes en proposent plusieurs lectures, qui ne s'excluent pas.
+
+[[div class="d-lecture"]]
+||~ Élément ||~ Lectures possibles ||
+|| Double anneau || La frontière du Voile. Le cadran du "Cadran Delta", donc l'horloge d'une fin choisie. Le cycle lunaire. Un sceau de confinement retourné. ||
+|| Croissant noir || L'éveil incomplet. La "lune noire" de la citation de Snow. La phase croissante, qui répond au nom "Éclipse Croissante". L'occultation, ce qui cache la lumière. ||
+|| Lance verticale || Le catalyseur choisi. L'aiguille d'un cadran, qui marque l'heure de l'éclipse. L'axe entre le ciel et le sol, par où passe le "passage". L'arme de la Cellule. ||
+|| Deux étoiles || Les témoins supérieurs ou les dieux anciens. Les deux parties, Fondation et KNI, qui observent. Les deux issues du "passage", la fin et la renaissance. ||
+|| Trois flèches rouges || Les trois activités : infiltration, observation, neutralisation. Les trois temps du "passage" : l'éveil, la catalyse, la transition. Les trois réseaux : Kuiyang, Hytoth, Dieu Brisé. Au-delà de l'anneau, la propagation hors du cadre. Le rouge : le sang, ou la couleur de la Cellule. ||
+|| Ensemble || Un cadran lunaire dont la lance est l'aiguille, et que trois flèches projettent vers l'extérieur. ||
+[[/div]]
+
+L'emblème est classé comme sceau actif (SCP-████), outil de déclenchement mnésique. La durée d'analyse par agent est limitée à quelques minutes.
+[[/tab]]
+[[tab Risques et approche]]
+++ Risques pour la Fondation
+
+* Des savoirs interdits circulent sous forme de rituels poétiques.
+* Le personnel exposé à l'emblème peut se reconvertir idéologiquement.
+* Les comportements sont contagieux par exposition narrative et symbolique, sans infection biologique.
+
+++ Politique d'approche
+
+* Aucune action offensive contre la Cellule sans autorisation du Haut-Commandement.
+* L'observation et l'analyse se poursuivent, pour pouvoir la détruire au besoin. Le Département de Surveillance des Organisations Paranormales tient son dossier.
+* Aucune exposition prolongée à l'emblème. Les agents de liaison avec la Xi-8 évitent tout contact visuel avec le patch.
+* Les agents de liaison avec la Xi-8 signalent toute friction entre la Cellule et le Colonel Korven.
+* Les informations sur la Cellule sont rares et restent classées.
+
+[[div class="warning-block"]]
+Note de O5-3 : "Ce ne sont pas des traîtres. Ce sont des convertis. Pire que des fous : des prophètes. Et ça, on ne peut pas contenir."
+[[/div]]
+[[/tab]]
+[[/tabview]]
+
+[[div class="d-voir"]]
+Voir aussi : [[[goi-884|GdI-884]]] (Kelipat Nogah Initiative) et [[[task-forces#xi-8|FIM Xi-8]]].
+[[/div]]
+
+[[/div]]

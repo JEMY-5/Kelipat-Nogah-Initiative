@@ -1,0 +1,120 @@
+[[include credit:start]]
+**Titre :** Dossier de Renseignement : Cellule Δ ("Éclipse Croissante")
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+**Images :** Emblème de la Cellule Δ par [[user PSEUDO]]
+[[include credit:end]]
+
+[[include component:image-block name=Cellule-Delta-Remove.png|caption=**Sub Eclipsi, Ferimus.** //Devise de la Cellule Δ//|width=250px]]
+**Désignation officielle :** Force d'Intervention Militaire Xi-8, Cellule Δ ("Éclipse Croissante")[[footnote]] Traduction de travail de la devise : "Sous l'éclipse, nous frappons". Le verbe latin admet aussi le sens "nous portons". [[/footnote]]
+
+**Alias :** Cellule Delta, Éclipse Croissante
+
+**Statut :** Dissidente, non autorisée. Tolérée par la Fondation et placée sous observation.
+
+**Dirigée par :** L'ex-Commandant Arthur Snow
+
+**Origine :** Scission interne de la FIM Xi-8 "Les Derniers à Tomber"
+
+**Rattachement actuel :** Sous-division de la FIM Xi-8, par décision de la KNI ([[[goi-884|GdI-884]]])
+
+**Rôle :** Renseignement et neutralisation
+
+**Effectifs :** Une cinquantaine de membres à la création, dont dix-sept anciens agents de la Xi-8. Effectif actuel inconnu.
+
+[[toc]]
+
++ Présentation
+
+La Cellule Δ est une sous-division dissidente de la Force d'Intervention Militaire Xi-8. Elle est née d'une scission idéologique au sein d'une force chargée de combattre les entités sarkiques et eschatologiques, c'est-à-dire celles d'une fin du monde. Là où la Xi-8 cherche à les contenir ou à les détruire, la Cellule croit qu'une transcendance orchestrée est possible : certaines anomalies seraient les vecteurs d'un "passage" vers un nouvel état de l'humanité.
+
+Elle agit de façon indépendante, mais répond aux demandes de la Xi-8 contre une contrepartie réduite, et la Maréchale Raaina Mahya Tariq-Sattar entretient d'excellentes relations avec elle.
+
++ Doctrine
+
+Les analystes résument ainsi la doctrine de la Cellule : "Ils ne veulent pas provoquer la fin du monde. Ils veulent choisir laquelle."
+
++ Historique
+
+++ La désertion de 2020
+
+L'ex-Commandant Arthur Snow quitte la Fondation en 2020 avec dix-sept agents de la Xi-8 et plusieurs objets de Classe Thaumiel dont le sort n'est pas établi. La même année, une rupture du Voile est évitée de justesse grâce à l'intervention de la KNI. La possibilité d'une rupture n'est pas écartée, et les rares sources n'établissent aucun lien direct entre les deux événements.
+
+++ La scission et l'accord
+
+La scission prend la Fondation et la KNI au dépourvu. Aucune des deux parties ne peut en être tenue responsable, et l'accord Aube Dorée ne prévoit rien pour ce cas. Le Haut-Commandement décide de ne pas intervenir pour le moment. La KNI fait de la Cellule une sous-division de la Xi-8 afin d'améliorer le renseignement de celle-ci.
+
+++ La position de la Fondation
+
+La Fondation tolère la Cellule faute de pouvoir agir. Celle-ci est déjà implantée dans ses rangs comme dans ses réseaux, ses membres sont devenus des thaumaturges mnésiquement dangereux, les informations fiables sont rares et la crise laisse très peu de ressources pour la recherche. Depuis les liens noués avec la Maréchale, l'éradication n'est plus jugée nécessaire : la Cellule est trop efficace pour qu'on la neutralise.
+
++ Commandement
+
+L'ex-Commandant Arthur Snow est ancien SAS et recrue de haut niveau de la Fondation, et il a formé la Cellule à ses débuts. Ses rapports sont réputés froids, méthodiques et poétiques. Il a été exposé à une anomalie cognitohazard de type eschatologique (SCP-███-Ω) et il est considéré comme le chef actif d'une église paramilitaire occulte.
+
+Citation attribuée : //"Il y a plus de clarté dans une lune noire que dans mille soleils en guerre."//
+
++ Tactiques et structure
+
+La Cellule opère en petites cellules modulaires de trois à cinq membres. Elle privilégie l'infiltration et l'observation passive. Toute cible est soumise à une neutralisation symbolique, non létale mais définitive : le mécanisme est inconnu, et à notre connaissance aucune cible neutralisée n'a repris son activité.
+
+Ses membres disposent d'armes customisées portant des marquages personnels, de rituels occultes issus de fragments Kuiyang et de contre-symboles mémétiques inversés.
+
+Chaque mission est facturée au client. La KNI et la Xi-8 bénéficient d'un "prix d'ami", et l'identité des autres clients est inconnue.
+
+++ Hiérarchie
+
+||~ Niveau ||~ Grades ||
+|| Commandement || Ð Commandant, Ø Chef de Section, Ø Lieutenant ||
+|| Encadrement || Ψ Chef d'Équipe, Ψ Sergent, Ψ Caporal ||
+|| Application || Ħ Spécialiste, Ħ Opérateur, Ħ Recrue ||
+
++ Emblème
+
+L'emblème est un cercle à double anneau noir qui enferme un croissant de lune noir, transpercé d'une lance verticale et encadré de deux étoiles à quatre branches. Trois flèches rouges montent en diagonale et dépassent l'anneau. Les analystes en proposent plusieurs lectures, qui ne s'excluent pas.
+
+||~ Élément ||~ Lectures possibles ||
+|| Le double anneau || La frontière du Voile. Le cadran du "Cadran Delta", donc l'horloge d'une fin choisie. Le cycle lunaire. Un sceau de confinement retourné. ||
+|| Le croissant noir || L'éveil incomplet. La "lune noire" de la citation de Snow. La phase croissante, qui répond au nom "Éclipse Croissante". L'occultation, ce qui cache la lumière. ||
+|| La lance verticale || Le catalyseur choisi. L'aiguille d'un cadran, qui marque l'heure de l'éclipse. L'axe entre le ciel et le sol, par où passe le "passage". L'arme de la Cellule. ||
+|| Les deux étoiles || Les témoins supérieurs ou les dieux anciens. Les deux parties, Fondation et KNI, qui observent. Les deux issues du "passage", la fin et la renaissance. ||
+|| Les trois flèches rouges || Les trois activités : infiltration, observation, neutralisation. Les trois temps du "passage" : l'éveil, la catalyse, la transition. Les trois réseaux : Kuiyang, Hytoth, Dieu Brisé. Au-delà de l'anneau, la propagation hors du cadre. Le rouge : le sang, ou la couleur de la Cellule. ||
+|| L'ensemble || Un cadran lunaire dont la lance est l'aiguille, et que trois flèches projettent vers l'extérieur. ||
+
+L'emblème est classé comme sceau actif (SCP-████), outil de déclenchement mnésique. La durée d'analyse par agent est limitée à quelques minutes.
+
++ Réseaux connus ou supposés
+
+* La Secte Kuiyang, en Chine : échanges de rites d'ouverture mentale et d'artefacts d'alignement lunaire.
+* Le Culte du Deuxième Hytoth : contacts mineurs supposés, avec une possible convergence idéologique.
+* Des fragments du Culte du Dieu Brisé, soupçonnés de lui avoir fourni des technologies de résonance symbolique.
+
++ Localisations probables
+
+* Les ruines d'un temple Kuiyang, en Mongolie intérieure.
+* Un réseau de bunkers soviétiques désaffectés près du cratère Kyzyl.
+* Une installation non cartographiée, "Cadran Delta", signalée par un drone de la Fondation modifié.
+* Des refuges de fortune dans des zones où la lune est visible plus de 90 % du temps.
+
++ Risque pour la Fondation
+
+* Des savoirs interdits circulent sous forme de rituels poétiques.
+* Le personnel exposé à l'emblème peut se reconvertir idéologiquement.
+* Les comportements sont contagieux par exposition narrative et symbolique, sans infection biologique.
+
++ Politique d'approche
+
+* Aucune action offensive contre la Cellule sans autorisation du Haut-Commandement.
+* L'observation et l'analyse se poursuivent, pour pouvoir la détruire au besoin. Le Département de Surveillance des Organisations Paranormales tient son dossier.
+* Aucune exposition prolongée à l'emblème. Les agents de liaison avec la Xi-8 évitent tout contact visuel avec le patch.
+* Les informations sur la Cellule sont rares et restent classées.
+
++ Note de O5-3
+
+//"Ce ne sont pas des traîtres. Ce sont des convertis. Pire que des fous : des prophètes. Et ça, on ne peut pas contenir."//
+
++ Documentation liée
+
+[[[goi-884|GdI-884]]] -- Kelipat Nogah Initiative
+
+[[[task-forces#xi-8|FIM Xi-8]]] -- Force dont la Cellule est une sous-division

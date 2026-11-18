@@ -1,38 +1,637 @@
-/* ========================================================================== */
-/* Thème KNI (Kelipat Nogah Initiative) - Style Ésotérique & Industriel        */
-/* ========================================================================== */
+/* ==========================================================================
+   Thème KNI (Kelipat Nogah Initiative) - Charte unifiée, version 6
+
+   Sources fusionnées : Accueil Interne V5, R&T-012 V2, R&T-044 V3,
+   Anomalie du Conseil ACES-0001 V2.
+
+   Règles de la charte :
+   - Les sélecteurs de contenu commencent par #page-content pour passer
+     devant les règles du thème du site.
+   - Aucune animation sur une propriété déclarée !important, et aucun
+     !important dans un @keyframes (il y serait ignoré).
+   - Une seule animation de page (.fracture) plus la veille de .session,
+     toutes deux coupées si l'utilisateur demande moins de mouvement.
+   - Un seul collapsible par page : Wikidot ne sait pas en imbriquer deux,
+     d'où les onglets pour le reste.
+
+   Structure d'une page : [[div class="kni"]] contient .masthead, .fracture,
+   .lead, puis une suite de .bloc (titre en ++ avec .sec et .ico).
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Fraunces:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Newsreader:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+/* Icônes Lucide (lucide-static 1.66.0), chargées comme police d'icônes.
+   Si la police ne charge pas, les titres s'affichent simplement sans icône. */
+@font-face {
+    font-family: 'lucide';
+    src: url('https://cdn.jsdelivr.net/npm/lucide-static@1.66.0/font/lucide.woff2') format('woff2');
+    font-display: swap;
+}
+
+/* ==========================================================================
+   1. Variables
+   ========================================================================== */
 
 :root {
-    --kni-bg: #0f1115;
-    --kni-panel: #161a22;
-    --kni-text: #c9d1d9;
-    --kni-accent: #2ea043; /* Vert mystique/lumineux */
-    --kni-warning: #d29922;
-    --kni-border: #30363d;
+    --kni-bg: #050c08;
+    --kni-green: #0d2419;
+    --kni-green-2: #14392a;
+    --kni-green-line: #21523d;
+    --kni-line: #1d3027;
+    --kni-text: #d6e2da;
+    --kni-dim: #93ab9d;
+    --kni-gold: #e9c46a;
+    --kni-gold-dim: #b8963f;
+    --kni-moss: #8fd3a8;
+    --kni-teal: #3bb5a1;
+    --kni-copper: #e76f51;
+
+    --f-noble: 'Cinzel', Georgia, 'Times New Roman', serif;
+    --f-titre: 'Fraunces', Georgia, 'Times New Roman', serif;
+    --f-texte: 'Newsreader', Georgia, 'Times New Roman', serif;
+    --f-mono: 'JetBrains Mono', ui-monospace, 'Courier New', monospace;
+
+    /* Échelle modulaire (rapport 1,25) et rythme vertical */
+    --echelle-1: 1.25em;
+    --echelle-2: 1.563em;
+    --echelle-3: 1.953em;
+    --echelle-4: 2.441em;
+    --rythme: 1.6;
 }
 
-body {
-    background-color: var(--kni-bg) !important;
+/* ==========================================================================
+   2. Page et conteneurs du site (fonds uniquement)
+   ========================================================================== */
+
+body, #container-wrap, #container-wrap-inner, #container,
+#content-wrap, #main-content, #page-content {
+    background: var(--kni-bg) !important;
+}
+#page-title { display: none !important; }
+
+#page-content, #page-content p, #page-content li,
+#page-content td, #page-content th {
     color: var(--kni-text) !important;
+    font-family: var(--f-texte) !important;
 }
-
-/* Conteneur principal de la KNI */
-.kni-container {
-    background-color: var(--kni-panel);
-    border: 1px solid var(--kni-border);
-    border-left: 4px solid var(--kni-accent);
-    padding: 15px;
-    margin: 20px 0;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+#page-content {
+    font-size: 1.06rem;
+    line-height: var(--rythme);
+    font-optical-sizing: auto;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
 }
+#page-content .kni p { max-width: 70ch; margin: 0 0 1em; hyphens: manual; }
 
-/* En-têtes de dossiers classifiés KNI */
-.kni-header {
-    font-family: 'Courier New', monospace;
-    color: var(--kni-accent);
+/* ==========================================================================
+   3. Bandeau, barre du haut, barre latérale, pied de page
+   ========================================================================== */
+
+#header {
+    background: #030705 !important;
+    border-bottom: 2px solid var(--kni-gold-dim) !important;
+}
+#header h1 a span, #header h2 span { display: none !important; }
+#header h1 a::before {
+    content: "L'AUBE D'OR";
+    font-family: var(--f-noble);
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    color: var(--kni-gold);
+}
+#header h2::before {
+    content: "Séparer l'écorce, libérer la lumière";
+    font-family: var(--f-mono);
+    font-size: 0.8em;
+    color: var(--kni-moss);
+}
+#search-top-box-input {
+    background: var(--kni-green) !important;
+    color: var(--kni-text) !important;
+    border: 1px solid var(--kni-green-line) !important;
+}
+#top-bar, #top-bar ul li ul {
+    background: var(--kni-green) !important;
+    border-color: var(--kni-green-line) !important;
+}
+#top-bar a, #top-bar ul li a {
+    color: var(--kni-text) !important;
+    background: transparent !important;
+}
+#top-bar ul li a:hover { color: var(--kni-gold) !important; }
+#side-bar .side-block {
+    background: var(--kni-green) !important;
+    border: 1px solid var(--kni-green-line) !important;
+}
+#side-bar a { color: var(--kni-moss) !important; }
+#side-bar a:hover { color: var(--kni-gold) !important; }
+#footer, #footer a { background: #030705 !important; color: var(--kni-dim) !important; }
+
+/* Bouton Connexion (seul collapsible de la page) */
+#page-content .collapsible-block-link {
+    display: inline-block !important;
+    background: var(--kni-green) !important;
+    color: var(--kni-gold) !important;
+    border: 1px solid var(--kni-gold-dim) !important;
+    padding: 0.5em 1.2em !important;
+    font: 500 0.9em var(--f-mono) !important;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
-    letter-spacing: 1px;
-    border-bottom: 1px solid var(--kni-border);
-    padding-bottom: 5px;
-    margin-bottom: 10px;
+    text-decoration: none !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    width: auto !important;
+    max-width: none !important;
+    margin: 0.6em 0 !important;
+}
+#page-content .collapsible-block-link:hover {
+    background: var(--kni-green-2) !important;
+    color: #fff4d2 !important;
+}
+
+/* ==========================================================================
+   4. Titres
+   h1 : Cinzel, capitales (noblesse). h2 et h3 : Fraunces.
+   ========================================================================== */
+
+#page-content h1, #page-content h2 { line-height: 1.2 !important; }
+#page-content .kni h1, #page-content .kni h2, #page-content .kni h3 {
+    color: var(--kni-gold) !important;
+    border: none !important;
+    position: static !important;
+    transform: none !important;
+    text-shadow: none !important;
+    height: auto !important;
+    padding: 0 !important;
+}
+#page-content .kni h1 {
+    font-family: var(--f-noble) !important;
+    font-weight: 900 !important;
+    font-size: var(--echelle-3) !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+    line-height: 1.15 !important;
+    margin: 0 !important;
+    text-wrap: balance;
+}
+#page-content .kni h2 {
+    font-family: var(--f-titre) !important;
+    font-weight: 600 !important;
+    font-size: var(--echelle-3) !important;
+    text-transform: none !important;
+    letter-spacing: 0.01em !important;
+    margin: 0 0 0.7em !important;
+    padding-bottom: 0.35em !important;
+    border-bottom: 1px solid var(--kni-gold-dim) !important;
+    text-wrap: balance;
+}
+#page-content .kni h3 {
+    font-family: var(--f-titre) !important;
+    font-weight: 600 !important;
+    font-size: var(--echelle-1) !important;
+    text-transform: none !important;
+    letter-spacing: 0.01em !important;
+    line-height: 1.3 !important;
+    margin: 0 0 0.35em !important;
+}
+/* Numéro de section (01, 02...) à placer dans un titre en ++ */
+.kni .sec {
+    font: 500 0.55em var(--f-mono);
+    color: var(--kni-copper);
+    border: 1px solid var(--kni-copper);
+    padding: 0.1em 0.5em;
+    margin-right: 0.8em;
+    vertical-align: middle;
+}
+/* Sous-titre italique sous le h1 */
+.kni .devise {
+    font-family: var(--f-texte);
+    font-style: italic;
+    font-size: 1.35em;
+    color: var(--kni-moss);
+    margin: 0.3em 0 0;
+}
+
+/* ==========================================================================
+   5. Liens et mots colorés
+   ========================================================================== */
+
+#page-content .kni a { color: var(--kni-moss); text-decoration: none; }
+#page-content .kni a:hover { color: var(--kni-gold); }
+#page-content .kni a.newpage {
+    color: var(--kni-copper) !important;
+    border-bottom: 1px dashed var(--kni-copper);
+    background: transparent !important;
+}
+.kni .t-nogah { color: var(--kni-gold); font-weight: 600; }
+.kni .t-kelipah { color: var(--kni-copper); font-weight: 600; }
+.kni .t-kni { color: var(--kni-moss); font-weight: 600; }
+.kni .t-fond { color: var(--kni-teal); font-weight: 600; }
+.kni .kanji { font-family: 'Noto Serif JP', 'Yu Mincho', 'MS Mincho', serif; font-style: normal; }
+
+/* ==========================================================================
+   6. En-tête de page : masthead, session, tampon, fracture, chapeau
+   ========================================================================== */
+
+.kni .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+.kni .session, .kni .session ul, .kni .session li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.kni .session {
+    font: 500 0.82em var(--f-mono);
+    color: var(--kni-moss);
+    margin-top: 0.4em;
+}
+.kni .session::before {
+    content: "\e142";
+    font-family: 'lucide';
+    display: inline-block;
+    margin-right: 0.7em;
+    color: var(--kni-teal);
+}
+.kni .stamp {
+    display: inline-block;
+    border: 2px solid var(--kni-copper);
+    color: var(--kni-copper);
+    padding: 0.1em 0.7em;
+    font: 600 0.75em var(--f-mono);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    transform: rotate(-3deg);
+}
+/* Icône du tampon : défaut (rapports R&T), ou variante au choix */
+.kni .stamp::before {
+    content: "\e086";
+    font-family: 'lucide';
+    margin-right: 0.55em;
+    letter-spacing: 0;
+}
+.kni .stamp-scelle::before { content: "\e10b"; }  /* cadenas : ACES, documents scellés */
+.kni .stamp-acces::before { content: "\e1fe"; }   /* accueil interne */
+
+.kni .fracture {
+    height: 3px;
+    margin: 1.3em 0 1.6em;
+    background: linear-gradient(90deg,
+        var(--kni-copper) 0 41%, transparent 41% 43%, var(--kni-gold) 43% 100%);
+}
+.kni .lead {
+    border-left: 4px solid var(--kni-moss);
+    background: linear-gradient(90deg, rgba(20,57,42,0.7), transparent);
+    padding: 0.8em 1.2em;
+    margin: 0 0 1.8em;
+}
+.kni .lead p { margin: 0; }
+.kni .haut { margin: 0 0 1em; color: var(--kni-dim); }
+
+/* ==========================================================================
+   7. Sections : une carte verte à filet d'or par section
+   ========================================================================== */
+
+.kni .bloc {
+    background: linear-gradient(135deg, rgba(20,57,42,0.55), rgba(8,20,14,0.9));
+    border: 1px solid var(--kni-green-line);
+    border-left: 4px solid var(--kni-gold);
+    padding: 1.2em 1.6em 1.4em;
+    margin: 0 0 1.8em;
+}
+
+/* Deux colonnes (Nogah/Kelipah, ou A/B) */
+.kni .split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 1.2em 0 0.4em;
+    border: 1px solid var(--kni-green-line);
+}
+.kni .split > div { padding: 1em 1.3em; }
+.kni .split p { margin: 0.3em 0; }
+.kni .col-nogah { background: rgba(233,196,106,0.09); }
+.kni .col-kelipah {
+    background: rgba(231,111,81,0.09);
+    border-left: 1px dashed var(--kni-green-line);
+}
+.kni .col-a { background: rgba(59,181,161,0.10); }
+.kni .col-b {
+    background: rgba(143,211,168,0.08);
+    border-left: 1px dashed var(--kni-green-line);
+}
+#page-content .kni .col-nogah h3 { color: var(--kni-gold) !important; }
+#page-content .kni .col-kelipah h3 { color: var(--kni-copper) !important; }
+#page-content .kni .col-a h3 { color: var(--kni-teal) !important; }
+#page-content .kni .col-b h3 { color: var(--kni-moss) !important; }
+
+/* Parcours de lecture (étapes numérotées 01, 02...) */
+.kni .parcours { counter-reset: etape; margin: 1em 0 0; }
+.kni .etape {
+    display: grid;
+    grid-template-columns: 3em 1fr;
+    gap: 0.8em;
+    padding: 0.9em 0;
+    border-top: 1px solid var(--kni-green-line);
+}
+.kni .etape::before {
+    counter-increment: etape;
+    content: counter(etape, decimal-leading-zero);
+    font: 500 1.5em var(--f-mono);
+    color: var(--kni-gold);
+}
+.kni .etape p { margin: 0.2em 0; color: var(--kni-dim) !important; }
+#page-content .kni .etape a { color: var(--kni-gold); font-weight: 600; }
+#page-content .kni .etape a:hover { color: var(--kni-moss); }
+
+/* ==========================================================================
+   8. Onglets Wikidot
+   Icônes par onglet : ajouter la classe tabs-org ou tabs-reg au conteneur.
+   ========================================================================== */
+
+#page-content .kni .yui-navset {
+    background: none !important;
+    border: none !important;
+    margin: 1em 0 0 !important;
+}
+#page-content .kni .yui-navset .yui-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3em;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+    border: none !important;
+    border-bottom: 2px solid var(--kni-gold) !important;
+    background: none !important;
+}
+#page-content .kni .yui-navset .yui-nav li {
+    float: none !important;
+    margin: 0 !important;
+    border: none !important;
+    background: none !important;
+}
+#page-content .kni .yui-navset .yui-nav li a {
+    display: block;
+    padding: 0.5em 0.95em !important;
+    background: var(--kni-green) !important;
+    color: var(--kni-moss) !important;
+    border: 1px solid var(--kni-green-line) !important;
+    border-bottom: none !important;
+    font: 500 0.82em var(--f-mono) !important;
+    text-decoration: none !important;
+}
+#page-content .kni .yui-navset .yui-nav li a:hover { color: var(--kni-gold) !important; }
+#page-content .kni .yui-navset .yui-nav li a em { font-style: normal !important; }
+#page-content .kni .yui-navset .yui-nav li.selected a,
+#page-content .kni .yui-navset .yui-nav li.selected a:hover {
+    background: var(--kni-gold) !important;
+    border-color: var(--kni-gold) !important;
+    color: #06110c !important;
+}
+#page-content .kni .yui-navset .yui-content {
+    background: rgba(8,20,14,0.85) !important;
+    border: 1px solid var(--kni-green-line) !important;
+    border-top: none !important;
+    padding: 0.4em 1.2em 0.8em !important;
+}
+.kni .yui-nav li a em::before {
+    font-family: 'lucide';
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 0.5em;
+}
+.kni .tabs-org .yui-nav li:nth-child(1) a em::before { content: "\e1d6"; }
+.kni .tabs-org .yui-nav li:nth-child(2) a em::before { content: "\e2b4"; }
+.kni .tabs-org .yui-nav li:nth-child(3) a em::before { content: "\e0d5"; }
+.kni .tabs-org .yui-nav li:nth-child(4) a em::before { content: "\e1ff"; }
+.kni .tabs-org .yui-nav li:nth-child(5) a em::before { content: "\e23a"; }
+.kni .tabs-org .yui-nav li:nth-child(6) a em::before { content: "\e1a4"; }
+.kni .tabs-reg .yui-nav li:nth-child(1) a em::before { content: "\e100"; }
+.kni .tabs-reg .yui-nav li:nth-child(2) a em::before { content: "\e529"; }
+
+/* ==========================================================================
+   9. Tableaux : fiches (.fiche) et registres
+   ========================================================================== */
+
+#page-content .kni table.wiki-content-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none !important;
+    margin: 0.6em 0;
+}
+#page-content .kni table.wiki-content-table th {
+    background: transparent !important;
+    color: var(--kni-gold) !important;
+    font: 500 0.75em var(--f-mono) !important;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-align: left;
+    padding: 0.6em;
+    border: none !important;
+    border-bottom: 2px solid var(--kni-gold-dim) !important;
+}
+#page-content .kni table.wiki-content-table td {
+    background: transparent !important;
+    padding: 0.75em 0.8em;
+    vertical-align: top;
+    border: none !important;
+    border-bottom: 1px solid var(--kni-green-line) !important;
+    transition: background-color 0.2s;
+}
+#page-content .kni table.wiki-content-table tr:nth-child(even) td {
+    background: rgba(20,57,42,0.35) !important;
+}
+#page-content .kni table.wiki-content-table tr:hover td {
+    background: rgba(143,211,168,0.12) !important;
+}
+#page-content .kni .fiche table.wiki-content-table tr:last-child td { border-bottom: none !important; }
+#page-content .kni .fiche table.wiki-content-table td:first-child {
+    width: 11em;
+    font: 600 0.75em var(--f-mono) !important;
+    color: var(--kni-gold) !important;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding-top: 1.1em;
+    border-right: 2px solid var(--kni-gold-dim) !important;
+}
+.kni .code {
+    font: 500 0.85em var(--f-mono);
+    color: var(--kni-gold);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+/* États dans un registre */
+.kni .s-ok { color: var(--kni-moss); font-weight: 600; }
+.kni .s-warn { color: var(--kni-gold); font-weight: 600; }
+.kni .s-red { color: var(--kni-copper); font-weight: 600; }
+
+/* ==========================================================================
+   10. Notes, alertes et passages masqués
+   ========================================================================== */
+
+/* Note : filet cuivre, texte en italique */
+.kni .note {
+    border-left: 3px solid var(--kni-copper);
+    padding: 0.4em 1.2em;
+    margin: 1.2em 0 0;
+    background: rgba(231,111,81,0.07);
+}
+.kni .note p { margin: 0; font-style: italic; }
+.kni .note p + p { margin-top: 0.6em; }
+
+/* Alerte : encadré cuivre avec cadenas, pour les mises en garde */
+.kni .alerte {
+    border: 1px solid var(--kni-copper);
+    border-left: 4px solid var(--kni-copper);
+    background: rgba(231,111,81,0.09);
+    padding: 0.9em 1.4em 0.6em;
+    margin: 0 0 1.8em;
+}
+.kni .alerte-titre {
+    font: 600 0.8em var(--f-mono);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--kni-copper);
+    margin: 0 0 0.6em;
+}
+.kni .alerte-titre::before {
+    content: "\e10b";
+    font-family: 'lucide';
+    margin-right: 0.6em;
+}
+.kni .alerte p { margin: 0 0 0.7em; }
+
+/* Mention « NO DATA REGISTER » et équivalents */
+.kni .nodata {
+    font: 500 0.78em var(--f-mono);
+    color: var(--kni-copper);
+    border: 1px solid var(--kni-copper);
+    padding: 0 0.45em;
+    white-space: nowrap;
+    letter-spacing: 0.05em;
+}
+
+/* Passages caviardés */
+.kni .redact {
+    position: relative;
+    background: #000;
+    color: #0a0f0d !important;
+    padding: 0 0.15em;
+    cursor: not-allowed;
+    user-select: none;
+}
+.kni .redact:hover::after {
+    content: "ACCRÉDITATION REQUISE";
+    position: absolute;
+    left: 0;
+    top: -1.7em;
+    background: var(--kni-copper);
+    color: #050a08;
+    font: 600 0.65em var(--f-mono);
+    padding: 0.2em 0.6em;
+    white-space: nowrap;
+    z-index: 5;
+}
+
+/* Rivaux : une couleur par carte */
+.kni .rival {
+    margin: 1em 0;
+    padding: 0.8em 1.2em;
+    background: rgba(8,20,14,0.7);
+    border-left: 4px solid var(--kni-green-line);
+}
+.kni .r-fond { border-left-color: var(--kni-teal); }
+.kni .r-coal { border-left-color: var(--kni-copper); }
+.kni .r-ins { border-left-color: var(--kni-gold); }
+#page-content .kni .r-fond h3 { color: var(--kni-teal) !important; }
+#page-content .kni .r-coal h3 { color: var(--kni-copper) !important; }
+#page-content .kni .r-ins h3 { color: var(--kni-gold) !important; }
+.kni .rival .nick {
+    font: 500 0.7em var(--f-mono);
+    color: var(--kni-dim);
+    margin-left: 0.7em;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+.kni .rival p { margin: 0.3em 0; font-style: italic; }
+
+/* ==========================================================================
+   11. Icônes Lucide
+   Usage : [[span class="ico ico-pin"]]Titre[[/span]]
+   ========================================================================== */
+
+.kni .ico::before {
+    font-family: 'lucide';
+    font-weight: normal;
+    font-style: normal;
+    margin-right: 0.5em;
+    font-size: 0.9em;
+    vertical-align: -0.06em;
+    -webkit-font-smoothing: antialiased;
+}
+.kni h2 .ico::before { color: var(--kni-moss); }
+
+/* Accueil */
+.kni .ico-split::before     { content: "\e440"; }
+.kni .ico-book-open::before { content: "\e05f"; }
+.kni .ico-network::before   { content: "\e125"; }
+.kni .ico-handshake::before { content: "\e5c0"; }
+.kni .ico-library::before   { content: "\e100"; }
+.kni .ico-scroll::before    { content: "\e45f"; }
+.kni .ico-sun::before       { content: "\e178"; }
+.kni .ico-biohazard::before { content: "\e441"; }
+.kni .ico-lock::before      { content: "\e10b"; }
+.kni .ico-shield::before    { content: "\e158"; }
+.kni .ico-flame::before     { content: "\e0d2"; }
+.kni .ico-tornado::before   { content: "\e218"; }
+/* Rapports R&T */
+.kni .ico-id::before        { content: "\e617"; }
+.kni .ico-pin::before       { content: "\e111"; }
+.kni .ico-target::before    { content: "\e0ac"; }
+.kni .ico-clock::before     { content: "\e087"; }
+.kni .ico-flask::before     { content: "\e0d5"; }
+/* Rapport ACES */
+.kni .ico-eye::before       { content: "\e0ba"; }
+.kni .ico-history::before   { content: "\e1f5"; }
+.kni .ico-route::before     { content: "\e53e"; }
+
+/* ==========================================================================
+   12. Animations : deux seulement, coupées si l'utilisateur le demande
+   ========================================================================== */
+
+@keyframes veille {
+    0%, 100% { opacity: 0.3; }
+    50% { opacity: 1; }
+}
+@keyframes trace {
+    from { clip-path: inset(0 100% 0 0); }
+    to { clip-path: inset(0 0 0 0); }
+}
+@media (prefers-reduced-motion: no-preference) {
+    .kni .session::before { animation: veille 3.2s ease-in-out infinite; }
+    .kni .fracture { animation: trace 1.4s ease-out both; }
+}
+
+/* ==========================================================================
+   13. Mobile
+   ========================================================================== */
+
+@media (max-width: 768px) {
+    #header { height: auto; min-height: 90px; }
+    #main-content, #page-content { padding: 8px 6px; }
+    #page-content .kni h1 { font-size: var(--echelle-2) !important; }
+    #page-content .kni h2 { font-size: var(--echelle-2) !important; }
+    .kni .bloc { padding: 1em 1em 1.2em; }
+    .kni .split { grid-template-columns: 1fr; }
+    .kni .col-kelipah, .kni .col-b {
+        border-left: none;
+        border-top: 1px dashed var(--kni-green-line);
+    }
+    #page-content .kni .fiche table.wiki-content-table td:first-child { width: 7em; }
+    #page-content .kni .registre table.wiki-content-table th:nth-child(3),
+    #page-content .kni .registre table.wiki-content-table td:nth-child(3) { display: none; }
 }

@@ -1,0 +1,243 @@
+[[include credit:start]]
+**Titre :** Annonce de Commandement, FIM Xi-8 "The Last to Fall"
+**Auteur :** [[*user JemY5]]
+**Date :** 2026
+**Images :** Emblème de la FIM Xi-8 par [[user PSEUDO]]
+[[include credit:end]]
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&family=Arimo:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+:root {
+    --a-ink: #1a1a1a;
+    --a-dim: #5a5a5a;
+    --a-paper: #e8e6e1;
+    --a-line: #a9a69d;
+    --a-black: #000;
+    --a-red: #8a1015;
+}
+#page-content .annonce {
+    background: var(--a-paper);
+    border-left: 26px solid var(--a-black);
+    padding: 1.4em 1.8em 1.6em;
+    margin: 0 0 1.5em;
+    color: var(--a-ink);
+    font-family: 'Arimo', Arial, sans-serif;
+    font-size: 1.02rem;
+    line-height: 1.6;
+}
+#page-content .annonce p { margin: 0 0 1em; }
+#page-content .annonce .a-kicker {
+    display: block;
+    font: 600 0.78rem 'IBM Plex Mono', monospace;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--a-red);
+}
+#page-content .annonce .a-titre {
+    display: block;
+    font: 300 2.3rem/1.15 'Montserrat', 'Segoe UI', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+    color: var(--a-black);
+    margin-top: 0.15em;
+}
+#page-content .annonce .a-sous {
+    display: block;
+    font: 400 1.1rem 'Montserrat', 'Segoe UI', sans-serif;
+    color: var(--a-dim);
+    margin-top: 0.2em;
+}
+#page-content .annonce .a-h {
+    display: block;
+    font: 400 1.2rem 'Montserrat', 'Segoe UI', sans-serif;
+    color: var(--a-black);
+    margin: 1.4em 0 0.5em;
+}
+#page-content .annonce table.wiki-content-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+    margin: 0.8em 0 1.2em;
+    border-top: 1px solid var(--a-line);
+}
+#page-content .annonce table.wiki-content-table td {
+    border: none;
+    border-bottom: 1px solid var(--a-line);
+    padding: 0.5em 0.4em;
+    background: transparent;
+    vertical-align: top;
+}
+#page-content .annonce table.wiki-content-table td:first-child {
+    width: 9em;
+    font: 600 0.76rem 'IBM Plex Mono', monospace;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--a-red);
+}
+#page-content .annonce .a-corps {
+    border-top: 1px solid var(--a-line);
+    padding-top: 1.2em;
+}
+#page-content .annonce .a-corps p { font-size: 1.08rem; }
+#page-content .annonce .a-fin { font: 700 1.1rem 'Montserrat', sans-serif; text-transform: uppercase; letter-spacing: 0.04em; }
+#page-content .annonce .a-signature {
+    border-top: 1px solid var(--a-line);
+    margin-top: 1.4em;
+    padding-top: 1em;
+}
+#page-content .annonce .a-signature p { margin: 0 0 0.2em; }
+#page-content .annonce .a-date {
+    font: 500 0.8rem 'IBM Plex Mono', monospace;
+    color: var(--a-dim);
+    margin-top: 1.2em;
+}
+#page-content .annonce .a-scelle {
+    text-align: center;
+    border-top: 1px solid var(--a-line);
+    border-bottom: 1px solid var(--a-line);
+    padding: 0.9em 1em 0.2em;
+    margin: 1.6em 0;
+    font-size: 0.92rem;
+}
+#page-content .annonce .a-scelle .a-alerte {
+    display: block;
+    font: 700 0.9rem 'Montserrat', sans-serif;
+    margin-bottom: 0.4em;
+}
+#page-content .annonce .a-emblem { text-align: center; margin: 1em 0 0.4em; }
+#page-content .annonce .a-emblem img { width: 190px; }
+#page-content .annonce .yui-navset { margin: 1.2em 0 0; background: none; border: none; }
+#page-content .annonce .yui-navset .yui-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25em;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: none;
+    border: none;
+    border-bottom: 3px solid var(--a-black);
+}
+#page-content .annonce .yui-navset .yui-nav li { float: none; margin: 0; background: none; border: none; }
+#page-content .annonce .yui-navset .yui-nav li a {
+    display: block;
+    padding: 0.5em 1em;
+    background: #d9d6cf;
+    color: var(--a-ink);
+    border: 1px solid var(--a-line);
+    border-bottom: none;
+    font: 500 0.8rem 'IBM Plex Mono', monospace;
+    text-decoration: none;
+}
+#page-content .annonce .yui-navset .yui-nav li a em { font-style: normal; }
+#page-content .annonce .yui-navset .yui-nav li.selected a,
+#page-content .annonce .yui-navset .yui-nav li.selected a:hover {
+    background: var(--a-black);
+    color: #fff;
+    border-color: var(--a-black);
+}
+#page-content .annonce .yui-navset .yui-content {
+    background: #f1efea;
+    border: 1px solid var(--a-line);
+    border-top: none;
+    padding: 1em 1.4em 0.6em;
+}
+@media (max-width: 768px) {
+    #page-content .annonce { border-left-width: 12px; padding: 1.1em 1.1em 1.3em; }
+    #page-content .annonce .a-titre { font-size: 1.7rem; }
+}
+[[/module]]
+[[div class="annonce"]]
+
+[[span class="a-kicker"]]FIM Xi-8 · "The Last to Fall"[[/span]]
+[[span class="a-titre"]]Communiqué tristement officiel[[/span]]
+[[span class="a-sous"]]Annonce de Commandement[[/span]]
+
+|| Diffusion || Tous personnels Xi-8 ||
+|| Classification || Interne ||
+|| Date || 04/02/2026, 20:39 ||
+
+[[tabview]]
+[[tab Communiqué]]
+[[div class="a-corps"]]
+Membres de la Xi-8,
+
+La Maréchale Raaina Tariq-Sattar est décédée des suites d'un incident survenu après la conférence inter-FIM.
+
+Elle a servi la Fondation avec loyauté, détermination et constance.
+Son nom restera inscrit dans l'histoire de cette unité.
+
+À compter de cet instant, j'assume le commandement de la Force d'Intervention Militaire Xi-8.
+
+Les opérations se poursuivent.
+
+Les déploiements ne sont pas suspendus.
+Les protocoles restent inchangés.
+Les objectifs demeurent.
+
+La Xi-8 n'est pas un symbole.
+La Xi-8 est une fonction.
+
+Nous existons pour affronter ce que les autres ne peuvent pas.
+Nous existons pour rester debout lorsque tout s'effondre.
+
+Il n'y aura pas de période de transition.
+Il n'y aura pas de discours supplémentaires.
+
+Chaque agent connaît son rôle.
+Chaque escouade connaît sa mission.
+
+[[span class="a-fin"]]Continuez d'avancer.[[/span]]
+[[/div]]
+
+[[div class="a-signature"]]
+**Colonel Hans Korven**
+
+Commandant de la FIM Xi-8
+
+//"The Last to Fall"//
+[[/div]]
+
+[[div class="a-date"]]
+04/02/2026 → 20:39 · Voir fichier : Rapport d'Incident n°7854-B (onglet suivant)
+[[/div]]
+[[/tab]]
+[[tab Rapport d'Incident n°7854-B]]
+[[span class="a-titre"]]Rapport d'incident[[/span]]
+[[span class="a-sous"]]Maréchale Mme. Raaina Mahya Tariq-Sattar[[/span]]
+
+[[span class="a-h"]]Statut public :[[/span]]
+
+**Cause du décès de la Maréchale Raaina Tariq-Sattar :** décès accidentel suite à un incident de sécurité survenu à l'issue d'une **conférence militaire inter-FIM**, consacrée aux doctrines de déploiement des Forces d'Intervention Mobiles.
+
+Rapport officiel : défaillance logistique, incident de transport interne.
+
+[[span class="a-h"]]Nouveau Commandant de la FIM Xi-8 :[[/span]]
+
+|| Nom || Colonel Hans Korven ||
+|| Indicatif || "Cold Marshal" ||
+|| Fonction || Commandant opérationnel de la FIM Xi-8 ||
+|| Grade || Colonel ||
+
+Sa nomination rapide vise à éviter toute instabilité interne.
+
+[[span class="a-h"]]Historique résumé :[[/span]]
+
+Ancien commandant tactique dans des unités FIM à forte létalité.
+Spécialisé dans les opérations de neutralisation prolongées et la gestion de crises à seuil irréversible.
+
+Aucun blâme officiel.
+
+[[div class="a-scelle"]]
+[[span class="a-alerte"]][ DOCUMENT SCELLÉ — HAUTEMENT CLASSIFIÉ. ][[/span]]
+Toute consultation ou soustraction non autorisée est interdite et fera l'objet de poursuites disciplinaires et pénales.
+[[/div]]
+
+[[div class="a-emblem"]]
+[[image Xi8.png]]
+[[/div]]
+
+Création, 04/02/2026.
+[[/tab]]
+[[/tabview]]
+
+[[/div]]
