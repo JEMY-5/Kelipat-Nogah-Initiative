@@ -1,0 +1,58 @@
+# Chronologie du lore Kelipat Nogah Initiative
+
+Les dates viennent des pages du dépôt. Une entrée marquée « à confirmer » est une hypothèse de travail. Le dossier ACES-0001 est exclu pour l'instant.
+
+## Règles de continuité
+
+- **Le Voile tient.** La rupture de 2020 est évitée de justesse grâce à la KNI (dossier Cellule Δ). Le canon Memoria, où le Voile est levé après le 23/02/2020, n'est pas la continuité de ce dépôt. Les pages de 2023 (ETTRA, amnésiques, Voile déployé au-dessus de Cregg) la confirment.
+- **La Xi-8 est une FIM militaire.** Ses opérateurs portent l'écusson de la Fondation et comptent comme son personnel, mais leurs ordres viennent de la KNI.
+- **Un agent corrompu par la chair ne compte plus comme personnel de la Fondation.** La Xi-8 peut donc employer la force contre lui.
+- **Sarkicisme** dans les pages rédigées par la Fondation et dans la bouche des historiens. **Sarkisme** reste possible chez les militaires.
+- **Noms** : le Sergent Brandt (ex-Korvac), le Brigadier Ferrand (ex-Voss), le Colonel Hans Korven, Alex Vencord.
+
+## Avant la rupture
+
+| Date | Événement | Source | Statut |
+|---|---|---|---|
+| Âge du Bronze | La Guerre de la Chair fait près de 30 millions de morts et provoque l'effondrement de l'Âge du Bronze. Ion et les Klavigars en sont les figures. | Kelipat Nogah, Memoria | Fixé |
+| 16/09/2019 | SCP-4273-5 : une attaque biologique au bâtiment de l'ONU à New York neutralise le Secrétaire général et tous les envoyés spéciaux du Conseil de sécurité. | Fourni par l'auteur | Fixé |
+| 09/11/2019 | La Dre Low présente la proposition de l'Initiative Kelipat Nogah au Haut Commandement. | Kelipat Nogah | Fixé |
+| 11/11/2019 | Vote à égalité, 6 pour et 6 contre, O5-13 s'abstient. L'Administrateur tranche pour. Programme allégé, O5-12 Superviseur, installation à la Zone-02, Xi-8 comme bras armé. | Kelipat Nogah | Fixé |
+| Après 11/2019 | Directive 44-A : effectifs réduits, essais gelés. Low envoie son mémo de contestation. | La fracture de l'Écorce | Date à confirmer |
+| Même période | Opération de la Xi-8 : l'ordre de figer la zone coûte le bras gauche du Sergent Brandt. | La fracture de l'Écorce | Date à confirmer |
+| Même période | Directive 44-Ω : démantèlement du Réacteur, échantillons vers le Site-95. O5-12 vote contre. | La fracture de l'Écorce | Date à confirmer |
+| Nuit suivante | Golzar sépare la Kelipah de la Nogah au Niveau -4. Faux rapport de fusion du Réacteur, contresigné par Tariq-Sattar. | La fracture de l'Écorce | Date à confirmer |
+| Le lendemain | Les quatre commandants de compagnie apprennent la vérité et suivent. | La fracture de l'Écorce | Date à confirmer |
+| +3 mois | Opération de Pripyat : le dernier bloc d'autel est détourné, le signal GPS est dupliqué vers le Site-95. | La fracture de l'Écorce | Date à confirmer |
+| +2 semaines | Base sous-marine de la Baltique : le Réacteur, sorti en caisses « rebuts », redémarre. Naissance de la KNI. | La fracture de l'Écorce | Date à confirmer |
+| 2020 | Arthur Snow déserte avec 17 agents de la Xi-8 et des objets de Classe Thaumiel. La même année, la KNI évite de justesse une rupture du Voile (Memoria situe la rupture au 23/02/2020). | Cellule Δ | Ordre exact à confirmer |
+
+## L'accord Aube Dorée
+
+| Date | Événement | Source | Statut |
+|---|---|---|---|
+| 2021 | Les Mégathérions remontent des anciens sites sacrificiels, de la Pologne à l'Oural. Le compteur passe de 36 à 41 foyers Keter. La Nu-7 est détruite dans l'Oural (112 morts). Scénario de classe SK à quatorze mois. | L'Aube de la Nouvelle Écorce | Année à confirmer |
+| Même journée | O5-08 ordonne de lever les scellés de la Xi-8. L'A.S.I.A constate que le dossier est vide. Des frappes dorées détruisent trois foyers. | L'Aube de la Nouvelle Écorce | Année à confirmer |
+| Même journée | Le Conseil vote la négociation par 8 voix contre 5. L'Émissaire de l'Aube pose ses conditions. Les fonds partent en cinquante minutes. Le compteur tombe à 31 foyers. | L'Aube de la Nouvelle Écorce | Année à confirmer |
+| Après l'accord | Avenant 3 : construction du Complexe 886. SCP-886-FR est confiné sous un foyer détruit en surface. | SCP-886-FR, hub GdI-884 | À dater |
+| Après l'accord | Inauguration du complexe avec le Directeur Thorne et la Maréchale. Elle doit précéder le 04/02/2026. | SCP-886-FR | Date de la page à corriger |
+| Après l'accord | R&T-012 (Tishmed-1, 72 heures) et R&T-044 (trois escouades, 42 minutes, 14 000 Unités-Nogah). | Rapports R&T | À dater |
+| Après l'accord | Incident 886-FR-1 : un module modifié sans l'aval du Magister, pression à 0,9 %. | SCP-886-FR | À dater |
+| 02/05/2023 | Incident 32-2023 à l'Université Cregg. L'Unité 19 de la Xi-8, stationnée au port de Boston, intervient avec l'ETTRA. | Inévitable | Fixé (format US 5/2/23) |
+
+## 2025 et 2026
+
+| Date | Événement | Source | Statut |
+|---|---|---|---|
+| 2025 | Alex Vencord succède à Arthur Snow à la tête de la Cellule Δ après son exposition à SCP-███-Ω. | Cellule Δ | Fixé |
+| 04/02/2026, 20:39 | La Maréchale Tariq-Sattar meurt. Statut public : accident de transport après la conférence inter-FIM. Réalité : assassinée par la FIM Alpha-1. Le Colonel Hans Korven prend le commandement de la Xi-8. | Annonce du Colonel | Fixé |
+| 09/02/2026, 20:46 | Korven dissout la Cellule Δ et la reclasse Unité Panther sous commandement direct de la Xi-8. | Annonce Xi-8 | Fixé |
+| 30/10/2026, 17:37 à 20:05 | État d'urgence du système ATO. Incursions dans les trois Obélisques. L'Utilisateur 002 active trois protocoles, puis la session se coupe. L'Archonte et le Colonel disparaissent, le Colonel est retrouvé mort dans son bureau. La Cellule Δ est impliquée dans la disparition du Colonel, sans être seule. | Journal système ATO. | Fixé |
+
+## Points ouverts
+
+- **Année de l'accord.** La table suppose 2021. Si elle est juste, l'Unité 19 à Boston en 2023 est un détachement de la Xi-8 financé par la Fondation. Sinon, un déploiement préventif au port de Boston s'explique par l'activité sarkique élevée liée à SCP-4273 et à l'attaque de New York de 2019.
+- **Chaîne de commandement de l'Unité 19.** Elle reçoit ses ordres de l'ETTRA, alors que le hub dit que la Xi-8 ne répond pas à la chaîne de la Fondation. Un avenant autorisant l'ETTRA à demander des détachements pour une menace biologique sarkique suffirait.
+- **Date de la rupture.** Le conte situe la rupture un an avant l'accord. Avec un accord en 2021, elle tombe en 2020.
+- **Dates à poser** : inauguration du Complexe 886, R&T-012, R&T-044, incident 886-FR-1.
+- **ACES-0001** : exclu de cette chronologie, emplacement à décider.
