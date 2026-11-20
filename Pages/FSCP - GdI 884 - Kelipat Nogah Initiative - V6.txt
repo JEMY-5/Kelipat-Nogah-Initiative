@@ -167,6 +167,7 @@ En l'absence d'activité sarkique confirmée, la Xi-8 peut patrouiller sur les s
 * Toute opération de la KNI à proximité d'un site de la Fondation ou d'une anomalie confinée doit être notifiée au préalable. Sans notification, la Fondation suspend son soutien de nettoyage.
 * La KNI s'interdit de recruter dans les effectifs actifs de la Fondation.
 * La KNI ne revendique aucune anomalie déjà confinée dans un site de la Fondation sans autorisation écrite.
+* La Fondation désigne les cibles et transmet ses demandes de mission à la Xi-8. La KNI approuve les opérations préméditées. En cas d’urgence, le commandement de la Xi-8 peut engager l’unité seul.
 * Elle signale sous vingt-quatre heures toute fuite dans les entrepôts de Kelipah du Complexe 886 et en tient l'inventaire à la disposition de la Fondation.
 * Elle ne suspend le drainage du Complexe 886 qu'après préavis, et seulement en cas de violation caractérisée de l'accord.
 * Toute exposition du secret imputable à la KNI, ou toute violation constatée de l'accord, peut entraîner la suspension du financement sur décision du Haut-Commandement.
